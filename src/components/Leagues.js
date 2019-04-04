@@ -312,28 +312,28 @@ class Leagues extends Component {
   };
 
   componentDidMount() {
-    // this.setState({ loading: true });
-    // axios
-    //   .get('https://api.the-odds-api.com/v3/sports', {
-    //     params: {
-    //       api_key: keys.oddsKey
-    //     }
-    //   })
-    //   .then(res => {
-    //     console.log(`Successfully got ${res.data.data.length} sports.`);
-    //     console.log(res.data.data);
-    //     this.setState({
-    //       leagues: res.data.data,
-    //       filtered: res.data.data,
-    //       loading: false
-    //     });
-    //   })
-    //   .catch(error => {
-    //     console.log('Error status', error.response.status);
-    //     console.log(error.response.data);
-    //   });
-    // console.log(this.state.filtered);
-    // console.log(this.state.leagues);
+    this.setState({ loading: true });
+    axios
+      .get('https://api.the-odds-api.com/v3/sports', {
+        params: {
+          api_key: keys.oddsKey
+        }
+      })
+      .then(res => {
+        console.log(`Successfully got ${res.data.data.length} sports.`);
+        console.log(res.data.data);
+        this.setState({
+          leagues: res.data.data,
+          filtered: res.data.data,
+          loading: false
+        });
+      })
+      .catch(error => {
+        console.log('Error status', error.response.status);
+        console.log(error.response.data);
+      });
+    console.log(this.state.filtered);
+    console.log(this.state.leagues);
     this.setState({ filtered: this.state.leagues });
   }
 
@@ -346,35 +346,35 @@ class Leagues extends Component {
   };
 
   getGamesFromSport = league => {
-    // let sport_key = league;
-    // axios
-    //   .get('https://api.the-odds-api.com/v3/odds', {
-    //     params: {
-    //       api_key: keys.oddsKey,
-    //       sport: sport_key,
-    //       region: 'uk', // uk | us | au
-    //       mkt: 'h2h' // h2h | spreads | totals
-    //     }
-    //   })
-    //   .then(res => {
-    //     // odds_json['data'] contains a list of live and
-    //     //   upcoming events and odds for different bookmakers.
-    //     // Events are ordered by start time (live events are first)
-    //     this.setState({ sportRes: res.data.data });
-    //     console.log(
-    //       `Successfully got ${res.data.data.length} events`,
-    //       `Here's the first event:`
-    //     );
-    //     console.log(JSON.stringify(res.data.data[0]));
-    //     // Check your usage
-    //     console.log();
-    //     console.log('Remaining requests', res.headers['x-requests-remaining']);
-    //     console.log('Used requests', res.headers['x-requests-used']);
-    //   })
-    //   .catch(error => {
-    //     console.log('Error status', error.res.status);
-    //     console.log(error.res.data);
-    //   });
+    let sport_key = league;
+    axios
+      .get('https://api.the-odds-api.com/v3/odds', {
+        params: {
+          api_key: keys.oddsKey,
+          sport: sport_key,
+          region: 'uk', // uk | us | au
+          mkt: 'h2h' // h2h | spreads | totals
+        }
+      })
+      .then(res => {
+        // odds_json['data'] contains a list of live and
+        //   upcoming events and odds for different bookmakers.
+        // Events are ordered by start time (live events are first)
+        this.setState({ sportRes: res.data.data });
+        console.log(
+          `Successfully got ${res.data.data.length} events`,
+          `Here's the first event:`
+        );
+        console.log(JSON.stringify(res.data.data[0]));
+        // Check your usage
+        console.log();
+        console.log('Remaining requests', res.headers['x-requests-remaining']);
+        console.log('Used requests', res.headers['x-requests-used']);
+      })
+      .catch(error => {
+        console.log('Error status', error.res.status);
+        console.log(error.res.data);
+      });
   };
   onClick = e => {
     const elems = document.querySelector('.active');
