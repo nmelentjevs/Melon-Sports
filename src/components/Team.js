@@ -86,6 +86,7 @@ class Team extends Component {
     const headers = {
       'X-Auth-Token': keys.footballAPI
     };
+
     const leagueIDs = {
       premier_league: 2021,
       ligue1: 2015,
@@ -106,6 +107,7 @@ class Team extends Component {
       : league === 'soccer_germany_bundesliga'
       ? (id = leagueIDs.bundesliga)
       : (id = null);
+
     this.setState({ loading: true });
     axios
       .get(`http://api.football-data.org/v2/competitions/${id}/standings`, {
@@ -289,6 +291,7 @@ class Team extends Component {
           }}
           className="container lg-12"
         >
+          <span style={{ fontSize: '20px' }}>Melon Sports</span>
           <div className="md-12">
             <Link style={{ color: 'white' }} to={`/`}>
               <Button
@@ -316,7 +319,7 @@ class Team extends Component {
               {team.name} <img width="50px" src={team.crestUrl} alt="" />
             </h1>
           </div>
-          <br />
+          <hr />
           <h3 className="display-5">Games Played: {playedGames}</h3>
           <div className="row" style={{ marginTop: '20px' }}>
             <div className="col-sm-4">
@@ -404,8 +407,10 @@ class Team extends Component {
               </RadarChart>
             </div>
           </div>
+
           <div className="standings" style={{ marginTop: '-200px' }}>
-            <h3 className="display-5">
+            <hr />
+            <h3 className="display-5" style={{ marginTop: '50px' }}>
               Position: {position}/{table.length} with {points} points
             </h3>
             <Table striped bordered hover>
