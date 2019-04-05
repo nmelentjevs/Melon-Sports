@@ -15,7 +15,8 @@ class Leagues extends Component {
     sportRes: [],
     filtered: [],
     showGames: false,
-    loading: false
+    loading: false,
+    gamesLoading: false
   };
 
   componentDidMount() {
@@ -54,6 +55,7 @@ class Leagues extends Component {
 
   getGamesFromSport = league => {
     let sport_key = league;
+    this.setState({ gamesLoading: true });
     axios
       .get('https://api.the-odds-api.com/v3/odds', {
         params: {
@@ -68,6 +70,7 @@ class Leagues extends Component {
         //   upcoming events and odds for different bookmakers.
         // Events are ordered by start time (live events are first)
         this.setState({ sportRes: res.data.data });
+        this.setState({ gamesLoading: false });
         console.log(
           `Successfully got ${res.data.data.length} events`,
           `Here's the first event:`
@@ -179,7 +182,15 @@ class Leagues extends Component {
                       show &&
                       (props => (
                         <animated.div style={props}>
-                          <MatchesList sportRes={this.state.sportRes} />
+                          {this.state.gamesLoading ? (
+                            <div>
+                              <Spinner animation="grow" />{' '}
+                              <Spinner animation="grow" />{' '}
+                              <Spinner animation="grow" />
+                            </div>
+                          ) : (
+                            <MatchesList sportRes={this.state.sportRes} />
+                          )}
                         </animated.div>
                       ))
                     }
