@@ -22,4 +22,3 @@ yarn-error.log*
 
 /build 
 
-/src/config/keys_dev.js
