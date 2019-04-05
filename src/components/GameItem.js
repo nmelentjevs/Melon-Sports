@@ -15,12 +15,10 @@ export class GameItem extends Component {
   render() {
     const { teams, info } = this.props;
     return (
-      <div className="match-card">
+      <div className="match-card" onClick={this.toggle}>
         <h5
-          onClick={this.toggle}
           style={{
             display: 'inline-block',
-            textDecoration: 'underline',
             cursor: 'pointer'
           }}
         >
