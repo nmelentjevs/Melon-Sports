@@ -7,12 +7,10 @@ import Team from './components/Team';
 
 // Bootstrap items
 
-import Container from 'react-bootstrap/Container';
 import ComponentMain from './components/ComponentMain';
 
 // Components
 
-import Leagues from './components/Leagues';
 import Compare from './components/Compare';
 
 class App extends Component {
