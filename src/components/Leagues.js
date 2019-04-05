@@ -115,6 +115,7 @@ class Leagues extends Component {
       ? (document.getElementById('changetext').innerHTML = 'match')
       : (document.getElementById('changetext').innerHTML = 'league');
     this.setState({ filtered: this.state.leagues });
+    window.scrollTo(0, 0);
   };
 
   animateLeagueList = params => {};
