@@ -291,7 +291,15 @@ class Team extends Component {
           }}
           className="container lg-12"
         >
-          <span style={{ fontSize: '20px' }}>Melon Sports</span>
+          <span style={{ fontSize: '18px', textTransform: 'uppercase' }}>
+            <img
+              src={require('../img/hami_melon_39773.png')}
+              width="25px"
+              alt="melon"
+              style={{ paddingBottom: '10px' }}
+            />{' '}
+            Melon Sports
+          </span>
           <div className="md-12">
             <Link style={{ color: 'white' }} to={`/`}>
               <Button

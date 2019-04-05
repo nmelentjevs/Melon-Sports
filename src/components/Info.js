@@ -14,8 +14,31 @@ class Info extends Component {
     return (
       <Card>
         <Card.Body>
-          <Card.Title>Best Odds</Card.Title>
           <div className="card-main">
+            <Card.Title style={{ marginBottom: '10px' }}>
+              {' '}
+              Check Stats{' '}
+            </Card.Title>
+            <Link
+              style={{ color: 'white' }}
+              to={`/team/${info.sport_key}/${info.teams[0]}`}
+            >
+              <Button variant="primary" style={{ marginRight: '10px' }}>
+                Home Team{' '}
+              </Button>
+            </Link>
+            <Link style={{ color: 'white' }} to="/compare/">
+              <Button variant="primary" style={{ marginRight: '10px' }}>
+                Compare
+              </Button>
+            </Link>{' '}
+            <Link
+              style={{ color: 'white' }}
+              to={`/team/${info.sport_key}/${info.teams[1]}`}
+            >
+              <Button variant="primary">Away Team </Button>
+            </Link>
+            <Card.Title style={{ margin: '10px 0' }}>Best Odds</Card.Title>
             <Table striped bordered hover>
               <thead>
                 <tr>
@@ -47,25 +70,6 @@ class Info extends Component {
               </tbody>
             </Table>
           </div>
-          <Link
-            style={{ color: 'white' }}
-            to={`/team/${info.sport_key}/${info.teams[0]}`}
-          >
-            <Button variant="primary" style={{ marginRight: '10px' }}>
-              Home Team{' '}
-            </Button>
-          </Link>
-          <Link style={{ color: 'white' }} to="/compare/">
-            <Button variant="primary" style={{ marginRight: '10px' }}>
-              Compare
-            </Button>
-          </Link>{' '}
-          <Link
-            style={{ color: 'white' }}
-            to={`/team/${info.sport_key}/${info.teams[1]}`}
-          >
-            <Button variant="primary">Away Team </Button>
-          </Link>
         </Card.Body>
       </Card>
     );

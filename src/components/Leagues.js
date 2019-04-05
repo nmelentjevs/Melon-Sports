@@ -87,6 +87,7 @@ class Leagues extends Component {
       });
   };
   onClick = e => {
+    e.preventDefault();
     const elems = document.querySelector('.active');
     const prevState = this.state.active;
     if (elems !== null) {
@@ -97,26 +98,32 @@ class Leagues extends Component {
     if (e.target.tagName === 'LI' || e.target.tagName === 'h5') {
       e.target.classList.add('active');
       const sport_key = e.target.getAttribute('param');
-      this.setState({ active: sport_key });
+
       prevState === sport_key
-        ? this.setState({ showGames: !this.state.showGames })
+        ? this.setState({ showGames: false })
         : this.setState({ showGames: true });
       this.getGamesFromSport(sport_key);
+      this.setState({ active: sport_key });
     } else {
       e.target.parentElement.classList.add('active');
       const sport_key = e.target.parentElement.getAttribute('param');
-      this.setState({ active: sport_key });
+
       prevState === sport_key
-        ? this.setState({ showGames: !this.state.showGames })
+        ? this.setState({ showGames: false })
         : this.setState({ showGames: true });
       this.getGamesFromSport(sport_key);
+      this.setState({ active: sport_key });
     }
-    this.state.showGames
-      ? (document.getElementById('changetext').innerHTML = 'match')
-      : (document.getElementById('changetext').innerHTML = 'league');
+
     this.setState({ filtered: this.state.leagues });
     window.scrollTo(0, 0);
   };
+
+  componentDidUpdate() {
+    this.state.showGames
+      ? (document.getElementById('changetext').innerHTML = 'match')
+      : (document.getElementById('changetext').innerHTML = 'league');
+  }
 
   animateLeagueList = params => {};
 
@@ -136,7 +143,7 @@ class Leagues extends Component {
     if (this.state.loading) {
       let content = (
         <div>
-          <Spinner animation="grow" /> <Spinner animation="grow" />{' '}
+          <Spinner animation="grow" /> <Spinner animation="grow" />
           <Spinner animation="grow" />
         </div>
       );
