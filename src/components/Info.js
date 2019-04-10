@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 
 class Info extends Component {
   render() {
-    const { info } = this.props;
+    const { home, info } = this.props;
 
     // const infoArray = JSON.stringify(info[0].sites.map(site => site.odds.h2h));
 
@@ -50,20 +50,19 @@ class Info extends Component {
               </thead>
               <tbody>
                 {info.sites.map(site => {
-                  return (
+                  return info.teams[0] === home ? (
                     <tr key={site.site_key}>
                       <td>{site.site_nice}</td>
                       <td>{site.odds.h2h[0]}</td>
-                      <td>
-                        {site.odds.h2h.length === 2
-                          ? site.odds.h2h[2]
-                          : site.odds.h2h[1]}
-                      </td>
-                      <td>
-                        {site.odds.h2h.length === 2
-                          ? site.odds.h2h[1]
-                          : site.odds.h2h[2]}
-                      </td>
+                      <td>{site.odds.h2h[2]}</td>
+                      <td>{site.odds.h2h[1]}</td>
+                    </tr>
+                  ) : (
+                    <tr key={site.site_key}>
+                      <td>{site.site_nice}</td>
+                      <td>{site.odds.h2h[1]}</td>
+                      <td>{site.odds.h2h[2]}</td>
+                      <td>{site.odds.h2h[0]}</td>
                     </tr>
                   );
                 })}

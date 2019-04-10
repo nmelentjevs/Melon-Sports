@@ -36,7 +36,6 @@ class Compare extends Component {
       ? (id = leagueIDs.bundesliga)
       : (id = null);
 
-    console.log(name1, name2, league);
     this.setState({ loading: true });
     axios
       .get(`http://api.football-data.org/v2/competitions/${id}/standings`, {

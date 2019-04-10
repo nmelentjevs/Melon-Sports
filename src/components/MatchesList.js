@@ -20,6 +20,7 @@ class MatchesList extends Component {
               >
                 <GameItem
                   style={{ display: 'inline-block' }}
+                  home={sport.home_team}
                   teams={sport.teams}
                   info={sport}
                 />

@@ -28,8 +28,6 @@ class Leagues extends Component {
         }
       })
       .then(res => {
-        console.log(`Successfully got ${res.data.data.length} sports.`);
-        console.log(res.data.data);
         this.setState({
           leagues: res.data.data,
           filtered: res.data.data,
@@ -40,8 +38,6 @@ class Leagues extends Component {
         console.log('Error status', error.response.status);
         console.log(error.response.data);
       });
-    console.log(this.state.filtered);
-    console.log(this.state.leagues);
     this.setState({ filtered: this.state.leagues });
   }
 
@@ -66,20 +62,9 @@ class Leagues extends Component {
         }
       })
       .then(res => {
-        // odds_json['data'] contains a list of live and
-        //   upcoming events and odds for different bookmakers.
-        // Events are ordered by start time (live events are first)
+        console.log(res.data);
         this.setState({ sportRes: res.data.data });
         this.setState({ gamesLoading: false });
-        console.log(
-          `Successfully got ${res.data.data.length} events`,
-          `Here's the first event:`
-        );
-        console.log(JSON.stringify(res.data.data[0]));
-        // Check your usage
-        console.log();
-        console.log('Remaining requests', res.headers['x-requests-remaining']);
-        console.log('Used requests', res.headers['x-requests-used']);
       })
       .catch(error => {
         console.log('Error status', error.res.status);
@@ -100,7 +85,7 @@ class Leagues extends Component {
       const sport_key = e.target.getAttribute('param');
 
       prevState === sport_key
-        ? this.setState({ showGames: false })
+        ? this.setState({ showGames: !this.state.showGames })
         : this.setState({ showGames: true });
       this.getGamesFromSport(sport_key);
       this.setState({ active: sport_key });
@@ -109,7 +94,7 @@ class Leagues extends Component {
       const sport_key = e.target.parentElement.getAttribute('param');
 
       prevState === sport_key
-        ? this.setState({ showGames: false })
+        ? this.setState({ showGames: !this.state.showGames })
         : this.setState({ showGames: true });
       this.getGamesFromSport(sport_key);
       this.setState({ active: sport_key });

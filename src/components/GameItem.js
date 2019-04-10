@@ -13,7 +13,7 @@ export class GameItem extends Component {
   };
 
   render() {
-    const { teams, info } = this.props;
+    const { home, teams, info } = this.props;
     return (
       <div className="match-card" onClick={this.toggle}>
         <h5
@@ -22,7 +22,7 @@ export class GameItem extends Component {
             cursor: 'pointer'
           }}
         >
-          {teams[0]} vs {teams[1]}
+          {home} vs {teams.filter(team => team !== home)}
         </h5>
 
         <Transition
@@ -36,7 +36,7 @@ export class GameItem extends Component {
             show &&
             (props => (
               <animated.div style={props}>
-                <Info info={info} />
+                <Info info={info} home={home} />
               </animated.div>
             ))
           }

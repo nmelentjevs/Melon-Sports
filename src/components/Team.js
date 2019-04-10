@@ -426,11 +426,11 @@ class Team extends Component {
                 <tr>
                   <th>Position</th>
                   <th>Team</th>
-                  <th>Points</th>
-                  <th>Played</th>
-                  <th>Won</th>
-                  <th>Draw</th>
-                  <th>Away</th>
+                  <th>PTS</th>
+                  <th>PD</th>
+                  <th>W</th>
+                  <th>D</th>
+                  <th>L</th>
                   <th>GD</th>
                 </tr>
               </thead>

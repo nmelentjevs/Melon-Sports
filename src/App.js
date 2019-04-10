@@ -15,7 +15,6 @@ import Compare from './components/Compare';
 
 class App extends Component {
   render() {
-    console.log(process.env.NODE_ENV);
     return (
       <Router history={createBrowserHistory()}>
         <div className="App">
