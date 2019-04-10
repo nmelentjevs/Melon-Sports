@@ -20,7 +20,9 @@ class ComponentMain extends Component {
           </span>
         </h1>
         <hr />
-        <Leagues />
+        <div>
+          <Leagues />
+        </div>
       </Container>
     );
   }

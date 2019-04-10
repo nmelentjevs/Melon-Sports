@@ -28,6 +28,7 @@ class Leagues extends Component {
         }
       })
       .then(res => {
+        console.log(res.data.data);
         this.setState({
           leagues: res.data.data,
           filtered: res.data.data,
