@@ -73,6 +73,7 @@ class GameItem extends Component {
                 {home.elo === undefined ? (
                   <Spinner
                     animation="grow"
+                    variant="warning"
                     style={{ width: '10px', height: '10px' }}
                   />
                 ) : (
@@ -124,6 +125,7 @@ class GameItem extends Component {
                 {away.name} (
                 {away.elo === undefined ? (
                   <Spinner
+                    variant="warning"
                     animation="grow"
                     style={{ width: '10px', height: '10px' }}
                   />

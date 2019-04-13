@@ -209,7 +209,6 @@ class Leagues extends Component {
   addEloToClubNames = () => {};
 
   getGamesFromSport = id => {
-    console.log(id);
     const headers = {
       'X-Auth-Token': keys.footballAPI
     };
@@ -223,7 +222,7 @@ class Leagues extends Component {
       )
       .then(res => {
         this.setState({ matches: res.data, gamesLoading: false });
-        console.log(res.data);
+        this.getClubElo(res.data);
       })
       .catch(error => {
         console.log(error);
@@ -242,7 +241,6 @@ class Leagues extends Component {
     if (e.target.tagName === 'LI' || e.target.tagName === 'h5') {
       e.target.classList.add('active');
       const sport_key = e.target.getAttribute('param');
-      console.log(sport_key);
       prevState === sport_key
         ? this.setState({ showGames: !this.state.showGames })
         : this.setState({ showGames: true });
