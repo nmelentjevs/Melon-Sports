@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component, Fragment } from 'react';
 
 import ListGroup from 'react-bootstrap/ListGroup';
 
@@ -6,23 +6,50 @@ class LeagueList extends Component {
   render() {
     const { leagues } = this.props;
     return (
-      <ListGroup lg="6">
-        {leagues.map(league => {
-          return (
-            <ListGroup.Item
-              style={{ cursor: 'pointer' }}
-              as="li"
-              key={league.key}
-              param={league.key}
-              onClick={this.props.onclick}
+      <Fragment>
+        <ListGroup lg="6">
+          <ListGroup.Item
+            style={{
+              border: 'none',
+              backgroundColor: 'pink',
+              height: '40px',
+              width: '150px'
+            }}
+          >
+            <h5
+              style={{
+                fontSize: '.7rem',
+                verticalAlign: 'middle'
+              }}
             >
-              <h5>
-                {league.details} | {league.title}
-              </h5>
-            </ListGroup.Item>
-          );
-        })}
-      </ListGroup>
+              Favourites
+            </h5>
+          </ListGroup.Item>
+          {leagues !== undefined
+            ? leagues.map(league => {
+                return (
+                  <ListGroup.Item
+                    style={{
+                      cursor: 'pointer',
+                      height: '40px',
+                      width: '150px',
+                      border: 'none'
+                    }}
+                    className="league-item"
+                    as="li"
+                    key={league.id}
+                    param={league.id}
+                    onClick={this.props.onclick}
+                  >
+                    <h5 style={{ fontSize: '.7rem', verticalAlign: 'middle' }}>
+                      {league.name}
+                    </h5>
+                  </ListGroup.Item>
+                );
+              })
+            : null}
+        </ListGroup>
+      </Fragment>
     );
   }
 }

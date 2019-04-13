@@ -1,12 +1,11 @@
-import React, { Component } from 'react';
+import React, { Component, Fragment } from 'react';
 
-import Container from 'react-bootstrap/Container';
 import Leagues from './Leagues';
 
 class ComponentMain extends Component {
   render() {
     return (
-      <Container>
+      <Fragment>
         <h1 className="display-3">
           Please choose a <span id="changetext">league</span>{' '}
           <span style={{ fontSize: '18px', textTransform: 'uppercase' }}>
@@ -23,7 +22,7 @@ class ComponentMain extends Component {
         <div>
           <Leagues />
         </div>
-      </Container>
+      </Fragment>
     );
   }
 }

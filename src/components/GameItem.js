@@ -1,30 +1,52 @@
-import React, { Component } from 'react';
+import React, { Component, Fragment } from 'react';
 
 import { Transition, animated } from 'react-spring/renderprops';
 import Info from './Info';
-
-export class GameItem extends Component {
+import Moment from 'react-moment';
+class GameItem extends Component {
   state = {
     showInfo: false
   };
 
-  toggle = e => {
+  toggle = () => {
     this.setState({ showInfo: !this.state.showInfo });
   };
 
   render() {
-    const { home, teams, info } = this.props;
+    const { home, away, info } = this.props;
     return (
-      <div className="match-card" onClick={this.toggle}>
-        <h5
-          style={{
-            display: 'inline-block',
-            cursor: 'pointer'
-          }}
+      <Fragment>
+        <div
+          className="match-card"
+          style={{ display: 'flex' }}
+          onClick={this.toggle}
         >
-          {home} vs {teams.filter(team => team !== home)}
-        </h5>
-
+          <div className="home_team" style={{ flex: 1 }}>
+            {home}
+          </div>
+          <div
+            className="score"
+            style={{
+              margin: '0 10px',
+              alignSelf: 'center',
+              flex: 1
+            }}
+          >
+            <button
+              className="preview-game"
+              style={{ borderRadius: '20px', height: '20px' }}
+            >
+              Preview
+            </button>
+          </div>
+          <div className="home_team" style={{ flex: 1 }}>
+            {' '}
+            {away}
+          </div>
+          {/* <div style={{ flex: 1 }}>
+            <Moment format="DD/MM/YYYY"> {info.utcDate}</Moment>
+          </div> */}
+        </div>
         <Transition
           native
           items={this.state.showInfo}
@@ -36,12 +58,12 @@ export class GameItem extends Component {
             show &&
             (props => (
               <animated.div style={props}>
-                <Info info={info} home={home} />
+                <Info home={home} away={away} id={info.competition.id} />
               </animated.div>
             ))
           }
         </Transition>
-      </div>
+      </Fragment>
     );
   }
 }

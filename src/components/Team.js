@@ -34,32 +34,15 @@ class Team extends Component {
       const headers = {
         'X-Auth-Token': keys.footballAPI
       };
-      const leagueIDs = {
-        premier_league: 2021,
-        ligue1: 2015,
-        bundesliga: 2002,
-        serie_a: 2019,
-        la_liga: 2014
-      };
-
-      let id;
-      league === 'soccer_spain_la_liga'
-        ? (id = leagueIDs.la_liga)
-        : league === 'soccer_france_ligue_one'
-        ? (id = leagueIDs.ligue1)
-        : league === 'soccer_italy_serie_a'
-        ? (id = leagueIDs.serie_a)
-        : league === 'soccer_epl'
-        ? (id = leagueIDs.premier_league)
-        : league === 'soccer_germany_bundesliga'
-        ? (id = leagueIDs.bundesliga)
-        : (id = null);
 
       this.setState({ loading: true });
       axios
-        .get(`http://api.football-data.org/v2/competitions/${id}/standings`, {
-          headers
-        })
+        .get(
+          `http://api.football-data.org/v2/competitions/${league}/standings`,
+          {
+            headers
+          }
+        )
         .then(res => {
           const teamData = res.data.standings[0].table.filter(position => {
             if (name === 'Real Madrid CF') {
@@ -87,30 +70,9 @@ class Team extends Component {
       'X-Auth-Token': keys.footballAPI
     };
 
-    const leagueIDs = {
-      premier_league: 2021,
-      ligue1: 2015,
-      bundesliga: 2002,
-      serie_a: 2019,
-      la_liga: 2014
-    };
-
-    let id;
-    league === 'soccer_spain_la_liga'
-      ? (id = leagueIDs.la_liga)
-      : league === 'soccer_france_ligue_one'
-      ? (id = leagueIDs.ligue1)
-      : league === 'soccer_italy_serie_a'
-      ? (id = leagueIDs.serie_a)
-      : league === 'soccer_epl'
-      ? (id = leagueIDs.premier_league)
-      : league === 'soccer_germany_bundesliga'
-      ? (id = leagueIDs.bundesliga)
-      : (id = null);
-
     this.setState({ loading: true });
     axios
-      .get(`http://api.football-data.org/v2/competitions/${id}/standings`, {
+      .get(`http://api.football-data.org/v2/competitions/${league}/standings`, {
         headers
       })
       .then(res => {

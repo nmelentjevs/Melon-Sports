@@ -32,6 +32,32 @@
   }
 }
 
+.preview-game:hover {
+  background: lightcoral;
+  color: white;
+}
+.preview-game:focus {
+  background: lightcoral;
+  color: white;
+  border: none;
+}
+
+.preview-game:visited {
+  background: lightcoral;
+  color: white;
+  border: none;
+}
+
+.preview-game:active {
+  background: lightcoral;
+  color: white;
+  border: none;
+}
+.league-item:hover {
+  background: blue;
+  color: white;
+}
+
 /* .innactive {
   color: grey;
   background: whitesmoke;
