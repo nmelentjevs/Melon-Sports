@@ -1,28 +1,36 @@
 import React, { Component, Fragment } from 'react';
+import { Link } from 'react-router-dom';
+
+import PropTypes from 'prop-types';
 
 import moment from 'moment';
 import Helmet from 'react-helmet';
-
 import ListGroup from 'react-bootstrap/ListGroup';
 import DayPickerInput from 'react-day-picker/DayPickerInput';
 import 'react-day-picker/lib/style.css';
-import { Link } from 'react-router-dom';
-import Button from 'react-bootstrap/Button';
-
 import { formatDate, parseDate } from 'react-day-picker/moment';
+
 import GameItem from './GameItem';
+import Button from 'react-bootstrap/Button';
 
 class MatchesList extends Component {
   constructor(props) {
     super(props);
     this.state = {
       from: undefined,
-      to: undefined
+      to: undefined,
+      eloMatches: []
     };
   }
-  shouldComponentUpdate(nextProps, nextState) {
-    return nextProps === nextState;
+
+  componentDidMount() {
+    this.setState({ eloMatches: this.props.matches });
   }
+
+  shouldComponentUpdate(nextProps, nextState) {
+    return nextProps.eloLoading === false;
+  }
+
   showFromMonth() {
     const { from, to } = this.state;
     if (!from) {
@@ -49,15 +57,15 @@ class MatchesList extends Component {
     leagues.forEach(league => {
       const leagueMatches = { league: { name: '', matches: [] } };
       leagueMatches.league.name = league;
-      const leagueArray = matches.matches.filter(match => {
-        return league.id === match.competition.id;
-      });
+      const leagueArray = (matches.matches ? matches.matches : matches).filter(
+        match => {
+          return league.id === match.competition.id;
+        }
+      );
       leagueMatches.league.matches = leagueArray;
       matchesArray.push(leagueMatches);
     });
 
-    const { selectedDay } = this.state;
-    console.log(matchesArray);
     return (
       <Fragment>
         <ListGroup lg="6" key={leagues.id}>
@@ -134,16 +142,35 @@ class MatchesList extends Component {
                       style={{
                         textAlign: 'left',
                         display: 'flex',
-                        justifyContent: 'space-between'
+                        justifyContent: 'space-between',
+                        height: '30px',
+                        alignItems: 'center',
+                        backgroundColor: '#ffcba4'
                       }}
                     >
-                      <div>
+                      <div style={{ fontSize: '1rem', fontWeight: '700' }}>
                         {leagues.league.name.area.name}:{' '}
                         {leagues.league.name.name}
                       </div>
-                      <Link style={{ color: 'white' }} to="/compare/">
-                        <Button variant="primary" style={{ height: '10px' }}>
-                          Compare
+                      <Link
+                        style={{ color: 'white' }}
+                        to={`/team/${leagues.league.name.id}/${
+                          leagues.league.matches[0].homeTeam.name
+                        }`}
+                      >
+                        <Button
+                          variant="primary"
+                          style={{
+                            fontSize: '.7rem',
+                            padding: '2.5px',
+                            marginBottom: '2px',
+                            background: 'none',
+                            color: 'black',
+                            border: 'none',
+                            textDecoration: 'underline'
+                          }}
+                        >
+                          Standings
                         </Button>
                       </Link>{' '}
                     </ListGroup.Item>
@@ -165,8 +192,8 @@ class MatchesList extends Component {
                               display: 'block'
                             }}
                             key={match.id}
-                            home={match.homeTeam.name}
-                            away={match.awayTeam.name}
+                            home={match.homeTeam}
+                            away={match.awayTeam}
                             info={match}
                           />
                         </ListGroup.Item>
@@ -182,5 +209,9 @@ class MatchesList extends Component {
     );
   }
 }
+
+MatchesList.propTypes = {
+  leagues: PropTypes.array.isRequired
+};
 
 export default MatchesList;
