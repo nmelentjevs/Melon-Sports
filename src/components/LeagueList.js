@@ -13,7 +13,7 @@ class LeagueList extends Component {
               border: 'none',
               backgroundColor: 'pink',
               height: '40px',
-              width: '150px'
+              width: '100%'
             }}
           >
             <h5
@@ -32,7 +32,7 @@ class LeagueList extends Component {
                     style={{
                       cursor: 'pointer',
                       height: '40px',
-                      width: '150px',
+                      width: '100%',
                       border: '.5px solid rgba(0, 0, 0, 0.1)'
                     }}
                     className="league-item"

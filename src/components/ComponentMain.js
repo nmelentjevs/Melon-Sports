@@ -7,9 +7,8 @@ class ComponentMain extends Component {
     return (
       <Fragment>
         <hr />
-        <div>
-          <Leagues ref={this.child} />
-        </div>
+
+        <Leagues />
       </Fragment>
     );
   }

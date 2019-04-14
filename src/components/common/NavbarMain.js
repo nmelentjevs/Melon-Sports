@@ -4,6 +4,7 @@ import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import NavDropdown from 'react-bootstrap/NavDropdown';
+import { Link } from 'react-router-dom';
 
 import TypedText from '../TypedText';
 
@@ -51,12 +52,12 @@ export default function NavbarMain() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mr-auto">
-            <Nav.Link href="#home" style={{ color: 'black' }}>
-              Home
-            </Nav.Link>
-            <Nav.Link href="#link" style={{ color: 'black' }}>
-              Link
-            </Nav.Link>
+            <Link className="nav-link" to="/" style={{ color: 'black' }}>
+              Home{' '}
+            </Link>
+            <Link className="nav-link" to="/news" style={{ color: 'black' }}>
+              News
+            </Link>
             <NavDropdown title="Dropdown" id="basic-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
               <NavDropdown.Item href="#action/3.2">

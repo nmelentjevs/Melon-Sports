@@ -114,7 +114,7 @@ class GameItem extends Component {
                             : info.score.winner === 'AWAY_TEAM'
                             ? 'loss'
                             : 'draw'
-                        )}
+                        )}{' '}
                       </span>
                     ) : null}
                   </div>
@@ -214,7 +214,7 @@ class GameItem extends Component {
             show &&
             (props => (
               <animated.div style={props}>
-                <Info home={home} away={away} id={info.competition.id} />
+                <Info />
               </animated.div>
             ))
           }

@@ -13,6 +13,7 @@ import ComponentMain from './components/ComponentMain';
 // Components
 
 import Compare from './components/Compare';
+import News from './components/news/News';
 
 class App extends Component {
   render() {
@@ -28,6 +29,9 @@ class App extends Component {
           </Switch>
           <Switch>
             <Route exact path="/compare/:name1/:name2" component={Compare} />
+          </Switch>
+          <Switch>
+            <Route exact path="/news" component={News} />
           </Switch>
         </div>
       </Router>

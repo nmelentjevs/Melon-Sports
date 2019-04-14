@@ -23,6 +23,7 @@
     "react-scripts": "2.1.8",
     "react-spring": "^8.0.19",
     "recharts": "^1.5.0",
+    "styled-components": "^4.2.0",
     "typed.js": "^2.0.10",
     "victory": "^32.1.0"
   },
