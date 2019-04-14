@@ -322,6 +322,7 @@ class Leagues extends Component {
                       matches={matches}
                       updateDate={this.updateDate}
                       getClubElo={this.getClubElo}
+                      getGamesFromSport={this.getGamesFromSport}
                       eloLoading={eloLoading}
                     />
                   )}

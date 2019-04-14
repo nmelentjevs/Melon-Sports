@@ -33,7 +33,7 @@ class LeagueList extends Component {
                       cursor: 'pointer',
                       height: '40px',
                       width: '150px',
-                      border: 'none'
+                      border: '.5px solid rgba(0, 0, 0, 0.1)'
                     }}
                     className="league-item"
                     as="li"
@@ -41,7 +41,12 @@ class LeagueList extends Component {
                     param={league.id}
                     onClick={this.props.onclick}
                   >
-                    <h5 style={{ fontSize: '.7rem', verticalAlign: 'middle' }}>
+                    <h5
+                      style={{
+                        fontSize: '.7rem',
+                        verticalAlign: 'middle'
+                      }}
+                    >
                       {league.name}
                     </h5>
                   </ListGroup.Item>

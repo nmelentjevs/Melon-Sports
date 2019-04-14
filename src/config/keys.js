@@ -6,5 +6,6 @@
 
 module.exports = {
   oddsKey: 'fa4c4e4c01e33f6ab7d836beb2f23492',
-  footballAPI: '918929b988b74671a7f8bba2cd0cde8d'
+  footballAPI: '918929b988b74671a7f8bba2cd0cde8d',
+  newsAPI: '6bea059ca77b4cf9842003a3230dc744'
 };

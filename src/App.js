@@ -4,7 +4,7 @@ import { createBrowserHistory } from 'history';
 import { Router, Route, Switch } from 'react-router';
 
 import Team from './components/Team';
-import Navbar from '../src/components/common/Navbar';
+import NavbarMain from '../src/components/common/NavbarMain';
 
 // Bootstrap items
 
@@ -19,7 +19,7 @@ class App extends Component {
     return (
       <Router history={createBrowserHistory()}>
         <div className="App">
-          <Navbar />
+          <NavbarMain />
           <Switch>
             <Route exact path="/" component={ComponentMain} />
           </Switch>

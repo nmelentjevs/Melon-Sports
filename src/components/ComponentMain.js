@@ -1,7 +1,6 @@
 import React, { Component, Fragment } from 'react';
 
 import Leagues from './Leagues';
-import moment from 'moment';
 
 class ComponentMain extends Component {
   render() {

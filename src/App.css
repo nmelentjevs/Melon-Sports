@@ -32,6 +32,22 @@
   }
 }
 
+.nav-items-main {
+  border-bottom: 1px solid pink;
+  border-top: 1px solid pink;
+}
+
+.nav-items-secondary {
+  border-bottom: pink 1px solid;
+  border-top: pink 1px solid;
+}
+
+.nav-items-secondary:hover {
+  border-top: 1px solid palevioletred;
+  border-bottom: 1px solid palevioletred;
+  cursor: pointer;
+}
+
 .preview-game:hover {
   background: lightcoral;
   color: white;
@@ -54,8 +70,11 @@
   border: none;
 }
 .league-item:hover {
-  background: blue;
+  background: palevioletred;
   color: white;
+}
+.active {
+  background: palevioletred !important;
 }
 
 /* .innactive {

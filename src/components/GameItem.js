@@ -33,16 +33,16 @@ class GameItem extends Component {
     const { home, away, info } = this.props;
 
     const eloChange = (el1, el2, result) => {
-      const coef = 32;
+      const maxRating = 20;
       const eloDiff = el2 - el1;
       const percentage = 1 / (1 + Math.pow(10, eloDiff / 400));
 
       if (result === 'win') {
-        return '+' + Math.round(coef * (1 - percentage));
+        return '+' + Math.round(maxRating * (1 - percentage));
       } else if (result === 'loss') {
-        return Math.round(coef * (0 - percentage));
+        return Math.round(maxRating * (0 - percentage));
       } else if (result === 'draw') {
-        return Math.round(coef * (0.5 - percentage));
+        return Math.round(maxRating * (0.5 - percentage));
       }
     };
     return (

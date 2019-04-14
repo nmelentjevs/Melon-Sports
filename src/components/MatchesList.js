@@ -72,46 +72,92 @@ class MatchesList extends Component {
         <ListGroup lg="6" key={leagues.id}>
           <div
             className="InputFromTo"
-            style={{ flex: 1, marginBottom: '10px', textAlign: 'right' }}
+            style={{
+              textAlign: 'right',
+              display: 'flex',
+              justifyContent: 'space-between'
+            }}
           >
-            <DayPickerInput
-              value={from}
-              placeholder="From"
-              format="LL"
-              formatDate={formatDate}
-              parseDate={parseDate}
-              dayPickerProps={{
-                selectedDays: [from, { from, to }],
-                disabledDays: { after: to },
-                toMonth: to,
-                modifiers,
-                numberOfMonths: 2,
-                onDayClick: () => this.to.getInput().focus()
+            <div
+              style={{
+                marginBottom: '5px',
+                alignSelf: 'center',
+                textAlign: 'center',
+                display: 'flex',
+                justifyContent: 'space-between',
+                width: '50%'
               }}
-              onDayChange={this.handleFromChange}
-            />{' '}
-            —{' '}
-            <span className="InputFromTo-to">
+            >
+              <div className="nav-items-main" style={{ margin: '0 50px' }}>
+                <span>Browse Games</span>
+              </div>
+              <div style={{ flex: 1 }}>
+                <span
+                  className="nav-items-secondary"
+                  // TODO WRITE PROPER REFRESH OR FILTER FUNCTION TO SEE GAMES
+                  onClick={() => this.props.getGamesFromSport(leagues.id)}
+                >
+                  Finished
+                </span>
+              </div>
+              <div style={{ flex: 1 }}>
+                <span
+                  className="nav-items-secondary"
+                  // TODO WRITE PROPER REFRESH OR FILTER FUNCTION TO SEE GAMES
+                  onClick={() => this.props.getGamesFromSport(leagues.id)}
+                >
+                  Scheduled
+                </span>
+              </div>
+              <div style={{ flex: 1 }}>
+                <span
+                  className="nav-items-secondary"
+                  // TODO WRITE PROPER REFRESH OR FILTER FUNCTION TO SEE GAMES
+                  onClick={() => this.props.getGamesFromSport(leagues.id)}
+                >
+                  Odds
+                </span>
+              </div>
+            </div>
+            <div style={{ marginBottom: '5px' }}>
               <DayPickerInput
-                ref={el => (this.to = el)}
-                value={to}
-                placeholder="To"
+                value={from}
+                placeholder="From"
                 format="LL"
                 formatDate={formatDate}
                 parseDate={parseDate}
                 dayPickerProps={{
                   selectedDays: [from, { from, to }],
-                  disabledDays: { before: from },
+                  disabledDays: { after: to },
+                  toMonth: to,
                   modifiers,
-                  month: from,
-                  fromMonth: from,
-                  numberOfMonths: 2
+                  numberOfMonths: 2,
+                  onDayClick: () => this.to.getInput().focus()
                 }}
-                onDayChange={this.handleToChange}
-              />
-            </span>
-            <Helmet>
-              <style>{`
+                onDayChange={this.handleFromChange}
+              />{' '}
+              —{' '}
+              <span className="InputFromTo-to">
+                <DayPickerInput
+                  ref={el => (this.to = el)}
+                  value={to}
+                  placeholder="To"
+                  format="LL"
+                  formatDate={formatDate}
+                  parseDate={parseDate}
+                  dayPickerProps={{
+                    selectedDays: [from, { from, to }],
+                    disabledDays: { before: from },
+                    modifiers,
+                    month: from,
+                    fromMonth: from,
+                    numberOfMonths: 2
+                  }}
+                  onDayChange={this.handleToChange}
+                />
+              </span>
+              <Helmet>
+                <style>{`
   .InputFromTo .DayPicker-Day--selected:not(.DayPicker-Day--start):not(.DayPicker-Day--end):not(.DayPicker-Day--outside) {
     background-color: #f0f8ff !important;
     color: #4a90e2;
@@ -134,8 +180,10 @@ class MatchesList extends Component {
     margin-left: -198px;
   }
 `}</style>
-            </Helmet>
+              </Helmet>
+            </div>
           </div>
+
           {matchesArray.map(leagues => {
             return (
               <Fragment key={leagues.league.name.name}>
