@@ -215,7 +215,11 @@ class Leagues extends Component {
     this.setState({ gamesLoading: true });
     axios
       .get(
-        `https://api.football-data.org/v2/matches/?competitions=${id}&dateFrom=2019-04-12&dateTo=2019-04-22`,
+        `https://api.football-data.org/v2/matches/?competitions=${id}&dateFrom=${moment().format(
+          'YYYY-MM-DD'
+        )}&dateTo=${moment()
+          .add(3, 'days')
+          .format('YYYY-MM-DD')}`,
         {
           headers
         }

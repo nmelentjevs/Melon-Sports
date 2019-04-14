@@ -5,7 +5,7 @@ import keys from '../config/keys';
 
 import Spinner from 'react-bootstrap/Spinner';
 import Table from 'react-bootstrap/Table';
-import Button from 'react-bootstrap/Button';
+
 import {
   PieChart,
   Pie,
@@ -253,35 +253,8 @@ class Team extends Component {
           }}
           className="container lg-12"
         >
-          <span style={{ fontSize: '18px', textTransform: 'uppercase' }}>
-            <img
-              src={require('../img/hami_melon_39773.png')}
-              width="25px"
-              alt="melon"
-              style={{ paddingBottom: '10px' }}
-            />{' '}
-            Melon Sports
-          </span>
           <div className="md-12">
-            <Link style={{ color: 'white' }} to={`/`}>
-              <Button
-                className="col-sm-4"
-                style={{
-                  width: '100px',
-                  marginTop: '10px',
-                  marginRight: '10px'
-                }}
-              >
-                Home
-              </Button>
-            </Link>
-            <Button
-              className="col-sm-4"
-              onClick={this.props.history.goBack}
-              style={{ width: '100px', marginTop: '10px' }}
-            >
-              Back
-            </Button>{' '}
+            <hr />
             <h1
               className="display-4"
               style={{ gridArea: 'name', marginTop: '20px' }}
@@ -289,8 +262,7 @@ class Team extends Component {
               {team.name} <img width="50px" src={team.crestUrl} alt="" />
             </h1>
           </div>
-          <hr />
-          <h3 className="display-5">Games Played: {playedGames}</h3>
+
           <div className="row" style={{ marginTop: '20px' }}>
             <div className="col-sm-4">
               <div
@@ -379,8 +351,8 @@ class Team extends Component {
           </div>
 
           <div className="standings" style={{ marginTop: '-200px' }}>
-            <hr />
-            <h3 className="display-5" style={{ marginTop: '50px' }}>
+            <h3 className="display-5">{playedGames} Games Played </h3>
+            <h3 className="display-5" style={{ marginTop: '2px' }}>
               Position: {position}/{table.length} with {points} points
             </h3>
             <Table striped bordered hover>

@@ -49,7 +49,7 @@
 }
 
 .preview-game:active {
-  background: lightcoral;
+  background: #f08080;
   color: white;
   border: none;
 }

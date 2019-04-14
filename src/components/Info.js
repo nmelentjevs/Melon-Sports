@@ -9,7 +9,7 @@ class Info extends Component {
     // const infoArray = JSON.stringify(info[0].sites.map(site => site.odds.h2h));
 
     return (
-      <Card style={{ height: '150px' }}>
+      <Card style={{ height: '150px', width: '100%' }}>
         <Card.Body>
           <div className="card-main">
             <Card.Title />
