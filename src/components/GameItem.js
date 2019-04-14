@@ -18,7 +18,6 @@ class GameItem extends Component {
 
   componentDidMoount() {
     this.setState({ info: this.props.info });
-    console.log(this.state);
   }
 
   // shouldComponentUpdate(nextProps, nextState) {
@@ -32,6 +31,20 @@ class GameItem extends Component {
 
   render() {
     const { home, away, info } = this.props;
+
+    const eloChange = (el1, el2, result) => {
+      const coef = 32;
+      const eloDiff = el2 - el1;
+      const percentage = 1 / (1 + Math.pow(10, eloDiff / 400));
+
+      if (result === 'win') {
+        return '+' + Math.round(coef * (1 - percentage));
+      } else if (result === 'loss') {
+        return Math.round(coef * (0 - percentage));
+      } else if (result === 'draw') {
+        return Math.round(coef * (0.5 - percentage));
+      }
+    };
     return (
       <Fragment>
         <div
@@ -80,6 +93,30 @@ class GameItem extends Component {
                   <div style={{ fontSize: '10px', display: 'inline-block' }}>
                     {' '}
                     {home.elo}{' '}
+                    {moment(info.utcDate).format('YYYY-MM-DD:HH:mm') <
+                    moment().format('YYYY-MM-DD:HH:mm') ? (
+                      <span
+                        style={{
+                          color:
+                            info.score.winner === 'HOME_TEAM'
+                              ? 'green'
+                              : info.score.winner === 'AWAY_TEAM'
+                              ? 'red'
+                              : 'orange'
+                        }}
+                      >
+                        {' '}
+                        {eloChange(
+                          home.elo,
+                          away.elo,
+                          info.score.winner === 'HOME_TEAM'
+                            ? 'win'
+                            : info.score.winner === 'AWAY_TEAM'
+                            ? 'loss'
+                            : 'draw'
+                        )}
+                      </span>
+                    ) : null}
                   </div>
                 )}
                 )
@@ -131,7 +168,31 @@ class GameItem extends Component {
                   />
                 ) : (
                   <div style={{ fontSize: '10px', display: 'inline-block' }}>
-                    {away.elo}
+                    {away.elo}{' '}
+                    {moment(info.utcDate).format('YYYY-MM-DD:HH:mm') <
+                    moment().format('YYYY-MM-DD:HH:mm') ? (
+                      <span
+                        style={{
+                          color:
+                            info.score.winner === 'HOME_TEAM'
+                              ? 'red'
+                              : info.score.winner === 'AWAY_TEAM'
+                              ? 'green'
+                              : 'orange'
+                        }}
+                      >
+                        {' '}
+                        {eloChange(
+                          away.elo,
+                          home.elo,
+                          info.score.winner === 'HOME_TEAM'
+                            ? 'loss'
+                            : info.score.winner === 'AWAY_TEAM'
+                            ? 'win'
+                            : 'draw'
+                        )}
+                      </span>
+                    ) : null}
                   </div>
                 )}
                 )
