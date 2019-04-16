@@ -1,7 +1,10 @@
 import React, { Component, Fragment } from 'react';
 import { Link } from 'react-router-dom';
 
+// Redux
 import PropTypes from 'prop-types';
+import { connect } from 'react-redux';
+import { addFav } from '../actions/dataActions';
 
 import moment from 'moment';
 import ListGroup from 'react-bootstrap/ListGroup';
@@ -49,7 +52,12 @@ class MatchesList extends Component {
     return nextProps.eloLoading === false;
   }
 
+  addFav = id => {
+    this.props.addFav(id);
+  };
+
   render() {
+    console.log(this.props);
     const { from, to } = this.state;
     const modifiers = { start: from, end: to };
     const { matches, leagues, onmenuclick } = this.props;
@@ -213,27 +221,53 @@ class MatchesList extends Component {
                         {leagues.league.name.area.name}:{' '}
                         {leagues.league.name.name}
                       </div>
-                      <Link
-                        style={{ color: 'white' }}
-                        to={`/team/${leagues.league.name.id}/${
-                          leagues.league.matches[0].homeTeam.name
-                        }`}
-                      >
+                      <div>
+                        <Link
+                          style={{ color: 'white' }}
+                          to={`/team/${leagues.league.name.id}/${
+                            leagues.league.matches[0].homeTeam.name
+                          }`}
+                        >
+                          <Button
+                            variant="primary"
+                            style={{
+                              fontSize: '.7rem',
+                              padding: '2.5px',
+                              marginBottom: '2px',
+                              background: 'none',
+                              color: 'black',
+                              border: 'none',
+                              textDecoration: 'underline'
+                            }}
+                          >
+                            Standings
+                          </Button>
+                        </Link>{' '}
                         <Button
                           variant="primary"
                           style={{
                             fontSize: '.7rem',
-                            padding: '2.5px',
+                            padding: '0 1.5px',
                             marginBottom: '2px',
-                            background: 'none',
+                            marginLeft: '2px',
+                            background:
+                              this.props.favourites === undefined ||
+                              !this.props.favourites.includes(
+                                leagues.league.name.code
+                              )
+                                ? 'none'
+                                : 'gold',
                             color: 'black',
-                            border: 'none',
-                            textDecoration: 'underline'
+                            border: '1px black solid'
+                          }}
+                          onClick={() => {
+                            this.addFav(leagues.league.name.code);
                           }}
                         >
-                          Standings
+                          {' '}
+                          Fav
                         </Button>
-                      </Link>{' '}
+                      </div>
                     </ListGroup.Item>
 
                     {leagues.league.matches.map(match => {
@@ -272,7 +306,16 @@ class MatchesList extends Component {
 }
 
 MatchesList.propTypes = {
-  leagues: PropTypes.array.isRequired
+  leagues: PropTypes.array.isRequired,
+  addFav: PropTypes.func.isRequired
 };
 
-export default MatchesList;
+const mapStateToProps = state => ({
+  favourites: state.favourites,
+  errors: state.errors
+});
+
+export default connect(
+  mapStateToProps,
+  { addFav }
+)(MatchesList);

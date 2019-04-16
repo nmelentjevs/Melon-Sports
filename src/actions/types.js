@@ -1,0 +1,13 @@
+export const SET_LEAGUES = 'SET_LEAGUES';
+export const SET_MATCHES = 'SET_MATCHES';
+export const GET_ERRORS = 'GET_ERRORS';
+export const SET_ELO = 'SET_ELO';
+export const ITEMS_LOADING = 'ITEMS_LOADING';
+export const MATCHES_LOADING = 'MATCHES_LOADING';
+export const ELO_LOADING = 'ELO_LOADING';
+export const LEAGUES_LOADING = 'LEAGUES_LOADING';
+export const GET_FAV = 'GET_FAV';
+export const ADD_OR_DELETE_FAV = 'ADD_FAV';
+export const SET_FAV = 'SET_FAV';
+// export const GET_ERRORS = 'GET_ERRORS';
+// export const GET_ERRORS = 'GET_ERRORS';

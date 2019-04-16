@@ -1,18 +1,15 @@
 import React, { Component, Fragment } from 'react';
 
+// Redux
+import PropTypes from 'prop-types';
+import { connect } from 'react-redux';
+import { getFav, setFav } from '../actions/dataActions';
+
 import ListGroup from 'react-bootstrap/ListGroup';
 
 class LeagueList extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      favourites: ['PL', 'FL1', 'BL1', 'SA', 'PD', 'CL']
-    };
-  }
-
   render() {
-    const { leagues, onclick } = this.props;
-    const { favourites } = this.state;
+    const { leagues, onclick, favourites } = this.props;
     return (
       <Fragment>
         <ListGroup lg="6">
@@ -73,4 +70,18 @@ class LeagueList extends Component {
   }
 }
 
-export default LeagueList;
+LeagueList.propTypes = {
+  leagues: PropTypes.array.isRequired,
+  setFav: PropTypes.func.isRequired,
+  getFav: PropTypes.func.isRequired
+};
+
+const mapStateToProps = state => ({
+  favourites: state.data.favourites,
+  errors: state.errors
+});
+
+export default connect(
+  mapStateToProps,
+  { getFav, setFav }
+)(LeagueList);
