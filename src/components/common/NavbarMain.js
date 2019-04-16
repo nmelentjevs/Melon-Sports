@@ -55,10 +55,14 @@ export default function NavbarMain() {
             <Link className="nav-link" to="/" style={{ color: 'black' }}>
               Home{' '}
             </Link>
-            <Link className="nav-link" to="/news" style={{ color: 'black' }}>
+            <Link
+              className="nav-link"
+              to="/news/Football"
+              style={{ color: 'black' }}
+            >
               News
             </Link>
-            <NavDropdown title="Dropdown" id="basic-nav-dropdown">
+            {/* <NavDropdown title="Dropdown" id="basic-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
               <NavDropdown.Item href="#action/3.2">
                 Another action
@@ -68,7 +72,7 @@ export default function NavbarMain() {
               <NavDropdown.Item href="#action/3.4">
                 Separated link
               </NavDropdown.Item>
-            </NavDropdown>
+            </NavDropdown> */}
           </Nav>
         </Navbar.Collapse>
       </Navbar>

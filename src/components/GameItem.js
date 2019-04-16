@@ -128,7 +128,8 @@ class GameItem extends Component {
               style={{
                 margin: '0 10px',
                 alignSelf: 'center',
-                flex: 1
+                flex: 1,
+                border: 'none'
               }}
             >
               <button
@@ -136,7 +137,7 @@ class GameItem extends Component {
                 style={{
                   borderRadius: '20px',
                   height: '20px',
-
+                  border: 'none',
                   color:
                     info.status === 'IN_PLAY' || info.status === 'PAUSED'
                       ? 'red'

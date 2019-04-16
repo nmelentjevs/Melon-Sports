@@ -52,7 +52,7 @@ class MatchesList extends Component {
   render() {
     const { from, to } = this.state;
     const modifiers = { start: from, end: to };
-    const { matches, leagues } = this.props;
+    const { matches, leagues, onmenuclick } = this.props;
     let matchesArray = [];
 
     leagues.forEach(league => {
@@ -66,10 +66,9 @@ class MatchesList extends Component {
       leagueMatches.league.matches = leagueArray;
       matchesArray.push(leagueMatches);
     });
-
     return (
       <Fragment>
-        <ListGroup lg="6" key={leagues.id}>
+        <ListGroup lg="6">
           <div
             className="InputFromTo"
             style={{
@@ -91,29 +90,39 @@ class MatchesList extends Component {
               <div className="nav-items-main" style={{ margin: '0 50px' }}>
                 <span>Browse Games</span>
               </div>
-              <div style={{ flex: 1 }}>
+              <div style={{ flex: 1, marginRight: '5px' }}>
                 <span
                   className="nav-items-secondary"
                   // TODO WRITE PROPER REFRESH OR FILTER FUNCTION TO SEE GAMES
-                  onClick={() => this.props.getGamesFromSport(leagues.id)}
+                  onClick={() =>
+                    onmenuclick(
+                      [2021, 2001, 2015, 2002, 2019, 2014],
+                      'FINISHED'
+                    )
+                  }
                 >
                   Finished
                 </span>
               </div>
-              <div style={{ flex: 1 }}>
+              <div style={{ flex: 1, marginRight: '5px' }}>
                 <span
                   className="nav-items-secondary"
                   // TODO WRITE PROPER REFRESH OR FILTER FUNCTION TO SEE GAMES
-                  onClick={() => this.props.getGamesFromSport(leagues.id)}
+                  onClick={() =>
+                    onmenuclick(
+                      [2021, 2001, 2015, 2002, 2019, 2014],
+                      'SCHEDULED'
+                    )
+                  }
                 >
-                  Scheduled
+                  Today
                 </span>
               </div>
-              <div style={{ flex: 1 }}>
+              <div style={{ flex: 1, marginLeft: '-10px' }}>
                 <span
                   className="nav-items-secondary"
                   // TODO WRITE PROPER REFRESH OR FILTER FUNCTION TO SEE GAMES
-                  onClick={() => this.props.getGamesFromSport(leagues.id)}
+                  // onClick={() => getGamesFromMenu(leagues.id)}
                 >
                   Odds
                 </span>
@@ -186,10 +195,10 @@ class MatchesList extends Component {
 
           {matchesArray.map(leagues => {
             return (
-              <Fragment key={leagues.league.name.name}>
+              <Fragment key={leagues.league.name.id}>
                 {' '}
                 {leagues.league.matches.length !== 0 ? (
-                  <Fragment key={leagues.league.name.id}>
+                  <Fragment>
                     <ListGroup.Item
                       style={{
                         textAlign: 'left',

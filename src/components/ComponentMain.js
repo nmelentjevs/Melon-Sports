@@ -7,7 +7,6 @@ class ComponentMain extends Component {
     return (
       <Fragment>
         <hr />
-
         <Leagues />
       </Fragment>
     );

@@ -23,7 +23,7 @@ class Leagues extends Component {
   };
 
   componentDidMount() {
-    const needed = [];
+    const ids = [];
 
     this.setState({ loading: true });
     const headers = {
@@ -40,20 +40,21 @@ class Leagues extends Component {
         });
 
         const arrayOfIds = res.data.competitions
-          .filter(item => {
-            return (
-              item.code === 'PL' ||
-              item.code === 'FL1' ||
-              item.code === 'BL1' ||
-              item.code === 'SA' ||
-              item.code === 'PD'
-            );
-          })
+          // .filter(item => {
+          //   return (
+          //     item.code === 'PL' ||
+          //     item.code === 'FL1' ||
+          //     item.code === 'BL1' ||
+          //     item.code === 'SA' ||
+          //     item.code === 'PD' ||
+          //     item.code === 'CL'
+          //   );
+          // })
           .map(item => item.id);
-        needed.push(arrayOfIds);
+        ids.push(arrayOfIds);
         axios
           .get(
-            `https://api.football-data.org/v2/matches/?competitions=${needed}&dateFrom=${moment().format(
+            `https://api.football-data.org/v2/matches/?competitions=${ids}&dateFrom=${moment().format(
               'YYYY-MM-DD'
             )}&dateTo=${moment()
               .add(3, 'days')
@@ -92,23 +93,24 @@ class Leagues extends Component {
     const headers = {
       'X-Auth-Token': keys.footballAPI
     };
-    const needed = [];
+    const ids = [];
     const arrayOfIds = this.state.leagues.competitions
-      .filter(item => {
-        return (
-          item.code === 'PL' ||
-          item.code === 'FL1' ||
-          item.code === 'BL1' ||
-          item.code === 'SA' ||
-          item.code === 'PD'
-        );
-      })
+      // .filter(item => {
+      //   return (
+      //     item.code === 'PL' ||
+      //     item.code === 'FL1' ||
+      //     item.code === 'BL1' ||
+      //     item.code === 'SA' ||
+      //     item.code === 'PD' ||
+      //     item.code === 'CL'
+      //   );
+      // })
       .map(item => item.id);
-    needed.push(arrayOfIds);
+    ids.push(arrayOfIds);
     // this.setState({ gamesLoading: true });
     axios
       .get(
-        `https://api.football-data.org/v2/matches/?competitions=${needed}&dateFrom=${dateFrom.format(
+        `https://api.football-data.org/v2/matches/?competitions=${ids}&dateFrom=${dateFrom.format(
           'YYYY-MM-DD'
         )}&dateTo=${(newDateTo !== '' ? newDateTo : dateTo).format(
           'YYYY-MM-DD'
@@ -148,7 +150,7 @@ class Leagues extends Component {
         const parsedData = parseCSV(res.data);
         const teamselo = [];
         parsedData.slice(0, 300).map(item => {
-          teamselo.push({ club: item.Club, elo: item.Elo });
+          return teamselo.push({ club: item.Club, elo: item.Elo });
         });
         let { matches } = data;
         matches.map(match => {
@@ -168,35 +170,40 @@ class Leagues extends Component {
           away = removeSpecial(away);
 
           teamselo.map(elo => {
+            let flooredElo = Math.floor(elo.elo);
+
             if (home.includes(elo.club)) {
-              match.homeTeam.elo = Math.floor(elo.elo);
+              return (match.homeTeam.elo = flooredElo);
             }
             if (away.includes(elo.club)) {
-              match.awayTeam.elo = Math.floor(elo.elo);
+              return (match.awayTeam.elo = flooredElo);
             }
             if (
               home.includes(elo.club.split(' ')[0]) &&
               home.includes(elo.club.split(' ')[1])
             ) {
-              match.homeTeam.elo = Math.floor(elo.elo);
+              return (match.homeTeam.elo = flooredElo);
             }
             if (
               away.includes(elo.club.split(' ')[0]) &&
               away.includes(elo.club.split(' ')[1])
             ) {
-              match.awayTeam.elo = Math.floor(elo.elo);
+              return (match.awayTeam.elo = flooredElo);
             }
+            return null;
           });
+          return null;
         });
 
         if (
           matches.map(match => {
             if (match.awayTeam.elo === undefined) {
-              match.awayTeam.elo = 1400;
+              return (match.awayTeam.elo = 1400);
             }
             if (match.homeTeam.elo === undefined) {
-              match.homeTeam.elo = 1400;
+              return (match.homeTeam.elo = 1400);
             }
+            return null;
           })
         )
           this.setState({ matches, eloLoading: false });
@@ -225,6 +232,28 @@ class Leagues extends Component {
         }
       )
       .then(res => {
+        this.setState({ matches: res.data, gamesLoading: false });
+        this.getClubElo(res.data);
+      })
+      .catch(error => {
+        console.log(error);
+      });
+  };
+
+  getGamesFromMenu = (id, status) => {
+    const headers = {
+      'X-Auth-Token': keys.footballAPI
+    };
+    this.setState({ gamesLoading: true });
+    axios
+      .get(
+        `https://api.football-data.org/v2/matches/?competitions=${id}&status=${status}`,
+        {
+          headers
+        }
+      )
+      .then(res => {
+        console.log(res.data);
         this.setState({ matches: res.data, gamesLoading: false });
         this.getClubElo(res.data);
       })
@@ -275,22 +304,22 @@ class Leagues extends Component {
     const { matches, gamesLoading, loading, leagues, eloLoading } = this.state;
     const gridStyle = {
       display: 'grid',
-      gridTemplateColumns: '140px auto ',
+      gridTemplateColumns: '175px auto ',
       gridGap: '20px'
     };
 
     const leaguesList =
-      leagues.competitions === undefined
-        ? []
-        : leagues.competitions.filter(item => {
-            return (
-              item.code === 'PL' ||
-              item.code === 'FL1' ||
-              item.code === 'BL1' ||
-              item.code === 'SA' ||
-              item.code === 'PD'
-            );
-          });
+      leagues.competitions === undefined ? [] : leagues.competitions;
+    // .filter(item => {
+    //     return (
+    //       item.code === 'PL' ||
+    //       item.code === 'FL1' ||
+    //       item.code === 'BL1' ||
+    //       item.code === 'SA' ||
+    //       item.code === 'PD' ||
+    //       item.code === 'CL'
+    //     );
+    //   });
 
     if (loading) {
       let content = (
@@ -324,6 +353,7 @@ class Leagues extends Component {
                       getClubElo={this.getClubElo}
                       getGamesFromSport={this.getGamesFromSport}
                       eloLoading={eloLoading}
+                      onmenuclick={this.getGamesFromMenu}
                     />
                   )}
                 </div>

@@ -50,27 +50,13 @@
 
 .preview-game:hover {
   background: lightcoral;
+  padding: 0 10px;
   color: white;
-}
-.preview-game:focus {
-  background: lightcoral;
-  color: white;
-  border: none;
 }
 
-.preview-game:visited {
-  background: lightcoral;
-  color: white;
-  border: none;
-}
-
-.preview-game:active {
-  background: #f08080;
-  color: white;
-  border: none;
-}
 .league-item:hover {
   background: palevioletred;
+
   color: white;
 }
 .active {

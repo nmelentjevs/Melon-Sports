@@ -5,6 +5,7 @@ import keys from '../config/keys';
 
 import Spinner from 'react-bootstrap/Spinner';
 import Table from 'react-bootstrap/Table';
+import Button from 'react-bootstrap/Button';
 
 import {
   PieChart,
@@ -259,7 +260,10 @@ class Team extends Component {
               className="display-4"
               style={{ gridArea: 'name', marginTop: '20px' }}
             >
-              {team.name} <img width="50px" src={team.crestUrl} alt="" />
+              {team.name} <img width="50px" src={team.crestUrl} alt="" />{' '}
+              <Link style={{ color: 'white' }} to={`/news/${team.name}`}>
+                <Button variant="primary">News</Button>
+              </Link>{' '}
             </h1>
           </div>
 

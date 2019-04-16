@@ -31,7 +31,7 @@ class App extends Component {
             <Route exact path="/compare/:name1/:name2" component={Compare} />
           </Switch>
           <Switch>
-            <Route exact path="/news" component={News} />
+            <Route exact path="/news/:category" component={News} />
           </Switch>
         </div>
       </Router>
