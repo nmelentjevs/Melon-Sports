@@ -6,8 +6,9 @@ class ComponentMain extends Component {
   render() {
     return (
       <Fragment>
-        <hr />
-        <Leagues />
+        <div style={{ marginTop: '20px' }}>
+          <Leagues />
+        </div>
       </Fragment>
     );
   }

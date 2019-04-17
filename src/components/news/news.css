@@ -10,6 +10,10 @@
   max-width: 1024px;
 }
 
+body {
+  background: whitesmoke;
+}
+
 .news-grid {
   display: -ms-grid;
   display: grid;

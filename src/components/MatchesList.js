@@ -238,7 +238,7 @@ class MatchesList extends Component {
                           leagues.league.name.code
                         )
                           ? '#d6d6d6'
-                          : '#ffcba4'
+                          : '#ffdfd3'
                       }}
                     >
                       <div style={{ fontSize: '1rem', fontWeight: '700' }}>
@@ -255,13 +255,16 @@ class MatchesList extends Component {
                           <Button
                             variant="primary"
                             style={{
-                              fontSize: '.9rem',
-                              padding: '2.5px',
-                              marginBottom: '2px',
+                              fontSize: '.8rem',
+                              padding: '0 2.5px',
                               background: 'none',
                               color: 'black',
                               border: 'none',
-                              textDecoration: 'underline'
+                              marginBottom: '1px',
+                              borderRadius: 2,
+                              borderTop: '1px solid black',
+                              borderBottom: '1px solid black'
+                              // textDecoration: 'underline'
                             }}
                           >
                             Standings
@@ -270,24 +273,28 @@ class MatchesList extends Component {
                         <Button
                           variant="primary"
                           style={{
-                            fontSize: '.8rem',
+                            fontSize: '.9rem',
                             padding: '0 2.5px',
-                            marginBottom: '2px',
                             marginLeft: '2px',
-                            background: !favourites.includes(
+                            background: 'none',
+                            marginBottom: '3px',
+                            color: !favourites.includes(
                               leagues.league.name.code
                             )
-                              ? 'none'
-                              : 'gold',
-                            color: 'black',
-                            border: '1px black solid'
+                              ? 'black'
+                              : 'orange',
+                            border: 'none'
                           }}
                           onClick={() => {
                             this.addFav(leagues.league.name.code);
                           }}
                         >
                           {' '}
-                          Fav
+                          {!favourites.includes(leagues.league.name.code) ? (
+                            <i className="far fa-star" />
+                          ) : (
+                            <i className="fas fa-star" />
+                          )}
                         </Button>
                       </div>
                     </ListGroup.Item>
