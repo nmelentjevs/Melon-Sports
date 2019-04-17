@@ -11,7 +11,8 @@ import {
   ELO_LOADING,
   MATCHES_LOADING,
   LEAGUES_LOADING,
-  SET_ELO
+  SET_ELO,
+  FILTER_LEAGUES
 } from './types';
 
 // Get Leagues & Matches
@@ -217,6 +218,40 @@ export const updateDate = (from, to) => dispatch => {
             payload: err
           });
         });
+    });
+};
+
+export const filterLeagues = id => dispatch => {
+  dispatch({
+    type: FILTER_LEAGUES,
+    payload: id
+  });
+};
+
+export const timeLeagues = (id, status) => dispatch => {
+  const headers = {
+    'X-Auth-Token': keys.footballAPI
+  };
+  dispatch(setMatchesLoading());
+  axios
+    .get(
+      `https://api.football-data.org/v2/matches/?competitions=${id}&status=${status}`,
+      {
+        headers
+      }
+    )
+    .then(res => {
+      dispatch({
+        type: SET_MATCHES,
+        payload: res.data
+      });
+      dispatch(getClubElo(res.data));
+    })
+    .catch(err => {
+      dispatch({
+        type: GET_ERRORS,
+        payload: err
+      });
     });
 };
 

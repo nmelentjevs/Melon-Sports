@@ -49,7 +49,10 @@ class MatchesList extends Component {
   }
 
   shouldComponentUpdate(nextProps, nextState) {
-    return nextProps.eloLoading === false;
+    return (
+      nextProps.eloLoading === false ||
+      nextProps.favourites !== this.props.favourites
+    );
   }
 
   addFav = id => {
@@ -57,10 +60,9 @@ class MatchesList extends Component {
   };
 
   render() {
-    console.log(this.props);
     const { from, to } = this.state;
     const modifiers = { start: from, end: to };
-    const { matches, leagues, onmenuclick } = this.props;
+    const { matches, leagues, onmenuclick, favourites } = this.props;
     let matchesArray = [];
 
     leagues.forEach(league => {
@@ -74,6 +76,24 @@ class MatchesList extends Component {
       leagueMatches.league.matches = leagueArray;
       matchesArray.push(leagueMatches);
     });
+    let favArray = [];
+    matchesArray.map((item, index) => {
+      if (favourites.includes(item.league.name.code)) {
+        let a = matchesArray.splice(index, 1);
+        favArray.unshift(a[0]);
+      }
+      return null;
+    });
+    favArray.sort((a, b) => {
+      if (a.league.name.area < b.league.name.area) {
+        return -1;
+      }
+      if (a.league.name.area > b.league.name.area) {
+        return 1;
+      }
+      return 0;
+    });
+    favArray.map(item => matchesArray.unshift(item));
     return (
       <Fragment>
         <ListGroup lg="6">
@@ -214,7 +234,11 @@ class MatchesList extends Component {
                         justifyContent: 'space-between',
                         height: '30px',
                         alignItems: 'center',
-                        backgroundColor: '#ffcba4'
+                        backgroundColor: !favourites.includes(
+                          leagues.league.name.code
+                        )
+                          ? '#d6d6d6'
+                          : '#ffcba4'
                       }}
                     >
                       <div style={{ fontSize: '1rem', fontWeight: '700' }}>
@@ -231,7 +255,7 @@ class MatchesList extends Component {
                           <Button
                             variant="primary"
                             style={{
-                              fontSize: '.7rem',
+                              fontSize: '.9rem',
                               padding: '2.5px',
                               marginBottom: '2px',
                               background: 'none',
@@ -246,17 +270,15 @@ class MatchesList extends Component {
                         <Button
                           variant="primary"
                           style={{
-                            fontSize: '.7rem',
-                            padding: '0 1.5px',
+                            fontSize: '.8rem',
+                            padding: '0 2.5px',
                             marginBottom: '2px',
                             marginLeft: '2px',
-                            background:
-                              this.props.favourites === undefined ||
-                              !this.props.favourites.includes(
-                                leagues.league.name.code
-                              )
-                                ? 'none'
-                                : 'gold',
+                            background: !favourites.includes(
+                              leagues.league.name.code
+                            )
+                              ? 'none'
+                              : 'gold',
                             color: 'black',
                             border: '1px black solid'
                           }}
@@ -311,7 +333,7 @@ MatchesList.propTypes = {
 };
 
 const mapStateToProps = state => ({
-  favourites: state.favourites,
+  favourites: state.data.favourites,
   errors: state.errors
 });
 

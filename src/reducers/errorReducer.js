@@ -1,10 +1,4 @@
-import {
-  GET_ERRORS,
-  ELO_LOADING,
-  MATCHES_LOADING,
-  LEAGUES_LOADING,
-  SET_ELO
-} from '../actions/types';
+import { GET_ERRORS } from '../actions/types';
 
 const initialState = {};
 

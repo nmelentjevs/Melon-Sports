@@ -1,15 +1,14 @@
 import {
   SET_LEAGUES,
   SET_MATCHES,
-  GET_ERRORS,
   ELO_LOADING,
   MATCHES_LOADING,
-  LEAGUES_LOADING,
-  SET_ELO,
   ITEMS_LOADING,
+  SET_ELO,
   GET_FAV,
   ADD_OR_DELETE_FAV,
-  SET_FAV
+  SET_FAV,
+  FILTER_LEAGUES
 } from '../actions/types';
 
 const initialState = {
@@ -71,6 +70,13 @@ export default function(state = initialState, action) {
         favourites: state.favourites.includes(action.payload)
           ? state.favourites.filter(item => item !== action.payload)
           : [...state.favourites, action.payload]
+      };
+    case FILTER_LEAGUES:
+      return {
+        ...state,
+        filteredLeagues: state.leagues.competitions.filter(
+          league => league.id === action.payload
+        )
       };
     default:
       return state;

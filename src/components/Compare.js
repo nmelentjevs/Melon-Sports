@@ -11,7 +11,11 @@ class Compare extends Component {
   };
 
   componentDidMount() {
-    const { name1, name2, league } = this.props.match.params;
+    const {
+      name1,
+      // name2,
+      league
+    } = this.props.match.params;
     const headers = {
       'X-Auth-Token': keys.footballAPI
     };

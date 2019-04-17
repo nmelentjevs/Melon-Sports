@@ -1,13 +1,15 @@
 import React, { Component } from 'react';
-import axios from 'axios';
-import keys from '../config/keys';
-import moment from 'moment';
-
 // Redux
 
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
-import { getData, getClubElo, updateDate } from '../actions/dataActions';
+import {
+  getData,
+  getClubElo,
+  updateDate,
+  filterLeagues,
+  timeLeagues
+} from '../actions/dataActions';
 
 // import { Transition, animated } from 'react-spring/renderprops';
 import { Spring } from 'react-spring/renderprops';
@@ -29,7 +31,9 @@ class Leagues extends Component {
   };
 
   componentDidMount() {
-    this.props.getData();
+    if (this.props.data.leagues.length === 0) {
+      this.props.getData();
+    }
   }
 
   updateDate = (dateFrom, dateTo) => {
@@ -37,50 +41,33 @@ class Leagues extends Component {
   };
 
   getGamesFromSport = id => {
-    const headers = {
-      'X-Auth-Token': keys.footballAPI
-    };
-    this.setState({ gamesLoading: true });
-    axios
-      .get(
-        `https://api.football-data.org/v2/matches/?competitions=${id}&dateFrom=${moment().format(
-          'YYYY-MM-DD'
-        )}&dateTo=${moment()
-          .add(3, 'days')
-          .format('YYYY-MM-DD')}`,
-        {
-          headers
-        }
-      )
-      .then(res => {
-        this.setState({ matches: res.data, gamesLoading: false });
-        this.getClubElo(res.data);
-      })
-      .catch(error => {
-        console.log(error);
-      });
+    // const headers = {
+    //   'X-Auth-Token': keys.footballAPI
+    // };
+    // this.setState({ gamesLoading: true });
+    // axios
+    //   .get(
+    //     `https://api.football-data.org/v2/matches/?competitions=${id}&dateFrom=${moment().format(
+    //       'YYYY-MM-DD'
+    //     )}&dateTo=${moment()
+    //       .add(3, 'days')
+    //       .format('YYYY-MM-DD')}`,
+    //     {
+    //       headers
+    //     }
+    //   )
+    //   .then(res => {
+    //     this.setState({ matches: res.data, gamesLoading: false });
+    //     this.getClubElo(res.data);
+    //   })
+    //   .catch(error => {
+    //     console.log(error);
+    //   });    console.log(id)
+    this.props.filterLeagues(id);
   };
 
   getGamesFromMenu = (id, status) => {
-    const headers = {
-      'X-Auth-Token': keys.footballAPI
-    };
-    this.setState({ gamesLoading: true });
-    axios
-      .get(
-        `https://api.football-data.org/v2/matches/?competitions=${id}&status=${status}`,
-        {
-          headers
-        }
-      )
-      .then(res => {
-        console.log(res.data);
-        this.setState({ matches: res.data, gamesLoading: false });
-        this.getClubElo(res.data);
-      })
-      .catch(error => {
-        console.log(error);
-      });
+    this.props.timeLeagues(id, status);
   };
 
   onClick = e => {
@@ -133,7 +120,7 @@ class Leagues extends Component {
     //   : (matches = this.props.data.matches);
     const gridStyle = {
       display: 'grid',
-      gridTemplateColumns: '175px auto ',
+      gridTemplateColumns: '150px auto ',
       gridGap: '20px'
     };
 
@@ -152,7 +139,7 @@ class Leagues extends Component {
       let content = (
         <Container>
           <Spring
-            from={{ opacity: 0, marginLeft: -500 }}
+            from={{ opacity: 0, marginLeft: -300 }}
             to={{ opacity: 1, marginLeft: 0 }}
           >
             {props => (
@@ -190,6 +177,7 @@ Leagues.propTypes = {
   getData: PropTypes.func.isRequired,
   getClubElo: PropTypes.func.isRequired,
   updateDate: PropTypes.func.isRequired,
+  filterLeagues: PropTypes.func.isRequired,
   errors: PropTypes.object.isRequired,
   data: PropTypes.object.isRequired
 };
@@ -201,5 +189,5 @@ const mapStateToProps = state => ({
 
 export default connect(
   mapStateToProps,
-  { getData, getClubElo, updateDate }
+  { getData, getClubElo, updateDate, filterLeagues, timeLeagues }
 )(Leagues);
