@@ -55,12 +55,17 @@
 }
 
 .league-item:hover {
-  background: palevioletred;
+  background: whitesmoke;
 
-  color: white;
+  color: black;
 }
+
+.list-group-item.active {
+  color: black;
+}
+
 .active {
-  background: palevioletred !important;
+  background: #db9065 !important;
 }
 
 /* .innactive {

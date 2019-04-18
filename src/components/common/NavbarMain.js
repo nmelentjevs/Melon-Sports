@@ -11,10 +11,10 @@ import TypedText from '../TypedText';
 export default function NavbarMain() {
   return (
     <Fragment>
-      <div style={{ display: 'flex', background: '#FFAF87' }}>
+      <div style={{ display: 'flex', background: '#a63446' }}>
         <Container>
           <h1 className="display-3" style={{ textAlign: 'left', flex: 1 }}>
-            <a href="/" style={{ textDecoration: 'none', color: 'black' }}>
+            <a href="/" style={{ textDecoration: 'none', color: 'white' }}>
               <span
                 style={{
                   fontSize: '18px',
@@ -31,9 +31,9 @@ export default function NavbarMain() {
                 <span style={{ fontWeight: '800' }}> Melon </span>
                 <TypedText
                   strings={[
-                    '<strong style="color:orange">Sports<strong>',
-                    '<strong style="color:lightcoral">Predictions<strong>',
-                    '<strong style="color:palevioletred">Football ML<strong>'
+                    '<strong style="color:white">Sports<strong>',
+                    '<strong style="color:white">Predictions<strong>',
+                    '<strong style="color:white">Football ML<strong>'
                   ]}
                   style={{ display: 'inline-block ' }}
                 />
@@ -45,7 +45,7 @@ export default function NavbarMain() {
       <nav />
       <Navbar
         style={{
-          background: '#FF8E72',
+          background: '#89023e',
           letterSpacing: '3px',
           display: 'flex'
         }}
@@ -55,13 +55,13 @@ export default function NavbarMain() {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mr-auto">
-              <Link className="nav-link" to="/" style={{ color: 'black' }}>
+              <Link className="nav-link" to="/" style={{ color: 'white' }}>
                 Home{' '}
               </Link>
               <Link
                 className="nav-link"
                 to="/news/Football"
-                style={{ color: 'black' }}
+                style={{ color: 'white' }}
               >
                 News
               </Link>

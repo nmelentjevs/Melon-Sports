@@ -126,9 +126,8 @@ class GameItem extends Component {
             <div
               className="score"
               style={{
-                margin: '0 10px',
+                margin: '0 5px',
                 alignSelf: 'center',
-                flex: 1,
                 border: 'none'
               }}
             >
@@ -151,7 +150,7 @@ class GameItem extends Component {
                     {info.score.fullTime.awayTeam}
                   </div>
                 ) : (
-                  <div> Preview </div>
+                  <div> Info </div>
                 )}
               </button>
             </div>

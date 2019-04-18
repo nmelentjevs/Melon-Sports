@@ -99,15 +99,8 @@ class Leagues extends Component {
     }
   };
 
-  // TODO
-  // ON LIST ITEM CLICK  => ANIMATE IT TO LEFT SIDE
-  // => AND MAKE AN ARROW FROM IT TO THE NEXT LIST OF GAMES
-  // => ON GAME CARD CLICK
-  // => FOCUS ON IT ( ISOLATE MODE ) DROPDOWN ODDS
-
   render() {
     // let matches;
-
     const {
       leagueLoading,
       matchesLoading,
@@ -120,7 +113,7 @@ class Leagues extends Component {
     //   : (matches = this.props.data.matches);
     const gridStyle = {
       display: 'grid',
-      gridTemplateColumns: '150px auto ',
+      gridTemplateColumns: 'auto 150px',
       gridGap: '20px'
     };
 
@@ -130,8 +123,9 @@ class Leagues extends Component {
     if (leagueLoading) {
       let content = (
         <Container>
-          <Spinner animation="grow" /> <Spinner animation="grow" />
-          <Spinner animation="grow" />
+          <Spinner variant="warning" animation="grow" />{' '}
+          <Spinner variant="warning" animation="grow" />
+          <Spinner variant="warning" animation="grow" />
         </Container>
       );
       return content;
@@ -145,11 +139,11 @@ class Leagues extends Component {
             {props => (
               <div style={props}>
                 <div className="list-grid" style={gridStyle}>
-                  <LeagueList leagues={leaguesList} onclick={this.onClick} />
                   {matchesLoading ? (
                     <div>
-                      <Spinner animation="grow" /> <Spinner animation="grow" />{' '}
-                      <Spinner animation="grow" />
+                      <Spinner variant="warning" animation="grow" />{' '}
+                      <Spinner variant="warning" animation="grow" />{' '}
+                      <Spinner variant="warning" animation="grow" />
                     </div>
                   ) : (
                     <MatchesList
@@ -160,8 +154,14 @@ class Leagues extends Component {
                       getGamesFromSport={this.getGamesFromSport}
                       eloLoading={eloLoading}
                       onmenuclick={this.getGamesFromMenu}
+                      style={{ gridArea: 'matches' }}
                     />
                   )}
+                  <LeagueList
+                    leagues={leaguesList}
+                    onclick={this.onClick}
+                    style={{ gridArea: 'leagues' }}
+                  />
                 </div>
               </div>
             )}

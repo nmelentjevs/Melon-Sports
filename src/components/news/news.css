@@ -11,7 +11,7 @@
 }
 
 body {
-  background: whitesmoke;
+  background: url('../../img/ZfFPCv.png');
 }
 
 .news-grid {
@@ -67,6 +67,7 @@ body {
 .news-item {
   position: relative;
   text-align: center;
+  background: whitesmoke;
 }
 
 .news-item:nth-child(1) {

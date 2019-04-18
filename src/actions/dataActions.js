@@ -30,6 +30,7 @@ export const getData = () => dispatch => {
       }
     )
     .then(res => {
+      console.log(res.data);
       dispatch({
         type: SET_LEAGUES,
         payload: res.data
@@ -51,6 +52,7 @@ export const getData = () => dispatch => {
           }
         )
         .then(res => {
+          console.log(res.data);
           dispatch({
             type: SET_MATCHES,
             payload: res.data

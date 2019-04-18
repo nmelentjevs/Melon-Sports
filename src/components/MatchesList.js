@@ -96,26 +96,42 @@ class MatchesList extends Component {
     favArray.map(item => matchesArray.unshift(item));
     return (
       <Fragment>
-        <ListGroup lg="6">
+        <ListGroup
+          lg="6"
+          style={{
+            background: 'transparent'
+          }}
+        >
           <div
             className="InputFromTo"
             style={{
               textAlign: 'right',
               display: 'flex',
-              justifyContent: 'space-between'
+              justifyContent: 'space-between',
+              color: 'black',
+              padding: '5px 0',
+              marginBottom: '15px',
+              background: 'whitesmoke',
+              borderRadius: '5px',
+              gridArea: 'menu'
             }}
           >
             <div
               style={{
-                marginBottom: '5px',
-                alignSelf: 'center',
-                textAlign: 'center',
+                marginTop: '5px',
                 display: 'flex',
                 justifyContent: 'space-between',
                 width: '50%'
               }}
             >
-              <div className="nav-items-main" style={{ margin: '0 50px' }}>
+              <div
+                className="nav-items-main"
+                style={{
+                  margin: '0 50px 0 20px',
+                  marginBottom: '2.5px',
+                  padding: '0 10px'
+                }}
+              >
                 <span>Browse Games</span>
               </div>
               <div style={{ flex: 1, marginRight: '5px' }}>
@@ -146,7 +162,7 @@ class MatchesList extends Component {
                   Today
                 </span>
               </div>
-              <div style={{ flex: 1, marginLeft: '-10px' }}>
+              <div style={{ flex: 1, marginRight: '5px' }}>
                 <span
                   className="nav-items-secondary"
                   // TODO WRITE PROPER REFRESH OR FILTER FUNCTION TO SEE GAMES
@@ -156,7 +172,7 @@ class MatchesList extends Component {
                 </span>
               </div>
             </div>
-            <div style={{ marginBottom: '5px' }}>
+            <div style={{ margin: '2.5px 10px 0 0' }}>
               <DayPickerInput
                 value={from}
                 placeholder="From"
@@ -221,113 +237,142 @@ class MatchesList extends Component {
             </div>
           </div>
 
-          {matchesArray.map(leagues => {
-            return (
-              <Fragment key={leagues.league.name.id}>
-                {' '}
-                {leagues.league.matches.length !== 0 ? (
-                  <Fragment>
-                    <ListGroup.Item
+          <div
+            style={{
+              display: 'grid',
+              gridGap: '10px',
+              borderRadius: '5px'
+            }}
+          >
+            {matchesArray.map(leagues => {
+              console.log(leagues);
+              return (
+                <Fragment key={leagues.league.name.id}>
+                  {leagues.league.matches.length !== 0 ? (
+                    <div
+                      className="matches"
                       style={{
-                        textAlign: 'left',
-                        display: 'flex',
-                        justifyContent: 'space-between',
-                        height: '30px',
-                        alignItems: 'center',
-                        backgroundColor: !favourites.includes(
-                          leagues.league.name.code
-                        )
-                          ? '#d6d6d6'
-                          : '#ffdfd3'
+                        display: 'grid',
+                        gridTemplateColumns: '550px auto',
+                        gridGap: '5px'
                       }}
                     >
-                      <div style={{ fontSize: '1rem', fontWeight: '700' }}>
-                        {leagues.league.name.area.name}:{' '}
-                        {leagues.league.name.name}
-                      </div>
                       <div>
-                        <Link
-                          style={{ color: 'white' }}
-                          to={`/team/${leagues.league.name.id}/${
-                            leagues.league.matches[0].homeTeam.name
-                          }`}
-                        >
-                          <Button
-                            variant="primary"
-                            style={{
-                              fontSize: '.8rem',
-                              padding: '0 2.5px',
-                              background: 'none',
-                              color: 'black',
-                              border: 'none',
-                              marginBottom: '1px',
-                              borderRadius: 2,
-                              borderTop: '1px solid black',
-                              borderBottom: '1px solid black'
-                              // textDecoration: 'underline'
-                            }}
-                          >
-                            Standings
-                          </Button>
-                        </Link>{' '}
-                        <Button
-                          variant="primary"
+                        <ListGroup.Item
                           style={{
-                            fontSize: '.9rem',
-                            padding: '0 2.5px',
-                            marginLeft: '2px',
-                            background: 'none',
-                            marginBottom: '3px',
-                            color: !favourites.includes(
+                            textAlign: 'left',
+                            display: 'flex',
+                            justifyContent: 'space-between',
+                            height: '35px',
+                            alignItems: 'center',
+                            gridArea: 'item',
+                            backgroundColor: !favourites.includes(
                               leagues.league.name.code
                             )
-                              ? 'black'
-                              : 'orange',
-                            border: 'none'
-                          }}
-                          onClick={() => {
-                            this.addFav(leagues.league.name.code);
+                              ? '#d6d6d6'
+                              : '#eadaa2'
                           }}
                         >
-                          {' '}
-                          {!favourites.includes(leagues.league.name.code) ? (
-                            <i className="far fa-star" />
-                          ) : (
-                            <i className="fas fa-star" />
-                          )}
-                        </Button>
-                      </div>
-                    </ListGroup.Item>
-
-                    {leagues.league.matches.map(match => {
-                      return (
-                        <ListGroup.Item
-                          as="li"
-                          key={match.id - 1000}
-                          style={{
-                            fontSize: '13px',
-                            padding: '2px'
-                          }}
-                        >
-                          <GameItem
-                            style={{
-                              width: 'auto',
-                              height: '50px',
-                              display: 'block'
-                            }}
-                            key={match.id}
-                            home={match.homeTeam}
-                            away={match.awayTeam}
-                            info={match}
-                          />
+                          <div style={{ fontSize: '1rem', fontWeight: '700' }}>
+                            {leagues.league.name.area.name}:{' '}
+                            {leagues.league.name.name}
+                          </div>
+                          <div>
+                            <Link
+                              style={{ color: 'white' }}
+                              to={`/team/${leagues.league.name.id}/${
+                                leagues.league.matches[0].homeTeam.name
+                              }`}
+                            >
+                              <Button
+                                variant="primary"
+                                style={{
+                                  fontSize: '.8rem',
+                                  padding: '0 2.5px',
+                                  background: 'none',
+                                  color: 'black',
+                                  border: 'none',
+                                  marginBottom: '1px',
+                                  borderRadius: 2,
+                                  borderTop: '1px solid black',
+                                  borderBottom: '1px solid black'
+                                  // textDecoration: 'underline'
+                                }}
+                              >
+                                Standings
+                              </Button>
+                            </Link>{' '}
+                            <Button
+                              variant="primary"
+                              style={{
+                                fontSize: '.9rem',
+                                padding: '0 2.5px',
+                                marginLeft: '2px',
+                                background: 'none',
+                                marginBottom: '3px',
+                                color: !favourites.includes(
+                                  leagues.league.name.code
+                                )
+                                  ? 'black'
+                                  : 'orange',
+                                border: 'none'
+                              }}
+                              onClick={() => {
+                                this.addFav(leagues.league.name.code);
+                              }}
+                            >
+                              {' '}
+                              {!favourites.includes(
+                                leagues.league.name.code
+                              ) ? (
+                                <i className="far fa-star" />
+                              ) : (
+                                <i className="fas fa-star" />
+                              )}
+                            </Button>
+                          </div>
                         </ListGroup.Item>
-                      );
-                    })}
-                  </Fragment>
-                ) : null}
-              </Fragment>
-            );
-          })}
+
+                        {leagues.league.matches.map(match => {
+                          return (
+                            <ListGroup.Item
+                              as="li"
+                              key={match.id - 1000}
+                              style={{
+                                fontSize: '13px',
+                                padding: '2px',
+                                minHeight: '25px'
+                              }}
+                            >
+                              <GameItem
+                                style={{
+                                  width: 'auto',
+                                  display: 'block'
+                                }}
+                                key={match.id}
+                                home={match.homeTeam}
+                                away={match.awayTeam}
+                                info={match}
+                              />
+                            </ListGroup.Item>
+                          );
+                        })}
+                      </div>
+                      <div
+                        style={{
+                          background: 'whitesmoke',
+                          borderRadius: '5px',
+                          verticalAlign: 'middle'
+                        }}
+                      >
+                        Something very important
+                      </div>
+                    </div>
+                  ) : null}
+                </Fragment>
+              );
+            })}
+          </div>
         </ListGroup>
       </Fragment>
     );

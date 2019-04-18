@@ -16,9 +16,11 @@ class LeagueList extends Component {
           <ListGroup.Item
             style={{
               border: 'none',
-              backgroundColor: 'pink',
+              backgroundColor: '#f2a359',
               height: '40px',
-              width: '100%'
+              width: '100%',
+              color: 'white',
+              borderRadius: '5px'
             }}
           >
             <h5
