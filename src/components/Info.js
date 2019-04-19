@@ -16,13 +16,16 @@ import {
   Tooltip
 } from 'recharts';
 
+const epochs = 25;
+
 class Info extends Component {
   constructor() {
     super();
     this.state = {
       teamsData: [],
       dataVisualize: [],
-      showGraph: false
+      showGraph: false,
+      average: []
     };
   }
   render() {
@@ -71,7 +74,6 @@ class Info extends Component {
       return dataTenser.push(team);
     });
     const { home, away } = this.props;
-    console.log(dataTenser);
     let homeTeam = dataTenser.find(team => {
       if (home.name.includes(team[0])) {
         return team;
@@ -153,8 +155,12 @@ class Info extends Component {
 
     const train = async () => {
       this.setState({ showGraph: true });
+      let amount = 0;
+      let home = 0;
+      let draw = 0;
+      let away = 0;
       const options = {
-        epochs: 30,
+        epochs,
         validationSplit: 0.1,
         shuffle: true,
         callbacks: {
@@ -166,16 +172,20 @@ class Info extends Component {
           onEpochEnd: (num, logs) => {
             console.log('Epoch: ' + num);
             console.log('Loss: ' + logs.loss);
-            tf.nextFrame();
             tf.tidy(() => {
-              xst.print();
-
               let results = model.predict(xst.reshape([1, 36]));
 
               let index = results.dataSync();
 
               let label = labelList[index];
               // xs.print();
+              amount++;
+              home += parseFloat(results.dataSync()[0]);
+              draw += parseFloat(results.dataSync()[1]);
+              away += parseFloat(results.dataSync()[2]);
+              const homeAvg = home / amount;
+              const drawAvg = draw / amount;
+              const awayAvg = away / amount;
               this.setState({
                 dataVisualize: [
                   ...this.state.dataVisualize,
@@ -183,12 +193,24 @@ class Info extends Component {
                     name: `${this.props.home.name.charAt(
                       0
                     )} vs ${this.props.away.name.charAt(0)}`,
-                    home: results.dataSync()[0].toFixed(2),
-                    draw: results.dataSync()[1].toFixed(2),
-                    away: results.dataSync()[2].toFixed(2)
+                    home: results.dataSync()[0],
+                    draw: results.dataSync()[1],
+                    away: results.dataSync()[2]
+                  }
+                ],
+                average: [
+                  {
+                    homeAvg,
+                    drawAvg,
+                    awayAvg
                   }
                 ]
               });
+              console.log([
+                homeAvg.toFixed(3),
+                drawAvg.toFixed(3),
+                awayAvg.toFixed(3)
+              ]);
               // console.log(index);
             });
           }
@@ -258,6 +280,22 @@ class Info extends Component {
               ))
             }
           </Transition>
+
+          <div>
+            {this.state.average.homeAvg !== []
+              ? this.state.average.homeAvg
+              : null}
+          </div>
+          <div>
+            {this.state.average.drawAvg !== []
+              ? this.state.average.drawAvg
+              : null}
+          </div>
+          <div>
+            {this.state.average.awayAvg !== []
+              ? this.state.average.awayAvg
+              : null}
+          </div>
         </Card.Body>
       </Card>
     );
