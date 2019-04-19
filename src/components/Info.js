@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 
 import * as tf from '@tensorflow/tfjs';
-import P5Wrapper from 'react-p5-wrapper';
 
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
+import { Transition, animated } from 'react-spring/renderprops';
 import { Link } from 'react-router-dom';
 
 import {
@@ -20,7 +20,9 @@ class Info extends Component {
   constructor() {
     super();
     this.state = {
-      dataVisualize: []
+      teamsData: [],
+      dataVisualize: [],
+      showGraph: false
     };
   }
   render() {
@@ -28,7 +30,6 @@ class Info extends Component {
     let matches = require('../jsonData/matchesData.json');
     let xs, ys;
     let model;
-    let lossP;
     let labelList = ['H', 'D', 'A'];
 
     const teamDataArr = [];
@@ -67,24 +68,50 @@ class Info extends Component {
         parseFloat(item.homeLoses / 10),
         parseFloat(item.homeDraws / 10)
       ];
-      dataTenser.push(team);
+      return dataTenser.push(team);
     });
+    const { home, away } = this.props;
+    console.log(dataTenser);
+    let homeTeam = dataTenser.find(team => {
+      if (home.name.includes(team[0])) {
+        return team;
+      } else if (
+        home.name.includes(team[0].split(' ')[0]) &&
+        home.name.includes(team[0].split(' ')[1])
+      ) {
+        return team;
+      }
+    });
+    let awayTeam = dataTenser.find(team => {
+      if (away.name.includes(team[0])) {
+        return team;
+      } else if (
+        away.name.includes(team[0].split(' ')[0]) &&
+        away.name.includes(team[0].split(' ')[1])
+      ) {
+        return team;
+      }
+    });
+
+    const homeTeamTenser = homeTeam.filter((item, i) => i !== 0);
+    const awayTeamTenser = awayTeam.filter((item, i) => i !== 0);
+
     let matchesDataArrNoRes = [];
     matchesDataArrResults.map(match => {
       dataTenser.map(team => {
         if (team[0] === match.home) {
           let noName = team.filter((item, i) => i !== 0);
-          match.home = noName;
+          return (match.home = noName);
         }
         if (team[0] === match.away) {
           let noName = team.filter((item, i) => i !== 0);
-          match.away = noName;
+          return (match.away = noName);
         }
       });
     });
     matchesDataArrResults.map(match => {
       matchesDataArrNoRes.push([match.home, match.away]);
-      labels.push(labelList.indexOf(match.result));
+      return labels.push(labelList.indexOf(match.result));
     });
 
     xs = tf.tensor3d(matchesDataArrNoRes);
@@ -94,16 +121,16 @@ class Info extends Component {
     model = tf.sequential();
 
     let hidden1 = tf.layers.dense({
-      units: 32,
-      activation: 'sigmoid',
+      units: 64,
+      activation: 'linear',
       inputShape: [36]
     });
 
-    let hidden2 = tf.layers.dense({
-      units: 32,
-      activation: 'sigmoid',
-      inputShape: [32]
-    });
+    // let hidden2 = tf.layers.dense({
+    //   units: 32,
+    //   activation: 'sigmoid',
+    //   inputShape: [32]
+    // });
 
     let output = tf.layers.dense({
       units: 3,
@@ -111,7 +138,7 @@ class Info extends Component {
     });
 
     model.add(hidden1);
-    model.add(hidden2);
+    // model.add(hidden2);
     model.add(output);
 
     let lr = 0.2;
@@ -122,52 +149,12 @@ class Info extends Component {
       loss: 'categoricalCrossentropy'
     });
 
-    const xst = tf.tensor2d([
-      [
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random()
-      ],
-      [
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random(),
-        Math.random()
-      ]
-    ]);
+    const xst = tf.tensor2d([homeTeamTenser, awayTeamTenser]);
 
     const train = async () => {
+      this.setState({ showGraph: true });
       const options = {
-        epochs: 20,
+        epochs: 30,
         validationSplit: 0.1,
         shuffle: true,
         callbacks: {
@@ -178,6 +165,7 @@ class Info extends Component {
           onBatchEnd: (num, logs) => {},
           onEpochEnd: (num, logs) => {
             console.log('Epoch: ' + num);
+            console.log('Loss: ' + logs.loss);
             tf.nextFrame();
             tf.tidy(() => {
               xst.print();
@@ -192,14 +180,16 @@ class Info extends Component {
                 dataVisualize: [
                   ...this.state.dataVisualize,
                   {
-                    name: 'A vs B',
-                    home: results.dataSync()[0],
-                    draw: results.dataSync()[1],
-                    away: results.dataSync()[2]
+                    name: `${this.props.home.name.charAt(
+                      0
+                    )} vs ${this.props.away.name.charAt(0)}`,
+                    home: results.dataSync()[0].toFixed(2),
+                    draw: results.dataSync()[1].toFixed(2),
+                    away: results.dataSync()[2].toFixed(2)
                   }
                 ]
               });
-              console.log(index);
+              // console.log(index);
             });
           }
         }
@@ -243,7 +233,7 @@ class Info extends Component {
     );
 
     return (
-      <Card style={{ height: '500px', width: '100%' }}>
+      <Card style={{ height: 'auto', width: '100%' }}>
         <Card.Body>
           <div className="card-main">
             <Button variant="primary" onClick={() => train()}>
@@ -251,7 +241,23 @@ class Info extends Component {
             </Button>
           </div>
           {/* <P5Wrapper sketch={sketch} /> */}
-          <StackedAreaChart />
+
+          <Transition
+            native
+            items={this.state.showGraph}
+            from={{ opacity: 0, display: 'none' }}
+            enter={{ opacity: 1, display: 'block' }}
+            leave={{ opacity: 0, display: 'none' }}
+          >
+            {show =>
+              show &&
+              (props => (
+                <animated.div style={props}>
+                  <StackedAreaChart />
+                </animated.div>
+              ))
+            }
+          </Transition>
         </Card.Body>
       </Card>
     );

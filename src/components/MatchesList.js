@@ -360,7 +360,8 @@ class MatchesList extends Component {
                       <div
                         style={{
                           background: 'whitesmoke',
-                          borderRadius: '5px'
+                          borderRadius: '5px',
+                          maxHeight: '400px'
                         }}
                       >
                         Something very important

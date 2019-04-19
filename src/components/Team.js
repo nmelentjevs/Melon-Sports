@@ -244,7 +244,8 @@ class Team extends Component {
       return (
         <div
           style={{
-            alignItems: 'center'
+            alignItems: 'center',
+            background: 'whitesmoke'
             // display: 'grid',
             // gridTemplateAreas: `
             // 'name name name'

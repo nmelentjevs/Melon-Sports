@@ -214,7 +214,7 @@ class GameItem extends Component {
             show &&
             (props => (
               <animated.div style={props}>
-                <Info />
+                <Info home={home} away={away} />
               </animated.div>
             ))
           }
