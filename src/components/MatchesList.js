@@ -245,7 +245,6 @@ class MatchesList extends Component {
             }}
           >
             {matchesArray.map(leagues => {
-              console.log(leagues);
               return (
                 <Fragment key={leagues.league.name.id}>
                   {leagues.league.matches.length !== 0 ? (
@@ -361,8 +360,7 @@ class MatchesList extends Component {
                       <div
                         style={{
                           background: 'whitesmoke',
-                          borderRadius: '5px',
-                          verticalAlign: 'middle'
+                          borderRadius: '5px'
                         }}
                       >
                         Something very important
