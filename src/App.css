@@ -64,6 +64,10 @@
   color: black;
 }
 
+.list-group-item {
+  border-radius: 0 !important;
+}
+
 .active {
   background: #db9065 !important;
 }
@@ -73,3 +77,19 @@
   background: whitesmoke;
   opacity: 0.8;
 } */
+
+.aside-item {
+  background: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.aside-menu {
+  display: grid;
+  grid-gap: 5px;
+  grid-template-columns: 1fr 1fr;
+  max-height: 353px;
+}
+
+.aside-item:nth-child(3) {
+}

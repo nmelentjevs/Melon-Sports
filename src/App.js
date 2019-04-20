@@ -22,7 +22,8 @@ class App extends Component {
         <Router history={createBrowserHistory()}>
           <div
             className="App"
-            style={{ background: 'rgba(12,12,12,0.8)', height: '250vh' }}
+            id="app"
+            style={{ background: 'rgba(12,12,12,0.6)', height: '250vh' }}
           >
             <NavbarMain />
             <Switch>

@@ -63,7 +63,7 @@ class GameItem extends Component {
               moment(new Date())
                 .add(1, 'days')
                 .format('DD/MM/YYYY') ? (
-              <div> Tomorrow </div>
+              <div style={{ fontSize: '.65rem' }}> Tomorrow </div>
             ) : moment(info.utcDate).format('DD/MM/YYYY') ===
               moment(new Date())
                 .add(-1, 'days')
@@ -214,7 +214,7 @@ class GameItem extends Component {
             show &&
             (props => (
               <animated.div style={props}>
-                <Info home={home} away={away} />
+                <Info home={home} away={away} predict={this.state.showInfo} />
               </animated.div>
             ))
           }

@@ -15,8 +15,9 @@ import {
   CartesianGrid,
   Tooltip
 } from 'recharts';
+import Spinner from 'react-bootstrap/Spinner';
 
-const epochs = 25;
+const epochs = 5;
 
 class Info extends Component {
   constructor() {
@@ -25,7 +26,13 @@ class Info extends Component {
       teamsData: [],
       dataVisualize: [],
       showGraph: false,
-      average: []
+      average: [],
+      training: false,
+      average: {
+        homeAvg: 0,
+        drawAvg: 0,
+        awayAvg: 0
+      }
     };
   }
   render() {
@@ -34,7 +41,8 @@ class Info extends Component {
     let xs, ys;
     let model;
     let labelList = ['H', 'D', 'A'];
-
+    console.log(this.props.home);
+    console.log(this.props.away);
     const teamDataArr = [];
     const matchesDataArrResults = [];
 
@@ -82,6 +90,8 @@ class Info extends Component {
         home.name.includes(team[0].split(' ')[1])
       ) {
         return team;
+      } else if (home.name === 'Wolverhampton Wanderers FC') {
+        return team[0] === 'Wolves';
       }
     });
     let awayTeam = dataTenser.find(team => {
@@ -94,6 +104,8 @@ class Info extends Component {
         return team;
       }
     });
+
+    console.log(dataTenser);
 
     const homeTeamTenser = homeTeam.filter((item, i) => i !== 0);
     const awayTeamTenser = awayTeam.filter((item, i) => i !== 0);
@@ -154,7 +166,7 @@ class Info extends Component {
     const xst = tf.tensor2d([homeTeamTenser, awayTeamTenser]);
 
     const train = async () => {
-      this.setState({ showGraph: true });
+      this.setState({ showGraph: true, training: true });
       let amount = 0;
       let home = 0;
       let draw = 0;
@@ -167,7 +179,8 @@ class Info extends Component {
           onTrainBegin: () => {
             console.log('training start');
           },
-          onTrainEnd: () => console.log('training ended'),
+          onTrainEnd: () =>
+            this.setState({ showGraph: false, training: false }),
           onBatchEnd: (num, logs) => {},
           onEpochEnd: (num, logs) => {
             console.log('Epoch: ' + num);
@@ -198,13 +211,11 @@ class Info extends Component {
                     away: results.dataSync()[2]
                   }
                 ],
-                average: [
-                  {
-                    homeAvg,
-                    drawAvg,
-                    awayAvg
-                  }
-                ]
+                average: {
+                  homeAvg,
+                  drawAvg,
+                  awayAvg
+                }
               });
               console.log([
                 homeAvg.toFixed(3),
@@ -263,7 +274,6 @@ class Info extends Component {
             </Button>
           </div>
           {/* <P5Wrapper sketch={sketch} /> */}
-
           <Transition
             native
             items={this.state.showGraph}
@@ -280,22 +290,17 @@ class Info extends Component {
               ))
             }
           </Transition>
-
-          <div>
-            {this.state.average.homeAvg !== []
-              ? this.state.average.homeAvg
-              : null}
-          </div>
-          <div>
-            {this.state.average.drawAvg !== []
-              ? this.state.average.drawAvg
-              : null}
-          </div>
-          <div>
-            {this.state.average.awayAvg !== []
-              ? this.state.average.awayAvg
-              : null}
-          </div>
+          {this.state.training ? (
+            <div>
+              <Spinner /> <Spinner /> <Spinner />
+            </div>
+          ) : (
+            <div>
+              <div> Home: {(this.state.average.homeAvg * 100).toFixed(2)}%</div>
+              <div> Draw: {(this.state.average.drawAvg * 100).toFixed(2)}%</div>
+              <div> Away: {(this.state.average.awayAvg * 100).toFixed(2)}%</div>
+            </div>
+          )}
         </Card.Body>
       </Card>
     );

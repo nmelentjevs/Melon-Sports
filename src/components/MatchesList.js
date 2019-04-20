@@ -94,6 +94,7 @@ class MatchesList extends Component {
       return 0;
     });
     favArray.map(item => matchesArray.unshift(item));
+    console.log(matchesArray);
     return (
       <Fragment>
         <ListGroup
@@ -112,7 +113,6 @@ class MatchesList extends Component {
               padding: '5px 0',
               marginBottom: '15px',
               background: 'whitesmoke',
-              borderRadius: '5px',
               gridArea: 'menu'
             }}
           >
@@ -240,8 +240,7 @@ class MatchesList extends Component {
           <div
             style={{
               display: 'grid',
-              gridGap: '10px',
-              borderRadius: '5px'
+              gridGap: '10px'
             }}
           >
             {matchesArray.map(leagues => {
@@ -291,10 +290,7 @@ class MatchesList extends Component {
                                   background: 'none',
                                   color: 'black',
                                   border: 'none',
-                                  marginBottom: '1px',
-                                  borderRadius: 2,
-                                  borderTop: '1px solid black',
-                                  borderBottom: '1px solid black'
+                                  marginBottom: '1px'
                                   // textDecoration: 'underline'
                                 }}
                               >
@@ -359,12 +355,45 @@ class MatchesList extends Component {
                       </div>
                       <div
                         style={{
-                          background: 'whitesmoke',
-                          borderRadius: '5px',
-                          maxHeight: '400px'
+                          background: 'transparent',
+                          height: 'auto',
+                          color: 'black'
                         }}
+                        className="aside-menu"
                       >
-                        Something very important
+                        <div className="aside-item">
+                          {leagues.league.name.name}
+                        </div>
+                        <div
+                          className="aside-item"
+                          style={{
+                            display: 'flex',
+                            flexDirection: 'column'
+                          }}
+                        >
+                          <div className="aside-item-name">
+                            {' '}
+                            <h5 style={{ fontSize: '13px' }}>
+                              {' '}
+                              Current Matchday{' '}
+                            </h5>
+                            <p style={{ fontSize: '50px' }}>
+                              {' '}
+                              {
+                                leagues.league.name.currentSeason
+                                  .currentMatchday
+                              }{' '}
+                            </p>
+                          </div>
+                        </div>
+                        <div className="aside-item">
+                          <p> {leagues.league.name.currentSeason.startDate} </p>
+                          <p>
+                            {leagues.league.name.currentSeason.endDate}
+                          </p>{' '}
+                        </div>
+
+                        <div className="aside-item"> Something </div>
                       </div>
                     </div>
                   ) : null}
