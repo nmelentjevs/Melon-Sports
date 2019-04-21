@@ -16,7 +16,7 @@ class GameItem extends Component {
     this.setState({ showInfo: !this.state.showInfo });
   };
 
-  componentDidMoount() {
+  componentDidMount() {
     this.setState({ info: this.props.info });
   }
 
@@ -214,7 +214,12 @@ class GameItem extends Component {
             show &&
             (props => (
               <animated.div style={props}>
-                <Info home={home} away={away} predict={this.state.showInfo} />
+                <Info
+                  home={home}
+                  away={away}
+                  info={this.state.info}
+                  predict={this.state.showInfo}
+                />
               </animated.div>
             ))
           }

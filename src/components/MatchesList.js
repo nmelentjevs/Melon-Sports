@@ -240,7 +240,7 @@ class MatchesList extends Component {
           <div
             style={{
               display: 'grid',
-              gridGap: '10px'
+              gridGap: '30px'
             }}
           >
             {matchesArray.map(leagues => {
@@ -361,17 +361,24 @@ class MatchesList extends Component {
                         }}
                         className="aside-menu"
                       >
-                        <div className="aside-item">
+                        <div
+                          className="aside-item"
+                          style={{ background: '#f8d5c6' }}
+                        >
                           {leagues.league.name.name}
                         </div>
                         <div
                           className="aside-item"
                           style={{
                             display: 'flex',
-                            flexDirection: 'column'
+                            flexDirection: 'column',
+                            background: '#f8eie7'
                           }}
                         >
-                          <div className="aside-item-name">
+                          <div
+                            className="aside-item-name"
+                            style={{ marginTop: '10px' }}
+                          >
                             {' '}
                             <h5 style={{ fontSize: '13px' }}>
                               {' '}
@@ -386,14 +393,29 @@ class MatchesList extends Component {
                             </p>
                           </div>
                         </div>
-                        <div className="aside-item">
-                          <p> {leagues.league.name.currentSeason.startDate} </p>
-                          <p>
-                            {leagues.league.name.currentSeason.endDate}
-                          </p>{' '}
+                        <div
+                          className="aside-item"
+                          style={{
+                            display: 'flex',
+                            flexDirection: 'column',
+                            justifyContent: 'space-around',
+                            background: '#f8eie7'
+                          }}
+                        >
+                          <p style={{ marginTop: '15px' }}>
+                            {' '}
+                            {leagues.league.name.currentSeason.startDate}{' '}
+                          </p>
+                          <p>{leagues.league.name.currentSeason.endDate}</p>{' '}
                         </div>
 
-                        <div className="aside-item"> Something </div>
+                        <div
+                          className="aside-item"
+                          style={{ background: '#f8d5c6' }}
+                        >
+                          {' '}
+                          Something{' '}
+                        </div>
                       </div>
                     </div>
                   ) : null}

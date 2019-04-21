@@ -1,0 +1,6224 @@
+[
+  {
+    "name": "Atalanta",
+    "totalHomeGoals": 18,
+    "totalHomeShots": 129,
+    "totalHomeShotsTarget": 67,
+    "totalHomeTeamCorners": 79,
+    "totalAwayGoals": 23,
+    "totalAwayShots": 112,
+    "totalAwayShotsTarget": 61,
+    "totalAwayTeamCorners": 57,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Atalanta",
+        "opponentName": "Empoli",
+        "homeGoals": "0",
+        "homeShots": "32",
+        "homeShotsOnTarget": "18",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Atalanta",
+        "opponentName": "Bologna",
+        "homeGoals": "4",
+        "homeShots": "12",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Atalanta",
+        "opponentName": "Chievo",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Atalanta",
+        "opponentName": "Fiorentina",
+        "homeGoals": "3",
+        "homeShots": "17",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Atalanta",
+        "opponentName": "Milan",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Atalanta",
+        "opponentName": "Spal",
+        "homeGoals": "2",
+        "homeShots": "8",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Atalanta",
+        "opponentName": "Roma",
+        "homeGoals": "3",
+        "homeShots": "14",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Atalanta",
+        "opponentName": "Juventus",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Atalanta",
+        "opponentName": "Lazio",
+        "homeGoals": "1",
+        "homeShots": "4",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Atalanta",
+        "opponentName": "Napoli",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "12"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Atalanta",
+        "opponentName": "Inter",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Atalanta",
+        "opponentName": "Parma",
+        "awayGoals": "3",
+        "awayShots": "18",
+        "awayShotsOnTarget": "11",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Atalanta",
+        "opponentName": "Sampdoria",
+        "awayGoals": "2",
+        "awayShots": "13",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Atalanta",
+        "opponentName": "Torino",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Atalanta",
+        "opponentName": "Cagliari",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Atalanta",
+        "opponentName": "Frosinone",
+        "awayGoals": "5",
+        "awayShots": "14",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Atalanta",
+        "opponentName": "Sassuolo",
+        "awayGoals": "6",
+        "awayShots": "13",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Atalanta",
+        "opponentName": "Genoa",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Atalanta",
+        "opponentName": "Udinese",
+        "awayGoals": "3",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Atalanta",
+        "opponentName": "Empoli",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      }
+    ],
+    "homeFullTime": "undefinedDHDHAHDDHA",
+    "awayFullTime": "undefinedDAAHAAAHAH",
+    "totalGoals": 41,
+    "totalShots": 241,
+    "totalShotsTarget": 128,
+    "totalTeamCorners": 136
+  },
+  {
+    "name": "Torino",
+    "totalHomeGoals": 17,
+    "totalHomeShots": 124,
+    "totalHomeShotsTarget": 68,
+    "totalHomeTeamCorners": 59,
+    "totalAwayGoals": 7,
+    "totalAwayShots": 76,
+    "totalAwayShotsTarget": 36,
+    "totalAwayTeamCorners": 37,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Torino",
+        "opponentName": "Cagliari",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Torino",
+        "opponentName": "Sampdoria",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Torino",
+        "opponentName": "Bologna",
+        "homeGoals": "2",
+        "homeShots": "16",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Torino",
+        "opponentName": "Chievo",
+        "homeGoals": "3",
+        "homeShots": "9",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Torino",
+        "opponentName": "Atalanta",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Torino",
+        "opponentName": "Udinese",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Torino",
+        "opponentName": "Inter",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Torino",
+        "opponentName": "Empoli",
+        "homeGoals": "3",
+        "homeShots": "13",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Torino",
+        "opponentName": "Juventus",
+        "homeGoals": "0",
+        "homeShots": "5",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Torino",
+        "opponentName": "Genoa",
+        "homeGoals": "2",
+        "homeShots": "23",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "5"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Torino",
+        "opponentName": "Parma",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Torino",
+        "opponentName": "Fiorentina",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Torino",
+        "opponentName": "Frosinone",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Torino",
+        "opponentName": "Napoli",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Torino",
+        "opponentName": "Spal",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Torino",
+        "opponentName": "Roma",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Torino",
+        "opponentName": "Lazio",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Torino",
+        "opponentName": "Sassuolo",
+        "awayGoals": "1",
+        "awayShots": "4",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Torino",
+        "opponentName": "Milan",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Torino",
+        "opponentName": "Cagliari",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedDHAHHHHHAH",
+    "awayFullTime": "undefinedDDADDHDDDD",
+    "totalGoals": 24,
+    "totalShots": 200,
+    "totalShotsTarget": 104,
+    "totalTeamCorners": 96
+  },
+  {
+    "name": "Sampdoria",
+    "totalHomeGoals": 17,
+    "totalHomeShots": 112,
+    "totalHomeShotsTarget": 67,
+    "totalHomeTeamCorners": 46,
+    "totalAwayGoals": 20,
+    "totalAwayShots": 92,
+    "totalAwayShotsTarget": 53,
+    "totalAwayTeamCorners": 47,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Sampdoria",
+        "opponentName": "Genoa",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Sampdoria",
+        "opponentName": "Roma",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Sampdoria",
+        "opponentName": "Milan",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Sampdoria",
+        "opponentName": "Atalanta",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Sampdoria",
+        "opponentName": "Cagliari",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Sampdoria",
+        "opponentName": "Frosinone",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Sampdoria",
+        "opponentName": "Udinese",
+        "homeGoals": "4",
+        "homeShots": "14",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Sampdoria",
+        "opponentName": "Chievo",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Sampdoria",
+        "opponentName": "Parma",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Sampdoria",
+        "opponentName": "Bologna",
+        "homeGoals": "4",
+        "homeShots": "8",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "1"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Sampdoria",
+        "opponentName": "Torino",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Sampdoria",
+        "opponentName": "Sassuolo",
+        "awayGoals": "5",
+        "awayShots": "17",
+        "awayShotsOnTarget": "11",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Sampdoria",
+        "opponentName": "Spal",
+        "awayGoals": "2",
+        "awayShots": "14",
+        "awayShotsOnTarget": "10",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Sampdoria",
+        "opponentName": "Inter",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Sampdoria",
+        "opponentName": "Napoli",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Sampdoria",
+        "opponentName": "Fiorentina",
+        "awayGoals": "3",
+        "awayShots": "9",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Sampdoria",
+        "opponentName": "Juventus",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Sampdoria",
+        "opponentName": "Empoli",
+        "awayGoals": "4",
+        "awayShots": "15",
+        "awayShotsOnTarget": "12",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Sampdoria",
+        "opponentName": "Lazio",
+        "awayGoals": "2",
+        "awayShots": "4",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Sampdoria",
+        "opponentName": "Genoa",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      }
+    ],
+    "homeFullTime": "undefinedHAHAHAHHHH",
+    "awayFullTime": "undefinedHAAHHDHADD",
+    "totalGoals": 37,
+    "totalShots": 204,
+    "totalShotsTarget": 120,
+    "totalTeamCorners": 93
+  },
+  {
+    "name": "Frosinone",
+    "totalHomeGoals": 8,
+    "totalHomeShots": 120,
+    "totalHomeShotsTarget": 54,
+    "totalHomeTeamCorners": 39,
+    "totalAwayGoals": 8,
+    "totalAwayShots": 65,
+    "totalAwayShotsTarget": 28,
+    "totalAwayTeamCorners": 32,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Frosinone",
+        "opponentName": "Inter",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Frosinone",
+        "opponentName": "Parma",
+        "homeGoals": "3",
+        "homeShots": "14",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Frosinone",
+        "opponentName": "Spal",
+        "homeGoals": "0",
+        "homeShots": "19",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Frosinone",
+        "opponentName": "Torino",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Frosinone",
+        "opponentName": "Roma",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Frosinone",
+        "opponentName": "Lazio",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Frosinone",
+        "opponentName": "Atalanta",
+        "homeGoals": "0",
+        "homeShots": "5",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Frosinone",
+        "opponentName": "Milan",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Frosinone",
+        "opponentName": "Sassuolo",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Frosinone",
+        "opponentName": "Cagliari",
+        "homeGoals": "1",
+        "homeShots": "25",
+        "homeShotsOnTarget": "11",
+        "homeTeamCorners": "5"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Frosinone",
+        "opponentName": "Fiorentina",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Frosinone",
+        "opponentName": "Empoli",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Frosinone",
+        "opponentName": "Genoa",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Frosinone",
+        "opponentName": "Juventus",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Frosinone",
+        "opponentName": "Sampdoria",
+        "awayGoals": "1",
+        "awayShots": "3",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Frosinone",
+        "opponentName": "Bologna",
+        "awayGoals": "4",
+        "awayShots": "4",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Frosinone",
+        "opponentName": "Chievo",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Frosinone",
+        "opponentName": "Udinese",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Frosinone",
+        "opponentName": "Napoli",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Frosinone",
+        "opponentName": "Inter",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "0"
+      }
+    ],
+    "homeFullTime": "undefinedAHAAAAADAD",
+    "awayFullTime": "undefinedAHDHAAHDHH",
+    "totalGoals": 16,
+    "totalShots": 185,
+    "totalShotsTarget": 82,
+    "totalTeamCorners": 71
+  },
+  {
+    "name": "Fiorentina",
+    "totalHomeGoals": 11,
+    "totalHomeShots": 122,
+    "totalHomeShotsTarget": 54,
+    "totalHomeTeamCorners": 64,
+    "totalAwayGoals": 17,
+    "totalAwayShots": 95,
+    "totalAwayShotsTarget": 52,
+    "totalAwayTeamCorners": 69,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Fiorentina",
+        "opponentName": "Bologna",
+        "homeGoals": "0",
+        "homeShots": "14",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Fiorentina",
+        "opponentName": "Frosinone",
+        "homeGoals": "0",
+        "homeShots": "14",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Fiorentina",
+        "opponentName": "Torino",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Fiorentina",
+        "opponentName": "Lazio",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Fiorentina",
+        "opponentName": "Inter",
+        "homeGoals": "3",
+        "homeShots": "10",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Fiorentina",
+        "opponentName": "Napoli",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Fiorentina",
+        "opponentName": "Sampdoria",
+        "homeGoals": "3",
+        "homeShots": "8",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Fiorentina",
+        "opponentName": "Parma",
+        "homeGoals": "0",
+        "homeShots": "16",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Fiorentina",
+        "opponentName": "Empoli",
+        "homeGoals": "3",
+        "homeShots": "15",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Fiorentina",
+        "opponentName": "Juventus",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "4"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Fiorentina",
+        "opponentName": "Roma",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Fiorentina",
+        "opponentName": "Cagliari",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Fiorentina",
+        "opponentName": "Atalanta",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Fiorentina",
+        "opponentName": "Spal",
+        "awayGoals": "4",
+        "awayShots": "15",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "Fiorentina",
+        "opponentName": "Udinese",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "Fiorentina",
+        "opponentName": "Chievo",
+        "awayGoals": "4",
+        "awayShots": "11",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Fiorentina",
+        "opponentName": "Genoa",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Fiorentina",
+        "opponentName": "Milan",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Fiorentina",
+        "opponentName": "Sassuolo",
+        "awayGoals": "3",
+        "awayShots": "11",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "Fiorentina",
+        "opponentName": "Bologna",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "9"
+      }
+    ],
+    "homeFullTime": "undefinedDADDDDDAHA",
+    "awayFullTime": "undefinedDHHADADADD",
+    "totalGoals": 28,
+    "totalShots": 217,
+    "totalShotsTarget": 106,
+    "totalTeamCorners": 133
+  },
+  {
+    "name": "Chievo",
+    "totalHomeGoals": 10,
+    "totalHomeShots": 84,
+    "totalHomeShotsTarget": 46,
+    "totalHomeTeamCorners": 48,
+    "totalAwayGoals": 4,
+    "totalAwayShots": 80,
+    "totalAwayShotsTarget": 39,
+    "totalAwayTeamCorners": 34,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Chievo",
+        "opponentName": "Napoli",
+        "homeGoals": "1",
+        "homeShots": "4",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Chievo",
+        "opponentName": "Cagliari",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Chievo",
+        "opponentName": "Milan",
+        "homeGoals": "1",
+        "homeShots": "5",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Chievo",
+        "opponentName": "Genoa",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Chievo",
+        "opponentName": "Roma",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Chievo",
+        "opponentName": "Fiorentina",
+        "homeGoals": "3",
+        "homeShots": "14",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Chievo",
+        "opponentName": "Frosinone",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Chievo",
+        "opponentName": "Inter",
+        "homeGoals": "1",
+        "homeShots": "6",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Chievo",
+        "opponentName": "Lazio",
+        "homeGoals": "1",
+        "homeShots": "5",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Chievo",
+        "opponentName": "Bologna",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Chievo",
+        "opponentName": "Bologna",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Chievo",
+        "opponentName": "Sassuolo",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Chievo",
+        "opponentName": "Atalanta",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Chievo",
+        "opponentName": "Torino",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Chievo",
+        "opponentName": "Udinese",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Chievo",
+        "opponentName": "Empoli",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Chievo",
+        "opponentName": "Juventus",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Chievo",
+        "opponentName": "Sampdoria",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Chievo",
+        "opponentName": "Spal",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Chievo",
+        "opponentName": "Parma",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      }
+    ],
+    "homeFullTime": "undefinedAAADAAHDDD",
+    "awayFullTime": "undefinedHHDHHDHHDD",
+    "totalGoals": 14,
+    "totalShots": 164,
+    "totalShotsTarget": 85,
+    "totalTeamCorners": 82
+  },
+  {
+    "name": "Sassuolo",
+    "totalHomeGoals": 18,
+    "totalHomeShots": 109,
+    "totalHomeShotsTarget": 56,
+    "totalHomeTeamCorners": 55,
+    "totalAwayGoals": 10,
+    "totalAwayShots": 87,
+    "totalAwayShotsTarget": 43,
+    "totalAwayTeamCorners": 35,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Sassuolo",
+        "opponentName": "Parma",
+        "homeGoals": "0",
+        "homeShots": "16",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Sassuolo",
+        "opponentName": "Chievo",
+        "homeGoals": "4",
+        "homeShots": "13",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Sassuolo",
+        "opponentName": "Sampdoria",
+        "homeGoals": "3",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Sassuolo",
+        "opponentName": "Napoli",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Sassuolo",
+        "opponentName": "Spal",
+        "homeGoals": "1",
+        "homeShots": "6",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Sassuolo",
+        "opponentName": "Juventus",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Sassuolo",
+        "opponentName": "Cagliari",
+        "homeGoals": "3",
+        "homeShots": "11",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Sassuolo",
+        "opponentName": "Atalanta",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Sassuolo",
+        "opponentName": "Torino",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "12"
+      },
+      {
+        "teamName": "Sassuolo",
+        "opponentName": "Fiorentina",
+        "homeGoals": "3",
+        "homeShots": "11",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Sassuolo",
+        "opponentName": "Lazio",
+        "awayGoals": "2",
+        "awayShots": "3",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Sassuolo",
+        "opponentName": "Bologna",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Sassuolo",
+        "opponentName": "Milan",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Sassuolo",
+        "opponentName": "Empoli",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Sassuolo",
+        "opponentName": "Genoa",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Sassuolo",
+        "opponentName": "Inter",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Sassuolo",
+        "opponentName": "Roma",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Sassuolo",
+        "opponentName": "Frosinone",
+        "awayGoals": "2",
+        "awayShots": "13",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Sassuolo",
+        "opponentName": "Parma",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Sassuolo",
+        "opponentName": "Chievo",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      }
+    ],
+    "homeFullTime": "undefinedDHADDAHADD",
+    "awayFullTime": "undefinedDHHHDDHAHA",
+    "totalGoals": 28,
+    "totalShots": 196,
+    "totalShotsTarget": 99,
+    "totalTeamCorners": 90
+  },
+  {
+    "name": "Roma",
+    "totalHomeGoals": 20,
+    "totalHomeShots": 117,
+    "totalHomeShotsTarget": 63,
+    "totalHomeTeamCorners": 63,
+    "totalAwayGoals": 15,
+    "totalAwayShots": 111,
+    "totalAwayShotsTarget": 60,
+    "totalAwayTeamCorners": 58,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Roma",
+        "opponentName": "Udinese",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Roma",
+        "opponentName": "Fiorentina",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Roma",
+        "opponentName": "Napoli",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Roma",
+        "opponentName": "Empoli",
+        "homeGoals": "2",
+        "homeShots": "7",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Roma",
+        "opponentName": "Bologna",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Roma",
+        "opponentName": "Milan",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Roma",
+        "opponentName": "Torino",
+        "homeGoals": "3",
+        "homeShots": "11",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Roma",
+        "opponentName": "Sassuolo",
+        "homeGoals": "3",
+        "homeShots": "16",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Roma",
+        "opponentName": "Genoa",
+        "homeGoals": "3",
+        "homeShots": "14",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Roma",
+        "opponentName": "Inter",
+        "homeGoals": "2",
+        "homeShots": "15",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Roma",
+        "opponentName": "Sampdoria",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Roma",
+        "opponentName": "Spal",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Roma",
+        "opponentName": "Lazio",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Roma",
+        "opponentName": "Frosinone",
+        "awayGoals": "3",
+        "awayShots": "7",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Roma",
+        "opponentName": "Chievo",
+        "awayGoals": "3",
+        "awayShots": "11",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Roma",
+        "opponentName": "Atalanta",
+        "awayGoals": "3",
+        "awayShots": "7",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Roma",
+        "opponentName": "Parma",
+        "awayGoals": "2",
+        "awayShots": "19",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Roma",
+        "opponentName": "Juventus",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Roma",
+        "opponentName": "Cagliari",
+        "awayGoals": "2",
+        "awayShots": "14",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Roma",
+        "opponentName": "Udinese",
+        "awayGoals": "0",
+        "awayShots": "23",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "12"
+      }
+    ],
+    "homeFullTime": "undefinedHDAHHDHHHD",
+    "awayFullTime": "undefinedAHHAADAHDH",
+    "totalGoals": 35,
+    "totalShots": 228,
+    "totalShotsTarget": 123,
+    "totalTeamCorners": 121
+  },
+  {
+    "name": "Milan",
+    "totalHomeGoals": 13,
+    "totalHomeShots": 110,
+    "totalHomeShotsTarget": 66,
+    "totalHomeTeamCorners": 76,
+    "totalAwayGoals": 11,
+    "totalAwayShots": 100,
+    "totalAwayShotsTarget": 53,
+    "totalAwayTeamCorners": 47,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Milan",
+        "opponentName": "Lazio",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "Milan",
+        "opponentName": "Udinese",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Milan",
+        "opponentName": "Inter",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Milan",
+        "opponentName": "Sassuolo",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Milan",
+        "opponentName": "Empoli",
+        "homeGoals": "3",
+        "homeShots": "10",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Milan",
+        "opponentName": "Cagliari",
+        "homeGoals": "3",
+        "homeShots": "17",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Milan",
+        "opponentName": "Napoli",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Milan",
+        "opponentName": "Spal",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "Milan",
+        "opponentName": "Fiorentina",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Milan",
+        "opponentName": "Torino",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "11"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Milan",
+        "opponentName": "Juventus",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Milan",
+        "opponentName": "Sampdoria",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "Milan",
+        "opponentName": "Chievo",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Milan",
+        "opponentName": "Atalanta",
+        "awayGoals": "3",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Milan",
+        "opponentName": "Roma",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Milan",
+        "opponentName": "Genoa",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Milan",
+        "opponentName": "Frosinone",
+        "awayGoals": "0",
+        "awayShots": "16",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Milan",
+        "opponentName": "Bologna",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Milan",
+        "opponentName": "Lazio",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Milan",
+        "opponentName": "Udinese",
+        "awayGoals": "1",
+        "awayShots": "15",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "7"
+      }
+    ],
+    "homeFullTime": "undefinedHDAHHHDHAD",
+    "awayFullTime": "undefinedHHAADADDDA",
+    "totalGoals": 24,
+    "totalShots": 210,
+    "totalShotsTarget": 119,
+    "totalTeamCorners": 123
+  },
+  {
+    "name": "Spal",
+    "totalHomeGoals": 10,
+    "totalHomeShots": 87,
+    "totalHomeShotsTarget": 41,
+    "totalHomeTeamCorners": 53,
+    "totalAwayGoals": 9,
+    "totalAwayShots": 80,
+    "totalAwayShotsTarget": 36,
+    "totalAwayTeamCorners": 49,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Spal",
+        "opponentName": "Juventus",
+        "homeGoals": "2",
+        "homeShots": "8",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Spal",
+        "opponentName": "Lazio",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Spal",
+        "opponentName": "Roma",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Spal",
+        "opponentName": "Sampdoria",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Spal",
+        "opponentName": "Fiorentina",
+        "homeGoals": "1",
+        "homeShots": "6",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Spal",
+        "opponentName": "Torino",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "Spal",
+        "opponentName": "Bologna",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Spal",
+        "opponentName": "Udinese",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Spal",
+        "opponentName": "Chievo",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Spal",
+        "opponentName": "Empoli",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Spal",
+        "opponentName": "Cagliari",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Spal",
+        "opponentName": "Frosinone",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Spal",
+        "opponentName": "Inter",
+        "awayGoals": "0",
+        "awayShots": "2",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Spal",
+        "opponentName": "Sassuolo",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Spal",
+        "opponentName": "Atalanta",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Spal",
+        "opponentName": "Parma",
+        "awayGoals": "3",
+        "awayShots": "15",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "Spal",
+        "opponentName": "Milan",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Spal",
+        "opponentName": "Napoli",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Spal",
+        "opponentName": "Genoa",
+        "awayGoals": "1",
+        "awayShots": "16",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Spal",
+        "opponentName": "Juventus",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      }
+    ],
+    "homeFullTime": "undefinedHHHAADDDDD",
+    "awayFullTime": "undefinedHAHDHAHHDH",
+    "totalGoals": 19,
+    "totalShots": 167,
+    "totalShotsTarget": 77,
+    "totalTeamCorners": 102
+  },
+  {
+    "name": "Bologna",
+    "totalHomeGoals": 9,
+    "totalHomeShots": 100,
+    "totalHomeShotsTarget": 55,
+    "totalHomeTeamCorners": 57,
+    "totalAwayGoals": 11,
+    "totalAwayShots": 95,
+    "totalAwayShotsTarget": 59,
+    "totalAwayTeamCorners": 56,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Bologna",
+        "opponentName": "Chievo",
+        "homeGoals": "3",
+        "homeShots": "14",
+        "homeShotsOnTarget": "11",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Bologna",
+        "opponentName": "Sassuolo",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Bologna",
+        "opponentName": "Cagliari",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Bologna",
+        "opponentName": "Juventus",
+        "homeGoals": "0",
+        "homeShots": "13",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Bologna",
+        "opponentName": "Genoa",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "13"
+      },
+      {
+        "teamName": "Bologna",
+        "opponentName": "Frosinone",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Bologna",
+        "opponentName": "Lazio",
+        "homeGoals": "0",
+        "homeShots": "6",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Bologna",
+        "opponentName": "Milan",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Bologna",
+        "opponentName": "Fiorentina",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Bologna",
+        "opponentName": "Atalanta",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "1"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Bologna",
+        "opponentName": "Fiorentina",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Bologna",
+        "opponentName": "Atalanta",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Bologna",
+        "opponentName": "Torino",
+        "awayGoals": "3",
+        "awayShots": "8",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Bologna",
+        "opponentName": "Udinese",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Bologna",
+        "opponentName": "Roma",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "10",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Bologna",
+        "opponentName": "Inter",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Bologna",
+        "opponentName": "Spal",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Bologna",
+        "opponentName": "Napoli",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Bologna",
+        "opponentName": "Parma",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Bologna",
+        "opponentName": "Empoli",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "8"
+      }
+    ],
+    "homeFullTime": "undefinedHHHADAADDA",
+    "awayFullTime": "undefinedDHAHHADHDH",
+    "totalGoals": 20,
+    "totalShots": 195,
+    "totalShotsTarget": 114,
+    "totalTeamCorners": 113
+  },
+  {
+    "name": "Napoli",
+    "totalHomeGoals": 19,
+    "totalHomeShots": 164,
+    "totalHomeShotsTarget": 94,
+    "totalHomeTeamCorners": 93,
+    "totalAwayGoals": 16,
+    "totalAwayShots": 115,
+    "totalAwayShotsTarget": 55,
+    "totalAwayTeamCorners": 52,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Napoli",
+        "opponentName": "Genoa",
+        "homeGoals": "1",
+        "homeShots": "19",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "Napoli",
+        "opponentName": "Udinese",
+        "homeGoals": "4",
+        "homeShots": "13",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Napoli",
+        "opponentName": "Juventus",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "12"
+      },
+      {
+        "teamName": "Napoli",
+        "opponentName": "Torino",
+        "homeGoals": "0",
+        "homeShots": "20",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "15"
+      },
+      {
+        "teamName": "Napoli",
+        "opponentName": "Sampdoria",
+        "homeGoals": "3",
+        "homeShots": "18",
+        "homeShotsOnTarget": "14",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Napoli",
+        "opponentName": "Lazio",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "13",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Napoli",
+        "opponentName": "Bologna",
+        "homeGoals": "3",
+        "homeShots": "14",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Napoli",
+        "opponentName": "Spal",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Napoli",
+        "opponentName": "Frosinone",
+        "homeGoals": "4",
+        "homeShots": "18",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Napoli",
+        "opponentName": "Chievo",
+        "homeGoals": "0",
+        "homeShots": "17",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "20"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Napoli",
+        "opponentName": "Chievo",
+        "awayGoals": "3",
+        "awayShots": "12",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Napoli",
+        "opponentName": "Empoli",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Napoli",
+        "opponentName": "Roma",
+        "awayGoals": "4",
+        "awayShots": "12",
+        "awayShotsOnTarget": "10",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Napoli",
+        "opponentName": "Sassuolo",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Napoli",
+        "opponentName": "Parma",
+        "awayGoals": "4",
+        "awayShots": "14",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Napoli",
+        "opponentName": "Fiorentina",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Napoli",
+        "opponentName": "Milan",
+        "awayGoals": "0",
+        "awayShots": "14",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Napoli",
+        "opponentName": "Inter",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Napoli",
+        "opponentName": "Cagliari",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "Napoli",
+        "opponentName": "Atalanta",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "6"
+      }
+    ],
+    "homeFullTime": "undefinedDHADHHHHHD",
+    "awayFullTime": "undefinedAHADADDHAA",
+    "totalGoals": 35,
+    "totalShots": 279,
+    "totalShotsTarget": 149,
+    "totalTeamCorners": 145
+  },
+  {
+    "name": "Cagliari",
+    "totalHomeGoals": 13,
+    "totalHomeShots": 102,
+    "totalHomeShotsTarget": 45,
+    "totalHomeTeamCorners": 37,
+    "totalAwayGoals": 8,
+    "totalAwayShots": 89,
+    "totalAwayShotsTarget": 38,
+    "totalAwayTeamCorners": 54,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Cagliari",
+        "opponentName": "Spal",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "11",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Cagliari",
+        "opponentName": "Juventus",
+        "homeGoals": "0",
+        "homeShots": "5",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Cagliari",
+        "opponentName": "Fiorentina",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Cagliari",
+        "opponentName": "Inter",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Cagliari",
+        "opponentName": "Parma",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Cagliari",
+        "opponentName": "Atalanta",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Cagliari",
+        "opponentName": "Empoli",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Cagliari",
+        "opponentName": "Genoa",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Cagliari",
+        "opponentName": "Napoli",
+        "homeGoals": "0",
+        "homeShots": "6",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Cagliari",
+        "opponentName": "Roma",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "7"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Cagliari",
+        "opponentName": "Torino",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Cagliari",
+        "opponentName": "Chievo",
+        "awayGoals": "3",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Cagliari",
+        "opponentName": "Bologna",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Cagliari",
+        "opponentName": "Sampdoria",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Cagliari",
+        "opponentName": "Milan",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Cagliari",
+        "opponentName": "Sassuolo",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "12"
+      },
+      {
+        "teamName": "Cagliari",
+        "opponentName": "Udinese",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Cagliari",
+        "opponentName": "Lazio",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Cagliari",
+        "opponentName": "Frosinone",
+        "awayGoals": "1",
+        "awayShots": "18",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Cagliari",
+        "opponentName": "Spal",
+        "awayGoals": "2",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      }
+    ],
+    "homeFullTime": "undefinedHAHHHADHAD",
+    "awayFullTime": "undefinedDAHHHHHHDD",
+    "totalGoals": 21,
+    "totalShots": 191,
+    "totalShotsTarget": 83,
+    "totalTeamCorners": 91
+  },
+  {
+    "name": "Lazio",
+    "totalHomeGoals": 22,
+    "totalHomeShots": 136,
+    "totalHomeShotsTarget": 71,
+    "totalHomeTeamCorners": 74,
+    "totalAwayGoals": 8,
+    "totalAwayShots": 101,
+    "totalAwayShotsTarget": 59,
+    "totalAwayTeamCorners": 54,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Lazio",
+        "opponentName": "Sassuolo",
+        "homeGoals": "2",
+        "homeShots": "18",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "Lazio",
+        "opponentName": "Parma",
+        "homeGoals": "4",
+        "homeShots": "14",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Lazio",
+        "opponentName": "Roma",
+        "homeGoals": "3",
+        "homeShots": "6",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Lazio",
+        "opponentName": "Empoli",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Lazio",
+        "opponentName": "Juventus",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Lazio",
+        "opponentName": "Torino",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Lazio",
+        "opponentName": "Cagliari",
+        "homeGoals": "3",
+        "homeShots": "15",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Lazio",
+        "opponentName": "Sampdoria",
+        "homeGoals": "2",
+        "homeShots": "20",
+        "homeShotsOnTarget": "11",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Lazio",
+        "opponentName": "Milan",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Lazio",
+        "opponentName": "Spal",
+        "homeGoals": "4",
+        "homeShots": "18",
+        "homeShotsOnTarget": "11",
+        "homeTeamCorners": "8"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Lazio",
+        "opponentName": "Milan",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Lazio",
+        "opponentName": "Spal",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Lazio",
+        "opponentName": "Inter",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Lazio",
+        "opponentName": "Fiorentina",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Lazio",
+        "opponentName": "Genoa",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Lazio",
+        "opponentName": "Frosinone",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Lazio",
+        "opponentName": "Napoli",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Lazio",
+        "opponentName": "Bologna",
+        "awayGoals": "2",
+        "awayShots": "11",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Lazio",
+        "opponentName": "Atalanta",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Lazio",
+        "opponentName": "Chievo",
+        "awayGoals": "1",
+        "awayShots": "19",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "6"
+      }
+    ],
+    "homeFullTime": "undefinedDHHHADHDDH",
+    "awayFullTime": "undefinedHHADHAHAHD",
+    "totalGoals": 30,
+    "totalShots": 237,
+    "totalShotsTarget": 130,
+    "totalTeamCorners": 128
+  },
+  {
+    "name": "Udinese",
+    "totalHomeGoals": 15,
+    "totalHomeShots": 113,
+    "totalHomeShotsTarget": 48,
+    "totalHomeTeamCorners": 40,
+    "totalAwayGoals": 5,
+    "totalAwayShots": 77,
+    "totalAwayShotsTarget": 30,
+    "totalAwayTeamCorners": 33,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Udinese",
+        "opponentName": "Empoli",
+        "homeGoals": "3",
+        "homeShots": "14",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Udinese",
+        "opponentName": "Genoa",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Udinese",
+        "opponentName": "Bologna",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Udinese",
+        "opponentName": "Chievo",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Udinese",
+        "opponentName": "Fiorentina",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Udinese",
+        "opponentName": "Parma",
+        "homeGoals": "1",
+        "homeShots": "17",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Udinese",
+        "opponentName": "Cagliari",
+        "homeGoals": "2",
+        "homeShots": "19",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Udinese",
+        "opponentName": "Frosinone",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Udinese",
+        "opponentName": "Atalanta",
+        "homeGoals": "1",
+        "homeShots": "5",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Udinese",
+        "opponentName": "Roma",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "0"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Udinese",
+        "opponentName": "Roma",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Udinese",
+        "opponentName": "Milan",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Udinese",
+        "opponentName": "Napoli",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Udinese",
+        "opponentName": "Juventus",
+        "awayGoals": "1",
+        "awayShots": "4",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Udinese",
+        "opponentName": "Torino",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Udinese",
+        "opponentName": "Sampdoria",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Udinese",
+        "opponentName": "Spal",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Udinese",
+        "opponentName": "Inter",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Udinese",
+        "opponentName": "Sassuolo",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Udinese",
+        "opponentName": "Empoli",
+        "awayGoals": "1",
+        "awayShots": "22",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "13"
+      }
+    ],
+    "homeFullTime": "undefinedHHHHDAHDAH",
+    "awayFullTime": "undefinedHDHHHHDHDH",
+    "totalGoals": 20,
+    "totalShots": 190,
+    "totalShotsTarget": 78,
+    "totalTeamCorners": 73
+  },
+  {
+    "name": "Inter",
+    "totalHomeGoals": 14,
+    "totalHomeShots": 129,
+    "totalHomeShotsTarget": 63,
+    "totalHomeTeamCorners": 87,
+    "totalAwayGoals": 17,
+    "totalAwayShots": 104,
+    "totalAwayShotsTarget": 57,
+    "totalAwayTeamCorners": 62,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Inter",
+        "opponentName": "Atalanta",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Inter",
+        "opponentName": "Lazio",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "12"
+      },
+      {
+        "teamName": "Inter",
+        "opponentName": "Spal",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Inter",
+        "opponentName": "Sampdoria",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Inter",
+        "opponentName": "Bologna",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Inter",
+        "opponentName": "Sassuolo",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "Inter",
+        "opponentName": "Napoli",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Inter",
+        "opponentName": "Udinese",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Inter",
+        "opponentName": "Frosinone",
+        "homeGoals": "3",
+        "homeShots": "25",
+        "homeShotsOnTarget": "14",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "Inter",
+        "opponentName": "Genoa",
+        "homeGoals": "5",
+        "homeShots": "17",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "11"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Inter",
+        "opponentName": "Frosinone",
+        "awayGoals": "3",
+        "awayShots": "10",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Inter",
+        "opponentName": "Genoa",
+        "awayGoals": "4",
+        "awayShots": "12",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Inter",
+        "opponentName": "Milan",
+        "awayGoals": "3",
+        "awayShots": "10",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Inter",
+        "opponentName": "Cagliari",
+        "awayGoals": "1",
+        "awayShots": "19",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Inter",
+        "opponentName": "Fiorentina",
+        "awayGoals": "3",
+        "awayShots": "7",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Inter",
+        "opponentName": "Parma",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "Inter",
+        "opponentName": "Torino",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Inter",
+        "opponentName": "Empoli",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Inter",
+        "opponentName": "Chievo",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Inter",
+        "opponentName": "Juventus",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "8"
+      }
+    ],
+    "homeFullTime": "undefinedDAHHADHHHH",
+    "awayFullTime": "undefinedAAAHDAHADH",
+    "totalGoals": 31,
+    "totalShots": 233,
+    "totalShotsTarget": 120,
+    "totalTeamCorners": 149
+  },
+  {
+    "name": "Parma",
+    "totalHomeGoals": 7,
+    "totalHomeShots": 74,
+    "totalHomeShotsTarget": 32,
+    "totalHomeTeamCorners": 35,
+    "totalAwayGoals": 14,
+    "totalAwayShots": 60,
+    "totalAwayShotsTarget": 31,
+    "totalAwayTeamCorners": 37,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Parma",
+        "opponentName": "Torino",
+        "homeGoals": "0",
+        "homeShots": "5",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Parma",
+        "opponentName": "Atalanta",
+        "homeGoals": "1",
+        "homeShots": "6",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Parma",
+        "opponentName": "Genoa",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Parma",
+        "opponentName": "Napoli",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Parma",
+        "opponentName": "Inter",
+        "homeGoals": "0",
+        "homeShots": "6",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Parma",
+        "opponentName": "Spal",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Parma",
+        "opponentName": "Roma",
+        "homeGoals": "0",
+        "homeShots": "3",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Parma",
+        "opponentName": "Bologna",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Parma",
+        "opponentName": "Chievo",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Parma",
+        "opponentName": "Sassuolo",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Parma",
+        "opponentName": "Sassuolo",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Parma",
+        "opponentName": "Frosinone",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Parma",
+        "opponentName": "Lazio",
+        "awayGoals": "1",
+        "awayShots": "4",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Parma",
+        "opponentName": "Empoli",
+        "awayGoals": "3",
+        "awayShots": "7",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Parma",
+        "opponentName": "Cagliari",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Parma",
+        "opponentName": "Juventus",
+        "awayGoals": "3",
+        "awayShots": "11",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Parma",
+        "opponentName": "Udinese",
+        "awayGoals": "2",
+        "awayShots": "7",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Parma",
+        "opponentName": "Fiorentina",
+        "awayGoals": "1",
+        "awayShots": "3",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Parma",
+        "opponentName": "Sampdoria",
+        "awayGoals": "0",
+        "awayShots": "2",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Parma",
+        "opponentName": "Milan",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "8"
+      }
+    ],
+    "homeFullTime": "undefinedDAHAAAADDH",
+    "awayFullTime": "undefinedDHHDHDAAHH",
+    "totalGoals": 21,
+    "totalShots": 134,
+    "totalShotsTarget": 63,
+    "totalTeamCorners": 72
+  },
+  {
+    "name": "Juventus",
+    "totalHomeGoals": 22,
+    "totalHomeShots": 143,
+    "totalHomeShotsTarget": 75,
+    "totalHomeTeamCorners": 79,
+    "totalAwayGoals": 17,
+    "totalAwayShots": 67,
+    "totalAwayShotsTarget": 37,
+    "totalAwayTeamCorners": 48,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Juventus",
+        "opponentName": "Milan",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Juventus",
+        "opponentName": "Empoli",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Juventus",
+        "opponentName": "Udinese",
+        "homeGoals": "4",
+        "homeShots": "15",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Juventus",
+        "opponentName": "Frosinone",
+        "homeGoals": "3",
+        "homeShots": "11",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Juventus",
+        "opponentName": "Parma",
+        "homeGoals": "3",
+        "homeShots": "18",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "12"
+      },
+      {
+        "teamName": "Juventus",
+        "opponentName": "Chievo",
+        "homeGoals": "3",
+        "homeShots": "19",
+        "homeShotsOnTarget": "11",
+        "homeTeamCorners": "12"
+      },
+      {
+        "teamName": "Juventus",
+        "opponentName": "Sampdoria",
+        "homeGoals": "2",
+        "homeShots": "15",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Juventus",
+        "opponentName": "Roma",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "13"
+      },
+      {
+        "teamName": "Juventus",
+        "opponentName": "Inter",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Juventus",
+        "opponentName": "Spal",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Juventus",
+        "opponentName": "Spal",
+        "awayGoals": "1",
+        "awayShots": "4",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Juventus",
+        "opponentName": "Cagliari",
+        "awayGoals": "2",
+        "awayShots": "11",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Juventus",
+        "opponentName": "Genoa",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Juventus",
+        "opponentName": "Napoli",
+        "awayGoals": "2",
+        "awayShots": "4",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Juventus",
+        "opponentName": "Bologna",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Juventus",
+        "opponentName": "Sassuolo",
+        "awayGoals": "3",
+        "awayShots": "10",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Juventus",
+        "opponentName": "Lazio",
+        "awayGoals": "2",
+        "awayShots": "4",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Juventus",
+        "opponentName": "Atalanta",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Juventus",
+        "opponentName": "Torino",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Juventus",
+        "opponentName": "Fiorentina",
+        "awayGoals": "3",
+        "awayShots": "9",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "9"
+      }
+    ],
+    "homeFullTime": "undefinedHHHHDHHHHH",
+    "awayFullTime": "undefinedHAHAAAADAA",
+    "totalGoals": 39,
+    "totalShots": 210,
+    "totalShotsTarget": 112,
+    "totalTeamCorners": 127
+  },
+  {
+    "name": "Empoli",
+    "totalHomeGoals": 20,
+    "totalHomeShots": 99,
+    "totalHomeShotsTarget": 64,
+    "totalHomeTeamCorners": 55,
+    "totalAwayGoals": 8,
+    "totalAwayShots": 63,
+    "totalAwayShotsTarget": 28,
+    "totalAwayTeamCorners": 40,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Empoli",
+        "opponentName": "Napoli",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Empoli",
+        "opponentName": "Frosinone",
+        "homeGoals": "2",
+        "homeShots": "8",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Empoli",
+        "opponentName": "Parma",
+        "homeGoals": "3",
+        "homeShots": "13",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Empoli",
+        "opponentName": "Sassuolo",
+        "homeGoals": "3",
+        "homeShots": "7",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Empoli",
+        "opponentName": "Chievo",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Empoli",
+        "opponentName": "Genoa",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Empoli",
+        "opponentName": "Inter",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Empoli",
+        "opponentName": "Sampdoria",
+        "homeGoals": "2",
+        "homeShots": "6",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Empoli",
+        "opponentName": "Bologna",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Empoli",
+        "opponentName": "Atalanta",
+        "homeGoals": "3",
+        "homeShots": "12",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "7"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Empoli",
+        "opponentName": "Atalanta",
+        "awayGoals": "0",
+        "awayShots": "2",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Empoli",
+        "opponentName": "Udinese",
+        "awayGoals": "2",
+        "awayShots": "12",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Empoli",
+        "opponentName": "Juventus",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Empoli",
+        "opponentName": "Roma",
+        "awayGoals": "1",
+        "awayShots": "4",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Empoli",
+        "opponentName": "Milan",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Empoli",
+        "opponentName": "Lazio",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Empoli",
+        "opponentName": "Cagliari",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Empoli",
+        "opponentName": "Torino",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Empoli",
+        "opponentName": "Fiorentina",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Empoli",
+        "opponentName": "Spal",
+        "awayGoals": "2",
+        "awayShots": "13",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "9"
+      }
+    ],
+    "homeFullTime": "undefinedHHDHDAAAHH",
+    "awayFullTime": "undefinedDHHHHHDHHD",
+    "totalGoals": 28,
+    "totalShots": 162,
+    "totalShotsTarget": 92,
+    "totalTeamCorners": 95
+  },
+  {
+    "name": "Genoa",
+    "totalHomeGoals": 10,
+    "totalHomeShots": 94,
+    "totalHomeShotsTarget": 46,
+    "totalHomeTeamCorners": 55,
+    "totalAwayGoals": 8,
+    "totalAwayShots": 97,
+    "totalAwayShotsTarget": 44,
+    "totalAwayTeamCorners": 49,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Genoa",
+        "opponentName": "Inter",
+        "homeGoals": "0",
+        "homeShots": "5",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Genoa",
+        "opponentName": "Juventus",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Genoa",
+        "opponentName": "Frosinone",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Genoa",
+        "opponentName": "Lazio",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Genoa",
+        "opponentName": "Sassuolo",
+        "homeGoals": "1",
+        "homeShots": "4",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Genoa",
+        "opponentName": "Milan",
+        "homeGoals": "0",
+        "homeShots": "13",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Genoa",
+        "opponentName": "Fiorentina",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Genoa",
+        "opponentName": "Atalanta",
+        "homeGoals": "3",
+        "homeShots": "15",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Genoa",
+        "opponentName": "Spal",
+        "homeGoals": "1",
+        "homeShots": "6",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Genoa",
+        "opponentName": "Sampdoria",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "7"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Genoa",
+        "opponentName": "Sampdoria",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Genoa",
+        "opponentName": "Napoli",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Genoa",
+        "opponentName": "Udinese",
+        "awayGoals": "0",
+        "awayShots": "15",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Genoa",
+        "opponentName": "Parma",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Genoa",
+        "opponentName": "Chievo",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Genoa",
+        "opponentName": "Bologna",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Genoa",
+        "opponentName": "Empoli",
+        "awayGoals": "3",
+        "awayShots": "12",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Genoa",
+        "opponentName": "Cagliari",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Genoa",
+        "opponentName": "Roma",
+        "awayGoals": "2",
+        "awayShots": "11",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Genoa",
+        "opponentName": "Torino",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      }
+    ],
+    "homeFullTime": "undefinedAHDHDADHDD",
+    "awayFullTime": "undefinedHDHHDDAHHH",
+    "totalGoals": 18,
+    "totalShots": 191,
+    "totalShotsTarget": 90,
+    "totalTeamCorners": 104
+  },
+  {
+    "name": "Crotone",
+    "totalHomeGoals": 16,
+    "totalHomeShots": 98,
+    "totalHomeShotsTarget": 48,
+    "totalHomeTeamCorners": 36,
+    "totalAwayGoals": 11,
+    "totalAwayShots": 108,
+    "totalAwayShotsTarget": 26,
+    "totalAwayTeamCorners": 37,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Crotone",
+        "opponentName": "Lazio",
+        "homeGoals": "2",
+        "homeShots": "6",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Crotone",
+        "opponentName": "Sassuolo",
+        "homeGoals": "4",
+        "homeShots": "11",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Crotone",
+        "opponentName": "Juventus",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Crotone",
+        "opponentName": "Bologna",
+        "homeGoals": "1",
+        "homeShots": "6",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Crotone",
+        "opponentName": "Roma",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Crotone",
+        "opponentName": "Sampdoria",
+        "homeGoals": "4",
+        "homeShots": "14",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Crotone",
+        "opponentName": "Spal",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Crotone",
+        "opponentName": "Atalanta",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Crotone",
+        "opponentName": "Cagliari",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Crotone",
+        "opponentName": "Napoli",
+        "homeGoals": "0",
+        "homeShots": "5",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Crotone",
+        "opponentName": "Napoli",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Crotone",
+        "opponentName": "Chievo",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Crotone",
+        "opponentName": "Udinese",
+        "awayGoals": "2",
+        "awayShots": "11",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Crotone",
+        "opponentName": "Genoa",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Crotone",
+        "opponentName": "Torino",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Crotone",
+        "opponentName": "Fiorentina",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Crotone",
+        "opponentName": "Benevento",
+        "awayGoals": "2",
+        "awayShots": "19",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Crotone",
+        "opponentName": "Inter",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Crotone",
+        "opponentName": "Verona",
+        "awayGoals": "3",
+        "awayShots": "9",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Crotone",
+        "opponentName": "Milan",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "0"
+      }
+    ],
+    "homeFullTime": "undefinedDHDHAHADDA",
+    "awayFullTime": "undefinedHHAHHHHDAH",
+    "totalGoals": 27,
+    "totalShots": 206,
+    "totalShotsTarget": 74,
+    "totalTeamCorners": 73
+  },
+  {
+    "name": "Verona",
+    "totalHomeGoals": 6,
+    "totalHomeShots": 84,
+    "totalHomeShotsTarget": 22,
+    "totalHomeTeamCorners": 41,
+    "totalAwayGoals": 7,
+    "totalAwayShots": 71,
+    "totalAwayShotsTarget": 17,
+    "totalAwayTeamCorners": 30,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Verona",
+        "opponentName": "Udinese",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Verona",
+        "opponentName": "Spal",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Verona",
+        "opponentName": "Sassuolo",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Verona",
+        "opponentName": "Cagliari",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Verona",
+        "opponentName": "Atalanta",
+        "homeGoals": "0",
+        "homeShots": "6",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Verona",
+        "opponentName": "Chievo",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Verona",
+        "opponentName": "Torino",
+        "homeGoals": "2",
+        "homeShots": "7",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Verona",
+        "opponentName": "Roma",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Verona",
+        "opponentName": "Crotone",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Verona",
+        "opponentName": "Juventus",
+        "homeGoals": "1",
+        "homeShots": "3",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Verona",
+        "opponentName": "Juventus",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Verona",
+        "opponentName": "Milan",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Verona",
+        "opponentName": "Genoa",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Verona",
+        "opponentName": "Bologna",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Verona",
+        "opponentName": "Benevento",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Verona",
+        "opponentName": "Inter",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Verona",
+        "opponentName": "Lazio",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Verona",
+        "opponentName": "Sampdoria",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Verona",
+        "opponentName": "Fiorentina",
+        "awayGoals": "4",
+        "awayShots": "8",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Verona",
+        "opponentName": "Napoli",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      }
+    ],
+    "homeFullTime": "undefinedAAAHAHHAAA",
+    "awayFullTime": "undefinedHHHHHHHHAH",
+    "totalGoals": 13,
+    "totalShots": 155,
+    "totalShotsTarget": 39,
+    "totalTeamCorners": 71
+  },
+  {
+    "name": "Benevento",
+    "totalHomeGoals": 17,
+    "totalHomeShots": 155,
+    "totalHomeShotsTarget": 63,
+    "totalHomeTeamCorners": 63,
+    "totalAwayGoals": 7,
+    "totalAwayShots": 82,
+    "totalAwayShotsTarget": 19,
+    "totalAwayTeamCorners": 32,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Benevento",
+        "opponentName": "Genoa",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Benevento",
+        "opponentName": "Udinese",
+        "homeGoals": "3",
+        "homeShots": "12",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Benevento",
+        "opponentName": "Atalanta",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Benevento",
+        "opponentName": "Juventus",
+        "homeGoals": "2",
+        "homeShots": "16",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Benevento",
+        "opponentName": "Verona",
+        "homeGoals": "3",
+        "homeShots": "22",
+        "homeShotsOnTarget": "15",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Benevento",
+        "opponentName": "Cagliari",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Benevento",
+        "opponentName": "Crotone",
+        "homeGoals": "3",
+        "homeShots": "16",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Benevento",
+        "opponentName": "Napoli",
+        "homeGoals": "0",
+        "homeShots": "14",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Benevento",
+        "opponentName": "Sampdoria",
+        "homeGoals": "3",
+        "homeShots": "16",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Benevento",
+        "opponentName": "Chievo",
+        "homeGoals": "1",
+        "homeShots": "18",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "7"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Benevento",
+        "opponentName": "Chievo",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Benevento",
+        "opponentName": "Spal",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Benevento",
+        "opponentName": "Milan",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Benevento",
+        "opponentName": "Sassuolo",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Benevento",
+        "opponentName": "Lazio",
+        "awayGoals": "2",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Benevento",
+        "opponentName": "Fiorentina",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Benevento",
+        "opponentName": "Inter",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Benevento",
+        "opponentName": "Roma",
+        "awayGoals": "2",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Benevento",
+        "opponentName": "Torino",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Benevento",
+        "opponentName": "Bologna",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      }
+    ],
+    "homeFullTime": "undefinedHDAAHAHAHH",
+    "awayFullTime": "undefinedHHADHHHHHH",
+    "totalGoals": 24,
+    "totalShots": 237,
+    "totalShotsTarget": 82,
+    "totalTeamCorners": 95
+  },
+  {
+    "name": "Palermo",
+    "totalHomeGoals": 9,
+    "totalHomeShots": 116,
+    "totalHomeShotsTarget": 35,
+    "totalHomeTeamCorners": 48,
+    "totalAwayGoals": 8,
+    "totalAwayShots": 93,
+    "totalAwayShotsTarget": 29,
+    "totalAwayTeamCorners": 32,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Palermo",
+        "opponentName": "Empoli",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "0"
+      },
+      {
+        "teamName": "Palermo",
+        "opponentName": "Genoa",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Palermo",
+        "opponentName": "Fiorentina",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Palermo",
+        "opponentName": "Bologna",
+        "homeGoals": "0",
+        "homeShots": "16",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Palermo",
+        "opponentName": "Cagliari",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "13"
+      },
+      {
+        "teamName": "Palermo",
+        "opponentName": "Roma",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Palermo",
+        "opponentName": "Sampdoria",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Palermo",
+        "opponentName": "Atalanta",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Palermo",
+        "opponentName": "Crotone",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Palermo",
+        "opponentName": "Inter",
+        "homeGoals": "0",
+        "homeShots": "6",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "7"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Palermo",
+        "opponentName": "Pescara",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Palermo",
+        "opponentName": "Chievo",
+        "awayGoals": "1",
+        "awayShots": "15",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Palermo",
+        "opponentName": "Lazio",
+        "awayGoals": "2",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Palermo",
+        "opponentName": "Milan",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Palermo",
+        "opponentName": "Udinese",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Palermo",
+        "opponentName": "Torino",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Palermo",
+        "opponentName": "Juventus",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Palermo",
+        "opponentName": "Napoli",
+        "awayGoals": "1",
+        "awayShots": "3",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Palermo",
+        "opponentName": "Sassuolo",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Palermo",
+        "opponentName": "Empoli",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      }
+    ],
+    "homeFullTime": "undefinedHHHDAADAHA",
+    "awayFullTime": "undefinedHDHHHHHDHH",
+    "totalGoals": 17,
+    "totalShots": 209,
+    "totalShotsTarget": 64,
+    "totalTeamCorners": 80
+  },
+  {
+    "name": "Pescara",
+    "totalHomeGoals": 14,
+    "totalHomeShots": 109,
+    "totalHomeShotsTarget": 38,
+    "totalHomeTeamCorners": 40,
+    "totalAwayGoals": 9,
+    "totalAwayShots": 114,
+    "totalAwayShotsTarget": 41,
+    "totalAwayTeamCorners": 48,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Pescara",
+        "opponentName": "Palermo",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Pescara",
+        "opponentName": "Crotone",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Pescara",
+        "opponentName": "Roma",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Pescara",
+        "opponentName": "Juventus",
+        "homeGoals": "0",
+        "homeShots": "6",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Pescara",
+        "opponentName": "Milan",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Pescara",
+        "opponentName": "Udinese",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Pescara",
+        "opponentName": "Genoa",
+        "homeGoals": "5",
+        "homeShots": "8",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Pescara",
+        "opponentName": "Lazio",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Pescara",
+        "opponentName": "Fiorentina",
+        "homeGoals": "1",
+        "homeShots": "4",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Pescara",
+        "opponentName": "Sassuolo",
+        "homeGoals": "1",
+        "homeShots": "19",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Pescara",
+        "opponentName": "Fiorentina",
+        "awayGoals": "2",
+        "awayShots": "15",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "Pescara",
+        "opponentName": "Bologna",
+        "awayGoals": "1",
+        "awayShots": "15",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Pescara",
+        "opponentName": "Cagliari",
+        "awayGoals": "0",
+        "awayShots": "14",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Pescara",
+        "opponentName": "Empoli",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Pescara",
+        "opponentName": "Atalanta",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Pescara",
+        "opponentName": "Sampdoria",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Pescara",
+        "opponentName": "Chievo",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Pescara",
+        "opponentName": "Torino",
+        "awayGoals": "3",
+        "awayShots": "8",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Pescara",
+        "opponentName": "Inter",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Pescara",
+        "opponentName": "Napoli",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      }
+    ],
+    "homeFullTime": "undefinedHAAADAHAAA",
+    "awayFullTime": "undefinedDHHDHHHHHH",
+    "totalGoals": 23,
+    "totalShots": 223,
+    "totalShotsTarget": 79,
+    "totalTeamCorners": 88
+  },
+  {
+    "name": "Carpi",
+    "totalHomeGoals": 16,
+    "totalHomeShots": 133,
+    "totalHomeShotsTarget": 44,
+    "totalHomeTeamCorners": 54,
+    "totalAwayGoals": 6,
+    "totalAwayShots": 82,
+    "totalAwayShotsTarget": 24,
+    "totalAwayTeamCorners": 37,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Carpi",
+        "opponentName": "Lazio",
+        "homeGoals": "1",
+        "homeShots": "27",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Carpi",
+        "opponentName": "Empoli",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Carpi",
+        "opponentName": "Genoa",
+        "homeGoals": "4",
+        "homeShots": "15",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Carpi",
+        "opponentName": "Sassuolo",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Carpi",
+        "opponentName": "Frosinone",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Carpi",
+        "opponentName": "Atalanta",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Carpi",
+        "opponentName": "Roma",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Carpi",
+        "opponentName": "Palermo",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Carpi",
+        "opponentName": "Sampdoria",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Carpi",
+        "opponentName": "Udinese",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Carpi",
+        "opponentName": "Udinese",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Carpi",
+        "opponentName": "Juventus",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Carpi",
+        "opponentName": "Milan",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Carpi",
+        "opponentName": "Chievo",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Carpi",
+        "opponentName": "Verona",
+        "awayGoals": "2",
+        "awayShots": "11",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Carpi",
+        "opponentName": "Bologna",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Carpi",
+        "opponentName": "Torino",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Carpi",
+        "opponentName": "Napoli",
+        "awayGoals": "0",
+        "awayShots": "2",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Carpi",
+        "opponentName": "Fiorentina",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Carpi",
+        "opponentName": "Inter",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      }
+    ],
+    "homeFullTime": "undefinedAHHAHDADHH",
+    "awayFullTime": "undefinedAHDHADDHHD",
+    "totalGoals": 22,
+    "totalShots": 215,
+    "totalShotsTarget": 68,
+    "totalTeamCorners": 91
+  },
+  {
+    "name": "Cesena",
+    "totalHomeGoals": 11,
+    "totalHomeShots": 114,
+    "totalHomeShotsTarget": 34,
+    "totalHomeTeamCorners": 36,
+    "totalAwayGoals": 10,
+    "totalAwayShots": 104,
+    "totalAwayShotsTarget": 31,
+    "totalAwayTeamCorners": 34,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Cesena",
+        "opponentName": "Cagliari",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Cesena",
+        "opponentName": "Sassuolo",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Cesena",
+        "opponentName": "Atalanta",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Cesena",
+        "opponentName": "Chievo",
+        "homeGoals": "0",
+        "homeShots": "16",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Cesena",
+        "opponentName": "Roma",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Cesena",
+        "opponentName": "Palermo",
+        "homeGoals": "0",
+        "homeShots": "3",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Cesena",
+        "opponentName": "Udinese",
+        "homeGoals": "1",
+        "homeShots": "17",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Cesena",
+        "opponentName": "Juventus",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Cesena",
+        "opponentName": "Lazio",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Cesena",
+        "opponentName": "Torino",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "1"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Cesena",
+        "opponentName": "Torino",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Cesena",
+        "opponentName": "Napoli",
+        "awayGoals": "2",
+        "awayShots": "7",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Cesena",
+        "opponentName": "Fiorentina",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Cesena",
+        "opponentName": "Genoa",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Cesena",
+        "opponentName": "Sampdoria",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Cesena",
+        "opponentName": "Verona",
+        "awayGoals": "3",
+        "awayShots": "20",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Cesena",
+        "opponentName": "Inter",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Cesena",
+        "opponentName": "Milan",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Cesena",
+        "opponentName": "Empoli",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Cesena",
+        "opponentName": "Parma",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      }
+    ],
+    "homeFullTime": "undefinedAADAADHDHA",
+    "awayFullTime": "undefinedHHHHDDDHHA",
+    "totalGoals": 21,
+    "totalShots": 218,
+    "totalShotsTarget": 65,
+    "totalTeamCorners": 70
+  },
+  {
+    "name": "Catania",
+    "totalHomeGoals": 18,
+    "totalHomeShots": 149,
+    "totalHomeShotsTarget": 61,
+    "totalHomeTeamCorners": 53,
+    "totalAwayGoals": 4,
+    "totalAwayShots": 121,
+    "totalAwayShotsTarget": 32,
+    "totalAwayTeamCorners": 53,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Catania",
+        "opponentName": "Atalanta",
+        "homeGoals": "2",
+        "homeShots": "23",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Catania",
+        "opponentName": "Roma",
+        "homeGoals": "4",
+        "homeShots": "13",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Catania",
+        "opponentName": "Sampdoria",
+        "homeGoals": "2",
+        "homeShots": "20",
+        "homeShotsOnTarget": "11",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Catania",
+        "opponentName": "Torino",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Catania",
+        "opponentName": "Napoli",
+        "homeGoals": "2",
+        "homeShots": "18",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Catania",
+        "opponentName": "Juventus",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Catania",
+        "opponentName": "Cagliari",
+        "homeGoals": "1",
+        "homeShots": "18",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "12"
+      },
+      {
+        "teamName": "Catania",
+        "opponentName": "Lazio",
+        "homeGoals": "3",
+        "homeShots": "16",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Catania",
+        "opponentName": "Livorno",
+        "homeGoals": "3",
+        "homeShots": "15",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Catania",
+        "opponentName": "Fiorentina",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Catania",
+        "opponentName": "Bologna",
+        "awayGoals": "2",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Catania",
+        "opponentName": "Verona",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Catania",
+        "opponentName": "Milan",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Catania",
+        "opponentName": "Udinese",
+        "awayGoals": "0",
+        "awayShots": "20",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "11"
+      },
+      {
+        "teamName": "Catania",
+        "opponentName": "Sassuolo",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Catania",
+        "opponentName": "Genoa",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Catania",
+        "opponentName": "Chievo",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Catania",
+        "opponentName": "Parma",
+        "awayGoals": "0",
+        "awayShots": "19",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Catania",
+        "opponentName": "Inter",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Catania",
+        "opponentName": "Atalanta",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "10"
+      }
+    ],
+    "homeFullTime": "undefinedHHHAAADHDA",
+    "awayFullTime": "undefinedAHHHHHHDDH",
+    "totalGoals": 22,
+    "totalShots": 270,
+    "totalShotsTarget": 93,
+    "totalTeamCorners": 106
+  },
+  {
+    "name": "Livorno",
+    "totalHomeGoals": 12,
+    "totalHomeShots": 138,
+    "totalHomeShotsTarget": 40,
+    "totalHomeTeamCorners": 64,
+    "totalAwayGoals": 11,
+    "totalAwayShots": 118,
+    "totalAwayShotsTarget": 33,
+    "totalAwayTeamCorners": 40,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Livorno",
+        "opponentName": "Fiorentina",
+        "homeGoals": "0",
+        "homeShots": "6",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Livorno",
+        "opponentName": "Lazio",
+        "homeGoals": "0",
+        "homeShots": "17",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "14"
+      },
+      {
+        "teamName": "Livorno",
+        "opponentName": "Chievo",
+        "homeGoals": "2",
+        "homeShots": "19",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Livorno",
+        "opponentName": "Inter",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Livorno",
+        "opponentName": "Bologna",
+        "homeGoals": "2",
+        "homeShots": "8",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Livorno",
+        "opponentName": "Napoli",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Livorno",
+        "opponentName": "Verona",
+        "homeGoals": "2",
+        "homeShots": "21",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Livorno",
+        "opponentName": "Genoa",
+        "homeGoals": "0",
+        "homeShots": "19",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Livorno",
+        "opponentName": "Sassuolo",
+        "homeGoals": "3",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Livorno",
+        "opponentName": "Parma",
+        "homeGoals": "0",
+        "homeShots": "19",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Livorno",
+        "opponentName": "Parma",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Livorno",
+        "opponentName": "Udinese",
+        "awayGoals": "3",
+        "awayShots": "19",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "11"
+      },
+      {
+        "teamName": "Livorno",
+        "opponentName": "Milan",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Livorno",
+        "opponentName": "Juventus",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Livorno",
+        "opponentName": "Atalanta",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Livorno",
+        "opponentName": "Torino",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Livorno",
+        "opponentName": "Sampdoria",
+        "awayGoals": "2",
+        "awayShots": "15",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Livorno",
+        "opponentName": "Cagliari",
+        "awayGoals": "2",
+        "awayShots": "15",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Livorno",
+        "opponentName": "Catania",
+        "awayGoals": "3",
+        "awayShots": "17",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Livorno",
+        "opponentName": "Roma",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "0"
+      }
+    ],
+    "homeFullTime": "undefinedAAADHDAAHA",
+    "awayFullTime": "undefinedHHHHHHHADH",
+    "totalGoals": 23,
+    "totalShots": 256,
+    "totalShotsTarget": 73,
+    "totalTeamCorners": 104
+  },
+  {
+    "name": "Siena",
+    "totalHomeGoals": 8,
+    "totalHomeShots": 88,
+    "totalHomeShotsTarget": 22,
+    "totalHomeTeamCorners": 55,
+    "totalAwayGoals": 11,
+    "totalAwayShots": 116,
+    "totalAwayShotsTarget": 36,
+    "totalAwayTeamCorners": 55,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Siena",
+        "opponentName": "Milan",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Siena",
+        "opponentName": "Fiorentina",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Siena",
+        "opponentName": "Chievo",
+        "homeGoals": "0",
+        "homeShots": "15",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "15"
+      },
+      {
+        "teamName": "Siena",
+        "opponentName": "Parma",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Siena",
+        "opponentName": "Cagliari",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Siena",
+        "opponentName": "Atalanta",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Siena",
+        "opponentName": "Lazio",
+        "homeGoals": "3",
+        "homeShots": "4",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Siena",
+        "opponentName": "Inter",
+        "homeGoals": "3",
+        "homeShots": "14",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Siena",
+        "opponentName": "Sampdoria",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Siena",
+        "opponentName": "Napoli",
+        "homeGoals": "0",
+        "homeShots": "2",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "2"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Siena",
+        "opponentName": "Napoli",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Siena",
+        "opponentName": "Catania",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Siena",
+        "opponentName": "Roma",
+        "awayGoals": "0",
+        "awayShots": "17",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Siena",
+        "opponentName": "Pescara",
+        "awayGoals": "3",
+        "awayShots": "25",
+        "awayShotsOnTarget": "10",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Siena",
+        "opponentName": "Genoa",
+        "awayGoals": "2",
+        "awayShots": "5",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Siena",
+        "opponentName": "Palermo",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Siena",
+        "opponentName": "Juventus",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Siena",
+        "opponentName": "Bologna",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Siena",
+        "opponentName": "Udinese",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Siena",
+        "opponentName": "Torino",
+        "awayGoals": "2",
+        "awayShots": "15",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "12"
+      }
+    ],
+    "homeFullTime": "undefinedAAADDAHHHA",
+    "awayFullTime": "undefinedHHHADAHDHH",
+    "totalGoals": 19,
+    "totalShots": 204,
+    "totalShotsTarget": 58,
+    "totalTeamCorners": 110
+  },
+  {
+    "name": "Novara",
+    "totalHomeGoals": 8,
+    "totalHomeShots": 129,
+    "totalHomeShotsTarget": 40,
+    "totalHomeTeamCorners": 46,
+    "totalAwayGoals": 9,
+    "totalAwayShots": 100,
+    "totalAwayShotsTarget": 29,
+    "totalAwayTeamCorners": 48,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Novara",
+        "opponentName": "Cesena",
+        "homeGoals": "3",
+        "homeShots": "19",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Novara",
+        "opponentName": "Juventus",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Novara",
+        "opponentName": "Lazio",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Novara",
+        "opponentName": "Genoa",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Novara",
+        "opponentName": "Lecce",
+        "homeGoals": "0",
+        "homeShots": "18",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Novara",
+        "opponentName": "Udinese",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Novara",
+        "opponentName": "Atalanta",
+        "homeGoals": "0",
+        "homeShots": "14",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Novara",
+        "opponentName": "Cagliari",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Novara",
+        "opponentName": "Chievo",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Novara",
+        "opponentName": "Milan",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Novara",
+        "opponentName": "Milan",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Novara",
+        "opponentName": "Fiorentina",
+        "awayGoals": "2",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Novara",
+        "opponentName": "Napoli",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Novara",
+        "opponentName": "Parma",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Novara",
+        "opponentName": "Roma",
+        "awayGoals": "2",
+        "awayShots": "14",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Novara",
+        "opponentName": "Siena",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Novara",
+        "opponentName": "Bologna",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Novara",
+        "opponentName": "Catania",
+        "awayGoals": "1",
+        "awayShots": "17",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Novara",
+        "opponentName": "Inter",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Novara",
+        "opponentName": "Palermo",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "9"
+      }
+    ],
+    "homeFullTime": "undefinedHAHDDHDDAA",
+    "awayFullTime": "undefinedHDHHHAHHAH",
+    "totalGoals": 17,
+    "totalShots": 229,
+    "totalShotsTarget": 69,
+    "totalTeamCorners": 94
+  },
+  {
+    "name": "Lecce",
+    "totalHomeGoals": 13,
+    "totalHomeShots": 118,
+    "totalHomeShotsTarget": 38,
+    "totalHomeTeamCorners": 46,
+    "totalAwayGoals": 8,
+    "totalAwayShots": 94,
+    "totalAwayShotsTarget": 25,
+    "totalAwayTeamCorners": 39,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Lecce",
+        "opponentName": "Fiorentina",
+        "homeGoals": "0",
+        "homeShots": "17",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Lecce",
+        "opponentName": "Parma",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Lecce",
+        "opponentName": "Napoli",
+        "homeGoals": "0",
+        "homeShots": "5",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Lecce",
+        "opponentName": "Roma",
+        "homeGoals": "4",
+        "homeShots": "7",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Lecce",
+        "opponentName": "Cesena",
+        "homeGoals": "0",
+        "homeShots": "20",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Lecce",
+        "opponentName": "Palermo",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Lecce",
+        "opponentName": "Genoa",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Lecce",
+        "opponentName": "Siena",
+        "homeGoals": "4",
+        "homeShots": "11",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Lecce",
+        "opponentName": "Bologna",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Lecce",
+        "opponentName": "Inter",
+        "homeGoals": "1",
+        "homeShots": "6",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Lecce",
+        "opponentName": "Chievo",
+        "awayGoals": "0",
+        "awayShots": "15",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Lecce",
+        "opponentName": "Juventus",
+        "awayGoals": "1",
+        "awayShots": "3",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Lecce",
+        "opponentName": "Lazio",
+        "awayGoals": "1",
+        "awayShots": "16",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Lecce",
+        "opponentName": "Catania",
+        "awayGoals": "2",
+        "awayShots": "12",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Lecce",
+        "opponentName": "Novara",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Lecce",
+        "opponentName": "Milan",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Lecce",
+        "opponentName": "Cagliari",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Lecce",
+        "opponentName": "Atalanta",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Lecce",
+        "opponentName": "Udinese",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Lecce",
+        "opponentName": "Fiorentina",
+        "awayGoals": "1",
+        "awayShots": "3",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      }
+    ],
+    "homeFullTime": "undefinedAAAHDDDHDH",
+    "awayFullTime": "undefinedHDDADHADHA",
+    "totalGoals": 21,
+    "totalShots": 212,
+    "totalShotsTarget": 63,
+    "totalTeamCorners": 85
+  },
+  {
+    "name": "Brescia",
+    "totalHomeGoals": 13,
+    "totalHomeShots": 153,
+    "totalHomeShotsTarget": 53,
+    "totalHomeTeamCorners": 62,
+    "totalAwayGoals": 8,
+    "totalAwayShots": 108,
+    "totalAwayShotsTarget": 30,
+    "totalAwayTeamCorners": 33,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Brescia",
+        "opponentName": "Fiorentina",
+        "homeGoals": "2",
+        "homeShots": "16",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Brescia",
+        "opponentName": "Catania",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Brescia",
+        "opponentName": "Milan",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Brescia",
+        "opponentName": "Bologna",
+        "homeGoals": "3",
+        "homeShots": "22",
+        "homeShotsOnTarget": "13",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Brescia",
+        "opponentName": "Inter",
+        "homeGoals": "1",
+        "homeShots": "18",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Brescia",
+        "opponentName": "Lecce",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Brescia",
+        "opponentName": "Lazio",
+        "homeGoals": "0",
+        "homeShots": "15",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Brescia",
+        "opponentName": "Bari",
+        "homeGoals": "2",
+        "homeShots": "8",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Brescia",
+        "opponentName": "Chievo",
+        "homeGoals": "0",
+        "homeShots": "15",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Brescia",
+        "opponentName": "Parma",
+        "homeGoals": "2",
+        "homeShots": "20",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Brescia",
+        "opponentName": "Cesena",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Brescia",
+        "opponentName": "Sampdoria",
+        "awayGoals": "3",
+        "awayShots": "7",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Brescia",
+        "opponentName": "Genoa",
+        "awayGoals": "0",
+        "awayShots": "18",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Brescia",
+        "opponentName": "Cagliari",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Brescia",
+        "opponentName": "Juventus",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Brescia",
+        "opponentName": "Napoli",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Brescia",
+        "opponentName": "Udinese",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Brescia",
+        "opponentName": "Roma",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Brescia",
+        "opponentName": "Palermo",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Brescia",
+        "opponentName": "Fiorentina",
+        "awayGoals": "2",
+        "awayShots": "18",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      }
+    ],
+    "homeFullTime": "undefinedDAAHDDAHAH",
+    "awayFullTime": "undefinedHDHDHDDDHH",
+    "totalGoals": 21,
+    "totalShots": 261,
+    "totalShotsTarget": 83,
+    "totalTeamCorners": 95
+  },
+  {
+    "name": "Bari",
+    "totalHomeGoals": 5,
+    "totalHomeShots": 108,
+    "totalHomeShotsTarget": 25,
+    "totalHomeTeamCorners": 47,
+    "totalAwayGoals": 10,
+    "totalAwayShots": 116,
+    "totalAwayShotsTarget": 43,
+    "totalAwayTeamCorners": 33,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Bari",
+        "opponentName": "Lecce",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Bari",
+        "opponentName": "Roma",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Bari",
+        "opponentName": "Sampdoria",
+        "homeGoals": "0",
+        "homeShots": "13",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Bari",
+        "opponentName": "Catania",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Bari",
+        "opponentName": "Chievo",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Bari",
+        "opponentName": "Fiorentina",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Bari",
+        "opponentName": "Genoa",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Bari",
+        "opponentName": "Inter",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Bari",
+        "opponentName": "Napoli",
+        "homeGoals": "0",
+        "homeShots": "5",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Bari",
+        "opponentName": "Bologna",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Bari",
+        "opponentName": "Bologna",
+        "awayGoals": "4",
+        "awayShots": "13",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Bari",
+        "opponentName": "Palermo",
+        "awayGoals": "1",
+        "awayShots": "15",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Bari",
+        "opponentName": "Cesena",
+        "awayGoals": "0",
+        "awayShots": "17",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Bari",
+        "opponentName": "Parma",
+        "awayGoals": "2",
+        "awayShots": "17",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Bari",
+        "opponentName": "Milan",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Bari",
+        "opponentName": "Udinese",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Bari",
+        "opponentName": "Lazio",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Bari",
+        "opponentName": "Brescia",
+        "awayGoals": "0",
+        "awayShots": "16",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Bari",
+        "opponentName": "Cagliari",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Bari",
+        "opponentName": "Juventus",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      }
+    ],
+    "homeFullTime": "undefinedAAADADDAAA",
+    "awayFullTime": "undefinedAHHADHHHHH",
+    "totalGoals": 15,
+    "totalShots": 224,
+    "totalShotsTarget": 68,
+    "totalTeamCorners": 80
+  }
+]

@@ -1,0 +1,6774 @@
+[
+  {
+    "name": "St Etienne",
+    "totalHomeGoals": 18,
+    "totalHomeShots": 131,
+    "totalHomeShotsTarget": 56,
+    "totalHomeTeamCorners": 55,
+    "totalAwayGoals": 13,
+    "totalAwayShots": 132,
+    "totalAwayShotsTarget": 41,
+    "totalAwayTeamCorners": 64,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "St Etienne",
+        "opponentName": "Bordeaux",
+        "homeGoals": "3",
+        "homeShots": "14",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "St Etienne",
+        "opponentName": "Nimes",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "St Etienne",
+        "opponentName": "Lille",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "St Etienne",
+        "opponentName": "Paris SG",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "St Etienne",
+        "opponentName": "Strasbourg",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "St Etienne",
+        "opponentName": "Lyon",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "St Etienne",
+        "opponentName": "Marseille",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "St Etienne",
+        "opponentName": "Dijon",
+        "homeGoals": "3",
+        "homeShots": "18",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "St Etienne",
+        "opponentName": "Nantes",
+        "homeGoals": "3",
+        "homeShots": "16",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "St Etienne",
+        "opponentName": "Reims",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "St Etienne",
+        "opponentName": "Amiens",
+        "awayGoals": "2",
+        "awayShots": "26",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "St Etienne",
+        "opponentName": "Caen",
+        "awayGoals": "5",
+        "awayShots": "13",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "St Etienne",
+        "opponentName": "Marseille",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "St Etienne",
+        "opponentName": "Dijon",
+        "awayGoals": "1",
+        "awayShots": "16",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "St Etienne",
+        "opponentName": "Rennes",
+        "awayGoals": "0",
+        "awayShots": "15",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "St Etienne",
+        "opponentName": "Nantes",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "St Etienne",
+        "opponentName": "Guingamp",
+        "awayGoals": "1",
+        "awayShots": "4",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "St Etienne",
+        "opponentName": "Nice",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "St Etienne",
+        "opponentName": "Bordeaux",
+        "awayGoals": "2",
+        "awayShots": "14",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "St Etienne",
+        "opponentName": "Lyon",
+        "awayGoals": "0",
+        "awayShots": "16",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "8"
+      }
+    ],
+    "homeFullTime": "undefinedHHAAHAHHHH",
+    "awayFullTime": "undefinedDAHAHDADHH",
+    "totalGoals": 31,
+    "totalShots": 263,
+    "totalShotsTarget": 97,
+    "totalTeamCorners": 119
+  },
+  {
+    "name": "Rennes",
+    "totalHomeGoals": 15,
+    "totalHomeShots": 145,
+    "totalHomeShotsTarget": 47,
+    "totalHomeTeamCorners": 57,
+    "totalAwayGoals": 14,
+    "totalAwayShots": 116,
+    "totalAwayShotsTarget": 38,
+    "totalAwayTeamCorners": 37,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Rennes",
+        "opponentName": "Nice",
+        "homeGoals": "0",
+        "homeShots": "14",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Rennes",
+        "opponentName": "Lyon",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Rennes",
+        "opponentName": "Caen",
+        "homeGoals": "3",
+        "homeShots": "11",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Rennes",
+        "opponentName": "Marseille",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Rennes",
+        "opponentName": "St Etienne",
+        "homeGoals": "3",
+        "homeShots": "15",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Rennes",
+        "opponentName": "Amiens",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Rennes",
+        "opponentName": "Montpellier",
+        "homeGoals": "0",
+        "homeShots": "16",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Rennes",
+        "opponentName": "Nimes",
+        "homeGoals": "4",
+        "homeShots": "13",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Rennes",
+        "opponentName": "Dijon",
+        "homeGoals": "2",
+        "homeShots": "21",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Rennes",
+        "opponentName": "Strasbourg",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "10"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Rennes",
+        "opponentName": "Nimes",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Rennes",
+        "opponentName": "Angers",
+        "awayGoals": "3",
+        "awayShots": "7",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Rennes",
+        "opponentName": "Bordeaux",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Rennes",
+        "opponentName": "Reims",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Rennes",
+        "opponentName": "Paris SG",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Rennes",
+        "opponentName": "Guingamp",
+        "awayGoals": "1",
+        "awayShots": "17",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Rennes",
+        "opponentName": "Nantes",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Rennes",
+        "opponentName": "Lyon",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Rennes",
+        "opponentName": "Montpellier",
+        "awayGoals": "2",
+        "awayShots": "16",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Rennes",
+        "opponentName": "Caen",
+        "awayGoals": "2",
+        "awayShots": "22",
+        "awayShotsOnTarget": "10",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedDAHDHHDHHA",
+    "awayFullTime": "undefinedHDDHHHAADA",
+    "totalGoals": 29,
+    "totalShots": 261,
+    "totalShotsTarget": 85,
+    "totalTeamCorners": 94
+  },
+  {
+    "name": "Lille",
+    "totalHomeGoals": 16,
+    "totalHomeShots": 149,
+    "totalHomeShotsTarget": 45,
+    "totalHomeTeamCorners": 47,
+    "totalAwayGoals": 17,
+    "totalAwayShots": 109,
+    "totalAwayShotsTarget": 47,
+    "totalAwayTeamCorners": 50,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Lille",
+        "opponentName": "Paris SG",
+        "homeGoals": "5",
+        "homeShots": "15",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Lille",
+        "opponentName": "Monaco",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Lille",
+        "opponentName": "Dijon",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Lille",
+        "opponentName": "Montpellier",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Lille",
+        "opponentName": "Nice",
+        "homeGoals": "4",
+        "homeShots": "15",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Lille",
+        "opponentName": "Amiens",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Lille",
+        "opponentName": "Toulouse",
+        "homeGoals": "1",
+        "homeShots": "17",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Lille",
+        "opponentName": "Reims",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Lille",
+        "opponentName": "Lyon",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Lille",
+        "opponentName": "Strasbourg",
+        "homeGoals": "0",
+        "homeShots": "22",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "7"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Lille",
+        "opponentName": "Reims",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Lille",
+        "opponentName": "Nantes",
+        "awayGoals": "3",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Lille",
+        "opponentName": "St Etienne",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Lille",
+        "opponentName": "Strasbourg",
+        "awayGoals": "1",
+        "awayShots": "15",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Lille",
+        "opponentName": "Guingamp",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Lille",
+        "opponentName": "Marseille",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Lille",
+        "opponentName": "Caen",
+        "awayGoals": "3",
+        "awayShots": "12",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Lille",
+        "opponentName": "Nimes",
+        "awayGoals": "3",
+        "awayShots": "7",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Lille",
+        "opponentName": "Montpellier",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Lille",
+        "opponentName": "Nice",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "12"
+      }
+    ],
+    "homeFullTime": "undefinedHAHDHHADDD",
+    "awayFullTime": "undefinedDAADAAAAAH",
+    "totalGoals": 33,
+    "totalShots": 258,
+    "totalShotsTarget": 92,
+    "totalTeamCorners": 97
+  },
+  {
+    "name": "Montpellier",
+    "totalHomeGoals": 18,
+    "totalHomeShots": 141,
+    "totalHomeShotsTarget": 47,
+    "totalHomeTeamCorners": 46,
+    "totalAwayGoals": 9,
+    "totalAwayShots": 118,
+    "totalAwayShotsTarget": 40,
+    "totalAwayTeamCorners": 34,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Montpellier",
+        "opponentName": "Toulouse",
+        "homeGoals": "2",
+        "homeShots": "16",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Montpellier",
+        "opponentName": "Guingamp",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Montpellier",
+        "opponentName": "Angers",
+        "homeGoals": "2",
+        "homeShots": "8",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Montpellier",
+        "opponentName": "Reims",
+        "homeGoals": "2",
+        "homeShots": "19",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Montpellier",
+        "opponentName": "Monaco",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Montpellier",
+        "opponentName": "Caen",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Montpellier",
+        "opponentName": "Lyon",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Montpellier",
+        "opponentName": "Lille",
+        "homeGoals": "0",
+        "homeShots": "16",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Montpellier",
+        "opponentName": "Rennes",
+        "homeGoals": "2",
+        "homeShots": "15",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Montpellier",
+        "opponentName": "Marseille",
+        "homeGoals": "3",
+        "homeShots": "14",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "2"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Montpellier",
+        "opponentName": "Nice",
+        "awayGoals": "0",
+        "awayShots": "16",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Montpellier",
+        "opponentName": "Lyon",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Montpellier",
+        "opponentName": "Bordeaux",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Montpellier",
+        "opponentName": "Paris SG",
+        "awayGoals": "1",
+        "awayShots": "15",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Montpellier",
+        "opponentName": "Lille",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Montpellier",
+        "opponentName": "Nimes",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Montpellier",
+        "opponentName": "Rennes",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Montpellier",
+        "opponentName": "Dijon",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Montpellier",
+        "opponentName": "Nantes",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Montpellier",
+        "opponentName": "Monaco",
+        "awayGoals": "2",
+        "awayShots": "15",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      }
+    ],
+    "homeFullTime": "undefinedHHDADHDADH",
+    "awayFullTime": "undefinedHHAHDDDDHA",
+    "totalGoals": 27,
+    "totalShots": 259,
+    "totalShotsTarget": 87,
+    "totalTeamCorners": 80
+  },
+  {
+    "name": "Monaco",
+    "totalHomeGoals": 9,
+    "totalHomeShots": 142,
+    "totalHomeShotsTarget": 49,
+    "totalHomeTeamCorners": 71,
+    "totalAwayGoals": 10,
+    "totalAwayShots": 103,
+    "totalAwayShotsTarget": 41,
+    "totalAwayTeamCorners": 37,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Monaco",
+        "opponentName": "Reims",
+        "homeGoals": "0",
+        "homeShots": "27",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "18"
+      },
+      {
+        "teamName": "Monaco",
+        "opponentName": "Caen",
+        "homeGoals": "0",
+        "homeShots": "24",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "13"
+      },
+      {
+        "teamName": "Monaco",
+        "opponentName": "Bordeaux",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Monaco",
+        "opponentName": "Lyon",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Monaco",
+        "opponentName": "Nantes",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Monaco",
+        "opponentName": "Toulouse",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Monaco",
+        "opponentName": "Strasbourg",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Monaco",
+        "opponentName": "Nice",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Monaco",
+        "opponentName": "Guingamp",
+        "homeGoals": "0",
+        "homeShots": "5",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Monaco",
+        "opponentName": "Montpellier",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Monaco",
+        "opponentName": "Guingamp",
+        "awayGoals": "1",
+        "awayShots": "18",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Monaco",
+        "opponentName": "Lille",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Monaco",
+        "opponentName": "Angers",
+        "awayGoals": "2",
+        "awayShots": "12",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Monaco",
+        "opponentName": "Montpellier",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Monaco",
+        "opponentName": "Dijon",
+        "awayGoals": "0",
+        "awayShots": "18",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Monaco",
+        "opponentName": "Marseille",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Monaco",
+        "opponentName": "Lyon",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Monaco",
+        "opponentName": "Amiens",
+        "awayGoals": "2",
+        "awayShots": "6",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Monaco",
+        "opponentName": "Caen",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Monaco",
+        "opponentName": "Reims",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedDADHHHADAA",
+    "awayFullTime": "undefinedDADDHDHAAH",
+    "totalGoals": 19,
+    "totalShots": 245,
+    "totalShotsTarget": 90,
+    "totalTeamCorners": 108
+  },
+  {
+    "name": "Marseille",
+    "totalHomeGoals": 14,
+    "totalHomeShots": 150,
+    "totalHomeShotsTarget": 50,
+    "totalHomeTeamCorners": 64,
+    "totalAwayGoals": 13,
+    "totalAwayShots": 130,
+    "totalAwayShotsTarget": 41,
+    "totalAwayTeamCorners": 58,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Marseille",
+        "opponentName": "Nimes",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Marseille",
+        "opponentName": "Angers",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Marseille",
+        "opponentName": "Nice",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Marseille",
+        "opponentName": "St Etienne",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Marseille",
+        "opponentName": "Amiens",
+        "homeGoals": "2",
+        "homeShots": "16",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Marseille",
+        "opponentName": "Bordeaux",
+        "homeGoals": "1",
+        "homeShots": "24",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Marseille",
+        "opponentName": "Lille",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Marseille",
+        "opponentName": "Monaco",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Marseille",
+        "opponentName": "Reims",
+        "homeGoals": "0",
+        "homeShots": "16",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "13"
+      },
+      {
+        "teamName": "Marseille",
+        "opponentName": "Dijon",
+        "homeGoals": "2",
+        "homeShots": "16",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "10"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Marseille",
+        "opponentName": "Bordeaux",
+        "awayGoals": "0",
+        "awayShots": "20",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "11"
+      },
+      {
+        "teamName": "Marseille",
+        "opponentName": "Paris SG",
+        "awayGoals": "1",
+        "awayShots": "3",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Marseille",
+        "opponentName": "Rennes",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Marseille",
+        "opponentName": "Dijon",
+        "awayGoals": "2",
+        "awayShots": "18",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "12"
+      },
+      {
+        "teamName": "Marseille",
+        "opponentName": "Reims",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Marseille",
+        "opponentName": "Caen",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Marseille",
+        "opponentName": "St Etienne",
+        "awayGoals": "1",
+        "awayShots": "15",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Marseille",
+        "opponentName": "Angers",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Marseille",
+        "opponentName": "Nantes",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Marseille",
+        "opponentName": "Amiens",
+        "awayGoals": "3",
+        "awayShots": "21",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "8"
+      }
+    ],
+    "homeFullTime": "undefinedHDHHHHADDH",
+    "awayFullTime": "undefinedHHDAHAHDHA",
+    "totalGoals": 27,
+    "totalShots": 280,
+    "totalShotsTarget": 91,
+    "totalTeamCorners": 122
+  },
+  {
+    "name": "Strasbourg",
+    "totalHomeGoals": 17,
+    "totalHomeShots": 113,
+    "totalHomeShotsTarget": 51,
+    "totalHomeTeamCorners": 46,
+    "totalAwayGoals": 17,
+    "totalAwayShots": 100,
+    "totalAwayShotsTarget": 35,
+    "totalAwayTeamCorners": 36,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Strasbourg",
+        "opponentName": "Guingamp",
+        "homeGoals": "3",
+        "homeShots": "11",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Strasbourg",
+        "opponentName": "Reims",
+        "homeGoals": "4",
+        "homeShots": "13",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Strasbourg",
+        "opponentName": "Lyon",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Strasbourg",
+        "opponentName": "Lille",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Strasbourg",
+        "opponentName": "Angers",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Strasbourg",
+        "opponentName": "Bordeaux",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Strasbourg",
+        "opponentName": "Nice",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Strasbourg",
+        "opponentName": "Caen",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Strasbourg",
+        "opponentName": "Paris SG",
+        "homeGoals": "1",
+        "homeShots": "4",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Strasbourg",
+        "opponentName": "Nimes",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Strasbourg",
+        "opponentName": "Paris SG",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Strasbourg",
+        "opponentName": "Nimes",
+        "awayGoals": "2",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Strasbourg",
+        "opponentName": "Nice",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Strasbourg",
+        "opponentName": "Caen",
+        "awayGoals": "0",
+        "awayShots": "15",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Strasbourg",
+        "opponentName": "St Etienne",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Strasbourg",
+        "opponentName": "Monaco",
+        "awayGoals": "5",
+        "awayShots": "16",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Strasbourg",
+        "opponentName": "Toulouse",
+        "awayGoals": "2",
+        "awayShots": "12",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Strasbourg",
+        "opponentName": "Reims",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Strasbourg",
+        "opponentName": "Rennes",
+        "awayGoals": "4",
+        "awayShots": "14",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Strasbourg",
+        "opponentName": "Lille",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "0"
+      }
+    ],
+    "homeFullTime": "undefinedDHDDAHHDDA",
+    "awayFullTime": "undefinedDDHDHAAHAD",
+    "totalGoals": 34,
+    "totalShots": 213,
+    "totalShotsTarget": 86,
+    "totalTeamCorners": 82
+  },
+  {
+    "name": "Caen",
+    "totalHomeGoals": 5,
+    "totalHomeShots": 93,
+    "totalHomeShotsTarget": 26,
+    "totalHomeTeamCorners": 33,
+    "totalAwayGoals": 8,
+    "totalAwayShots": 80,
+    "totalAwayShotsTarget": 22,
+    "totalAwayTeamCorners": 27,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Caen",
+        "opponentName": "Angers",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Caen",
+        "opponentName": "St Etienne",
+        "homeGoals": "0",
+        "homeShots": "2",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "0"
+      },
+      {
+        "teamName": "Caen",
+        "opponentName": "Paris SG",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Caen",
+        "opponentName": "Strasbourg",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Caen",
+        "opponentName": "Nantes",
+        "homeGoals": "0",
+        "homeShots": "14",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Caen",
+        "opponentName": "Marseille",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Caen",
+        "opponentName": "Lille",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Caen",
+        "opponentName": "Toulouse",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Caen",
+        "opponentName": "Nimes",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "0"
+      },
+      {
+        "teamName": "Caen",
+        "opponentName": "Monaco",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "7"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Caen",
+        "opponentName": "Nimes",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Caen",
+        "opponentName": "Monaco",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Caen",
+        "opponentName": "Rennes",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Caen",
+        "opponentName": "Toulouse",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Caen",
+        "opponentName": "Amiens",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Caen",
+        "opponentName": "Montpellier",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Caen",
+        "opponentName": "Reims",
+        "awayGoals": "2",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Caen",
+        "opponentName": "Strasbourg",
+        "awayGoals": "2",
+        "awayShots": "5",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Caen",
+        "opponentName": "Angers",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Caen",
+        "opponentName": "Bordeaux",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "6"
+      }
+    ],
+    "homeFullTime": "undefinedAAADAAAHAA",
+    "awayFullTime": "undefinedHAHDHHDDDD",
+    "totalGoals": 13,
+    "totalShots": 173,
+    "totalShotsTarget": 48,
+    "totalTeamCorners": 60
+  },
+  {
+    "name": "Nantes",
+    "totalHomeGoals": 19,
+    "totalHomeShots": 163,
+    "totalHomeShotsTarget": 52,
+    "totalHomeTeamCorners": 68,
+    "totalAwayGoals": 2,
+    "totalAwayShots": 103,
+    "totalAwayShotsTarget": 24,
+    "totalAwayTeamCorners": 36,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Nantes",
+        "opponentName": "Lyon",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Nantes",
+        "opponentName": "Lille",
+        "homeGoals": "2",
+        "homeShots": "8",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Nantes",
+        "opponentName": "Bordeaux",
+        "homeGoals": "1",
+        "homeShots": "19",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "Nantes",
+        "opponentName": "Nimes",
+        "homeGoals": "2",
+        "homeShots": "15",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Nantes",
+        "opponentName": "St Etienne",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Nantes",
+        "opponentName": "Rennes",
+        "homeGoals": "0",
+        "homeShots": "24",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Nantes",
+        "opponentName": "Montpellier",
+        "homeGoals": "2",
+        "homeShots": "16",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Nantes",
+        "opponentName": "Marseille",
+        "homeGoals": "3",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Nantes",
+        "opponentName": "Angers",
+        "homeGoals": "1",
+        "homeShots": "24",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Nantes",
+        "opponentName": "Guingamp",
+        "homeGoals": "5",
+        "homeShots": "19",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "8"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Nantes",
+        "opponentName": "Toulouse",
+        "awayGoals": "0",
+        "awayShots": "19",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Nantes",
+        "opponentName": "Reims",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Nantes",
+        "opponentName": "Guingamp",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Nantes",
+        "opponentName": "Monaco",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Nantes",
+        "opponentName": "Caen",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Nantes",
+        "opponentName": "Angers",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Nantes",
+        "opponentName": "Nimes",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Nantes",
+        "opponentName": "Paris SG",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Nantes",
+        "opponentName": "St Etienne",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Nantes",
+        "opponentName": "Rennes",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedHAHADAHHDH",
+    "awayFullTime": "undefinedHHDHAHHHHD",
+    "totalGoals": 21,
+    "totalShots": 266,
+    "totalShotsTarget": 76,
+    "totalTeamCorners": 104
+  },
+  {
+    "name": "Dijon",
+    "totalHomeGoals": 7,
+    "totalHomeShots": 116,
+    "totalHomeShotsTarget": 36,
+    "totalHomeTeamCorners": 44,
+    "totalAwayGoals": 5,
+    "totalAwayShots": 92,
+    "totalAwayShotsTarget": 29,
+    "totalAwayTeamCorners": 42,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Dijon",
+        "opponentName": "Amiens",
+        "homeGoals": "0",
+        "homeShots": "18",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Dijon",
+        "opponentName": "Nice",
+        "homeGoals": "0",
+        "homeShots": "14",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Dijon",
+        "opponentName": "Paris SG",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Dijon",
+        "opponentName": "Reims",
+        "homeGoals": "1",
+        "homeShots": "5",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Dijon",
+        "opponentName": "St Etienne",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Dijon",
+        "opponentName": "Marseille",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Dijon",
+        "opponentName": "Monaco",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Dijon",
+        "opponentName": "Montpellier",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Dijon",
+        "opponentName": "Guingamp",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Dijon",
+        "opponentName": "Bordeaux",
+        "homeGoals": "0",
+        "homeShots": "14",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Dijon",
+        "opponentName": "Lyon",
+        "awayGoals": "3",
+        "awayShots": "8",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Dijon",
+        "opponentName": "Guingamp",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Dijon",
+        "opponentName": "Lille",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Dijon",
+        "opponentName": "Nimes",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Dijon",
+        "opponentName": "Angers",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Dijon",
+        "opponentName": "Bordeaux",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Dijon",
+        "opponentName": "St Etienne",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Dijon",
+        "opponentName": "Rennes",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Dijon",
+        "opponentName": "Toulouse",
+        "awayGoals": "2",
+        "awayShots": "14",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Dijon",
+        "opponentName": "Marseille",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedDAADAAHDHD",
+    "awayFullTime": "undefinedAHHHHHHHDH",
+    "totalGoals": 12,
+    "totalShots": 208,
+    "totalShotsTarget": 65,
+    "totalTeamCorners": 86
+  },
+  {
+    "name": "Nimes",
+    "totalHomeGoals": 19,
+    "totalHomeShots": 145,
+    "totalHomeShotsTarget": 57,
+    "totalHomeTeamCorners": 59,
+    "totalAwayGoals": 14,
+    "totalAwayShots": 138,
+    "totalAwayShotsTarget": 47,
+    "totalAwayTeamCorners": 57,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Nimes",
+        "opponentName": "Rennes",
+        "homeGoals": "3",
+        "homeShots": "19",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Nimes",
+        "opponentName": "Caen",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Nimes",
+        "opponentName": "Strasbourg",
+        "homeGoals": "2",
+        "homeShots": "15",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Nimes",
+        "opponentName": "Dijon",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Nimes",
+        "opponentName": "Montpellier",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Nimes",
+        "opponentName": "Angers",
+        "homeGoals": "3",
+        "homeShots": "15",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Nimes",
+        "opponentName": "Toulouse",
+        "homeGoals": "0",
+        "homeShots": "18",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Nimes",
+        "opponentName": "Nantes",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Nimes",
+        "opponentName": "Lille",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Nimes",
+        "opponentName": "Amiens",
+        "homeGoals": "3",
+        "homeShots": "13",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "5"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Nimes",
+        "opponentName": "Marseille",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Nimes",
+        "opponentName": "St Etienne",
+        "awayGoals": "1",
+        "awayShots": "15",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Nimes",
+        "opponentName": "Amiens",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Nimes",
+        "opponentName": "Paris SG",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Nimes",
+        "opponentName": "Nantes",
+        "awayGoals": "4",
+        "awayShots": "13",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Nimes",
+        "opponentName": "Nice",
+        "awayGoals": "0",
+        "awayShots": "14",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Nimes",
+        "opponentName": "Rennes",
+        "awayGoals": "0",
+        "awayShots": "18",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Nimes",
+        "opponentName": "Caen",
+        "awayGoals": "2",
+        "awayShots": "23",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Nimes",
+        "opponentName": "Strasbourg",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Nimes",
+        "opponentName": "Dijon",
+        "awayGoals": "4",
+        "awayShots": "11",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "3"
+      }
+    ],
+    "homeFullTime": "undefinedHHDHDHAHAH",
+    "awayFullTime": "undefinedHHHHAHHAAA",
+    "totalGoals": 33,
+    "totalShots": 283,
+    "totalShotsTarget": 104,
+    "totalTeamCorners": 116
+  },
+  {
+    "name": "Nice",
+    "totalHomeGoals": 11,
+    "totalHomeShots": 126,
+    "totalHomeShotsTarget": 43,
+    "totalHomeTeamCorners": 47,
+    "totalAwayGoals": 3,
+    "totalAwayShots": 84,
+    "totalAwayShotsTarget": 27,
+    "totalAwayTeamCorners": 31,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Nice",
+        "opponentName": "Montpellier",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Nice",
+        "opponentName": "Toulouse",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Nice",
+        "opponentName": "Strasbourg",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Nice",
+        "opponentName": "Lyon",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Nice",
+        "opponentName": "Nimes",
+        "homeGoals": "2",
+        "homeShots": "15",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Nice",
+        "opponentName": "Bordeaux",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Nice",
+        "opponentName": "St Etienne",
+        "homeGoals": "1",
+        "homeShots": "23",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Nice",
+        "opponentName": "Angers",
+        "homeGoals": "0",
+        "homeShots": "16",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Nice",
+        "opponentName": "Lille",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Nice",
+        "opponentName": "Amiens",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "1"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Nice",
+        "opponentName": "Rennes",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Nice",
+        "opponentName": "Dijon",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Nice",
+        "opponentName": "Marseille",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Nice",
+        "opponentName": "Amiens",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Nice",
+        "opponentName": "Angers",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Nice",
+        "opponentName": "Lille",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Nice",
+        "opponentName": "Reims",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Nice",
+        "opponentName": "Monaco",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Nice",
+        "opponentName": "Strasbourg",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Nice",
+        "opponentName": "Guingamp",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      }
+    ],
+    "homeFullTime": "undefinedHDHHHHDDHH",
+    "awayFullTime": "undefinedDAHHHHDDHD",
+    "totalGoals": 14,
+    "totalShots": 210,
+    "totalShotsTarget": 70,
+    "totalTeamCorners": 78
+  },
+  {
+    "name": "Toulouse",
+    "totalHomeGoals": 9,
+    "totalHomeShots": 135,
+    "totalHomeShotsTarget": 44,
+    "totalHomeTeamCorners": 51,
+    "totalAwayGoals": 10,
+    "totalAwayShots": 101,
+    "totalAwayShotsTarget": 30,
+    "totalAwayTeamCorners": 41,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Toulouse",
+        "opponentName": "Nantes",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Toulouse",
+        "opponentName": "Paris SG",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Toulouse",
+        "opponentName": "Guingamp",
+        "homeGoals": "1",
+        "homeShots": "19",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Toulouse",
+        "opponentName": "Caen",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Toulouse",
+        "opponentName": "Reims",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Toulouse",
+        "opponentName": "Angers",
+        "homeGoals": "0",
+        "homeShots": "14",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Toulouse",
+        "opponentName": "Lyon",
+        "homeGoals": "2",
+        "homeShots": "6",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Toulouse",
+        "opponentName": "Strasbourg",
+        "homeGoals": "1",
+        "homeShots": "17",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Toulouse",
+        "opponentName": "Dijon",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Toulouse",
+        "opponentName": "Amiens",
+        "homeGoals": "0",
+        "homeShots": "23",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Toulouse",
+        "opponentName": "Montpellier",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Toulouse",
+        "opponentName": "Nice",
+        "awayGoals": "1",
+        "awayShots": "18",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Toulouse",
+        "opponentName": "Lyon",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Toulouse",
+        "opponentName": "Bordeaux",
+        "awayGoals": "1",
+        "awayShots": "20",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Toulouse",
+        "opponentName": "Monaco",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Toulouse",
+        "opponentName": "Nimes",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Toulouse",
+        "opponentName": "Lille",
+        "awayGoals": "2",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Toulouse",
+        "opponentName": "Caen",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Toulouse",
+        "opponentName": "Reims",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Toulouse",
+        "opponentName": "Paris SG",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      }
+    ],
+    "homeFullTime": "undefinedHAHDDDDADA",
+    "awayFullTime": "undefinedHDHHHAAHAH",
+    "totalGoals": 19,
+    "totalShots": 236,
+    "totalShotsTarget": 74,
+    "totalTeamCorners": 92
+  },
+  {
+    "name": "Paris SG",
+    "totalHomeGoals": 31,
+    "totalHomeShots": 171,
+    "totalHomeShotsTarget": 60,
+    "totalHomeTeamCorners": 72,
+    "totalAwayGoals": 20,
+    "totalAwayShots": 151,
+    "totalAwayShotsTarget": 60,
+    "totalAwayTeamCorners": 66,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Paris SG",
+        "opponentName": "Strasbourg",
+        "homeGoals": "2",
+        "homeShots": "21",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Paris SG",
+        "opponentName": "Marseille",
+        "homeGoals": "3",
+        "homeShots": "8",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Paris SG",
+        "opponentName": "Nimes",
+        "homeGoals": "3",
+        "homeShots": "21",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Paris SG",
+        "opponentName": "Montpellier",
+        "homeGoals": "5",
+        "homeShots": "18",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Paris SG",
+        "opponentName": "Bordeaux",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Paris SG",
+        "opponentName": "Rennes",
+        "homeGoals": "4",
+        "homeShots": "16",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Paris SG",
+        "opponentName": "Guingamp",
+        "homeGoals": "9",
+        "homeShots": "26",
+        "homeShotsOnTarget": "12",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Paris SG",
+        "opponentName": "Nantes",
+        "homeGoals": "1",
+        "homeShots": "23",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Paris SG",
+        "opponentName": "Toulouse",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Paris SG",
+        "opponentName": "Lille",
+        "homeGoals": "2",
+        "homeShots": "19",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "8"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Paris SG",
+        "opponentName": "Lille",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Paris SG",
+        "opponentName": "Toulouse",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Paris SG",
+        "opponentName": "Dijon",
+        "awayGoals": "4",
+        "awayShots": "16",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Paris SG",
+        "opponentName": "Caen",
+        "awayGoals": "2",
+        "awayShots": "25",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Paris SG",
+        "opponentName": "St Etienne",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Paris SG",
+        "opponentName": "Lyon",
+        "awayGoals": "1",
+        "awayShots": "16",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Paris SG",
+        "opponentName": "Amiens",
+        "awayGoals": "3",
+        "awayShots": "20",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Paris SG",
+        "opponentName": "Strasbourg",
+        "awayGoals": "1",
+        "awayShots": "20",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "11"
+      },
+      {
+        "teamName": "Paris SG",
+        "opponentName": "Bordeaux",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Paris SG",
+        "opponentName": "Monaco",
+        "awayGoals": "4",
+        "awayShots": "14",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "9"
+      }
+    ],
+    "homeFullTime": "undefinedDHHHHHHHHH",
+    "awayFullTime": "undefinedHAAAAHADDA",
+    "totalGoals": 51,
+    "totalShots": 322,
+    "totalShotsTarget": 120,
+    "totalTeamCorners": 138
+  },
+  {
+    "name": "Reims",
+    "totalHomeGoals": 15,
+    "totalHomeShots": 119,
+    "totalHomeShotsTarget": 45,
+    "totalHomeTeamCorners": 60,
+    "totalAwayGoals": 9,
+    "totalAwayShots": 120,
+    "totalAwayShotsTarget": 40,
+    "totalAwayTeamCorners": 38,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Reims",
+        "opponentName": "Lille",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Reims",
+        "opponentName": "Nantes",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Reims",
+        "opponentName": "Amiens",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Reims",
+        "opponentName": "Rennes",
+        "homeGoals": "2",
+        "homeShots": "7",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Reims",
+        "opponentName": "Marseille",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Reims",
+        "opponentName": "Nice",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Reims",
+        "opponentName": "Caen",
+        "homeGoals": "2",
+        "homeShots": "19",
+        "homeShotsOnTarget": "11",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Reims",
+        "opponentName": "Strasbourg",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Reims",
+        "opponentName": "Toulouse",
+        "homeGoals": "0",
+        "homeShots": "22",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Reims",
+        "opponentName": "Guingamp",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Reims",
+        "opponentName": "Monaco",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Reims",
+        "opponentName": "Strasbourg",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Reims",
+        "opponentName": "Dijon",
+        "awayGoals": "1",
+        "awayShots": "26",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Reims",
+        "opponentName": "Montpellier",
+        "awayGoals": "4",
+        "awayShots": "15",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Reims",
+        "opponentName": "Toulouse",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Reims",
+        "opponentName": "Guingamp",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Reims",
+        "opponentName": "Lyon",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Reims",
+        "opponentName": "Lille",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Reims",
+        "opponentName": "Marseille",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Reims",
+        "opponentName": "St Etienne",
+        "awayGoals": "0",
+        "awayShots": "14",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      }
+    ],
+    "homeFullTime": "undefinedDHDHHDDHAH",
+    "awayFullTime": "undefinedDHDADADDDH",
+    "totalGoals": 24,
+    "totalShots": 239,
+    "totalShotsTarget": 85,
+    "totalTeamCorners": 98
+  },
+  {
+    "name": "Guingamp",
+    "totalHomeGoals": 6,
+    "totalHomeShots": 99,
+    "totalHomeShotsTarget": 19,
+    "totalHomeTeamCorners": 61,
+    "totalAwayGoals": 8,
+    "totalAwayShots": 96,
+    "totalAwayShotsTarget": 28,
+    "totalAwayTeamCorners": 46,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Guingamp",
+        "opponentName": "Monaco",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Guingamp",
+        "opponentName": "Dijon",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Guingamp",
+        "opponentName": "Nantes",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Guingamp",
+        "opponentName": "Angers",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Guingamp",
+        "opponentName": "Lille",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Guingamp",
+        "opponentName": "Reims",
+        "homeGoals": "0",
+        "homeShots": "6",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Guingamp",
+        "opponentName": "Rennes",
+        "homeGoals": "2",
+        "homeShots": "7",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Guingamp",
+        "opponentName": "St Etienne",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Guingamp",
+        "opponentName": "Amiens",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "12"
+      },
+      {
+        "teamName": "Guingamp",
+        "opponentName": "Nice",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Guingamp",
+        "opponentName": "Strasbourg",
+        "awayGoals": "3",
+        "awayShots": "15",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Guingamp",
+        "opponentName": "Montpellier",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Guingamp",
+        "opponentName": "Toulouse",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Guingamp",
+        "opponentName": "Bordeaux",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Guingamp",
+        "opponentName": "Lyon",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Guingamp",
+        "opponentName": "Paris SG",
+        "awayGoals": "0",
+        "awayShots": "2",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Guingamp",
+        "opponentName": "Monaco",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Guingamp",
+        "opponentName": "Dijon",
+        "awayGoals": "1",
+        "awayShots": "21",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Guingamp",
+        "opponentName": "Reims",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Guingamp",
+        "opponentName": "Nantes",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "5"
+      }
+    ],
+    "homeFullTime": "undefinedDHDHAAHAAD",
+    "awayFullTime": "undefinedDHHDHHAHHH",
+    "totalGoals": 14,
+    "totalShots": 195,
+    "totalShotsTarget": 47,
+    "totalTeamCorners": 107
+  },
+  {
+    "name": "Amiens",
+    "totalHomeGoals": 7,
+    "totalHomeShots": 120,
+    "totalHomeShotsTarget": 31,
+    "totalHomeTeamCorners": 38,
+    "totalAwayGoals": 7,
+    "totalAwayShots": 75,
+    "totalAwayShotsTarget": 22,
+    "totalAwayTeamCorners": 29,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Amiens",
+        "opponentName": "St Etienne",
+        "homeGoals": "2",
+        "homeShots": "5",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Amiens",
+        "opponentName": "Bordeaux",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Amiens",
+        "opponentName": "Nimes",
+        "homeGoals": "2",
+        "homeShots": "21",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Amiens",
+        "opponentName": "Nice",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Amiens",
+        "opponentName": "Caen",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Amiens",
+        "opponentName": "Lyon",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Amiens",
+        "opponentName": "Paris SG",
+        "homeGoals": "0",
+        "homeShots": "4",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Amiens",
+        "opponentName": "Angers",
+        "homeGoals": "0",
+        "homeShots": "21",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Amiens",
+        "opponentName": "Monaco",
+        "homeGoals": "0",
+        "homeShots": "15",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Amiens",
+        "opponentName": "Marseille",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Amiens",
+        "opponentName": "Dijon",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Amiens",
+        "opponentName": "Angers",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Amiens",
+        "opponentName": "Reims",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Amiens",
+        "opponentName": "Marseille",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Amiens",
+        "opponentName": "Rennes",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Amiens",
+        "opponentName": "Lille",
+        "awayGoals": "1",
+        "awayShots": "2",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Amiens",
+        "opponentName": "Bordeaux",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Amiens",
+        "opponentName": "Guingamp",
+        "awayGoals": "2",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Amiens",
+        "opponentName": "Nimes",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Amiens",
+        "opponentName": "Toulouse",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      }
+    ],
+    "homeFullTime": "undefinedDDHHHAADAA",
+    "awayFullTime": "undefinedDDDHHHDAHA",
+    "totalGoals": 14,
+    "totalShots": 195,
+    "totalShotsTarget": 53,
+    "totalTeamCorners": 67
+  },
+  {
+    "name": "Lyon",
+    "totalHomeGoals": 19,
+    "totalHomeShots": 173,
+    "totalHomeShotsTarget": 75,
+    "totalHomeTeamCorners": 68,
+    "totalAwayGoals": 12,
+    "totalAwayShots": 173,
+    "totalAwayShotsTarget": 56,
+    "totalAwayTeamCorners": 65,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Lyon",
+        "opponentName": "Dijon",
+        "homeGoals": "1",
+        "homeShots": "27",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Lyon",
+        "opponentName": "Montpellier",
+        "homeGoals": "3",
+        "homeShots": "23",
+        "homeShotsOnTarget": "13",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Lyon",
+        "opponentName": "Toulouse",
+        "homeGoals": "5",
+        "homeShots": "21",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Lyon",
+        "opponentName": "Guingamp",
+        "homeGoals": "2",
+        "homeShots": "18",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Lyon",
+        "opponentName": "Paris SG",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Lyon",
+        "opponentName": "Reims",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Lyon",
+        "opponentName": "Monaco",
+        "homeGoals": "3",
+        "homeShots": "21",
+        "homeShotsOnTarget": "11",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Lyon",
+        "opponentName": "Rennes",
+        "homeGoals": "0",
+        "homeShots": "15",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Lyon",
+        "opponentName": "St Etienne",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Lyon",
+        "opponentName": "Bordeaux",
+        "homeGoals": "1",
+        "homeShots": "6",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "5"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Lyon",
+        "opponentName": "Nantes",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Lyon",
+        "opponentName": "Rennes",
+        "awayGoals": "1",
+        "awayShots": "18",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Lyon",
+        "opponentName": "Strasbourg",
+        "awayGoals": "2",
+        "awayShots": "21",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Lyon",
+        "opponentName": "Monaco",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Lyon",
+        "opponentName": "Nice",
+        "awayGoals": "0",
+        "awayShots": "23",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "14"
+      },
+      {
+        "teamName": "Lyon",
+        "opponentName": "Amiens",
+        "awayGoals": "1",
+        "awayShots": "18",
+        "awayShotsOnTarget": "11",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Lyon",
+        "opponentName": "St Etienne",
+        "awayGoals": "2",
+        "awayShots": "23",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Lyon",
+        "opponentName": "Toulouse",
+        "awayGoals": "2",
+        "awayShots": "22",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "Lyon",
+        "opponentName": "Montpellier",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Lyon",
+        "opponentName": "Lille",
+        "awayGoals": "2",
+        "awayShots": "18",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "6"
+      }
+    ],
+    "homeFullTime": "undefinedAHHHHDHAHD",
+    "awayFullTime": "undefinedHADHHAADDD",
+    "totalGoals": 31,
+    "totalShots": 346,
+    "totalShotsTarget": 131,
+    "totalTeamCorners": 133
+  },
+  {
+    "name": "Angers",
+    "totalHomeGoals": 14,
+    "totalHomeShots": 124,
+    "totalHomeShotsTarget": 47,
+    "totalHomeTeamCorners": 49,
+    "totalAwayGoals": 9,
+    "totalAwayShots": 101,
+    "totalAwayShotsTarget": 31,
+    "totalAwayTeamCorners": 41,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Angers",
+        "opponentName": "Rennes",
+        "homeGoals": "3",
+        "homeShots": "17",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Angers",
+        "opponentName": "Amiens",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Angers",
+        "opponentName": "Monaco",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Angers",
+        "opponentName": "Nice",
+        "homeGoals": "3",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Angers",
+        "opponentName": "Dijon",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Angers",
+        "opponentName": "Nantes",
+        "homeGoals": "1",
+        "homeShots": "4",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Angers",
+        "opponentName": "Bordeaux",
+        "homeGoals": "1",
+        "homeShots": "19",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Angers",
+        "opponentName": "Marseille",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Angers",
+        "opponentName": "Caen",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Angers",
+        "opponentName": "Montpellier",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Angers",
+        "opponentName": "Caen",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Angers",
+        "opponentName": "Marseille",
+        "awayGoals": "2",
+        "awayShots": "14",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Angers",
+        "opponentName": "Montpellier",
+        "awayGoals": "2",
+        "awayShots": "12",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Angers",
+        "opponentName": "Guingamp",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Angers",
+        "opponentName": "Strasbourg",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Angers",
+        "opponentName": "Toulouse",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Angers",
+        "opponentName": "Nimes",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Angers",
+        "opponentName": "Amiens",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Angers",
+        "opponentName": "Nice",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Angers",
+        "opponentName": "Nantes",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      }
+    ],
+    "homeFullTime": "undefinedDDDHHHADDH",
+    "awayFullTime": "undefinedADDHADHDDD",
+    "totalGoals": 23,
+    "totalShots": 225,
+    "totalShotsTarget": 78,
+    "totalTeamCorners": 90
+  },
+  {
+    "name": "Bordeaux",
+    "totalHomeGoals": 13,
+    "totalHomeShots": 124,
+    "totalHomeShotsTarget": 47,
+    "totalHomeTeamCorners": 49,
+    "totalAwayGoals": 3,
+    "totalAwayShots": 89,
+    "totalAwayShotsTarget": 19,
+    "totalAwayTeamCorners": 41,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Bordeaux",
+        "opponentName": "Marseille",
+        "homeGoals": "2",
+        "homeShots": "7",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Bordeaux",
+        "opponentName": "Rennes",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Bordeaux",
+        "opponentName": "Montpellier",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "12"
+      },
+      {
+        "teamName": "Bordeaux",
+        "opponentName": "Guingamp",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Bordeaux",
+        "opponentName": "Toulouse",
+        "homeGoals": "2",
+        "homeShots": "8",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Bordeaux",
+        "opponentName": "Dijon",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Bordeaux",
+        "opponentName": "Amiens",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Bordeaux",
+        "opponentName": "St Etienne",
+        "homeGoals": "3",
+        "homeShots": "13",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Bordeaux",
+        "opponentName": "Paris SG",
+        "homeGoals": "2",
+        "homeShots": "18",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Bordeaux",
+        "opponentName": "Caen",
+        "homeGoals": "0",
+        "homeShots": "16",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "3"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Bordeaux",
+        "opponentName": "St Etienne",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Bordeaux",
+        "opponentName": "Amiens",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Bordeaux",
+        "opponentName": "Monaco",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Bordeaux",
+        "opponentName": "Nantes",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Bordeaux",
+        "opponentName": "Paris SG",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Bordeaux",
+        "opponentName": "Marseille",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Bordeaux",
+        "opponentName": "Strasbourg",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Bordeaux",
+        "opponentName": "Angers",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Bordeaux",
+        "opponentName": "Nice",
+        "awayGoals": "0",
+        "awayShots": "18",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Bordeaux",
+        "opponentName": "Dijon",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "6"
+      }
+    ],
+    "homeFullTime": "undefinedHDADHHDHDD",
+    "awayFullTime": "undefinedHDDHHHHAHD",
+    "totalGoals": 16,
+    "totalShots": 213,
+    "totalShotsTarget": 66,
+    "totalTeamCorners": 90
+  },
+  {
+    "name": "Troyes",
+    "totalHomeGoals": 8,
+    "totalHomeShots": 111,
+    "totalHomeShotsTarget": 43,
+    "totalHomeTeamCorners": 59,
+    "totalAwayGoals": 5,
+    "totalAwayShots": 84,
+    "totalAwayShotsTarget": 24,
+    "totalAwayTeamCorners": 43,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Troyes",
+        "opponentName": "Monaco",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Troyes",
+        "opponentName": "Caen",
+        "homeGoals": "3",
+        "homeShots": "5",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Troyes",
+        "opponentName": "Marseille",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Troyes",
+        "opponentName": "Nice",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Troyes",
+        "opponentName": "Paris SG",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Troyes",
+        "opponentName": "Dijon",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Troyes",
+        "opponentName": "Metz",
+        "homeGoals": "1",
+        "homeShots": "18",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Troyes",
+        "opponentName": "Lille",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Troyes",
+        "opponentName": "Bordeaux",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Troyes",
+        "opponentName": "Amiens",
+        "homeGoals": "1",
+        "homeShots": "19",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "9"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Troyes",
+        "opponentName": "Montpellier",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Troyes",
+        "opponentName": "Lyon",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Troyes",
+        "opponentName": "St Etienne",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Troyes",
+        "opponentName": "Guingamp",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "Troyes",
+        "opponentName": "Amiens",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Troyes",
+        "opponentName": "Nantes",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Troyes",
+        "opponentName": "Rennes",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Troyes",
+        "opponentName": "Strasbourg",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Troyes",
+        "opponentName": "Toulouse",
+        "awayGoals": "0",
+        "awayShots": "1",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Troyes",
+        "opponentName": "Angers",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      }
+    ],
+    "homeFullTime": "undefinedAHAAADHHAH",
+    "awayFullTime": "undefinedDHHHDHHHHH",
+    "totalGoals": 13,
+    "totalShots": 195,
+    "totalShotsTarget": 67,
+    "totalTeamCorners": 102
+  },
+  {
+    "name": "Metz",
+    "totalHomeGoals": 12,
+    "totalHomeShots": 132,
+    "totalHomeShotsTarget": 48,
+    "totalHomeTeamCorners": 55,
+    "totalAwayGoals": 12,
+    "totalAwayShots": 99,
+    "totalAwayShotsTarget": 41,
+    "totalAwayTeamCorners": 43,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Metz",
+        "opponentName": "Bordeaux",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Metz",
+        "opponentName": "Angers",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Metz",
+        "opponentName": "Caen",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Metz",
+        "opponentName": "Lyon",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Metz",
+        "opponentName": "Nantes",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Metz",
+        "opponentName": "Toulouse",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Metz",
+        "opponentName": "Montpellier",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "Metz",
+        "opponentName": "Nice",
+        "homeGoals": "2",
+        "homeShots": "15",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Metz",
+        "opponentName": "St Etienne",
+        "homeGoals": "3",
+        "homeShots": "19",
+        "homeShotsOnTarget": "12",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Metz",
+        "opponentName": "Strasbourg",
+        "homeGoals": "3",
+        "homeShots": "26",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "10"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Metz",
+        "opponentName": "Amiens",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Metz",
+        "opponentName": "Lille",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Metz",
+        "opponentName": "Rennes",
+        "awayGoals": "2",
+        "awayShots": "7",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Metz",
+        "opponentName": "Strasbourg",
+        "awayGoals": "2",
+        "awayShots": "11",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Metz",
+        "opponentName": "Paris SG",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Metz",
+        "opponentName": "Guingamp",
+        "awayGoals": "2",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Metz",
+        "opponentName": "Troyes",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Metz",
+        "opponentName": "Marseille",
+        "awayGoals": "3",
+        "awayShots": "18",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Metz",
+        "opponentName": "Monaco",
+        "awayGoals": "1",
+        "awayShots": "3",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Metz",
+        "opponentName": "Dijon",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "7"
+      }
+    ],
+    "homeFullTime": "undefinedAADADDAHHH",
+    "awayFullTime": "undefinedHHADHDHHHD",
+    "totalGoals": 24,
+    "totalShots": 231,
+    "totalShotsTarget": 89,
+    "totalTeamCorners": 98
+  },
+  {
+    "name": "Nancy",
+    "totalHomeGoals": 10,
+    "totalHomeShots": 122,
+    "totalHomeShotsTarget": 34,
+    "totalHomeTeamCorners": 54,
+    "totalAwayGoals": 4,
+    "totalAwayShots": 73,
+    "totalAwayShotsTarget": 24,
+    "totalAwayTeamCorners": 40,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Nancy",
+        "opponentName": "St Etienne",
+        "homeGoals": "3",
+        "homeShots": "14",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Nancy",
+        "opponentName": "Monaco",
+        "homeGoals": "0",
+        "homeShots": "6",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Nancy",
+        "opponentName": "Marseille",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Nancy",
+        "opponentName": "Rennes",
+        "homeGoals": "3",
+        "homeShots": "14",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Nancy",
+        "opponentName": "Lorient",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Nancy",
+        "opponentName": "Lille",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Nancy",
+        "opponentName": "Toulouse",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Nancy",
+        "opponentName": "Montpellier",
+        "homeGoals": "0",
+        "homeShots": "14",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Nancy",
+        "opponentName": "Bordeaux",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Nancy",
+        "opponentName": "Bastia",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Nancy",
+        "opponentName": "Dijon",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Nancy",
+        "opponentName": "Metz",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Nancy",
+        "opponentName": "Nice",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Nancy",
+        "opponentName": "Guingamp",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Nancy",
+        "opponentName": "Paris SG",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Nancy",
+        "opponentName": "Caen",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Nancy",
+        "opponentName": "Angers",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Nancy",
+        "opponentName": "Lyon",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Nancy",
+        "opponentName": "Nantes",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Nancy",
+        "opponentName": "St Etienne",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      }
+    ],
+    "homeFullTime": "undefinedHADHAADAAH",
+    "awayFullTime": "undefinedHHHHHHHHAD",
+    "totalGoals": 14,
+    "totalShots": 195,
+    "totalShotsTarget": 58,
+    "totalTeamCorners": 94
+  },
+  {
+    "name": "Lorient",
+    "totalHomeGoals": 16,
+    "totalHomeShots": 121,
+    "totalHomeShotsTarget": 45,
+    "totalHomeTeamCorners": 52,
+    "totalAwayGoals": 8,
+    "totalAwayShots": 78,
+    "totalAwayShotsTarget": 28,
+    "totalAwayTeamCorners": 47,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Lorient",
+        "opponentName": "Bordeaux",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Lorient",
+        "opponentName": "Angers",
+        "homeGoals": "1",
+        "homeShots": "6",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Lorient",
+        "opponentName": "Metz",
+        "homeGoals": "5",
+        "homeShots": "19",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Lorient",
+        "opponentName": "Caen",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Lorient",
+        "opponentName": "Paris SG",
+        "homeGoals": "1",
+        "homeShots": "6",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Lorient",
+        "opponentName": "Marseille",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Lorient",
+        "opponentName": "Nice",
+        "homeGoals": "0",
+        "homeShots": "16",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Lorient",
+        "opponentName": "Toulouse",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Lorient",
+        "opponentName": "Dijon",
+        "homeGoals": "2",
+        "homeShots": "15",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Lorient",
+        "opponentName": "Guingamp",
+        "homeGoals": "3",
+        "homeShots": "16",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Lorient",
+        "opponentName": "Bastia",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Lorient",
+        "opponentName": "Nantes",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Lorient",
+        "opponentName": "Montpellier",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Lorient",
+        "opponentName": "Lyon",
+        "awayGoals": "4",
+        "awayShots": "14",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Lorient",
+        "opponentName": "Nancy",
+        "awayGoals": "3",
+        "awayShots": "7",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Lorient",
+        "opponentName": "Rennes",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Lorient",
+        "opponentName": "St Etienne",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Lorient",
+        "opponentName": "Lille",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Lorient",
+        "opponentName": "Monaco",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Lorient",
+        "opponentName": "Paris SG",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      }
+    ],
+    "homeFullTime": "undefinedDDHHAAADAH",
+    "awayFullTime": "undefinedHHHAAHHAHH",
+    "totalGoals": 24,
+    "totalShots": 199,
+    "totalShotsTarget": 73,
+    "totalTeamCorners": 99
+  },
+  {
+    "name": "Bastia",
+    "totalHomeGoals": 9,
+    "totalHomeShots": null,
+    "totalHomeShotsTarget": null,
+    "totalHomeTeamCorners": null,
+    "totalAwayGoals": 4,
+    "totalAwayShots": 94,
+    "totalAwayShotsTarget": 20,
+    "totalAwayTeamCorners": 45,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Bastia",
+        "opponentName": "Lorient",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Bastia",
+        "opponentName": "Rennes",
+        "homeGoals": "1",
+        "homeShots": "4",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Bastia",
+        "opponentName": "Lyon",
+        "homeGoals": "0",
+        "homeShots": "",
+        "homeShotsOnTarget": "",
+        "homeTeamCorners": ""
+      },
+      {
+        "teamName": "Bastia",
+        "opponentName": "Lille",
+        "homeGoals": "0",
+        "homeShots": "14",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Bastia",
+        "opponentName": "St Etienne",
+        "homeGoals": "0",
+        "homeShots": "5",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Bastia",
+        "opponentName": "Nantes",
+        "homeGoals": "2",
+        "homeShots": "6",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Bastia",
+        "opponentName": "Monaco",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Bastia",
+        "opponentName": "Caen",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Bastia",
+        "opponentName": "Nice",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "0"
+      },
+      {
+        "teamName": "Bastia",
+        "opponentName": "Marseille",
+        "homeGoals": "1",
+        "homeShots": "17",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Bastia",
+        "opponentName": "Marseille",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Bastia",
+        "opponentName": "Paris SG",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Bastia",
+        "opponentName": "Bordeaux",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Bastia",
+        "opponentName": "Dijon",
+        "awayGoals": "2",
+        "awayShots": "13",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Bastia",
+        "opponentName": "Metz",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Bastia",
+        "opponentName": "Guingamp",
+        "awayGoals": "0",
+        "awayShots": "2",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Bastia",
+        "opponentName": "Angers",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Bastia",
+        "opponentName": "Toulouse",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Bastia",
+        "opponentName": "Montpellier",
+        "awayGoals": "1",
+        "awayShots": "15",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Bastia",
+        "opponentName": "Nancy",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      }
+    ],
+    "homeFullTime": "undefinedHHAADDDDDA",
+    "awayFullTime": "undefinedHHHAHHHHHH",
+    "totalGoals": 13,
+    "totalShots": null,
+    "totalShotsTarget": null,
+    "totalTeamCorners": null
+  },
+  {
+    "name": "Ajaccio GFCO",
+    "totalHomeGoals": 11,
+    "totalHomeShots": 150,
+    "totalHomeShotsTarget": 40,
+    "totalHomeTeamCorners": 48,
+    "totalAwayGoals": 7,
+    "totalAwayShots": 81,
+    "totalAwayShotsTarget": 20,
+    "totalAwayTeamCorners": 28,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Ajaccio GFCO",
+        "opponentName": "Paris SG",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Ajaccio GFCO",
+        "opponentName": "Bastia",
+        "homeGoals": "3",
+        "homeShots": "8",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Ajaccio GFCO",
+        "opponentName": "Lille",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Ajaccio GFCO",
+        "opponentName": "St Etienne",
+        "homeGoals": "0",
+        "homeShots": "17",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Ajaccio GFCO",
+        "opponentName": "Caen",
+        "homeGoals": "1",
+        "homeShots": "19",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Ajaccio GFCO",
+        "opponentName": "Marseille",
+        "homeGoals": "1",
+        "homeShots": "17",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Ajaccio GFCO",
+        "opponentName": "Troyes",
+        "homeGoals": "2",
+        "homeShots": "18",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "Ajaccio GFCO",
+        "opponentName": "Guingamp",
+        "homeGoals": "0",
+        "homeShots": "17",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Ajaccio GFCO",
+        "opponentName": "Montpellier",
+        "homeGoals": "0",
+        "homeShots": "16",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Ajaccio GFCO",
+        "opponentName": "Reims",
+        "homeGoals": "2",
+        "homeShots": "18",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Ajaccio GFCO",
+        "opponentName": "Lorient",
+        "awayGoals": "0",
+        "awayShots": "18",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Ajaccio GFCO",
+        "opponentName": "Lyon",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Ajaccio GFCO",
+        "opponentName": "Angers",
+        "awayGoals": "0",
+        "awayShots": "2",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Ajaccio GFCO",
+        "opponentName": "Nice",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Ajaccio GFCO",
+        "opponentName": "Bordeaux",
+        "awayGoals": "1",
+        "awayShots": "4",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Ajaccio GFCO",
+        "opponentName": "Toulouse",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Ajaccio GFCO",
+        "opponentName": "Nantes",
+        "awayGoals": "1",
+        "awayShots": "4",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Ajaccio GFCO",
+        "opponentName": "Rennes",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Ajaccio GFCO",
+        "opponentName": "Monaco",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Ajaccio GFCO",
+        "opponentName": "Marseille",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      }
+    ],
+    "homeFullTime": "undefinedAHAAHDADAD",
+    "awayFullTime": "undefinedHHDHDDHHDD",
+    "totalGoals": 18,
+    "totalShots": 231,
+    "totalShotsTarget": 60,
+    "totalTeamCorners": 76
+  },
+  {
+    "name": "Lens",
+    "totalHomeGoals": 3,
+    "totalHomeShots": 115,
+    "totalHomeShotsTarget": 32,
+    "totalHomeTeamCorners": 42,
+    "totalAwayGoals": 12,
+    "totalAwayShots": 108,
+    "totalAwayShotsTarget": 39,
+    "totalAwayTeamCorners": 47,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Lens",
+        "opponentName": "Nantes",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Lens",
+        "opponentName": "Montpellier",
+        "homeGoals": "0",
+        "homeShots": "6",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Lens",
+        "opponentName": "Monaco",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Lens",
+        "opponentName": "Lorient",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Lens",
+        "opponentName": "Marseille",
+        "homeGoals": "0",
+        "homeShots": "16",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Lens",
+        "opponentName": "Toulouse",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Lens",
+        "opponentName": "Rennes",
+        "homeGoals": "0",
+        "homeShots": "13",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Lens",
+        "opponentName": "Evian Thonon Gaillard",
+        "homeGoals": "0",
+        "homeShots": "13",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Lens",
+        "opponentName": "Bastia",
+        "homeGoals": "1",
+        "homeShots": "20",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Lens",
+        "opponentName": "Lyon",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Lens",
+        "opponentName": "Nice",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Lens",
+        "opponentName": "Lille",
+        "awayGoals": "1",
+        "awayShots": "3",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Lens",
+        "opponentName": "Metz",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Lens",
+        "opponentName": "Bordeaux",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Lens",
+        "opponentName": "Paris SG",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Lens",
+        "opponentName": "Caen",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Lens",
+        "opponentName": "St Etienne",
+        "awayGoals": "3",
+        "awayShots": "13",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Lens",
+        "opponentName": "Reims",
+        "awayGoals": "0",
+        "awayShots": "20",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Lens",
+        "opponentName": "Guingamp",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Lens",
+        "opponentName": "Montpellier",
+        "awayGoals": "3",
+        "awayShots": "16",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "3"
+      }
+    ],
+    "homeFullTime": "undefinedHAADAHAADA",
+    "awayFullTime": "undefinedHHHHHHDDHD",
+    "totalGoals": 15,
+    "totalShots": 223,
+    "totalShotsTarget": 71,
+    "totalTeamCorners": 89
+  },
+  {
+    "name": "Evian Thonon Gaillard",
+    "totalHomeGoals": 9,
+    "totalHomeShots": 96,
+    "totalHomeShotsTarget": 31,
+    "totalHomeTeamCorners": 51,
+    "totalAwayGoals": 12,
+    "totalAwayShots": 77,
+    "totalAwayShotsTarget": 30,
+    "totalAwayTeamCorners": 36,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Evian Thonon Gaillard",
+        "opponentName": "St Etienne",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Evian Thonon Gaillard",
+        "opponentName": "Reims",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Evian Thonon Gaillard",
+        "opponentName": "Bastia",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Evian Thonon Gaillard",
+        "opponentName": "Lille",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Evian Thonon Gaillard",
+        "opponentName": "Montpellier",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Evian Thonon Gaillard",
+        "opponentName": "Monaco",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Evian Thonon Gaillard",
+        "opponentName": "Lorient",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Evian Thonon Gaillard",
+        "opponentName": "Bordeaux",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Evian Thonon Gaillard",
+        "opponentName": "Toulouse",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Evian Thonon Gaillard",
+        "opponentName": "Rennes",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Evian Thonon Gaillard",
+        "opponentName": "Caen",
+        "awayGoals": "2",
+        "awayShots": "15",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Evian Thonon Gaillard",
+        "opponentName": "Lyon",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Evian Thonon Gaillard",
+        "opponentName": "Guingamp",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Evian Thonon Gaillard",
+        "opponentName": "Nice",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Evian Thonon Gaillard",
+        "opponentName": "Nantes",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Evian Thonon Gaillard",
+        "opponentName": "Metz",
+        "awayGoals": "2",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Evian Thonon Gaillard",
+        "opponentName": "Lens",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Evian Thonon Gaillard",
+        "opponentName": "Marseille",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Evian Thonon Gaillard",
+        "opponentName": "Paris SG",
+        "awayGoals": "2",
+        "awayShots": "5",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Evian Thonon Gaillard",
+        "opponentName": "Lille",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      }
+    ],
+    "homeFullTime": "undefinedAAAAHAHAHD",
+    "awayFullTime": "undefinedHHDDHAAHHH",
+    "totalGoals": 21,
+    "totalShots": 173,
+    "totalShotsTarget": 61,
+    "totalTeamCorners": 87
+  },
+
+  {
+    "name": "Sochaux",
+    "totalHomeGoals": 12,
+    "totalHomeShots": 136,
+    "totalHomeShotsTarget": 40,
+    "totalHomeTeamCorners": 46,
+    "totalAwayGoals": 10,
+    "totalAwayShots": 100,
+    "totalAwayShotsTarget": 36,
+    "totalAwayTeamCorners": 50,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Sochaux",
+        "opponentName": "Evian Thonon Gaillard",
+        "homeGoals": "0",
+        "homeShots": "20",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Sochaux",
+        "opponentName": "Nice",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Sochaux",
+        "opponentName": "Paris SG",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Sochaux",
+        "opponentName": "Toulouse",
+        "homeGoals": "2",
+        "homeShots": "18",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Sochaux",
+        "opponentName": "Marseille",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Sochaux",
+        "opponentName": "Lorient",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Sochaux",
+        "opponentName": "Bordeaux",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Sochaux",
+        "opponentName": "Guingamp",
+        "homeGoals": "1",
+        "homeShots": "21",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "12"
+      },
+      {
+        "teamName": "Sochaux",
+        "opponentName": "Nantes",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Sochaux",
+        "opponentName": "Montpellier",
+        "homeGoals": "0",
+        "homeShots": "6",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "1"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Sochaux",
+        "opponentName": "Rennes",
+        "awayGoals": "2",
+        "awayShots": "14",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Sochaux",
+        "opponentName": "Reims",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Sochaux",
+        "opponentName": "Bastia",
+        "awayGoals": "2",
+        "awayShots": "15",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Sochaux",
+        "opponentName": "St Etienne",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Sochaux",
+        "opponentName": "Monaco",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Sochaux",
+        "opponentName": "Valenciennes",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Sochaux",
+        "opponentName": "Lille",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Sochaux",
+        "opponentName": "Ajaccio",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Sochaux",
+        "opponentName": "Lyon",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Sochaux",
+        "opponentName": "Nice",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "5"
+      }
+    ],
+    "homeFullTime": "undefinedAHDHDHHHHA",
+    "awayFullTime": "undefinedAADHHDHDHH",
+    "totalGoals": 22,
+    "totalShots": 236,
+    "totalShotsTarget": 76,
+    "totalTeamCorners": 96
+  },
+  {
+    "name": "Ajaccio",
+    "totalHomeGoals": 15,
+    "totalHomeShots": 114,
+    "totalHomeShotsTarget": 44,
+    "totalHomeTeamCorners": 36,
+    "totalAwayGoals": 10,
+    "totalAwayShots": 82,
+    "totalAwayShotsTarget": 23,
+    "totalAwayTeamCorners": 21,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Ajaccio",
+        "opponentName": "Reims",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Ajaccio",
+        "opponentName": "Monaco",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Ajaccio",
+        "opponentName": "Bordeaux",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Ajaccio",
+        "opponentName": "Toulouse",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Ajaccio",
+        "opponentName": "Guingamp",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Ajaccio",
+        "opponentName": "Lille",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Ajaccio",
+        "opponentName": "Rennes",
+        "homeGoals": "3",
+        "homeShots": "12",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Ajaccio",
+        "opponentName": "Sochaux",
+        "homeGoals": "1",
+        "homeShots": "6",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Ajaccio",
+        "opponentName": "Paris SG",
+        "homeGoals": "1",
+        "homeShots": "6",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Ajaccio",
+        "opponentName": "Lorient",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Ajaccio",
+        "opponentName": "St Etienne",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Ajaccio",
+        "opponentName": "Lorient",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Ajaccio",
+        "opponentName": "Bastia",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Ajaccio",
+        "opponentName": "Marseille",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Ajaccio",
+        "opponentName": "Valenciennes",
+        "awayGoals": "3",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Ajaccio",
+        "opponentName": "Nantes",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Ajaccio",
+        "opponentName": "Montpellier",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Ajaccio",
+        "opponentName": "Lyon",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Ajaccio",
+        "opponentName": "Evian Thonon Gaillard",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Ajaccio",
+        "opponentName": "Nice",
+        "awayGoals": "0",
+        "awayShots": "14",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      }
+    ],
+    "homeFullTime": "undefinedHADDAAHDAA",
+    "awayFullTime": "undefinedHHHHADHHDH",
+    "totalGoals": 25,
+    "totalShots": 196,
+    "totalShotsTarget": 67,
+    "totalTeamCorners": 57
+  },
+  {
+    "name": "Valenciennes",
+    "totalHomeGoals": 16,
+    "totalHomeShots": 122,
+    "totalHomeShotsTarget": 47,
+    "totalHomeTeamCorners": 61,
+    "totalAwayGoals": 6,
+    "totalAwayShots": 92,
+    "totalAwayShotsTarget": 29,
+    "totalAwayTeamCorners": 45,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Valenciennes",
+        "opponentName": "Monaco",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Valenciennes",
+        "opponentName": "Bordeaux",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Valenciennes",
+        "opponentName": "Nantes",
+        "homeGoals": "2",
+        "homeShots": "19",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "Valenciennes",
+        "opponentName": "Lyon",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Valenciennes",
+        "opponentName": "Ajaccio",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Valenciennes",
+        "opponentName": "Rennes",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Valenciennes",
+        "opponentName": "Sochaux",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Valenciennes",
+        "opponentName": "Nice",
+        "homeGoals": "2",
+        "homeShots": "16",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Valenciennes",
+        "opponentName": "Lorient",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Valenciennes",
+        "opponentName": "Bastia",
+        "homeGoals": "3",
+        "homeShots": "8",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Valenciennes",
+        "opponentName": "Toulouse",
+        "awayGoals": "1",
+        "awayShots": "15",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Valenciennes",
+        "opponentName": "Guingamp",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Valenciennes",
+        "opponentName": "Lille",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Valenciennes",
+        "opponentName": "Montpellier",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Valenciennes",
+        "opponentName": "Evian Thonon Gaillard",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Valenciennes",
+        "opponentName": "Reims",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Valenciennes",
+        "opponentName": "Paris SG",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Valenciennes",
+        "opponentName": "St Etienne",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Valenciennes",
+        "opponentName": "Marseille",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Valenciennes",
+        "opponentName": "Monaco",
+        "awayGoals": "2",
+        "awayShots": "5",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      }
+    ],
+    "homeFullTime": "undefinedAAAAAHDHDH",
+    "awayFullTime": "undefinedHHHDAHHHHA",
+    "totalGoals": 22,
+    "totalShots": 214,
+    "totalShotsTarget": 76,
+    "totalTeamCorners": 106
+  },
+  {
+    "name": "Brest",
+    "totalHomeGoals": 4,
+    "totalHomeShots": 112,
+    "totalHomeShotsTarget": 29,
+    "totalHomeTeamCorners": 39,
+    "totalAwayGoals": 10,
+    "totalAwayShots": 115,
+    "totalAwayShotsTarget": 36,
+    "totalAwayTeamCorners": 40,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Brest",
+        "opponentName": "Nancy",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Brest",
+        "opponentName": "Sochaux",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Brest",
+        "opponentName": "Rennes",
+        "homeGoals": "0",
+        "homeShots": "17",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Brest",
+        "opponentName": "Reims",
+        "homeGoals": "0",
+        "homeShots": "14",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Brest",
+        "opponentName": "Lille",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Brest",
+        "opponentName": "Toulouse",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Brest",
+        "opponentName": "Lyon",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Brest",
+        "opponentName": "Ajaccio",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Brest",
+        "opponentName": "Nice",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Brest",
+        "opponentName": "St Etienne",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "1"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Brest",
+        "opponentName": "Paris SG",
+        "awayGoals": "1",
+        "awayShots": "22",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Brest",
+        "opponentName": "Montpellier",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Brest",
+        "opponentName": "Marseille",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Brest",
+        "opponentName": "Bastia",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Brest",
+        "opponentName": "Lorient",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Brest",
+        "opponentName": "Bordeaux",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Brest",
+        "opponentName": "Valenciennes",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Brest",
+        "opponentName": "Troyes",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Brest",
+        "opponentName": "Evian Thonon Gaillard",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Brest",
+        "opponentName": "Sochaux",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      }
+    ],
+    "homeFullTime": "undefinedAAAAAADDAA",
+    "awayFullTime": "undefinedHHHHHAHHAA",
+    "totalGoals": 14,
+    "totalShots": 227,
+    "totalShotsTarget": 65,
+    "totalTeamCorners": 79
+  },
+  {
+    "name": "Auxerre",
+    "totalHomeGoals": 14,
+    "totalHomeShots": 149,
+    "totalHomeShotsTarget": 53,
+    "totalHomeTeamCorners": 59,
+    "totalAwayGoals": 8,
+    "totalAwayShots": 79,
+    "totalAwayShotsTarget": 26,
+    "totalAwayTeamCorners": 37,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Auxerre",
+        "opponentName": "Montpellier",
+        "homeGoals": "1",
+        "homeShots": "6",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Auxerre",
+        "opponentName": "Bordeaux",
+        "homeGoals": "2",
+        "homeShots": "19",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Auxerre",
+        "opponentName": "Brest",
+        "homeGoals": "4",
+        "homeShots": "14",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Auxerre",
+        "opponentName": "Paris SG",
+        "homeGoals": "1",
+        "homeShots": "21",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Auxerre",
+        "opponentName": "Valenciennes",
+        "homeGoals": "2",
+        "homeShots": "16",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Auxerre",
+        "opponentName": "Evian Thonon Gaillard",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Auxerre",
+        "opponentName": "St Etienne",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Auxerre",
+        "opponentName": "Lorient",
+        "homeGoals": "1",
+        "homeShots": "18",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Auxerre",
+        "opponentName": "Nancy",
+        "homeGoals": "1",
+        "homeShots": "5",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Auxerre",
+        "opponentName": "Dijon",
+        "homeGoals": "2",
+        "homeShots": "30",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "13"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Auxerre",
+        "opponentName": "Marseille",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Auxerre",
+        "opponentName": "Dijon",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Auxerre",
+        "opponentName": "Nice",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Auxerre",
+        "opponentName": "Lyon",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Auxerre",
+        "opponentName": "Toulouse",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Auxerre",
+        "opponentName": "Rennes",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Auxerre",
+        "opponentName": "Lille",
+        "awayGoals": "2",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Auxerre",
+        "opponentName": "Caen",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Auxerre",
+        "opponentName": "Sochaux",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Auxerre",
+        "opponentName": "Ajaccio",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      }
+    ],
+    "homeFullTime": "undefinedAAHDHADDAD",
+    "awayFullTime": "undefinedHAHHHDDHDH",
+    "totalGoals": 22,
+    "totalShots": 228,
+    "totalShotsTarget": 79,
+    "totalTeamCorners": 96
+  },
+  {
+    "name": "Arles",
+    "totalHomeGoals": 7,
+    "totalHomeShots": 103,
+    "totalHomeShotsTarget": 26,
+    "totalHomeTeamCorners": 42,
+    "totalAwayGoals": 4,
+    "totalAwayShots": 90,
+    "totalAwayShotsTarget": 21,
+    "totalAwayTeamCorners": 44,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Arles",
+        "opponentName": "Sochaux",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Arles",
+        "opponentName": "Toulouse",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Arles",
+        "opponentName": "St Etienne",
+        "homeGoals": "0",
+        "homeShots": "4",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Arles",
+        "opponentName": "Valenciennes",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Arles",
+        "opponentName": "Monaco",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Arles",
+        "opponentName": "Lorient",
+        "homeGoals": "3",
+        "homeShots": "16",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Arles",
+        "opponentName": "Brest",
+        "homeGoals": "1",
+        "homeShots": "17",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Arles",
+        "opponentName": "Montpellier",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Arles",
+        "opponentName": "Paris SG",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Arles",
+        "opponentName": "Nice",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Arles",
+        "opponentName": "Lens",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Arles",
+        "opponentName": "Nice",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Arles",
+        "opponentName": "Lille",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Arles",
+        "opponentName": "Nancy",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Arles",
+        "opponentName": "Bordeaux",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Arles",
+        "opponentName": "Caen",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Arles",
+        "opponentName": "Lyon",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Arles",
+        "opponentName": "Auxerre",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Arles",
+        "opponentName": "Marseille",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Arles",
+        "opponentName": "Rennes",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedAHAAADDDAD",
+    "awayFullTime": "undefinedAHHDDHHDHH",
+    "totalGoals": 11,
+    "totalShots": 193,
+    "totalShotsTarget": 47,
+    "totalTeamCorners": 86
+  },
+  {
+    "name": "Boulogne",
+    "totalHomeGoals": 9,
+    "totalHomeShots": 111,
+    "totalHomeShotsTarget": 37,
+    "totalHomeTeamCorners": 50,
+    "totalAwayGoals": 9,
+    "totalAwayShots": 95,
+    "totalAwayShotsTarget": 31,
+    "totalAwayTeamCorners": 35,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Boulogne",
+        "opponentName": "Rennes",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Boulogne",
+        "opponentName": "St Etienne",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Boulogne",
+        "opponentName": "Nice",
+        "homeGoals": "3",
+        "homeShots": "20",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Boulogne",
+        "opponentName": "Marseille",
+        "homeGoals": "1",
+        "homeShots": "4",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Boulogne",
+        "opponentName": "Toulouse",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Boulogne",
+        "opponentName": "Lorient",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Boulogne",
+        "opponentName": "Lyon",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Boulogne",
+        "opponentName": "Le Mans",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Boulogne",
+        "opponentName": "Montpellier",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Boulogne",
+        "opponentName": "Valenciennes",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Boulogne",
+        "opponentName": "Grenoble",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Boulogne",
+        "opponentName": "Sochaux",
+        "awayGoals": "3",
+        "awayShots": "13",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Boulogne",
+        "opponentName": "Lens",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Boulogne",
+        "opponentName": "Paris SG",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Boulogne",
+        "opponentName": "Nancy",
+        "awayGoals": "3",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Boulogne",
+        "opponentName": "Monaco",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Boulogne",
+        "opponentName": "Lille",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Boulogne",
+        "opponentName": "Bordeaux",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Boulogne",
+        "opponentName": "Auxerre",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Boulogne",
+        "opponentName": "Nice",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedHADADHDAAA",
+    "awayFullTime": "undefinedHAHHAHHDDD",
+    "totalGoals": 18,
+    "totalShots": 206,
+    "totalShotsTarget": 68,
+    "totalTeamCorners": 85
+  },
+  {
+    "name": "Le Mans",
+    "totalHomeGoals": 9,
+    "totalHomeShots": 107,
+    "totalHomeShotsTarget": 37,
+    "totalHomeTeamCorners": 53,
+    "totalAwayGoals": 11,
+    "totalAwayShots": 102,
+    "totalAwayShotsTarget": 35,
+    "totalAwayTeamCorners": 40,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Le Mans",
+        "opponentName": "Paris SG",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "0"
+      },
+      {
+        "teamName": "Le Mans",
+        "opponentName": "Lille",
+        "homeGoals": "1",
+        "homeShots": "17",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Le Mans",
+        "opponentName": "Bordeaux",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Le Mans",
+        "opponentName": "Montpellier",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Le Mans",
+        "opponentName": "Rennes",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Le Mans",
+        "opponentName": "Nice",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Le Mans",
+        "opponentName": "Sochaux",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Le Mans",
+        "opponentName": "Toulouse",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Le Mans",
+        "opponentName": "Lorient",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Le Mans",
+        "opponentName": "Monaco",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "8"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Le Mans",
+        "opponentName": "Lyon",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Le Mans",
+        "opponentName": "Nancy",
+        "awayGoals": "2",
+        "awayShots": "15",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Le Mans",
+        "opponentName": "Monaco",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Le Mans",
+        "opponentName": "Valenciennes",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Le Mans",
+        "opponentName": "St Etienne",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Le Mans",
+        "opponentName": "Auxerre",
+        "awayGoals": "1",
+        "awayShots": "17",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Le Mans",
+        "opponentName": "Grenoble",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Le Mans",
+        "opponentName": "Boulogne",
+        "awayGoals": "3",
+        "awayShots": "7",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Le Mans",
+        "opponentName": "Lens",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Le Mans",
+        "opponentName": "Marseille",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "6"
+      }
+    ],
+    "homeFullTime": "undefinedHAHDAADAAD",
+    "awayFullTime": "undefinedHHDAHHDAHH",
+    "totalGoals": 20,
+    "totalShots": 209,
+    "totalShotsTarget": 72,
+    "totalTeamCorners": 93
+  },
+  {
+    "name": "Grenoble",
+    "totalHomeGoals": 17,
+    "totalHomeShots": 133,
+    "totalHomeShotsTarget": 41,
+    "totalHomeTeamCorners": 47,
+    "totalAwayGoals": 4,
+    "totalAwayShots": 101,
+    "totalAwayShotsTarget": 40,
+    "totalAwayTeamCorners": 31,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Grenoble",
+        "opponentName": "Boulogne",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Grenoble",
+        "opponentName": "Paris SG",
+        "homeGoals": "4",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Grenoble",
+        "opponentName": "Sochaux",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Grenoble",
+        "opponentName": "Lorient",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Grenoble",
+        "opponentName": "Monaco",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Grenoble",
+        "opponentName": "Le Mans",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Grenoble",
+        "opponentName": "Valenciennes",
+        "homeGoals": "0",
+        "homeShots": "16",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Grenoble",
+        "opponentName": "Auxerre",
+        "homeGoals": "5",
+        "homeShots": "13",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Grenoble",
+        "opponentName": "Bordeaux",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Grenoble",
+        "opponentName": "St Etienne",
+        "homeGoals": "1",
+        "homeShots": "25",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Grenoble",
+        "opponentName": "Marseille",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Grenoble",
+        "opponentName": "Lens",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Grenoble",
+        "opponentName": "Nice",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Grenoble",
+        "opponentName": "Toulouse",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Grenoble",
+        "opponentName": "Lyon",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Grenoble",
+        "opponentName": "Lille",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Grenoble",
+        "opponentName": "Nancy",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Grenoble",
+        "opponentName": "Montpellier",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Grenoble",
+        "opponentName": "Rennes",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Grenoble",
+        "opponentName": "Paris SG",
+        "awayGoals": "0",
+        "awayShots": "15",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "7"
+      }
+    ],
+    "homeFullTime": "undefinedHHDADDAHAA",
+    "awayFullTime": "undefinedHDHHHHAHHH",
+    "totalGoals": 21,
+    "totalShots": 234,
+    "totalShotsTarget": 81,
+    "totalTeamCorners": 78
+  }
+]

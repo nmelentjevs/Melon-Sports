@@ -1,0 +1,5127 @@
+[
+  {
+    "name": "Hoffenheim",
+    "totalHomeGoals": 17,
+    "totalHomeShots": 205,
+    "totalHomeShotsTarget": 65,
+    "totalHomeTeamCorners": 63,
+    "totalAwayGoals": 25,
+    "totalAwayShots": 152,
+    "totalAwayShotsTarget": 65,
+    "totalAwayTeamCorners": 47,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Hoffenheim",
+        "opponentName": "Hertha",
+        "homeGoals": "2",
+        "homeShots": "30",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Hoffenheim",
+        "opponentName": "Leverkusen",
+        "homeGoals": "4",
+        "homeShots": "13",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Hoffenheim",
+        "opponentName": "Nurnberg",
+        "homeGoals": "2",
+        "homeShots": "18",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Hoffenheim",
+        "opponentName": "Hannover",
+        "homeGoals": "3",
+        "homeShots": "26",
+        "homeShotsOnTarget": "11",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Hoffenheim",
+        "opponentName": "Fortuna Dusseldorf",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Hoffenheim",
+        "opponentName": "Bayern Munich",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Hoffenheim",
+        "opponentName": "Mainz",
+        "homeGoals": "1",
+        "homeShots": "28",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Hoffenheim",
+        "opponentName": "M'gladbach",
+        "homeGoals": "0",
+        "homeShots": "27",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Hoffenheim",
+        "opponentName": "Schalke 04",
+        "homeGoals": "1",
+        "homeShots": "20",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Hoffenheim",
+        "opponentName": "Augsburg",
+        "homeGoals": "2",
+        "homeShots": "18",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Hoffenheim",
+        "opponentName": "Augsburg",
+        "awayGoals": "4",
+        "awayShots": "18",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Hoffenheim",
+        "opponentName": "Stuttgart",
+        "awayGoals": "1",
+        "awayShots": "21",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Hoffenheim",
+        "opponentName": "Ein Frankfurt",
+        "awayGoals": "2",
+        "awayShots": "20",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Hoffenheim",
+        "opponentName": "RB Leipzig",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Hoffenheim",
+        "opponentName": "Dortmund",
+        "awayGoals": "3",
+        "awayShots": "14",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Hoffenheim",
+        "opponentName": "Freiburg",
+        "awayGoals": "4",
+        "awayShots": "16",
+        "awayShotsOnTarget": "11",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Hoffenheim",
+        "opponentName": "Werder Bremen",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Hoffenheim",
+        "opponentName": "Wolfsburg",
+        "awayGoals": "2",
+        "awayShots": "19",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Hoffenheim",
+        "opponentName": "Hertha",
+        "awayGoals": "3",
+        "awayShots": "13",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Hoffenheim",
+        "opponentName": "Leverkusen",
+        "awayGoals": "4",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "7"
+      }
+    ],
+    "homeFullTime": "undefinedHHHHDADDDH",
+    "awayFullTime": "undefinedADHDDADDDA",
+    "totalGoals": 42,
+    "totalShots": 357,
+    "totalShotsTarget": 130,
+    "totalTeamCorners": 110
+  },
+  {
+    "name": "Fortuna Dusseldorf",
+    "totalHomeGoals": 17,
+    "totalHomeShots": 134,
+    "totalHomeShotsTarget": 49,
+    "totalHomeTeamCorners": 44,
+    "totalAwayGoals": 16,
+    "totalAwayShots": 113,
+    "totalAwayShotsTarget": 47,
+    "totalAwayTeamCorners": 40,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Fortuna Dusseldorf",
+        "opponentName": "Bayern Munich",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Fortuna Dusseldorf",
+        "opponentName": "M'gladbach",
+        "homeGoals": "3",
+        "homeShots": "8",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Fortuna Dusseldorf",
+        "opponentName": "Ein Frankfurt",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Fortuna Dusseldorf",
+        "opponentName": "Nurnberg",
+        "homeGoals": "2",
+        "homeShots": "19",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Fortuna Dusseldorf",
+        "opponentName": "Stuttgart",
+        "homeGoals": "3",
+        "homeShots": "15",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Fortuna Dusseldorf",
+        "opponentName": "RB Leipzig",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Fortuna Dusseldorf",
+        "opponentName": "Dortmund",
+        "homeGoals": "2",
+        "homeShots": "8",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Fortuna Dusseldorf",
+        "opponentName": "Freiburg",
+        "homeGoals": "2",
+        "homeShots": "20",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Fortuna Dusseldorf",
+        "opponentName": "Mainz",
+        "homeGoals": "0",
+        "homeShots": "20",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "12"
+      },
+      {
+        "teamName": "Fortuna Dusseldorf",
+        "opponentName": "Hertha",
+        "homeGoals": "4",
+        "homeShots": "20",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "2"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Fortuna Dusseldorf",
+        "opponentName": "Hertha",
+        "awayGoals": "2",
+        "awayShots": "13",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Fortuna Dusseldorf",
+        "opponentName": "Wolfsburg",
+        "awayGoals": "2",
+        "awayShots": "18",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Fortuna Dusseldorf",
+        "opponentName": "Schalke 04",
+        "awayGoals": "4",
+        "awayShots": "13",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Fortuna Dusseldorf",
+        "opponentName": "Leverkusen",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Fortuna Dusseldorf",
+        "opponentName": "Hoffenheim",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Fortuna Dusseldorf",
+        "opponentName": "Augsburg",
+        "awayGoals": "2",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Fortuna Dusseldorf",
+        "opponentName": "Hannover",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Fortuna Dusseldorf",
+        "opponentName": "Werder Bremen",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Fortuna Dusseldorf",
+        "opponentName": "Bayern Munich",
+        "awayGoals": "3",
+        "awayShots": "9",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Fortuna Dusseldorf",
+        "opponentName": "M'gladbach",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedAHAHHAHHAH",
+    "awayFullTime": "undefinedAHAHDAAHDH",
+    "totalGoals": 33,
+    "totalShots": 247,
+    "totalShotsTarget": 96,
+    "totalTeamCorners": 84
+  },
+  {
+    "name": "Ein Frankfurt",
+    "totalHomeGoals": 16,
+    "totalHomeShots": 143,
+    "totalHomeShotsTarget": 49,
+    "totalHomeTeamCorners": 66,
+    "totalAwayGoals": 19,
+    "totalAwayShots": 129,
+    "totalAwayShotsTarget": 49,
+    "totalAwayTeamCorners": 48,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Ein Frankfurt",
+        "opponentName": "Augsburg",
+        "homeGoals": "1",
+        "homeShots": "17",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Ein Frankfurt",
+        "opponentName": "Stuttgart",
+        "homeGoals": "3",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Ein Frankfurt",
+        "opponentName": "Nurnberg",
+        "homeGoals": "1",
+        "homeShots": "24",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Ein Frankfurt",
+        "opponentName": "Hoffenheim",
+        "homeGoals": "3",
+        "homeShots": "18",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Ein Frankfurt",
+        "opponentName": "M'gladbach",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Ein Frankfurt",
+        "opponentName": "Dortmund",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Ein Frankfurt",
+        "opponentName": "Freiburg",
+        "homeGoals": "3",
+        "homeShots": "9",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Ein Frankfurt",
+        "opponentName": "Bayern Munich",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Ein Frankfurt",
+        "opponentName": "Leverkusen",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Ein Frankfurt",
+        "opponentName": "Wolfsburg",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "9"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Ein Frankfurt",
+        "opponentName": "Schalke 04",
+        "awayGoals": "2",
+        "awayShots": "16",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Ein Frankfurt",
+        "opponentName": "Fortuna Dusseldorf",
+        "awayGoals": "3",
+        "awayShots": "15",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Ein Frankfurt",
+        "opponentName": "Hannover",
+        "awayGoals": "3",
+        "awayShots": "14",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Ein Frankfurt",
+        "opponentName": "RB Leipzig",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Ein Frankfurt",
+        "opponentName": "Werder Bremen",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Ein Frankfurt",
+        "opponentName": "Mainz",
+        "awayGoals": "2",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Ein Frankfurt",
+        "opponentName": "Hertha",
+        "awayGoals": "0",
+        "awayShots": "18",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Ein Frankfurt",
+        "opponentName": "Augsburg",
+        "awayGoals": "3",
+        "awayShots": "15",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Ein Frankfurt",
+        "opponentName": "Stuttgart",
+        "awayGoals": "3",
+        "awayShots": "15",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Ein Frankfurt",
+        "opponentName": "Nurnberg",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      }
+    ],
+    "homeFullTime": "undefinedAHHHDDHAHA",
+    "awayFullTime": "undefinedAAADDDHAAD",
+    "totalGoals": 35,
+    "totalShots": 272,
+    "totalShotsTarget": 98,
+    "totalTeamCorners": 114
+  },
+  {
+    "name": "Stuttgart",
+    "totalHomeGoals": 16,
+    "totalHomeShots": 145,
+    "totalHomeShotsTarget": 46,
+    "totalHomeTeamCorners": 65,
+    "totalAwayGoals": 5,
+    "totalAwayShots": 94,
+    "totalAwayShotsTarget": 20,
+    "totalAwayTeamCorners": 46,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Stuttgart",
+        "opponentName": "Leverkusen",
+        "homeGoals": "0",
+        "homeShots": "13",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Stuttgart",
+        "opponentName": "Nurnberg",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "12"
+      },
+      {
+        "teamName": "Stuttgart",
+        "opponentName": "Hoffenheim",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Stuttgart",
+        "opponentName": "Hannover",
+        "homeGoals": "5",
+        "homeShots": "14",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Stuttgart",
+        "opponentName": "RB Leipzig",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Stuttgart",
+        "opponentName": "Freiburg",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Stuttgart",
+        "opponentName": "Mainz",
+        "homeGoals": "2",
+        "homeShots": "28",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "13"
+      },
+      {
+        "teamName": "Stuttgart",
+        "opponentName": "Schalke 04",
+        "homeGoals": "1",
+        "homeShots": "17",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Stuttgart",
+        "opponentName": "Hertha",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Stuttgart",
+        "opponentName": "Augsburg",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Stuttgart",
+        "opponentName": "Ein Frankfurt",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Stuttgart",
+        "opponentName": "Dortmund",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Stuttgart",
+        "opponentName": "Werder Bremen",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Stuttgart",
+        "opponentName": "Fortuna Dusseldorf",
+        "awayGoals": "0",
+        "awayShots": "15",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Stuttgart",
+        "opponentName": "Bayern Munich",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Stuttgart",
+        "opponentName": "Wolfsburg",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Stuttgart",
+        "opponentName": "M'gladbach",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Stuttgart",
+        "opponentName": "Leverkusen",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Stuttgart",
+        "opponentName": "Nurnberg",
+        "awayGoals": "2",
+        "awayShots": "13",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Stuttgart",
+        "opponentName": "Hoffenheim",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "3"
+      }
+    ],
+    "homeFullTime": "undefinedADDHADAAHH",
+    "awayFullTime": "undefinedHHDHHHHHAH",
+    "totalGoals": 21,
+    "totalShots": 239,
+    "totalShotsTarget": 66,
+    "totalTeamCorners": 111
+  },
+  {
+    "name": "Hannover",
+    "totalHomeGoals": 4,
+    "totalHomeShots": 112,
+    "totalHomeShotsTarget": 31,
+    "totalHomeTeamCorners": 38,
+    "totalAwayGoals": 10,
+    "totalAwayShots": 106,
+    "totalAwayShotsTarget": 35,
+    "totalAwayTeamCorners": 34,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Hannover",
+        "opponentName": "M'gladbach",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Hannover",
+        "opponentName": "Schalke 04",
+        "homeGoals": "0",
+        "homeShots": "15",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Hannover",
+        "opponentName": "Leverkusen",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Hannover",
+        "opponentName": "Ein Frankfurt",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Hannover",
+        "opponentName": "Nurnberg",
+        "homeGoals": "2",
+        "homeShots": "18",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Hannover",
+        "opponentName": "RB Leipzig",
+        "homeGoals": "0",
+        "homeShots": "5",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "0"
+      },
+      {
+        "teamName": "Hannover",
+        "opponentName": "Werder Bremen",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Hannover",
+        "opponentName": "Fortuna Dusseldorf",
+        "homeGoals": "0",
+        "homeShots": "17",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Hannover",
+        "opponentName": "Bayern Munich",
+        "homeGoals": "0",
+        "homeShots": "3",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "0"
+      },
+      {
+        "teamName": "Hannover",
+        "opponentName": "Hertha",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Hannover",
+        "opponentName": "Wolfsburg",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Hannover",
+        "opponentName": "Augsburg",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Hannover",
+        "opponentName": "Stuttgart",
+        "awayGoals": "1",
+        "awayShots": "3",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Hannover",
+        "opponentName": "Hoffenheim",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Hannover",
+        "opponentName": "Dortmund",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Hannover",
+        "opponentName": "Freiburg",
+        "awayGoals": "1",
+        "awayShots": "18",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Hannover",
+        "opponentName": "Mainz",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Hannover",
+        "opponentName": "M'gladbach",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Hannover",
+        "opponentName": "Schalke 04",
+        "awayGoals": "1",
+        "awayShots": "20",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Hannover",
+        "opponentName": "Leverkusen",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "5"
+      }
+    ],
+    "homeFullTime": "undefinedAAAAHAAAAA",
+    "awayFullTime": "undefinedHHHHHDDHHD",
+    "totalGoals": 14,
+    "totalShots": 218,
+    "totalShotsTarget": 66,
+    "totalTeamCorners": 72
+  },
+  {
+    "name": "Dortmund",
+    "totalHomeGoals": 27,
+    "totalHomeShots": 133,
+    "totalHomeShotsTarget": 62,
+    "totalHomeTeamCorners": 42,
+    "totalAwayGoals": 12,
+    "totalAwayShots": 130,
+    "totalAwayShotsTarget": 45,
+    "totalAwayTeamCorners": 59,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Dortmund",
+        "opponentName": "Mainz",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Dortmund",
+        "opponentName": "Wolfsburg",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Dortmund",
+        "opponentName": "Stuttgart",
+        "homeGoals": "3",
+        "homeShots": "18",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Dortmund",
+        "opponentName": "Leverkusen",
+        "homeGoals": "3",
+        "homeShots": "9",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Dortmund",
+        "opponentName": "Hoffenheim",
+        "homeGoals": "3",
+        "homeShots": "16",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Dortmund",
+        "opponentName": "Hannover",
+        "homeGoals": "5",
+        "homeShots": "18",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Dortmund",
+        "opponentName": "M'gladbach",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Dortmund",
+        "opponentName": "Werder Bremen",
+        "homeGoals": "2",
+        "homeShots": "16",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Dortmund",
+        "opponentName": "Freiburg",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Dortmund",
+        "opponentName": "Bayern Munich",
+        "homeGoals": "3",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "0"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Dortmund",
+        "opponentName": "Bayern Munich",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Dortmund",
+        "opponentName": "Hertha",
+        "awayGoals": "3",
+        "awayShots": "25",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "Dortmund",
+        "opponentName": "Augsburg",
+        "awayGoals": "1",
+        "awayShots": "18",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Dortmund",
+        "opponentName": "Nurnberg",
+        "awayGoals": "0",
+        "awayShots": "17",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "11"
+      },
+      {
+        "teamName": "Dortmund",
+        "opponentName": "Ein Frankfurt",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Dortmund",
+        "opponentName": "RB Leipzig",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Dortmund",
+        "opponentName": "Fortuna Dusseldorf",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Dortmund",
+        "opponentName": "Schalke 04",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Dortmund",
+        "opponentName": "Mainz",
+        "awayGoals": "2",
+        "awayShots": "11",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Dortmund",
+        "opponentName": "Wolfsburg",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "14"
+      }
+    ],
+    "homeFullTime": "undefinedHHHHDHHHHH",
+    "awayFullTime": "undefinedHAHDDAHAAA",
+    "totalGoals": 39,
+    "totalShots": 263,
+    "totalShotsTarget": 107,
+    "totalTeamCorners": 101
+  },
+  {
+    "name": "Werder Bremen",
+    "totalHomeGoals": 22,
+    "totalHomeShots": 166,
+    "totalHomeShotsTarget": 58,
+    "totalHomeTeamCorners": 57,
+    "totalAwayGoals": 13,
+    "totalAwayShots": 132,
+    "totalAwayShotsTarget": 55,
+    "totalAwayTeamCorners": 49,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Werder Bremen",
+        "opponentName": "Freiburg",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Werder Bremen",
+        "opponentName": "Mainz",
+        "homeGoals": "3",
+        "homeShots": "8",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Werder Bremen",
+        "opponentName": "Schalke 04",
+        "homeGoals": "4",
+        "homeShots": "20",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Werder Bremen",
+        "opponentName": "Stuttgart",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Werder Bremen",
+        "opponentName": "Augsburg",
+        "homeGoals": "4",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Werder Bremen",
+        "opponentName": "Ein Frankfurt",
+        "homeGoals": "2",
+        "homeShots": "18",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Werder Bremen",
+        "opponentName": "Hoffenheim",
+        "homeGoals": "1",
+        "homeShots": "26",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Werder Bremen",
+        "opponentName": "Fortuna Dusseldorf",
+        "homeGoals": "3",
+        "homeShots": "22",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Werder Bremen",
+        "opponentName": "Bayern Munich",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Werder Bremen",
+        "opponentName": "M'gladbach",
+        "homeGoals": "1",
+        "homeShots": "20",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "9"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Werder Bremen",
+        "opponentName": "M'gladbach",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Werder Bremen",
+        "opponentName": "Leverkusen",
+        "awayGoals": "3",
+        "awayShots": "10",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Werder Bremen",
+        "opponentName": "Wolfsburg",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Werder Bremen",
+        "opponentName": "Hertha",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Werder Bremen",
+        "opponentName": "Nurnberg",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Werder Bremen",
+        "opponentName": "Hannover",
+        "awayGoals": "1",
+        "awayShots": "23",
+        "awayShotsOnTarget": "13",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Werder Bremen",
+        "opponentName": "RB Leipzig",
+        "awayGoals": "2",
+        "awayShots": "15",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Werder Bremen",
+        "opponentName": "Dortmund",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "Werder Bremen",
+        "opponentName": "Freiburg",
+        "awayGoals": "1",
+        "awayShots": "19",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Werder Bremen",
+        "opponentName": "Mainz",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      }
+    ],
+    "homeFullTime": "undefinedHHHDHDDHAA",
+    "awayFullTime": "undefinedDADDDAHHDH",
+    "totalGoals": 35,
+    "totalShots": 298,
+    "totalShotsTarget": 113,
+    "totalTeamCorners": 106
+  },
+  {
+    "name": "RB Leipzig",
+    "totalHomeGoals": 20,
+    "totalHomeShots": 156,
+    "totalHomeShotsTarget": 58,
+    "totalHomeTeamCorners": 60,
+    "totalAwayGoals": 19,
+    "totalAwayShots": 131,
+    "totalAwayShotsTarget": 55,
+    "totalAwayTeamCorners": 62,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "RB Leipzig",
+        "opponentName": "Wolfsburg",
+        "homeGoals": "2",
+        "homeShots": "21",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "RB Leipzig",
+        "opponentName": "Hertha",
+        "homeGoals": "5",
+        "homeShots": "21",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "RB Leipzig",
+        "opponentName": "Augsburg",
+        "homeGoals": "0",
+        "homeShots": "17",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "RB Leipzig",
+        "opponentName": "Hoffenheim",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "RB Leipzig",
+        "opponentName": "Ein Frankfurt",
+        "homeGoals": "0",
+        "homeShots": "14",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "RB Leipzig",
+        "opponentName": "Dortmund",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "RB Leipzig",
+        "opponentName": "Werder Bremen",
+        "homeGoals": "3",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "RB Leipzig",
+        "opponentName": "Mainz",
+        "homeGoals": "4",
+        "homeShots": "17",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "RB Leipzig",
+        "opponentName": "M'gladbach",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "RB Leipzig",
+        "opponentName": "Leverkusen",
+        "homeGoals": "3",
+        "homeShots": "14",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "4"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "RB Leipzig",
+        "opponentName": "Leverkusen",
+        "awayGoals": "4",
+        "awayShots": "8",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "RB Leipzig",
+        "opponentName": "Schalke 04",
+        "awayGoals": "1",
+        "awayShots": "15",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "RB Leipzig",
+        "opponentName": "Nurnberg",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "RB Leipzig",
+        "opponentName": "Stuttgart",
+        "awayGoals": "3",
+        "awayShots": "7",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "RB Leipzig",
+        "opponentName": "Hannover",
+        "awayGoals": "3",
+        "awayShots": "19",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "RB Leipzig",
+        "opponentName": "Fortuna Dusseldorf",
+        "awayGoals": "4",
+        "awayShots": "12",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "RB Leipzig",
+        "opponentName": "Bayern Munich",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "RB Leipzig",
+        "opponentName": "Freiburg",
+        "awayGoals": "0",
+        "awayShots": "15",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "12"
+      },
+      {
+        "teamName": "RB Leipzig",
+        "opponentName": "Wolfsburg",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "RB Leipzig",
+        "opponentName": "Hertha",
+        "awayGoals": "3",
+        "awayShots": "25",
+        "awayShotsOnTarget": "11",
+        "awayTeamCorners": "7"
+      }
+    ],
+    "homeFullTime": "undefinedHHDDDAHHHH",
+    "awayFullTime": "undefinedAAAAAAHHHA",
+    "totalGoals": 39,
+    "totalShots": 287,
+    "totalShotsTarget": 113,
+    "totalTeamCorners": 122
+  },
+  {
+    "name": "Nurnberg",
+    "totalHomeGoals": 7,
+    "totalHomeShots": 116,
+    "totalHomeShotsTarget": 28,
+    "totalHomeTeamCorners": 54,
+    "totalAwayGoals": 8,
+    "totalAwayShots": 97,
+    "totalAwayShotsTarget": 34,
+    "totalAwayTeamCorners": 39,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Nurnberg",
+        "opponentName": "Schalke 04",
+        "homeGoals": "1",
+        "homeShots": "17",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "Nurnberg",
+        "opponentName": "Augsburg",
+        "homeGoals": "3",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Nurnberg",
+        "opponentName": "RB Leipzig",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Nurnberg",
+        "opponentName": "Dortmund",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Nurnberg",
+        "opponentName": "Werder Bremen",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Nurnberg",
+        "opponentName": "Hertha",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Nurnberg",
+        "opponentName": "Freiburg",
+        "homeGoals": "0",
+        "homeShots": "16",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "12"
+      },
+      {
+        "teamName": "Nurnberg",
+        "opponentName": "Wolfsburg",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Nurnberg",
+        "opponentName": "Leverkusen",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Nurnberg",
+        "opponentName": "Stuttgart",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Nurnberg",
+        "opponentName": "Stuttgart",
+        "awayGoals": "1",
+        "awayShots": "19",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Nurnberg",
+        "opponentName": "Ein Frankfurt",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Nurnberg",
+        "opponentName": "Hoffenheim",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Nurnberg",
+        "opponentName": "Fortuna Dusseldorf",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Nurnberg",
+        "opponentName": "Hannover",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Nurnberg",
+        "opponentName": "Mainz",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Nurnberg",
+        "opponentName": "M'gladbach",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Nurnberg",
+        "opponentName": "Bayern Munich",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Nurnberg",
+        "opponentName": "Schalke 04",
+        "awayGoals": "2",
+        "awayShots": "12",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Nurnberg",
+        "opponentName": "Augsburg",
+        "awayGoals": "2",
+        "awayShots": "13",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "6"
+      }
+    ],
+    "homeFullTime": "undefinedDHADDAAADA",
+    "awayFullTime": "undefinedDHHHHHHHHD",
+    "totalGoals": 15,
+    "totalShots": 213,
+    "totalShotsTarget": 62,
+    "totalTeamCorners": 93
+  },
+  {
+    "name": "M'gladbach",
+    "totalHomeGoals": 17,
+    "totalHomeShots": 162,
+    "totalHomeShotsTarget": 49,
+    "totalHomeTeamCorners": 67,
+    "totalAwayGoals": 11,
+    "totalAwayShots": 110,
+    "totalAwayShotsTarget": 49,
+    "totalAwayTeamCorners": 49,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "M'gladbach",
+        "opponentName": "Werder Bremen",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "M'gladbach",
+        "opponentName": "Freiburg",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "M'gladbach",
+        "opponentName": "Bayern Munich",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "M'gladbach",
+        "opponentName": "Wolfsburg",
+        "homeGoals": "0",
+        "homeShots": "15",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "12"
+      },
+      {
+        "teamName": "M'gladbach",
+        "opponentName": "Hertha",
+        "homeGoals": "0",
+        "homeShots": "13",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "M'gladbach",
+        "opponentName": "Augsburg",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "M'gladbach",
+        "opponentName": "Nurnberg",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "M'gladbach",
+        "opponentName": "Stuttgart",
+        "homeGoals": "3",
+        "homeShots": "23",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "M'gladbach",
+        "opponentName": "Hannover",
+        "homeGoals": "4",
+        "homeShots": "20",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "M'gladbach",
+        "opponentName": "Fortuna Dusseldorf",
+        "homeGoals": "3",
+        "homeShots": "21",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "10"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "M'gladbach",
+        "opponentName": "Hannover",
+        "awayGoals": "1",
+        "awayShots": "18",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "12"
+      },
+      {
+        "teamName": "M'gladbach",
+        "opponentName": "Fortuna Dusseldorf",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "M'gladbach",
+        "opponentName": "Mainz",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "M'gladbach",
+        "opponentName": "Ein Frankfurt",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "M'gladbach",
+        "opponentName": "Schalke 04",
+        "awayGoals": "2",
+        "awayShots": "16",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "M'gladbach",
+        "opponentName": "Leverkusen",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "M'gladbach",
+        "opponentName": "Dortmund",
+        "awayGoals": "1",
+        "awayShots": "3",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "M'gladbach",
+        "opponentName": "Hoffenheim",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "M'gladbach",
+        "opponentName": "RB Leipzig",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "M'gladbach",
+        "opponentName": "Werder Bremen",
+        "awayGoals": "3",
+        "awayShots": "16",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "5"
+      }
+    ],
+    "homeFullTime": "undefinedDDAAAHHHHH",
+    "awayFullTime": "undefinedAHADAAHDHA",
+    "totalGoals": 28,
+    "totalShots": 272,
+    "totalShotsTarget": 98,
+    "totalTeamCorners": 116
+  },
+  {
+    "name": "Augsburg",
+    "totalHomeGoals": 17,
+    "totalHomeShots": 148,
+    "totalHomeShotsTarget": 57,
+    "totalHomeTeamCorners": 43,
+    "totalAwayGoals": 7,
+    "totalAwayShots": 128,
+    "totalAwayShotsTarget": 34,
+    "totalAwayTeamCorners": 31,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Augsburg",
+        "opponentName": "Hoffenheim",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Augsburg",
+        "opponentName": "Hannover",
+        "homeGoals": "3",
+        "homeShots": "22",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Augsburg",
+        "opponentName": "Dortmund",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Augsburg",
+        "opponentName": "Bayern Munich",
+        "homeGoals": "2",
+        "homeShots": "8",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Augsburg",
+        "opponentName": "Mainz",
+        "homeGoals": "3",
+        "homeShots": "19",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Augsburg",
+        "opponentName": "Fortuna Dusseldorf",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Augsburg",
+        "opponentName": "Wolfsburg",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Augsburg",
+        "opponentName": "Schalke 04",
+        "homeGoals": "1",
+        "homeShots": "17",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Augsburg",
+        "opponentName": "Ein Frankfurt",
+        "homeGoals": "1",
+        "homeShots": "25",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Augsburg",
+        "opponentName": "Nurnberg",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Augsburg",
+        "opponentName": "Ein Frankfurt",
+        "awayGoals": "3",
+        "awayShots": "18",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Augsburg",
+        "opponentName": "Nurnberg",
+        "awayGoals": "0",
+        "awayShots": "14",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Augsburg",
+        "opponentName": "RB Leipzig",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Augsburg",
+        "opponentName": "Freiburg",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Augsburg",
+        "opponentName": "Werder Bremen",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Augsburg",
+        "opponentName": "M'gladbach",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Augsburg",
+        "opponentName": "Hertha",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Augsburg",
+        "opponentName": "Leverkusen",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Augsburg",
+        "opponentName": "Stuttgart",
+        "awayGoals": "0",
+        "awayShots": "17",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Augsburg",
+        "opponentName": "Hoffenheim",
+        "awayGoals": "1",
+        "awayShots": "22",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "6"
+      }
+    ],
+    "homeFullTime": "undefinedAHHAHAADAD",
+    "awayFullTime": "undefinedAHDHHHDHHH",
+    "totalGoals": 24,
+    "totalShots": 276,
+    "totalShotsTarget": 91,
+    "totalTeamCorners": 74
+  },
+  {
+    "name": "Schalke 04",
+    "totalHomeGoals": 13,
+    "totalHomeShots": 131,
+    "totalHomeShotsTarget": 40,
+    "totalHomeTeamCorners": 37,
+    "totalAwayGoals": 12,
+    "totalAwayShots": 115,
+    "totalAwayShotsTarget": 45,
+    "totalAwayTeamCorners": 53,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Schalke 04",
+        "opponentName": "Ein Frankfurt",
+        "homeGoals": "1",
+        "homeShots": "6",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Schalke 04",
+        "opponentName": "RB Leipzig",
+        "homeGoals": "0",
+        "homeShots": "14",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "0"
+      },
+      {
+        "teamName": "Schalke 04",
+        "opponentName": "Fortuna Dusseldorf",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Schalke 04",
+        "opponentName": "Freiburg",
+        "homeGoals": "0",
+        "homeShots": "15",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Schalke 04",
+        "opponentName": "M'gladbach",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Schalke 04",
+        "opponentName": "Wolfsburg",
+        "homeGoals": "2",
+        "homeShots": "20",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Schalke 04",
+        "opponentName": "Leverkusen",
+        "homeGoals": "1",
+        "homeShots": "18",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Schalke 04",
+        "opponentName": "Dortmund",
+        "homeGoals": "1",
+        "homeShots": "6",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Schalke 04",
+        "opponentName": "Nurnberg",
+        "homeGoals": "5",
+        "homeShots": "20",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Schalke 04",
+        "opponentName": "Hannover",
+        "homeGoals": "3",
+        "homeShots": "16",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Schalke 04",
+        "opponentName": "Nurnberg",
+        "awayGoals": "1",
+        "awayShots": "16",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Schalke 04",
+        "opponentName": "Hannover",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Schalke 04",
+        "opponentName": "Werder Bremen",
+        "awayGoals": "2",
+        "awayShots": "14",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Schalke 04",
+        "opponentName": "Mainz",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Schalke 04",
+        "opponentName": "Bayern Munich",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Schalke 04",
+        "opponentName": "Hertha",
+        "awayGoals": "2",
+        "awayShots": "14",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Schalke 04",
+        "opponentName": "Stuttgart",
+        "awayGoals": "3",
+        "awayShots": "15",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Schalke 04",
+        "opponentName": "Augsburg",
+        "awayGoals": "1",
+        "awayShots": "15",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Schalke 04",
+        "opponentName": "Hoffenheim",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "Schalke 04",
+        "opponentName": "Ein Frankfurt",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedAAADAHAAHH",
+    "awayFullTime": "undefinedDAHHHDADDH",
+    "totalGoals": 25,
+    "totalShots": 246,
+    "totalShotsTarget": 85,
+    "totalTeamCorners": 90
+  },
+  {
+    "name": "Leverkusen",
+    "totalHomeGoals": 17,
+    "totalHomeShots": 163,
+    "totalHomeShotsTarget": 59,
+    "totalHomeTeamCorners": 65,
+    "totalAwayGoals": 19,
+    "totalAwayShots": 152,
+    "totalAwayShotsTarget": 60,
+    "totalAwayTeamCorners": 54,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Leverkusen",
+        "opponentName": "RB Leipzig",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Leverkusen",
+        "opponentName": "Werder Bremen",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Leverkusen",
+        "opponentName": "Freiburg",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Leverkusen",
+        "opponentName": "Fortuna Dusseldorf",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Leverkusen",
+        "opponentName": "Bayern Munich",
+        "homeGoals": "3",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Leverkusen",
+        "opponentName": "M'gladbach",
+        "homeGoals": "0",
+        "homeShots": "22",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Leverkusen",
+        "opponentName": "Hertha",
+        "homeGoals": "3",
+        "homeShots": "15",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Leverkusen",
+        "opponentName": "Augsburg",
+        "homeGoals": "1",
+        "homeShots": "21",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Leverkusen",
+        "opponentName": "Stuttgart",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Leverkusen",
+        "opponentName": "Hoffenheim",
+        "homeGoals": "1",
+        "homeShots": "21",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Leverkusen",
+        "opponentName": "Stuttgart",
+        "awayGoals": "1",
+        "awayShots": "18",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Leverkusen",
+        "opponentName": "Hoffenheim",
+        "awayGoals": "1",
+        "awayShots": "18",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Leverkusen",
+        "opponentName": "Hannover",
+        "awayGoals": "3",
+        "awayShots": "15",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Leverkusen",
+        "opponentName": "Dortmund",
+        "awayGoals": "2",
+        "awayShots": "13",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Leverkusen",
+        "opponentName": "Mainz",
+        "awayGoals": "5",
+        "awayShots": "18",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Leverkusen",
+        "opponentName": "Wolfsburg",
+        "awayGoals": "3",
+        "awayShots": "23",
+        "awayShotsOnTarget": "14",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Leverkusen",
+        "opponentName": "Schalke 04",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Leverkusen",
+        "opponentName": "Ein Frankfurt",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Leverkusen",
+        "opponentName": "Nurnberg",
+        "awayGoals": "1",
+        "awayShots": "20",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Leverkusen",
+        "opponentName": "RB Leipzig",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      }
+    ],
+    "homeFullTime": "undefinedAAHHHAHHHA",
+    "awayFullTime": "undefinedAHAHAAAHDH",
+    "totalGoals": 36,
+    "totalShots": 315,
+    "totalShotsTarget": 119,
+    "totalTeamCorners": 119
+  },
+  {
+    "name": "Hertha",
+    "totalHomeGoals": 14,
+    "totalHomeShots": 123,
+    "totalHomeShotsTarget": 45,
+    "totalHomeTeamCorners": 39,
+    "totalAwayGoals": 12,
+    "totalAwayShots": 116,
+    "totalAwayShotsTarget": 46,
+    "totalAwayTeamCorners": 46,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Hertha",
+        "opponentName": "Fortuna Dusseldorf",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Hertha",
+        "opponentName": "Dortmund",
+        "homeGoals": "2",
+        "homeShots": "7",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Hertha",
+        "opponentName": "Mainz",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Hertha",
+        "opponentName": "Werder Bremen",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Hertha",
+        "opponentName": "Wolfsburg",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Hertha",
+        "opponentName": "Schalke 04",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Hertha",
+        "opponentName": "Augsburg",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Hertha",
+        "opponentName": "Ein Frankfurt",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Hertha",
+        "opponentName": "Hoffenheim",
+        "homeGoals": "3",
+        "homeShots": "23",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Hertha",
+        "opponentName": "RB Leipzig",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Hertha",
+        "opponentName": "Hoffenheim",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Hertha",
+        "opponentName": "RB Leipzig",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Hertha",
+        "opponentName": "Freiburg",
+        "awayGoals": "1",
+        "awayShots": "16",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Hertha",
+        "opponentName": "Bayern Munich",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Hertha",
+        "opponentName": "M'gladbach",
+        "awayGoals": "3",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Hertha",
+        "opponentName": "Nurnberg",
+        "awayGoals": "3",
+        "awayShots": "16",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Hertha",
+        "opponentName": "Leverkusen",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Hertha",
+        "opponentName": "Stuttgart",
+        "awayGoals": "1",
+        "awayShots": "15",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Hertha",
+        "opponentName": "Hannover",
+        "awayGoals": "2",
+        "awayShots": "14",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Hertha",
+        "opponentName": "Fortuna Dusseldorf",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "6"
+      }
+    ],
+    "homeFullTime": "undefinedAAHDADDHDA",
+    "awayFullTime": "undefinedHHHHAAHHAH",
+    "totalGoals": 26,
+    "totalShots": 239,
+    "totalShotsTarget": 91,
+    "totalTeamCorners": 85
+  },
+  {
+    "name": "Bayern Munich",
+    "totalHomeGoals": 33,
+    "totalHomeShots": 185,
+    "totalHomeShotsTarget": 70,
+    "totalHomeTeamCorners": 96,
+    "totalAwayGoals": 28,
+    "totalAwayShots": 187,
+    "totalAwayShotsTarget": 84,
+    "totalAwayTeamCorners": 75,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Bayern Munich",
+        "opponentName": "Dortmund",
+        "homeGoals": "5",
+        "homeShots": "22",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "Bayern Munich",
+        "opponentName": "Mainz",
+        "homeGoals": "6",
+        "homeShots": "22",
+        "homeShotsOnTarget": "11",
+        "homeTeamCorners": "13"
+      },
+      {
+        "teamName": "Bayern Munich",
+        "opponentName": "Wolfsburg",
+        "homeGoals": "6",
+        "homeShots": "22",
+        "homeShotsOnTarget": "12",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Bayern Munich",
+        "opponentName": "Hertha",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "Bayern Munich",
+        "opponentName": "Schalke 04",
+        "homeGoals": "3",
+        "homeShots": "17",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Bayern Munich",
+        "opponentName": "Stuttgart",
+        "homeGoals": "4",
+        "homeShots": "19",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Bayern Munich",
+        "opponentName": "RB Leipzig",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Bayern Munich",
+        "opponentName": "Nurnberg",
+        "homeGoals": "3",
+        "homeShots": "20",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "Bayern Munich",
+        "opponentName": "Fortuna Dusseldorf",
+        "homeGoals": "3",
+        "homeShots": "17",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Bayern Munich",
+        "opponentName": "Freiburg",
+        "homeGoals": "1",
+        "homeShots": "24",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "14"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Bayern Munich",
+        "opponentName": "Fortuna Dusseldorf",
+        "awayGoals": "4",
+        "awayShots": "21",
+        "awayShotsOnTarget": "10",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Bayern Munich",
+        "opponentName": "Freiburg",
+        "awayGoals": "1",
+        "awayShots": "26",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Bayern Munich",
+        "opponentName": "M'gladbach",
+        "awayGoals": "5",
+        "awayShots": "19",
+        "awayShotsOnTarget": "14",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Bayern Munich",
+        "opponentName": "Augsburg",
+        "awayGoals": "3",
+        "awayShots": "17",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Bayern Munich",
+        "opponentName": "Leverkusen",
+        "awayGoals": "1",
+        "awayShots": "17",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Bayern Munich",
+        "opponentName": "Hoffenheim",
+        "awayGoals": "3",
+        "awayShots": "21",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Bayern Munich",
+        "opponentName": "Ein Frankfurt",
+        "awayGoals": "3",
+        "awayShots": "9",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Bayern Munich",
+        "opponentName": "Hannover",
+        "awayGoals": "4",
+        "awayShots": "32",
+        "awayShotsOnTarget": "14",
+        "awayTeamCorners": "14"
+      },
+      {
+        "teamName": "Bayern Munich",
+        "opponentName": "Werder Bremen",
+        "awayGoals": "2",
+        "awayShots": "16",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "Bayern Munich",
+        "opponentName": "Dortmund",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      }
+    ],
+    "homeFullTime": "undefinedHHHHHHHHDD",
+    "awayFullTime": "undefinedADAAHAAAAH",
+    "totalGoals": 61,
+    "totalShots": 372,
+    "totalShotsTarget": 154,
+    "totalTeamCorners": 171
+  },
+  {
+    "name": "Wolfsburg",
+    "totalHomeGoals": 18,
+    "totalHomeShots": 123,
+    "totalHomeShotsTarget": 45,
+    "totalHomeTeamCorners": 51,
+    "totalAwayGoals": 15,
+    "totalAwayShots": 93,
+    "totalAwayShotsTarget": 34,
+    "totalAwayTeamCorners": 35,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Wolfsburg",
+        "opponentName": "Hannover",
+        "homeGoals": "3",
+        "homeShots": "13",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Wolfsburg",
+        "opponentName": "Fortuna Dusseldorf",
+        "homeGoals": "5",
+        "homeShots": "19",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Wolfsburg",
+        "opponentName": "Werder Bremen",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Wolfsburg",
+        "opponentName": "Mainz",
+        "homeGoals": "3",
+        "homeShots": "16",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Wolfsburg",
+        "opponentName": "Leverkusen",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Wolfsburg",
+        "opponentName": "Stuttgart",
+        "homeGoals": "2",
+        "homeShots": "16",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Wolfsburg",
+        "opponentName": "Hoffenheim",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Wolfsburg",
+        "opponentName": "RB Leipzig",
+        "homeGoals": "1",
+        "homeShots": "5",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Wolfsburg",
+        "opponentName": "Dortmund",
+        "homeGoals": "0",
+        "homeShots": "13",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Wolfsburg",
+        "opponentName": "Bayern Munich",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "2"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Wolfsburg",
+        "opponentName": "RB Leipzig",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Wolfsburg",
+        "opponentName": "Dortmund",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Wolfsburg",
+        "opponentName": "Bayern Munich",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Wolfsburg",
+        "opponentName": "M'gladbach",
+        "awayGoals": "3",
+        "awayShots": "5",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Wolfsburg",
+        "opponentName": "Freiburg",
+        "awayGoals": "3",
+        "awayShots": "15",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Wolfsburg",
+        "opponentName": "Hertha",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Wolfsburg",
+        "opponentName": "Schalke 04",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Wolfsburg",
+        "opponentName": "Augsburg",
+        "awayGoals": "3",
+        "awayShots": "16",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Wolfsburg",
+        "opponentName": "Nurnberg",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Wolfsburg",
+        "opponentName": "Ein Frankfurt",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      }
+    ],
+    "homeFullTime": "undefinedHHDHAHDHAA",
+    "awayFullTime": "undefinedHHHADAHAAA",
+    "totalGoals": 33,
+    "totalShots": 216,
+    "totalShotsTarget": 79,
+    "totalTeamCorners": 86
+  },
+  {
+    "name": "Mainz",
+    "totalHomeGoals": 18,
+    "totalHomeShots": 159,
+    "totalHomeShotsTarget": 44,
+    "totalHomeTeamCorners": 37,
+    "totalAwayGoals": 9,
+    "totalAwayShots": 119,
+    "totalAwayShotsTarget": 37,
+    "totalAwayTeamCorners": 42,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Mainz",
+        "opponentName": "Freiburg",
+        "homeGoals": "5",
+        "homeShots": "9",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Mainz",
+        "opponentName": "M'gladbach",
+        "homeGoals": "0",
+        "homeShots": "15",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Mainz",
+        "opponentName": "Schalke 04",
+        "homeGoals": "3",
+        "homeShots": "21",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Mainz",
+        "opponentName": "Leverkusen",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Mainz",
+        "opponentName": "Nurnberg",
+        "homeGoals": "2",
+        "homeShots": "20",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Mainz",
+        "opponentName": "Ein Frankfurt",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Mainz",
+        "opponentName": "Hannover",
+        "homeGoals": "1",
+        "homeShots": "28",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Mainz",
+        "opponentName": "Dortmund",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Mainz",
+        "opponentName": "Werder Bremen",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Mainz",
+        "opponentName": "Bayern Munich",
+        "homeGoals": "1",
+        "homeShots": "6",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "2"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Mainz",
+        "opponentName": "Dortmund",
+        "awayGoals": "1",
+        "awayShots": "17",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Mainz",
+        "opponentName": "Werder Bremen",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Mainz",
+        "opponentName": "Bayern Munich",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Mainz",
+        "opponentName": "Hertha",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Mainz",
+        "opponentName": "Wolfsburg",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Mainz",
+        "opponentName": "Augsburg",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Mainz",
+        "opponentName": "Stuttgart",
+        "awayGoals": "3",
+        "awayShots": "14",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Mainz",
+        "opponentName": "Hoffenheim",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Mainz",
+        "opponentName": "RB Leipzig",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Mainz",
+        "opponentName": "Fortuna Dusseldorf",
+        "awayGoals": "1",
+        "awayShots": "15",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      }
+    ],
+    "homeFullTime": "undefinedHAHAHDDAHA",
+    "awayFullTime": "undefinedHHHHHHADHA",
+    "totalGoals": 27,
+    "totalShots": 278,
+    "totalShotsTarget": 81,
+    "totalTeamCorners": 79
+  },
+  {
+    "name": "Freiburg",
+    "totalHomeGoals": 22,
+    "totalHomeShots": 148,
+    "totalHomeShotsTarget": 68,
+    "totalHomeTeamCorners": 47,
+    "totalAwayGoals": 6,
+    "totalAwayShots": 111,
+    "totalAwayShotsTarget": 35,
+    "totalAwayTeamCorners": 47,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Freiburg",
+        "opponentName": "Bayern Munich",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Freiburg",
+        "opponentName": "Hertha",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Freiburg",
+        "opponentName": "Augsburg",
+        "homeGoals": "5",
+        "homeShots": "19",
+        "homeShotsOnTarget": "11",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Freiburg",
+        "opponentName": "Wolfsburg",
+        "homeGoals": "3",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Freiburg",
+        "opponentName": "Hoffenheim",
+        "homeGoals": "2",
+        "homeShots": "20",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Freiburg",
+        "opponentName": "Hannover",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Freiburg",
+        "opponentName": "RB Leipzig",
+        "homeGoals": "3",
+        "homeShots": "12",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Freiburg",
+        "opponentName": "Werder Bremen",
+        "homeGoals": "1",
+        "homeShots": "23",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Freiburg",
+        "opponentName": "Mainz",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Freiburg",
+        "opponentName": "M'gladbach",
+        "homeGoals": "3",
+        "homeShots": "13",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "3"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Freiburg",
+        "opponentName": "Werder Bremen",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Freiburg",
+        "opponentName": "Mainz",
+        "awayGoals": "0",
+        "awayShots": "17",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Freiburg",
+        "opponentName": "M'gladbach",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Freiburg",
+        "opponentName": "Leverkusen",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Freiburg",
+        "opponentName": "Schalke 04",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Freiburg",
+        "opponentName": "Stuttgart",
+        "awayGoals": "2",
+        "awayShots": "16",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Freiburg",
+        "opponentName": "Ein Frankfurt",
+        "awayGoals": "1",
+        "awayShots": "21",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Freiburg",
+        "opponentName": "Nurnberg",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Freiburg",
+        "opponentName": "Fortuna Dusseldorf",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Freiburg",
+        "opponentName": "Dortmund",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      }
+    ],
+    "homeFullTime": "undefinedDHHDADHDAH",
+    "awayFullTime": "undefinedHHDHDDHAHH",
+    "totalGoals": 28,
+    "totalShots": 259,
+    "totalShotsTarget": 103,
+    "totalTeamCorners": 94
+  },
+  {
+    "name": "Hamburg",
+    "totalHomeGoals": 10,
+    "totalHomeShots": 146,
+    "totalHomeShotsTarget": 47,
+    "totalHomeTeamCorners": 74,
+    "totalAwayGoals": 6,
+    "totalAwayShots": 89,
+    "totalAwayShotsTarget": 34,
+    "totalAwayTeamCorners": 46,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Hamburg",
+        "opponentName": "M'gladbach",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Hamburg",
+        "opponentName": "Freiburg",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Hamburg",
+        "opponentName": "Schalke 04",
+        "homeGoals": "3",
+        "homeShots": "18",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Hamburg",
+        "opponentName": "Hertha",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Hamburg",
+        "opponentName": "Mainz",
+        "homeGoals": "0",
+        "homeShots": "18",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "Hamburg",
+        "opponentName": "Leverkusen",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Hamburg",
+        "opponentName": "Hannover",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Hamburg",
+        "opponentName": "FC Koln",
+        "homeGoals": "0",
+        "homeShots": "13",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Hamburg",
+        "opponentName": "Ein Frankfurt",
+        "homeGoals": "1",
+        "homeShots": "21",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Hamburg",
+        "opponentName": "Wolfsburg",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Hamburg",
+        "opponentName": "Ein Frankfurt",
+        "awayGoals": "0",
+        "awayShots": "14",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Hamburg",
+        "opponentName": "Wolfsburg",
+        "awayGoals": "3",
+        "awayShots": "14",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Hamburg",
+        "opponentName": "Hoffenheim",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Hamburg",
+        "opponentName": "Stuttgart",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Hamburg",
+        "opponentName": "Bayern Munich",
+        "awayGoals": "0",
+        "awayShots": "1",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Hamburg",
+        "opponentName": "Werder Bremen",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Hamburg",
+        "opponentName": "Dortmund",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Hamburg",
+        "opponentName": "RB Leipzig",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Hamburg",
+        "opponentName": "Augsburg",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Hamburg",
+        "opponentName": "M'gladbach",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedHHHADADAAD",
+    "awayFullTime": "undefinedHAHDHHHDHH",
+    "totalGoals": 16,
+    "totalShots": 235,
+    "totalShotsTarget": 81,
+    "totalTeamCorners": 120
+  },
+  {
+    "name": "FC Koln",
+    "totalHomeGoals": 15,
+    "totalHomeShots": 117,
+    "totalHomeShotsTarget": 42,
+    "totalHomeTeamCorners": 46,
+    "totalAwayGoals": 13,
+    "totalAwayShots": 89,
+    "totalAwayShotsTarget": 25,
+    "totalAwayTeamCorners": 50,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "FC Koln",
+        "opponentName": "Bayern Munich",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "FC Koln",
+        "opponentName": "Schalke 04",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "FC Koln",
+        "opponentName": "Mainz",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "FC Koln",
+        "opponentName": "Leverkusen",
+        "homeGoals": "2",
+        "homeShots": "7",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "FC Koln",
+        "opponentName": "Stuttgart",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "FC Koln",
+        "opponentName": "Hannover",
+        "homeGoals": "1",
+        "homeShots": "5",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "FC Koln",
+        "opponentName": "Dortmund",
+        "homeGoals": "2",
+        "homeShots": "16",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "FC Koln",
+        "opponentName": "Augsburg",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "FC Koln",
+        "opponentName": "M'gladbach",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "FC Koln",
+        "opponentName": "Wolfsburg",
+        "homeGoals": "1",
+        "homeShots": "18",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "5"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "FC Koln",
+        "opponentName": "Wolfsburg",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "FC Koln",
+        "opponentName": "Freiburg",
+        "awayGoals": "2",
+        "awayShots": "13",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "FC Koln",
+        "opponentName": "Hertha",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "FC Koln",
+        "opponentName": "Hoffenheim",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "FC Koln",
+        "opponentName": "Werder Bremen",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "FC Koln",
+        "opponentName": "RB Leipzig",
+        "awayGoals": "2",
+        "awayShots": "14",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "FC Koln",
+        "opponentName": "Ein Frankfurt",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "FC Koln",
+        "opponentName": "Hamburg",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "FC Koln",
+        "opponentName": "Bayern Munich",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "FC Koln",
+        "opponentName": "Schalke 04",
+        "awayGoals": "2",
+        "awayShots": "7",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedADDHADADHH",
+    "awayFullTime": "undefinedHHHHHAHAHD",
+    "totalGoals": 28,
+    "totalShots": 206,
+    "totalShotsTarget": 67,
+    "totalTeamCorners": 96
+  },
+  {
+    "name": "Ingolstadt",
+    "totalHomeGoals": 15,
+    "totalHomeShots": 158,
+    "totalHomeShotsTarget": 55,
+    "totalHomeTeamCorners": 57,
+    "totalAwayGoals": 10,
+    "totalAwayShots": 128,
+    "totalAwayShotsTarget": 49,
+    "totalAwayTeamCorners": 38,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Ingolstadt",
+        "opponentName": "Schalke 04",
+        "homeGoals": "1",
+        "homeShots": "18",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Ingolstadt",
+        "opponentName": "Leverkusen",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Ingolstadt",
+        "opponentName": "Werder Bremen",
+        "homeGoals": "2",
+        "homeShots": "15",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Ingolstadt",
+        "opponentName": "Darmstadt",
+        "homeGoals": "3",
+        "homeShots": "23",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Ingolstadt",
+        "opponentName": "Mainz",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Ingolstadt",
+        "opponentName": "FC Koln",
+        "homeGoals": "2",
+        "homeShots": "26",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "Ingolstadt",
+        "opponentName": "M'gladbach",
+        "homeGoals": "0",
+        "homeShots": "14",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Ingolstadt",
+        "opponentName": "Bayern Munich",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Ingolstadt",
+        "opponentName": "Hamburg",
+        "homeGoals": "3",
+        "homeShots": "15",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Ingolstadt",
+        "opponentName": "Freiburg",
+        "homeGoals": "1",
+        "homeShots": "17",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Ingolstadt",
+        "opponentName": "Freiburg",
+        "awayGoals": "1",
+        "awayShots": "23",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Ingolstadt",
+        "opponentName": "RB Leipzig",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Ingolstadt",
+        "opponentName": "Wolfsburg",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Ingolstadt",
+        "opponentName": "Augsburg",
+        "awayGoals": "3",
+        "awayShots": "13",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Ingolstadt",
+        "opponentName": "Dortmund",
+        "awayGoals": "0",
+        "awayShots": "14",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Ingolstadt",
+        "opponentName": "Hoffenheim",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Ingolstadt",
+        "opponentName": "Ein Frankfurt",
+        "awayGoals": "2",
+        "awayShots": "14",
+        "awayShotsOnTarget": "11",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Ingolstadt",
+        "opponentName": "Hertha",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Ingolstadt",
+        "opponentName": "Schalke 04",
+        "awayGoals": "0",
+        "awayShots": "14",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Ingolstadt",
+        "opponentName": "Leverkusen",
+        "awayGoals": "2",
+        "awayShots": "17",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedDDAHHDAAHA",
+    "awayFullTime": "undefinedDDHAHHAHHA",
+    "totalGoals": 25,
+    "totalShots": 286,
+    "totalShotsTarget": 104,
+    "totalTeamCorners": 95
+  },
+  {
+    "name": "Darmstadt",
+    "totalHomeGoals": 11,
+    "totalHomeShots": 108,
+    "totalHomeShotsTarget": 35,
+    "totalHomeTeamCorners": 32,
+    "totalAwayGoals": 6,
+    "totalAwayShots": 93,
+    "totalAwayShotsTarget": 25,
+    "totalAwayTeamCorners": 41,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Darmstadt",
+        "opponentName": "Hertha",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Darmstadt",
+        "opponentName": "Freiburg",
+        "homeGoals": "3",
+        "homeShots": "14",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Darmstadt",
+        "opponentName": "Schalke 04",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Darmstadt",
+        "opponentName": "Leverkusen",
+        "homeGoals": "0",
+        "homeShots": "13",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Darmstadt",
+        "opponentName": "Mainz",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Darmstadt",
+        "opponentName": "Augsburg",
+        "homeGoals": "1",
+        "homeShots": "5",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Darmstadt",
+        "opponentName": "Dortmund",
+        "homeGoals": "2",
+        "homeShots": "15",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "0"
+      },
+      {
+        "teamName": "Darmstadt",
+        "opponentName": "FC Koln",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Darmstadt",
+        "opponentName": "M'gladbach",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Darmstadt",
+        "opponentName": "Bayern Munich",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Darmstadt",
+        "opponentName": "M'gladbach",
+        "awayGoals": "2",
+        "awayShots": "13",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Darmstadt",
+        "opponentName": "Bayern Munich",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Darmstadt",
+        "opponentName": "Hamburg",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Darmstadt",
+        "opponentName": "Ingolstadt",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Darmstadt",
+        "opponentName": "RB Leipzig",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Darmstadt",
+        "opponentName": "Wolfsburg",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Darmstadt",
+        "opponentName": "Werder Bremen",
+        "awayGoals": "0",
+        "awayShots": "15",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Darmstadt",
+        "opponentName": "Hoffenheim",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Darmstadt",
+        "opponentName": "Ein Frankfurt",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Darmstadt",
+        "opponentName": "Hertha",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedAHHAHAHADA",
+    "awayFullTime": "undefinedDHAHHHHHHH",
+    "totalGoals": 17,
+    "totalShots": 201,
+    "totalShotsTarget": 60,
+    "totalTeamCorners": 73
+  },
+  {
+    "name": "Paderborn",
+    "totalHomeGoals": 8,
+    "totalHomeShots": 160,
+    "totalHomeShotsTarget": 48,
+    "totalHomeTeamCorners": 71,
+    "totalAwayGoals": 4,
+    "totalAwayShots": 118,
+    "totalAwayShotsTarget": 33,
+    "totalAwayTeamCorners": 45,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Paderborn",
+        "opponentName": "Stuttgart",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Paderborn",
+        "opponentName": "Wolfsburg",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "Paderborn",
+        "opponentName": "Werder Bremen",
+        "homeGoals": "2",
+        "homeShots": "20",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "14"
+      },
+      {
+        "teamName": "Paderborn",
+        "opponentName": "Augsburg",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Paderborn",
+        "opponentName": "Hoffenheim",
+        "homeGoals": "0",
+        "homeShots": "15",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Paderborn",
+        "opponentName": "Leverkusen",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Paderborn",
+        "opponentName": "Bayern Munich",
+        "homeGoals": "0",
+        "homeShots": "13",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Paderborn",
+        "opponentName": "Hamburg",
+        "homeGoals": "0",
+        "homeShots": "13",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Paderborn",
+        "opponentName": "Schalke 04",
+        "homeGoals": "1",
+        "homeShots": "21",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Paderborn",
+        "opponentName": "Freiburg",
+        "homeGoals": "1",
+        "homeShots": "24",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Paderborn",
+        "opponentName": "Schalke 04",
+        "awayGoals": "0",
+        "awayShots": "22",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Paderborn",
+        "opponentName": "Freiburg",
+        "awayGoals": "2",
+        "awayShots": "14",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Paderborn",
+        "opponentName": "Dortmund",
+        "awayGoals": "0",
+        "awayShots": "2",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Paderborn",
+        "opponentName": "Hertha",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Paderborn",
+        "opponentName": "Ein Frankfurt",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Paderborn",
+        "opponentName": "M'gladbach",
+        "awayGoals": "0",
+        "awayShots": "17",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Paderborn",
+        "opponentName": "Hannover",
+        "awayGoals": "2",
+        "awayShots": "11",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Paderborn",
+        "opponentName": "FC Koln",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Paderborn",
+        "opponentName": "Mainz",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Paderborn",
+        "opponentName": "Stuttgart",
+        "awayGoals": "0",
+        "awayShots": "17",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "5"
+      }
+    ],
+    "homeFullTime": "undefinedAADHDAAAAD",
+    "awayFullTime": "undefinedHAHHHHADHD",
+    "totalGoals": 12,
+    "totalShots": 278,
+    "totalShotsTarget": 81,
+    "totalTeamCorners": 116
+  },
+  {
+    "name": "Braunschweig",
+    "totalHomeGoals": 14,
+    "totalHomeShots": 134,
+    "totalHomeShotsTarget": 40,
+    "totalHomeTeamCorners": 61,
+    "totalAwayGoals": 7,
+    "totalAwayShots": 105,
+    "totalAwayShotsTarget": 26,
+    "totalAwayTeamCorners": 34,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Braunschweig",
+        "opponentName": "Augsburg",
+        "homeGoals": "0",
+        "homeShots": "17",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Braunschweig",
+        "opponentName": "Bayern Munich",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Braunschweig",
+        "opponentName": "Hannover",
+        "homeGoals": "3",
+        "homeShots": "11",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Braunschweig",
+        "opponentName": "Mainz",
+        "homeGoals": "3",
+        "homeShots": "14",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Braunschweig",
+        "opponentName": "Wolfsburg",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Braunschweig",
+        "opponentName": "M'gladbach",
+        "homeGoals": "1",
+        "homeShots": "20",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Braunschweig",
+        "opponentName": "Hamburg",
+        "homeGoals": "4",
+        "homeShots": "14",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Braunschweig",
+        "opponentName": "Dortmund",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Braunschweig",
+        "opponentName": "Hoffenheim",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Braunschweig",
+        "opponentName": "Hertha",
+        "homeGoals": "0",
+        "homeShots": "13",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "8"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Braunschweig",
+        "opponentName": "Hoffenheim",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Braunschweig",
+        "opponentName": "Hertha",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Braunschweig",
+        "opponentName": "Freiburg",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Braunschweig",
+        "opponentName": "Leverkusen",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Braunschweig",
+        "opponentName": "Schalke 04",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Braunschweig",
+        "opponentName": "Stuttgart",
+        "awayGoals": "2",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Braunschweig",
+        "opponentName": "Nurnberg",
+        "awayGoals": "1",
+        "awayShots": "22",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "Braunschweig",
+        "opponentName": "Ein Frankfurt",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Braunschweig",
+        "opponentName": "Werder Bremen",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Braunschweig",
+        "opponentName": "Augsburg",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "0"
+      }
+    ],
+    "homeFullTime": "undefinedAAHHDDHAHA",
+    "awayFullTime": "undefinedHHHDHDHHDH",
+    "totalGoals": 21,
+    "totalShots": 239,
+    "totalShotsTarget": 66,
+    "totalTeamCorners": 95
+  },
+
+  {
+    "name": "Greuther Furth",
+    "totalHomeGoals": 7,
+    "totalHomeShots": 138,
+    "totalHomeShotsTarget": 49,
+    "totalHomeTeamCorners": 59,
+    "totalAwayGoals": 9,
+    "totalAwayShots": 92,
+    "totalAwayShotsTarget": 30,
+    "totalAwayTeamCorners": 27,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Greuther Furth",
+        "opponentName": "Freiburg",
+        "homeGoals": "1",
+        "homeShots": "18",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Greuther Furth",
+        "opponentName": "Hannover",
+        "homeGoals": "2",
+        "homeShots": "20",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Greuther Furth",
+        "opponentName": "Dortmund",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Greuther Furth",
+        "opponentName": "Ein Frankfurt",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Greuther Furth",
+        "opponentName": "Hoffenheim",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Greuther Furth",
+        "opponentName": "Leverkusen",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Greuther Furth",
+        "opponentName": "Wolfsburg",
+        "homeGoals": "0",
+        "homeShots": "16",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Greuther Furth",
+        "opponentName": "Mainz",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Greuther Furth",
+        "opponentName": "Augsburg",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Greuther Furth",
+        "opponentName": "Stuttgart",
+        "homeGoals": "0",
+        "homeShots": "17",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "10"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Greuther Furth",
+        "opponentName": "Augsburg",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Greuther Furth",
+        "opponentName": "Stuttgart",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Greuther Furth",
+        "opponentName": "Nurnberg",
+        "awayGoals": "1",
+        "awayShots": "15",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Greuther Furth",
+        "opponentName": "M'gladbach",
+        "awayGoals": "0",
+        "awayShots": "20",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Greuther Furth",
+        "opponentName": "Werder Bremen",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Greuther Furth",
+        "opponentName": "Hamburg",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Greuther Furth",
+        "opponentName": "Fortuna Dusseldorf",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Greuther Furth",
+        "opponentName": "Schalke 04",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Greuther Furth",
+        "opponentName": "Bayern Munich",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Greuther Furth",
+        "opponentName": "Freiburg",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      }
+    ],
+    "homeFullTime": "undefinedAAAAADAADA",
+    "awayFullTime": "undefinedHAAHDDHAHH",
+    "totalGoals": 16,
+    "totalShots": 230,
+    "totalShotsTarget": 79,
+    "totalTeamCorners": 86
+  },
+  {
+    "name": "Kaiserslautern",
+    "totalHomeGoals": 6,
+    "totalHomeShots": 137,
+    "totalHomeShotsTarget": 49,
+    "totalHomeTeamCorners": 44,
+    "totalAwayGoals": 7,
+    "totalAwayShots": 97,
+    "totalAwayShotsTarget": 36,
+    "totalAwayTeamCorners": 30,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Kaiserslautern",
+        "opponentName": "Dortmund",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Kaiserslautern",
+        "opponentName": "Nurnberg",
+        "homeGoals": "0",
+        "homeShots": "15",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Kaiserslautern",
+        "opponentName": "Hoffenheim",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Kaiserslautern",
+        "opponentName": "Hamburg",
+        "homeGoals": "0",
+        "homeShots": "18",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Kaiserslautern",
+        "opponentName": "Schalke 04",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Kaiserslautern",
+        "opponentName": "Wolfsburg",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Kaiserslautern",
+        "opponentName": "M'gladbach",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Kaiserslautern",
+        "opponentName": "FC Koln",
+        "homeGoals": "0",
+        "homeShots": "6",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Kaiserslautern",
+        "opponentName": "Werder Bremen",
+        "homeGoals": "0",
+        "homeShots": "19",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Kaiserslautern",
+        "opponentName": "Hannover",
+        "homeGoals": "1",
+        "homeShots": "19",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Kaiserslautern",
+        "opponentName": "Hannover",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Kaiserslautern",
+        "opponentName": "Hertha",
+        "awayGoals": "2",
+        "awayShots": "15",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Kaiserslautern",
+        "opponentName": "Leverkusen",
+        "awayGoals": "1",
+        "awayShots": "16",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Kaiserslautern",
+        "opponentName": "Freiburg",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Kaiserslautern",
+        "opponentName": "Stuttgart",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Kaiserslautern",
+        "opponentName": "Mainz",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Kaiserslautern",
+        "opponentName": "Bayern Munich",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Kaiserslautern",
+        "opponentName": "Augsburg",
+        "awayGoals": "2",
+        "awayShots": "15",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Kaiserslautern",
+        "opponentName": "Dortmund",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Kaiserslautern",
+        "opponentName": "Nurnberg",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      }
+    ],
+    "homeFullTime": "undefinedAAAAADAADD",
+    "awayFullTime": "undefinedHAHHDHHDDH",
+    "totalGoals": 13,
+    "totalShots": 234,
+    "totalShotsTarget": 85,
+    "totalTeamCorners": 74
+  },
+  {
+    "name": "St Pauli",
+    "totalHomeGoals": 14,
+    "totalHomeShots": 144,
+    "totalHomeShotsTarget": 50,
+    "totalHomeTeamCorners": 60,
+    "totalAwayGoals": 8,
+    "totalAwayShots": 100,
+    "totalAwayShotsTarget": 33,
+    "totalAwayTeamCorners": 32,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "St Pauli",
+        "opponentName": "Bayern Munich",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "St Pauli",
+        "opponentName": "Werder Bremen",
+        "homeGoals": "1",
+        "homeShots": "5",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "St Pauli",
+        "opponentName": "Schalke 04",
+        "homeGoals": "0",
+        "homeShots": "17",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "St Pauli",
+        "opponentName": "Stuttgart",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "St Pauli",
+        "opponentName": "Hannover",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "St Pauli",
+        "opponentName": "M'gladbach",
+        "homeGoals": "3",
+        "homeShots": "23",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "St Pauli",
+        "opponentName": "FC Koln",
+        "homeGoals": "3",
+        "homeShots": "30",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "St Pauli",
+        "opponentName": "Freiburg",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "St Pauli",
+        "opponentName": "Mainz",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "St Pauli",
+        "opponentName": "Kaiserslautern",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "2"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "St Pauli",
+        "opponentName": "Mainz",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "St Pauli",
+        "opponentName": "Kaiserslautern",
+        "awayGoals": "0",
+        "awayShots": "15",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "St Pauli",
+        "opponentName": "Wolfsburg",
+        "awayGoals": "2",
+        "awayShots": "19",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "St Pauli",
+        "opponentName": "Leverkusen",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "St Pauli",
+        "opponentName": "Ein Frankfurt",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "St Pauli",
+        "opponentName": "Nurnberg",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "St Pauli",
+        "opponentName": "Dortmund",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "St Pauli",
+        "opponentName": "Hamburg",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "St Pauli",
+        "opponentName": "Hoffenheim",
+        "awayGoals": "2",
+        "awayShots": "14",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "St Pauli",
+        "opponentName": "Bayern Munich",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedAAAAAHHDAH",
+    "awayFullTime": "undefinedHHDHHHHADH",
+    "totalGoals": 22,
+    "totalShots": 244,
+    "totalShotsTarget": 83,
+    "totalTeamCorners": 92
+  },
+  {
+    "name": "Bochum",
+    "totalHomeGoals": 9,
+    "totalHomeShots": 115,
+    "totalHomeShotsTarget": 29,
+    "totalHomeTeamCorners": 43,
+    "totalAwayGoals": 11,
+    "totalAwayShots": 103,
+    "totalAwayShotsTarget": 36,
+    "totalAwayTeamCorners": 39,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Bochum",
+        "opponentName": "Hannover",
+        "homeGoals": "0",
+        "homeShots": "18",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Bochum",
+        "opponentName": "Stuttgart",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Bochum",
+        "opponentName": "Hamburg",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Bochum",
+        "opponentName": "Ein Frankfurt",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Bochum",
+        "opponentName": "Dortmund",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Bochum",
+        "opponentName": "Nurnberg",
+        "homeGoals": "0",
+        "homeShots": "13",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Bochum",
+        "opponentName": "Hoffenheim",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Bochum",
+        "opponentName": "Leverkusen",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Bochum",
+        "opponentName": "Schalke 04",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Bochum",
+        "opponentName": "Bayern Munich",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Bochum",
+        "opponentName": "Bayern Munich",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Bochum",
+        "opponentName": "FC Koln",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Bochum",
+        "opponentName": "Freiburg",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Bochum",
+        "opponentName": "Werder Bremen",
+        "awayGoals": "2",
+        "awayShots": "15",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Bochum",
+        "opponentName": "Wolfsburg",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Bochum",
+        "opponentName": "Mainz",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Bochum",
+        "opponentName": "Hertha",
+        "awayGoals": "0",
+        "awayShots": "17",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Bochum",
+        "opponentName": "M'gladbach",
+        "awayGoals": "2",
+        "awayShots": "5",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Bochum",
+        "opponentName": "Hannover",
+        "awayGoals": "3",
+        "awayShots": "16",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Bochum",
+        "opponentName": "Stuttgart",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      }
+    ],
+    "homeFullTime": "undefinedAAAAADHDDA",
+    "awayFullTime": "undefinedHHDHHDDAAD",
+    "totalGoals": 20,
+    "totalShots": 218,
+    "totalShotsTarget": 65,
+    "totalTeamCorners": 82
+  }
+]

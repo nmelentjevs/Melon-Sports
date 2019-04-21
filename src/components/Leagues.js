@@ -79,7 +79,7 @@ class Leagues extends Component {
     } else {
       e.target.classList.add('active');
     }
-    if (e.target.tagName === 'LI' || e.target.tagName === 'h5') {
+    if (e.target.tagName === 'LI') {
       e.target.classList.add('active');
       const sport_key = e.target.getAttribute('param');
       prevState === sport_key

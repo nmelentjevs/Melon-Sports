@@ -1,0 +1,6591 @@
+[
+  {
+    "name": "Watford",
+    "totalHomeGoals": 13,
+    "totalHomeShots": 103,
+    "totalHomeShotsTarget": 44,
+    "totalHomeTeamCorners": 41,
+    "totalAwayGoals": 17,
+    "totalAwayShots": 106,
+    "totalAwayShotsTarget": 33,
+    "totalAwayTeamCorners": 37,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Watford",
+        "opponentName": "Arsenal",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Watford",
+        "opponentName": "Fulham",
+        "homeGoals": "4",
+        "homeShots": "15",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Watford",
+        "opponentName": "Leicester",
+        "homeGoals": "2",
+        "homeShots": "6",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Watford",
+        "opponentName": "Everton",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Watford",
+        "opponentName": "Burnley",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Watford",
+        "opponentName": "Newcastle",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Watford",
+        "opponentName": "Chelsea",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Watford",
+        "opponentName": "Cardiff",
+        "homeGoals": "3",
+        "homeShots": "17",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Watford",
+        "opponentName": "Man City",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Watford",
+        "opponentName": "Liverpool",
+        "homeGoals": "0",
+        "homeShots": "5",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "5"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Watford",
+        "opponentName": "Man United",
+        "awayGoals": "1",
+        "awayShots": "20",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Watford",
+        "opponentName": "Man City",
+        "awayGoals": "1",
+        "awayShots": "2",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Watford",
+        "opponentName": "Liverpool",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Watford",
+        "opponentName": "Cardiff",
+        "awayGoals": "5",
+        "awayShots": "12",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Watford",
+        "opponentName": "Brighton",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Watford",
+        "opponentName": "Tottenham",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Watford",
+        "opponentName": "Crystal Palace",
+        "awayGoals": "2",
+        "awayShots": "16",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Watford",
+        "opponentName": "Bournemouth",
+        "awayGoals": "3",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Watford",
+        "opponentName": "West Ham",
+        "awayGoals": "2",
+        "awayShots": "11",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Watford",
+        "opponentName": "Everton",
+        "awayGoals": "2",
+        "awayShots": "15",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      }
+    ],
+    "homeFullTime": "undefinedAHHHDDAHAA",
+    "awayFullTime": "undefinedHHHADHADAD",
+    "totalGoals": 30,
+    "totalShots": 209,
+    "totalShotsTarget": 77,
+    "totalTeamCorners": 78
+  },
+  {
+    "name": "Liverpool",
+    "totalHomeGoals": 33,
+    "totalHomeShots": 187,
+    "totalHomeShotsTarget": 75,
+    "totalHomeTeamCorners": 83,
+    "totalAwayGoals": 17,
+    "totalAwayShots": 121,
+    "totalAwayShotsTarget": 51,
+    "totalAwayTeamCorners": 67,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Liverpool",
+        "opponentName": "Chelsea",
+        "homeGoals": "2",
+        "homeShots": "15",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Liverpool",
+        "opponentName": "Tottenham",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Liverpool",
+        "opponentName": "Burnley",
+        "homeGoals": "4",
+        "homeShots": "23",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Liverpool",
+        "opponentName": "Watford",
+        "homeGoals": "5",
+        "homeShots": "19",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Liverpool",
+        "opponentName": "Bournemouth",
+        "homeGoals": "3",
+        "homeShots": "20",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Liverpool",
+        "opponentName": "Leicester",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Liverpool",
+        "opponentName": "Crystal Palace",
+        "homeGoals": "4",
+        "homeShots": "19",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Liverpool",
+        "opponentName": "Arsenal",
+        "homeGoals": "5",
+        "homeShots": "15",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Liverpool",
+        "opponentName": "Newcastle",
+        "homeGoals": "4",
+        "homeShots": "16",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Liverpool",
+        "opponentName": "Man United",
+        "homeGoals": "3",
+        "homeShots": "36",
+        "homeShotsOnTarget": "11",
+        "homeTeamCorners": "13"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Liverpool",
+        "opponentName": "Southampton",
+        "awayGoals": "3",
+        "awayShots": "17",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Liverpool",
+        "opponentName": "Fulham",
+        "awayGoals": "2",
+        "awayShots": "16",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "Liverpool",
+        "opponentName": "Everton",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Liverpool",
+        "opponentName": "Man United",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Liverpool",
+        "opponentName": "West Ham",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Liverpool",
+        "opponentName": "Brighton",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Liverpool",
+        "opponentName": "Man City",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Liverpool",
+        "opponentName": "Wolves",
+        "awayGoals": "2",
+        "awayShots": "15",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "Liverpool",
+        "opponentName": "Bournemouth",
+        "awayGoals": "4",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Liverpool",
+        "opponentName": "Burnley",
+        "awayGoals": "3",
+        "awayShots": "18",
+        "awayShotsOnTarget": "12",
+        "awayTeamCorners": "9"
+      }
+    ],
+    "homeFullTime": "undefinedHHHHHDHHHH",
+    "awayFullTime": "undefinedAADDDAHAAA",
+    "totalGoals": 50,
+    "totalShots": 308,
+    "totalShotsTarget": 126,
+    "totalTeamCorners": 150
+  },
+  {
+    "name": "Crystal Palace",
+    "totalHomeGoals": 10,
+    "totalHomeShots": 158,
+    "totalHomeShotsTarget": 36,
+    "totalHomeTeamCorners": 67,
+    "totalAwayGoals": 20,
+    "totalAwayShots": 97,
+    "totalAwayShotsTarget": 33,
+    "totalAwayTeamCorners": 43,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Crystal Palace",
+        "opponentName": "Man City",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Crystal Palace",
+        "opponentName": "Huddersfield",
+        "homeGoals": "2",
+        "homeShots": "19",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Crystal Palace",
+        "opponentName": "Brighton",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Crystal Palace",
+        "opponentName": "Man United",
+        "homeGoals": "1",
+        "homeShots": "17",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Crystal Palace",
+        "opponentName": "West Ham",
+        "homeGoals": "1",
+        "homeShots": "25",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Crystal Palace",
+        "opponentName": "Fulham",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "Crystal Palace",
+        "opponentName": "Watford",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Crystal Palace",
+        "opponentName": "Chelsea",
+        "homeGoals": "0",
+        "homeShots": "4",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Crystal Palace",
+        "opponentName": "Cardiff",
+        "homeGoals": "0",
+        "homeShots": "31",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "12"
+      },
+      {
+        "teamName": "Crystal Palace",
+        "opponentName": "Leicester",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "4"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Crystal Palace",
+        "opponentName": "Newcastle",
+        "awayGoals": "1",
+        "awayShots": "3",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Crystal Palace",
+        "opponentName": "Tottenham",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Crystal Palace",
+        "opponentName": "Burnley",
+        "awayGoals": "3",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Crystal Palace",
+        "opponentName": "Leicester",
+        "awayGoals": "4",
+        "awayShots": "7",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Crystal Palace",
+        "opponentName": "Southampton",
+        "awayGoals": "1",
+        "awayShots": "15",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Crystal Palace",
+        "opponentName": "Liverpool",
+        "awayGoals": "3",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Crystal Palace",
+        "opponentName": "Wolves",
+        "awayGoals": "2",
+        "awayShots": "17",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "Crystal Palace",
+        "opponentName": "Man City",
+        "awayGoals": "3",
+        "awayShots": "5",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Crystal Palace",
+        "opponentName": "West Ham",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Crystal Palace",
+        "opponentName": "Brighton",
+        "awayGoals": "1",
+        "awayShots": "18",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "5"
+      }
+    ],
+    "homeFullTime": "undefinedAHAADHAADH",
+    "awayFullTime": "undefinedAHAADHAAHH",
+    "totalGoals": 30,
+    "totalShots": 255,
+    "totalShotsTarget": 69,
+    "totalTeamCorners": 110
+  },
+  {
+    "name": "Southampton",
+    "totalHomeGoals": 17,
+    "totalHomeShots": 116,
+    "totalHomeShotsTarget": 46,
+    "totalHomeTeamCorners": 48,
+    "totalAwayGoals": 12,
+    "totalAwayShots": 110,
+    "totalAwayShotsTarget": 38,
+    "totalAwayTeamCorners": 43,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Southampton",
+        "opponentName": "Wolves",
+        "homeGoals": "3",
+        "homeShots": "13",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Southampton",
+        "opponentName": "Liverpool",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Southampton",
+        "opponentName": "Tottenham",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Southampton",
+        "opponentName": "Fulham",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Southampton",
+        "opponentName": "Cardiff",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Southampton",
+        "opponentName": "Crystal Palace",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Southampton",
+        "opponentName": "Everton",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Southampton",
+        "opponentName": "Man City",
+        "homeGoals": "1",
+        "homeShots": "5",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Southampton",
+        "opponentName": "West Ham",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Southampton",
+        "opponentName": "Arsenal",
+        "homeGoals": "3",
+        "homeShots": "12",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "4"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Southampton",
+        "opponentName": "Brighton",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Southampton",
+        "opponentName": "Man United",
+        "awayGoals": "2",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Southampton",
+        "opponentName": "Arsenal",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Southampton",
+        "opponentName": "Burnley",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Southampton",
+        "opponentName": "Leicester",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Southampton",
+        "opponentName": "Chelsea",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Southampton",
+        "opponentName": "Huddersfield",
+        "awayGoals": "3",
+        "awayShots": "13",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Southampton",
+        "opponentName": "Cardiff",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Southampton",
+        "opponentName": "Tottenham",
+        "awayGoals": "1",
+        "awayShots": "18",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Southampton",
+        "opponentName": "Fulham",
+        "awayGoals": "2",
+        "awayShots": "19",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "5"
+      }
+    ],
+    "homeFullTime": "undefinedHAHHADHAAH",
+    "awayFullTime": "undefinedAHHDADAHHH",
+    "totalGoals": 29,
+    "totalShots": 226,
+    "totalShotsTarget": 84,
+    "totalTeamCorners": 91
+  },
+  {
+    "name": "Man United",
+    "totalHomeGoals": 24,
+    "totalHomeShots": 149,
+    "totalHomeShotsTarget": 68,
+    "totalHomeTeamCorners": 58,
+    "totalAwayGoals": 19,
+    "totalAwayShots": 133,
+    "totalAwayShotsTarget": 56,
+    "totalAwayTeamCorners": 39,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Man United",
+        "opponentName": "West Ham",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Man United",
+        "opponentName": "Watford",
+        "homeGoals": "2",
+        "homeShots": "8",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Man United",
+        "opponentName": "Southampton",
+        "homeGoals": "3",
+        "homeShots": "16",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Man United",
+        "opponentName": "Liverpool",
+        "homeGoals": "0",
+        "homeShots": "6",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Man United",
+        "opponentName": "Burnley",
+        "homeGoals": "2",
+        "homeShots": "28",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "Man United",
+        "opponentName": "Brighton",
+        "homeGoals": "2",
+        "homeShots": "20",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Man United",
+        "opponentName": "Bournemouth",
+        "homeGoals": "4",
+        "homeShots": "11",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Man United",
+        "opponentName": "Huddersfield",
+        "homeGoals": "3",
+        "homeShots": "16",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Man United",
+        "opponentName": "Fulham",
+        "homeGoals": "4",
+        "homeShots": "20",
+        "homeShotsOnTarget": "11",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Man United",
+        "opponentName": "Arsenal",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "4"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Man United",
+        "opponentName": "Wolves",
+        "awayGoals": "1",
+        "awayShots": "18",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Man United",
+        "opponentName": "Arsenal",
+        "awayGoals": "0",
+        "awayShots": "14",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Man United",
+        "opponentName": "Crystal Palace",
+        "awayGoals": "3",
+        "awayShots": "13",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Man United",
+        "opponentName": "Fulham",
+        "awayGoals": "3",
+        "awayShots": "15",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Man United",
+        "opponentName": "Leicester",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Man United",
+        "opponentName": "Tottenham",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Man United",
+        "opponentName": "Newcastle",
+        "awayGoals": "2",
+        "awayShots": "16",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Man United",
+        "opponentName": "Cardiff",
+        "awayGoals": "5",
+        "awayShots": "17",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Man United",
+        "opponentName": "Liverpool",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Man United",
+        "opponentName": "Southampton",
+        "awayGoals": "2",
+        "awayShots": "11",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "5"
+      }
+    ],
+    "homeFullTime": "undefinedHHHDDHHHHD",
+    "awayFullTime": "undefinedHHAAAAAAHD",
+    "totalGoals": 43,
+    "totalShots": 282,
+    "totalShotsTarget": 124,
+    "totalTeamCorners": 97
+  },
+  {
+    "name": "Burnley",
+    "totalHomeGoals": 15,
+    "totalHomeShots": 128,
+    "totalHomeShotsTarget": 37,
+    "totalHomeTeamCorners": 51,
+    "totalAwayGoals": 13,
+    "totalAwayShots": 83,
+    "totalAwayShotsTarget": 29,
+    "totalAwayTeamCorners": 39,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Burnley",
+        "opponentName": "Cardiff",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Burnley",
+        "opponentName": "Wolves",
+        "homeGoals": "2",
+        "homeShots": "5",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Burnley",
+        "opponentName": "Leicester",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Burnley",
+        "opponentName": "Crystal Palace",
+        "homeGoals": "1",
+        "homeShots": "18",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Burnley",
+        "opponentName": "Tottenham",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Burnley",
+        "opponentName": "Southampton",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Burnley",
+        "opponentName": "Fulham",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Burnley",
+        "opponentName": "West Ham",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Burnley",
+        "opponentName": "Everton",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Burnley",
+        "opponentName": "Brighton",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Burnley",
+        "opponentName": "Bournemouth",
+        "awayGoals": "3",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Burnley",
+        "opponentName": "Liverpool",
+        "awayGoals": "2",
+        "awayShots": "3",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Burnley",
+        "opponentName": "Newcastle",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Burnley",
+        "opponentName": "Brighton",
+        "awayGoals": "3",
+        "awayShots": "9",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Burnley",
+        "opponentName": "Man United",
+        "awayGoals": "2",
+        "awayShots": "6",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Burnley",
+        "opponentName": "Watford",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Burnley",
+        "opponentName": "Huddersfield",
+        "awayGoals": "2",
+        "awayShots": "16",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Burnley",
+        "opponentName": "Arsenal",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Burnley",
+        "opponentName": "Tottenham",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Burnley",
+        "opponentName": "Crystal Palace",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "2"
+      }
+    ],
+    "homeFullTime": "undefinedHHAAHDHHAH",
+    "awayFullTime": "undefinedAHHADDAHHH",
+    "totalGoals": 28,
+    "totalShots": 211,
+    "totalShotsTarget": 66,
+    "totalTeamCorners": 90
+  },
+  {
+    "name": "Brighton",
+    "totalHomeGoals": 8,
+    "totalHomeShots": 117,
+    "totalHomeShotsTarget": 27,
+    "totalHomeTeamCorners": 52,
+    "totalAwayGoals": 11,
+    "totalAwayShots": 102,
+    "totalAwayShotsTarget": 37,
+    "totalAwayTeamCorners": 39,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Brighton",
+        "opponentName": "Bournemouth",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Brighton",
+        "opponentName": "Southampton",
+        "homeGoals": "0",
+        "homeShots": "14",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Brighton",
+        "opponentName": "Huddersfield",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Brighton",
+        "opponentName": "Burnley",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Brighton",
+        "opponentName": "Watford",
+        "homeGoals": "0",
+        "homeShots": "21",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Brighton",
+        "opponentName": "Liverpool",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Brighton",
+        "opponentName": "Everton",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Brighton",
+        "opponentName": "Arsenal",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Brighton",
+        "opponentName": "Chelsea",
+        "homeGoals": "1",
+        "homeShots": "6",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Brighton",
+        "opponentName": "Crystal Palace",
+        "homeGoals": "3",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Brighton",
+        "opponentName": "Chelsea",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Brighton",
+        "opponentName": "Crystal Palace",
+        "awayGoals": "2",
+        "awayShots": "4",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Brighton",
+        "opponentName": "Leicester",
+        "awayGoals": "1",
+        "awayShots": "15",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Brighton",
+        "opponentName": "Fulham",
+        "awayGoals": "2",
+        "awayShots": "15",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Brighton",
+        "opponentName": "Man United",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Brighton",
+        "opponentName": "West Ham",
+        "awayGoals": "2",
+        "awayShots": "13",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Brighton",
+        "opponentName": "Bournemouth",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Brighton",
+        "opponentName": "Burnley",
+        "awayGoals": "0",
+        "awayShots": "14",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Brighton",
+        "opponentName": "Huddersfield",
+        "awayGoals": "2",
+        "awayShots": "14",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Brighton",
+        "opponentName": "Cardiff",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "1"
+      }
+    ],
+    "homeFullTime": "undefinedAAHADAHDAH",
+    "awayFullTime": "undefinedHAHHHDHHAH",
+    "totalGoals": 19,
+    "totalShots": 219,
+    "totalShotsTarget": 64,
+    "totalTeamCorners": 91
+  },
+  {
+    "name": "Tottenham",
+    "totalHomeGoals": 20,
+    "totalHomeShots": 164,
+    "totalHomeShotsTarget": 54,
+    "totalHomeTeamCorners": 56,
+    "totalAwayGoals": 19,
+    "totalAwayShots": 126,
+    "totalAwayShotsTarget": 40,
+    "totalAwayTeamCorners": 51,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Tottenham",
+        "opponentName": "Huddersfield",
+        "homeGoals": "4",
+        "homeShots": "22",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Tottenham",
+        "opponentName": "Crystal Palace",
+        "homeGoals": "2",
+        "homeShots": "26",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Tottenham",
+        "opponentName": "Arsenal",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Tottenham",
+        "opponentName": "Leicester",
+        "homeGoals": "3",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Tottenham",
+        "opponentName": "Newcastle",
+        "homeGoals": "1",
+        "homeShots": "21",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Tottenham",
+        "opponentName": "Watford",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Tottenham",
+        "opponentName": "Man United",
+        "homeGoals": "0",
+        "homeShots": "21",
+        "homeShotsOnTarget": "11",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Tottenham",
+        "opponentName": "Wolves",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Tottenham",
+        "opponentName": "Bournemouth",
+        "homeGoals": "5",
+        "homeShots": "10",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Tottenham",
+        "opponentName": "Burnley",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "8"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Tottenham",
+        "opponentName": "Liverpool",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Tottenham",
+        "opponentName": "Southampton",
+        "awayGoals": "1",
+        "awayShots": "16",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "Tottenham",
+        "opponentName": "Chelsea",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Tottenham",
+        "opponentName": "Burnley",
+        "awayGoals": "1",
+        "awayShots": "17",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Tottenham",
+        "opponentName": "Fulham",
+        "awayGoals": "2",
+        "awayShots": "14",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "Tottenham",
+        "opponentName": "Cardiff",
+        "awayGoals": "3",
+        "awayShots": "13",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Tottenham",
+        "opponentName": "Everton",
+        "awayGoals": "6",
+        "awayShots": "17",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Tottenham",
+        "opponentName": "Leicester",
+        "awayGoals": "2",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Tottenham",
+        "opponentName": "Arsenal",
+        "awayGoals": "2",
+        "awayShots": "11",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Tottenham",
+        "opponentName": "Crystal Palace",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      }
+    ],
+    "homeFullTime": "undefinedHHDHHHAAHH",
+    "awayFullTime": "undefinedHHHHAAAAHA",
+    "totalGoals": 39,
+    "totalShots": 290,
+    "totalShotsTarget": 94,
+    "totalTeamCorners": 107
+  },
+  {
+    "name": "Fulham",
+    "totalHomeGoals": 11,
+    "totalHomeShots": 128,
+    "totalHomeShotsTarget": 44,
+    "totalHomeTeamCorners": 47,
+    "totalAwayGoals": 6,
+    "totalAwayShots": 97,
+    "totalAwayShotsTarget": 37,
+    "totalAwayTeamCorners": 32,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Fulham",
+        "opponentName": "Everton",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Fulham",
+        "opponentName": "Man City",
+        "homeGoals": "0",
+        "homeShots": "5",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "0"
+      },
+      {
+        "teamName": "Fulham",
+        "opponentName": "Liverpool",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Fulham",
+        "opponentName": "Chelsea",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Fulham",
+        "opponentName": "Man United",
+        "homeGoals": "0",
+        "homeShots": "15",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Fulham",
+        "opponentName": "Brighton",
+        "homeGoals": "4",
+        "homeShots": "24",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Fulham",
+        "opponentName": "Tottenham",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Fulham",
+        "opponentName": "Huddersfield",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Fulham",
+        "opponentName": "Wolves",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Fulham",
+        "opponentName": "West Ham",
+        "homeGoals": "0",
+        "homeShots": "16",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Fulham",
+        "opponentName": "Watford",
+        "awayGoals": "1",
+        "awayShots": "17",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Fulham",
+        "opponentName": "Leicester",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Fulham",
+        "opponentName": "Southampton",
+        "awayGoals": "0",
+        "awayShots": "14",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Fulham",
+        "opponentName": "West Ham",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Fulham",
+        "opponentName": "Crystal Palace",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Fulham",
+        "opponentName": "Burnley",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Fulham",
+        "opponentName": "Arsenal",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Fulham",
+        "opponentName": "Newcastle",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Fulham",
+        "opponentName": "Man United",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Fulham",
+        "opponentName": "Chelsea",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      }
+    ],
+    "homeFullTime": "undefinedHAAAAHAHDA",
+    "awayFullTime": "undefinedHHHHHHHDHH",
+    "totalGoals": 17,
+    "totalShots": 225,
+    "totalShotsTarget": 81,
+    "totalTeamCorners": 79
+  },
+  {
+    "name": "Leicester",
+    "totalHomeGoals": 11,
+    "totalHomeShots": 171,
+    "totalHomeShotsTarget": 52,
+    "totalHomeTeamCorners": 62,
+    "totalAwayGoals": 15,
+    "totalAwayShots": 123,
+    "totalAwayShotsTarget": 46,
+    "totalAwayTeamCorners": 54,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Leicester",
+        "opponentName": "Newcastle",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Leicester",
+        "opponentName": "Bournemouth",
+        "homeGoals": "2",
+        "homeShots": "18",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Leicester",
+        "opponentName": "Fulham",
+        "homeGoals": "3",
+        "homeShots": "18",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Leicester",
+        "opponentName": "Brighton",
+        "homeGoals": "2",
+        "homeShots": "19",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Leicester",
+        "opponentName": "Crystal Palace",
+        "homeGoals": "1",
+        "homeShots": "27",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Leicester",
+        "opponentName": "Man United",
+        "homeGoals": "0",
+        "homeShots": "17",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Leicester",
+        "opponentName": "Southampton",
+        "homeGoals": "1",
+        "homeShots": "23",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Leicester",
+        "opponentName": "Cardiff",
+        "homeGoals": "0",
+        "homeShots": "16",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Leicester",
+        "opponentName": "Man City",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Leicester",
+        "opponentName": "Tottenham",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Leicester",
+        "opponentName": "Huddersfield",
+        "awayGoals": "4",
+        "awayShots": "18",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Leicester",
+        "opponentName": "Burnley",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Leicester",
+        "opponentName": "Watford",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Leicester",
+        "opponentName": "Tottenham",
+        "awayGoals": "1",
+        "awayShots": "20",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Leicester",
+        "opponentName": "Liverpool",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Leicester",
+        "opponentName": "Wolves",
+        "awayGoals": "3",
+        "awayShots": "16",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Leicester",
+        "opponentName": "Everton",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Leicester",
+        "opponentName": "Chelsea",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Leicester",
+        "opponentName": "Crystal Palace",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Leicester",
+        "opponentName": "Fulham",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "8"
+      }
+    ],
+    "homeFullTime": "undefinedAHHHAAAAHA",
+    "awayFullTime": "undefinedAAHHDHAAHD",
+    "totalGoals": 26,
+    "totalShots": 294,
+    "totalShotsTarget": 98,
+    "totalTeamCorners": 116
+  },
+  {
+    "name": "Chelsea",
+    "totalHomeGoals": 19,
+    "totalHomeShots": 157,
+    "totalHomeShotsTarget": 56,
+    "totalHomeTeamCorners": 69,
+    "totalAwayGoals": 9,
+    "totalAwayShots": 131,
+    "totalAwayShotsTarget": 41,
+    "totalAwayTeamCorners": 41,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Chelsea",
+        "opponentName": "West Ham",
+        "homeGoals": "2",
+        "homeShots": "16",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Chelsea",
+        "opponentName": "Brighton",
+        "homeGoals": "3",
+        "homeShots": "17",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Chelsea",
+        "opponentName": "Wolves",
+        "homeGoals": "1",
+        "homeShots": "22",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "13"
+      },
+      {
+        "teamName": "Chelsea",
+        "opponentName": "Tottenham",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Chelsea",
+        "opponentName": "Huddersfield",
+        "homeGoals": "5",
+        "homeShots": "23",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "Chelsea",
+        "opponentName": "Newcastle",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Chelsea",
+        "opponentName": "Southampton",
+        "homeGoals": "0",
+        "homeShots": "17",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Chelsea",
+        "opponentName": "Leicester",
+        "homeGoals": "0",
+        "homeShots": "17",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Chelsea",
+        "opponentName": "Man City",
+        "homeGoals": "2",
+        "homeShots": "8",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Chelsea",
+        "opponentName": "Fulham",
+        "homeGoals": "2",
+        "homeShots": "16",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "4"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Chelsea",
+        "opponentName": "Liverpool",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Chelsea",
+        "opponentName": "Cardiff",
+        "awayGoals": "2",
+        "awayShots": "21",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Chelsea",
+        "opponentName": "Everton",
+        "awayGoals": "0",
+        "awayShots": "16",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Chelsea",
+        "opponentName": "Fulham",
+        "awayGoals": "2",
+        "awayShots": "20",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Chelsea",
+        "opponentName": "Man City",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Chelsea",
+        "opponentName": "Bournemouth",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Chelsea",
+        "opponentName": "Arsenal",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Chelsea",
+        "opponentName": "Crystal Palace",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Chelsea",
+        "opponentName": "Watford",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Chelsea",
+        "opponentName": "Brighton",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "1"
+      }
+    ],
+    "homeFullTime": "undefinedHHDHHHDAHH",
+    "awayFullTime": "undefinedHAHAHHHAAA",
+    "totalGoals": 28,
+    "totalShots": 288,
+    "totalShotsTarget": 97,
+    "totalTeamCorners": 110
+  },
+  {
+    "name": "Everton",
+    "totalHomeGoals": 11,
+    "totalHomeShots": 135,
+    "totalHomeShotsTarget": 38,
+    "totalHomeTeamCorners": 56,
+    "totalAwayGoals": 15,
+    "totalAwayShots": 105,
+    "totalAwayShotsTarget": 40,
+    "totalAwayTeamCorners": 45,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Everton",
+        "opponentName": "Arsenal",
+        "homeGoals": "1",
+        "homeShots": "23",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Everton",
+        "opponentName": "Chelsea",
+        "homeGoals": "2",
+        "homeShots": "15",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Everton",
+        "opponentName": "Liverpool",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Everton",
+        "opponentName": "Man City",
+        "homeGoals": "0",
+        "homeShots": "4",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Everton",
+        "opponentName": "Wolves",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Everton",
+        "opponentName": "Bournemouth",
+        "homeGoals": "2",
+        "homeShots": "15",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Everton",
+        "opponentName": "Leicester",
+        "homeGoals": "0",
+        "homeShots": "17",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Everton",
+        "opponentName": "Tottenham",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Everton",
+        "opponentName": "Watford",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Everton",
+        "opponentName": "Newcastle",
+        "homeGoals": "1",
+        "homeShots": "19",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "14"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Everton",
+        "opponentName": "Fulham",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Everton",
+        "opponentName": "West Ham",
+        "awayGoals": "2",
+        "awayShots": "17",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Everton",
+        "opponentName": "Newcastle",
+        "awayGoals": "2",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Everton",
+        "opponentName": "Cardiff",
+        "awayGoals": "3",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Everton",
+        "opponentName": "Watford",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Everton",
+        "opponentName": "Huddersfield",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Everton",
+        "opponentName": "Southampton",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Everton",
+        "opponentName": "Brighton",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Everton",
+        "opponentName": "Burnley",
+        "awayGoals": "5",
+        "awayShots": "13",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Everton",
+        "opponentName": "Man City",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      }
+    ],
+    "homeFullTime": "undefinedHHDAAHAADD",
+    "awayFullTime": "undefinedHAHAHAHHAH",
+    "totalGoals": 26,
+    "totalShots": 240,
+    "totalShotsTarget": 78,
+    "totalTeamCorners": 101
+  },
+  {
+    "name": "Newcastle",
+    "totalHomeGoals": 13,
+    "totalHomeShots": 151,
+    "totalHomeShotsTarget": 46,
+    "totalHomeTeamCorners": 59,
+    "totalAwayGoals": 7,
+    "totalAwayShots": 91,
+    "totalAwayShotsTarget": 28,
+    "totalAwayTeamCorners": 35,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Newcastle",
+        "opponentName": "Crystal Palace",
+        "homeGoals": "0",
+        "homeShots": "18",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Newcastle",
+        "opponentName": "Everton",
+        "homeGoals": "3",
+        "homeShots": "19",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Newcastle",
+        "opponentName": "Burnley",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Newcastle",
+        "opponentName": "Huddersfield",
+        "homeGoals": "2",
+        "homeShots": "29",
+        "homeShotsOnTarget": "12",
+        "homeTeamCorners": "12"
+      },
+      {
+        "teamName": "Newcastle",
+        "opponentName": "Man City",
+        "homeGoals": "2",
+        "homeShots": "6",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Newcastle",
+        "opponentName": "Cardiff",
+        "homeGoals": "3",
+        "homeShots": "16",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Newcastle",
+        "opponentName": "Man United",
+        "homeGoals": "0",
+        "homeShots": "14",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Newcastle",
+        "opponentName": "Fulham",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Newcastle",
+        "opponentName": "Wolves",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Newcastle",
+        "opponentName": "West Ham",
+        "homeGoals": "0",
+        "homeShots": "16",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Newcastle",
+        "opponentName": "Leicester",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Newcastle",
+        "opponentName": "Arsenal",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Newcastle",
+        "opponentName": "Bournemouth",
+        "awayGoals": "2",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Newcastle",
+        "opponentName": "West Ham",
+        "awayGoals": "0",
+        "awayShots": "17",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Newcastle",
+        "opponentName": "Wolves",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Newcastle",
+        "opponentName": "Tottenham",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Newcastle",
+        "opponentName": "Chelsea",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Newcastle",
+        "opponentName": "Watford",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Newcastle",
+        "opponentName": "Liverpool",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Newcastle",
+        "opponentName": "Huddersfield",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "1"
+      }
+    ],
+    "homeFullTime": "undefinedAHHHHHADAA",
+    "awayFullTime": "undefinedAHDHDHHDHA",
+    "totalGoals": 20,
+    "totalShots": 242,
+    "totalShotsTarget": 74,
+    "totalTeamCorners": 94
+  },
+  {
+    "name": "Bournemouth",
+    "totalHomeGoals": 17,
+    "totalHomeShots": 105,
+    "totalHomeShotsTarget": 38,
+    "totalHomeTeamCorners": 43,
+    "totalAwayGoals": 9,
+    "totalAwayShots": 114,
+    "totalAwayShotsTarget": 40,
+    "totalAwayTeamCorners": 44,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Bournemouth",
+        "opponentName": "Burnley",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Bournemouth",
+        "opponentName": "Newcastle",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Bournemouth",
+        "opponentName": "Man City",
+        "homeGoals": "0",
+        "homeShots": "0",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "0"
+      },
+      {
+        "teamName": "Bournemouth",
+        "opponentName": "Wolves",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Bournemouth",
+        "opponentName": "Chelsea",
+        "homeGoals": "4",
+        "homeShots": "12",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Bournemouth",
+        "opponentName": "West Ham",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Bournemouth",
+        "opponentName": "Watford",
+        "homeGoals": "3",
+        "homeShots": "25",
+        "homeShotsOnTarget": "12",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Bournemouth",
+        "opponentName": "Brighton",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Bournemouth",
+        "opponentName": "Liverpool",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Bournemouth",
+        "opponentName": "Huddersfield",
+        "homeGoals": "2",
+        "homeShots": "6",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Bournemouth",
+        "opponentName": "Brighton",
+        "awayGoals": "5",
+        "awayShots": "14",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Bournemouth",
+        "opponentName": "Leicester",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Bournemouth",
+        "opponentName": "Huddersfield",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Bournemouth",
+        "opponentName": "Arsenal",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Bournemouth",
+        "opponentName": "Liverpool",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Bournemouth",
+        "opponentName": "Cardiff",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Bournemouth",
+        "opponentName": "Everton",
+        "awayGoals": "0",
+        "awayShots": "16",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Bournemouth",
+        "opponentName": "Man United",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Bournemouth",
+        "opponentName": "Tottenham",
+        "awayGoals": "0",
+        "awayShots": "14",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Bournemouth",
+        "opponentName": "Wolves",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      }
+    ],
+    "homeFullTime": "undefinedADADHHDHAH",
+    "awayFullTime": "undefinedAHAHHHHHHH",
+    "totalGoals": 26,
+    "totalShots": 219,
+    "totalShotsTarget": 78,
+    "totalTeamCorners": 87
+  },
+  {
+    "name": "Huddersfield",
+    "totalHomeGoals": 6,
+    "totalHomeShots": 110,
+    "totalHomeShotsTarget": 32,
+    "totalHomeTeamCorners": 51,
+    "totalAwayGoals": 4,
+    "totalAwayShots": 90,
+    "totalAwayShotsTarget": 27,
+    "totalAwayTeamCorners": 37,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Huddersfield",
+        "opponentName": "Leicester",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Huddersfield",
+        "opponentName": "Bournemouth",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Huddersfield",
+        "opponentName": "Wolves",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Huddersfield",
+        "opponentName": "Arsenal",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Huddersfield",
+        "opponentName": "Everton",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Huddersfield",
+        "opponentName": "Man City",
+        "homeGoals": "0",
+        "homeShots": "5",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Huddersfield",
+        "opponentName": "Burnley",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Huddersfield",
+        "opponentName": "Southampton",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Huddersfield",
+        "opponentName": "Newcastle",
+        "homeGoals": "0",
+        "homeShots": "15",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Huddersfield",
+        "opponentName": "Brighton",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Huddersfield",
+        "opponentName": "Tottenham",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Huddersfield",
+        "opponentName": "Crystal Palace",
+        "awayGoals": "0",
+        "awayShots": "15",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Huddersfield",
+        "opponentName": "West Ham",
+        "awayGoals": "3",
+        "awayShots": "15",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Huddersfield",
+        "opponentName": "Brighton",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Huddersfield",
+        "opponentName": "Newcastle",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Huddersfield",
+        "opponentName": "Chelsea",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Huddersfield",
+        "opponentName": "Cardiff",
+        "awayGoals": "0",
+        "awayShots": "14",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "Huddersfield",
+        "opponentName": "Fulham",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Huddersfield",
+        "opponentName": "Man United",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Huddersfield",
+        "opponentName": "Arsenal",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "1"
+      }
+    ],
+    "homeFullTime": "undefinedAAHAAAAAAA",
+    "awayFullTime": "undefinedHHHHHHDHHH",
+    "totalGoals": 10,
+    "totalShots": 200,
+    "totalShotsTarget": 59,
+    "totalTeamCorners": 88
+  },
+  {
+    "name": "Man City",
+    "totalHomeGoals": 28,
+    "totalHomeShots": 181,
+    "totalHomeShotsTarget": 77,
+    "totalHomeTeamCorners": 75,
+    "totalAwayGoals": 18,
+    "totalAwayShots": 160,
+    "totalAwayShotsTarget": 53,
+    "totalAwayTeamCorners": 91,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Man City",
+        "opponentName": "Cardiff",
+        "homeGoals": "2",
+        "homeShots": "27",
+        "homeShotsOnTarget": "11",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Man City",
+        "opponentName": "Watford",
+        "homeGoals": "3",
+        "homeShots": "19",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Man City",
+        "opponentName": "West Ham",
+        "homeGoals": "1",
+        "homeShots": "20",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "12"
+      },
+      {
+        "teamName": "Man City",
+        "opponentName": "Chelsea",
+        "homeGoals": "6",
+        "homeShots": "15",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Man City",
+        "opponentName": "Arsenal",
+        "homeGoals": "3",
+        "homeShots": "19",
+        "homeShotsOnTarget": "12",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Man City",
+        "opponentName": "Wolves",
+        "homeGoals": "3",
+        "homeShots": "24",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "12"
+      },
+      {
+        "teamName": "Man City",
+        "opponentName": "Liverpool",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Man City",
+        "opponentName": "Crystal Palace",
+        "homeGoals": "2",
+        "homeShots": "19",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "13"
+      },
+      {
+        "teamName": "Man City",
+        "opponentName": "Everton",
+        "homeGoals": "3",
+        "homeShots": "13",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Man City",
+        "opponentName": "Bournemouth",
+        "homeGoals": "3",
+        "homeShots": "16",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "8"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Man City",
+        "opponentName": "Crystal Palace",
+        "awayGoals": "3",
+        "awayShots": "20",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Man City",
+        "opponentName": "Fulham",
+        "awayGoals": "2",
+        "awayShots": "24",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "11"
+      },
+      {
+        "teamName": "Man City",
+        "opponentName": "Bournemouth",
+        "awayGoals": "1",
+        "awayShots": "23",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "14"
+      },
+      {
+        "teamName": "Man City",
+        "opponentName": "Everton",
+        "awayGoals": "2",
+        "awayShots": "15",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Man City",
+        "opponentName": "Newcastle",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Man City",
+        "opponentName": "Huddersfield",
+        "awayGoals": "3",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Man City",
+        "opponentName": "Southampton",
+        "awayGoals": "3",
+        "awayShots": "14",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Man City",
+        "opponentName": "Leicester",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Man City",
+        "opponentName": "Chelsea",
+        "awayGoals": "0",
+        "awayShots": "14",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "13"
+      },
+      {
+        "teamName": "Man City",
+        "opponentName": "Watford",
+        "awayGoals": "2",
+        "awayShots": "15",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "11"
+      }
+    ],
+    "homeFullTime": "undefinedHHHHHHHAHH",
+    "awayFullTime": "undefinedAAAAHAAHHA",
+    "totalGoals": 46,
+    "totalShots": 341,
+    "totalShotsTarget": 130,
+    "totalTeamCorners": 166
+  },
+  {
+    "name": "Wolves",
+    "totalHomeGoals": 16,
+    "totalHomeShots": 123,
+    "totalHomeShotsTarget": 44,
+    "totalHomeTeamCorners": 46,
+    "totalAwayGoals": 12,
+    "totalAwayShots": 93,
+    "totalAwayShotsTarget": 25,
+    "totalAwayTeamCorners": 42,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Wolves",
+        "opponentName": "Man United",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Wolves",
+        "opponentName": "Cardiff",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Wolves",
+        "opponentName": "Newcastle",
+        "homeGoals": "1",
+        "homeShots": "22",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "13"
+      },
+      {
+        "teamName": "Wolves",
+        "opponentName": "West Ham",
+        "homeGoals": "3",
+        "homeShots": "20",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Wolves",
+        "opponentName": "Leicester",
+        "homeGoals": "4",
+        "homeShots": "12",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Wolves",
+        "opponentName": "Crystal Palace",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Wolves",
+        "opponentName": "Liverpool",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Wolves",
+        "opponentName": "Bournemouth",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Wolves",
+        "opponentName": "Chelsea",
+        "homeGoals": "2",
+        "homeShots": "6",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Wolves",
+        "opponentName": "Huddersfield",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Wolves",
+        "opponentName": "Southampton",
+        "awayGoals": "1",
+        "awayShots": "17",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Wolves",
+        "opponentName": "Burnley",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Wolves",
+        "opponentName": "Chelsea",
+        "awayGoals": "1",
+        "awayShots": "2",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Wolves",
+        "opponentName": "Huddersfield",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Wolves",
+        "opponentName": "Bournemouth",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Wolves",
+        "opponentName": "Everton",
+        "awayGoals": "3",
+        "awayShots": "8",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Wolves",
+        "opponentName": "Man City",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Wolves",
+        "opponentName": "Tottenham",
+        "awayGoals": "3",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Wolves",
+        "opponentName": "Fulham",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Wolves",
+        "opponentName": "Newcastle",
+        "awayGoals": "2",
+        "awayShots": "13",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "6"
+      }
+    ],
+    "homeFullTime": "undefinedHHDHHAAHHA",
+    "awayFullTime": "undefinedHHDHDAHADA",
+    "totalGoals": 28,
+    "totalShots": 216,
+    "totalShotsTarget": 69,
+    "totalTeamCorners": 88
+  },
+  {
+    "name": "Arsenal",
+    "totalHomeGoals": 27,
+    "totalHomeShots": 139,
+    "totalHomeShotsTarget": 50,
+    "totalHomeTeamCorners": 59,
+    "totalAwayGoals": 11,
+    "totalAwayShots": 96,
+    "totalAwayShotsTarget": 34,
+    "totalAwayTeamCorners": 40,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Arsenal",
+        "opponentName": "Newcastle",
+        "homeGoals": "2",
+        "homeShots": "7",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Arsenal",
+        "opponentName": "Man United",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Arsenal",
+        "opponentName": "Bournemouth",
+        "homeGoals": "5",
+        "homeShots": "16",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Arsenal",
+        "opponentName": "Southampton",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Arsenal",
+        "opponentName": "Cardiff",
+        "homeGoals": "2",
+        "homeShots": "15",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Arsenal",
+        "opponentName": "Chelsea",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Arsenal",
+        "opponentName": "Fulham",
+        "homeGoals": "4",
+        "homeShots": "16",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Arsenal",
+        "opponentName": "Burnley",
+        "homeGoals": "3",
+        "homeShots": "10",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Arsenal",
+        "opponentName": "Huddersfield",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Arsenal",
+        "opponentName": "Tottenham",
+        "homeGoals": "4",
+        "homeShots": "22",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "8"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Arsenal",
+        "opponentName": "Watford",
+        "awayGoals": "1",
+        "awayShots": "19",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Arsenal",
+        "opponentName": "Everton",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Arsenal",
+        "opponentName": "Tottenham",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Arsenal",
+        "opponentName": "Huddersfield",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Arsenal",
+        "opponentName": "Man City",
+        "awayGoals": "1",
+        "awayShots": "4",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Arsenal",
+        "opponentName": "West Ham",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Arsenal",
+        "opponentName": "Liverpool",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Arsenal",
+        "opponentName": "Brighton",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Arsenal",
+        "opponentName": "Southampton",
+        "awayGoals": "2",
+        "awayShots": "13",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Arsenal",
+        "opponentName": "Man United",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedHHHHHHHHHH",
+    "awayFullTime": "undefinedAHDAHHHDHD",
+    "totalGoals": 38,
+    "totalShots": 235,
+    "totalShotsTarget": 84,
+    "totalTeamCorners": 99
+  },
+  {
+    "name": "Cardiff",
+    "totalHomeGoals": 10,
+    "totalHomeShots": 105,
+    "totalHomeShotsTarget": 34,
+    "totalHomeTeamCorners": 47,
+    "totalAwayGoals": 7,
+    "totalAwayShots": 104,
+    "totalAwayShotsTarget": 28,
+    "totalAwayTeamCorners": 44,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Cardiff",
+        "opponentName": "Chelsea",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Cardiff",
+        "opponentName": "West Ham",
+        "homeGoals": "2",
+        "homeShots": "16",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Cardiff",
+        "opponentName": "Everton",
+        "homeGoals": "0",
+        "homeShots": "6",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Cardiff",
+        "opponentName": "Watford",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Cardiff",
+        "opponentName": "Bournemouth",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Cardiff",
+        "opponentName": "Huddersfield",
+        "homeGoals": "0",
+        "homeShots": "3",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Cardiff",
+        "opponentName": "Tottenham",
+        "homeGoals": "0",
+        "homeShots": "6",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Cardiff",
+        "opponentName": "Man United",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Cardiff",
+        "opponentName": "Southampton",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Cardiff",
+        "opponentName": "Wolves",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "7"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Cardiff",
+        "opponentName": "Burnley",
+        "awayGoals": "0",
+        "awayShots": "14",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Cardiff",
+        "opponentName": "Man City",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Cardiff",
+        "opponentName": "Wolves",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Cardiff",
+        "opponentName": "Southampton",
+        "awayGoals": "2",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Cardiff",
+        "opponentName": "Arsenal",
+        "awayGoals": "1",
+        "awayShots": "19",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Cardiff",
+        "opponentName": "Newcastle",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "Cardiff",
+        "opponentName": "Leicester",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Cardiff",
+        "opponentName": "Crystal Palace",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Cardiff",
+        "opponentName": "Watford",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Cardiff",
+        "opponentName": "West Ham",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedAHAAHDAAHH",
+    "awayFullTime": "undefinedHHHAHHADHH",
+    "totalGoals": 17,
+    "totalShots": 209,
+    "totalShotsTarget": 62,
+    "totalTeamCorners": 91
+  },
+  {
+    "name": "West Ham",
+    "totalHomeGoals": 19,
+    "totalHomeShots": 135,
+    "totalHomeShotsTarget": 52,
+    "totalHomeTeamCorners": 57,
+    "totalAwayGoals": 6,
+    "totalAwayShots": 90,
+    "totalAwayShotsTarget": 26,
+    "totalAwayTeamCorners": 44,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "West Ham",
+        "opponentName": "Everton",
+        "homeGoals": "0",
+        "homeShots": "3",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "West Ham",
+        "opponentName": "Huddersfield",
+        "homeGoals": "4",
+        "homeShots": "16",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "West Ham",
+        "opponentName": "Newcastle",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "West Ham",
+        "opponentName": "Fulham",
+        "homeGoals": "3",
+        "homeShots": "21",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "12"
+      },
+      {
+        "teamName": "West Ham",
+        "opponentName": "Liverpool",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "West Ham",
+        "opponentName": "Arsenal",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "West Ham",
+        "opponentName": "Brighton",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "West Ham",
+        "opponentName": "Watford",
+        "homeGoals": "0",
+        "homeShots": "18",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "West Ham",
+        "opponentName": "Crystal Palace",
+        "homeGoals": "3",
+        "homeShots": "13",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "West Ham",
+        "opponentName": "Cardiff",
+        "homeGoals": "3",
+        "homeShots": "17",
+        "homeShotsOnTarget": "11",
+        "homeTeamCorners": "10"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "West Ham",
+        "opponentName": "Man United",
+        "awayGoals": "1",
+        "awayShots": "18",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "11"
+      },
+      {
+        "teamName": "West Ham",
+        "opponentName": "Chelsea",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "West Ham",
+        "opponentName": "Cardiff",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "West Ham",
+        "opponentName": "Man City",
+        "awayGoals": "0",
+        "awayShots": "2",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "West Ham",
+        "opponentName": "Crystal Palace",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "West Ham",
+        "opponentName": "Wolves",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "West Ham",
+        "opponentName": "Bournemouth",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "West Ham",
+        "opponentName": "Burnley",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "West Ham",
+        "opponentName": "Southampton",
+        "awayGoals": "2",
+        "awayShots": "16",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "West Ham",
+        "opponentName": "Fulham",
+        "awayGoals": "2",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedAHHHDHDAHH",
+    "awayFullTime": "undefinedHHHHDHHHAA",
+    "totalGoals": 25,
+    "totalShots": 225,
+    "totalShotsTarget": 78,
+    "totalTeamCorners": 101
+  },
+  {
+    "name": "Swansea",
+    "totalHomeGoals": 12,
+    "totalHomeShots": 115,
+    "totalHomeShotsTarget": 45,
+    "totalHomeTeamCorners": 48,
+    "totalAwayGoals": 6,
+    "totalAwayShots": 64,
+    "totalAwayShotsTarget": 22,
+    "totalAwayTeamCorners": 34,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Swansea",
+        "opponentName": "Stoke",
+        "homeGoals": "1",
+        "homeShots": "26",
+        "homeShotsOnTarget": "11",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Swansea",
+        "opponentName": "Southampton",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Swansea",
+        "opponentName": "Chelsea",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Swansea",
+        "opponentName": "Everton",
+        "homeGoals": "1",
+        "homeShots": "17",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Swansea",
+        "opponentName": "West Ham",
+        "homeGoals": "4",
+        "homeShots": "9",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Swansea",
+        "opponentName": "Burnley",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Swansea",
+        "opponentName": "Arsenal",
+        "homeGoals": "3",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Swansea",
+        "opponentName": "Liverpool",
+        "homeGoals": "1",
+        "homeShots": "3",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Swansea",
+        "opponentName": "Tottenham",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Swansea",
+        "opponentName": "Crystal Palace",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Swansea",
+        "opponentName": "Bournemouth",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Swansea",
+        "opponentName": "Man City",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Swansea",
+        "opponentName": "West Brom",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Swansea",
+        "opponentName": "Man United",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Swansea",
+        "opponentName": "Huddersfield",
+        "awayGoals": "0",
+        "awayShots": "0",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Swansea",
+        "opponentName": "Brighton",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Swansea",
+        "opponentName": "Leicester",
+        "awayGoals": "1",
+        "awayShots": "3",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Swansea",
+        "opponentName": "Newcastle",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Swansea",
+        "opponentName": "Watford",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Swansea",
+        "opponentName": "Liverpool",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      }
+    ],
+    "homeFullTime": "undefinedAAADHHHHAD",
+    "awayFullTime": "undefinedHHDHDHDDAH",
+    "totalGoals": 18,
+    "totalShots": 179,
+    "totalShotsTarget": 67,
+    "totalTeamCorners": 82
+  },
+  {
+    "name": "Stoke",
+    "totalHomeGoals": 10,
+    "totalHomeShots": 94,
+    "totalHomeShotsTarget": 35,
+    "totalHomeTeamCorners": 37,
+    "totalAwayGoals": 6,
+    "totalAwayShots": 90,
+    "totalAwayShotsTarget": 37,
+    "totalAwayTeamCorners": 20,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Stoke",
+        "opponentName": "Crystal Palace",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Stoke",
+        "opponentName": "Burnley",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Stoke",
+        "opponentName": "Tottenham",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Stoke",
+        "opponentName": "Everton",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Stoke",
+        "opponentName": "Man City",
+        "homeGoals": "0",
+        "homeShots": "3",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Stoke",
+        "opponentName": "Brighton",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Stoke",
+        "opponentName": "Watford",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Stoke",
+        "opponentName": "Huddersfield",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Stoke",
+        "opponentName": "Newcastle",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Stoke",
+        "opponentName": "West Brom",
+        "homeGoals": "3",
+        "homeShots": "9",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "1"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Stoke",
+        "opponentName": "Swansea",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Stoke",
+        "opponentName": "Liverpool",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Stoke",
+        "opponentName": "West Ham",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Stoke",
+        "opponentName": "Arsenal",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Stoke",
+        "opponentName": "Southampton",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Stoke",
+        "opponentName": "Leicester",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Stoke",
+        "opponentName": "Bournemouth",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Stoke",
+        "opponentName": "Man United",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Stoke",
+        "opponentName": "Chelsea",
+        "awayGoals": "0",
+        "awayShots": "1",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Stoke",
+        "opponentName": "Huddersfield",
+        "awayGoals": "1",
+        "awayShots": "15",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "5"
+      }
+    ],
+    "homeFullTime": "undefinedADAAADDHAH",
+    "awayFullTime": "undefinedADDHDDHHHD",
+    "totalGoals": 16,
+    "totalShots": 184,
+    "totalShotsTarget": 72,
+    "totalTeamCorners": 57
+  },
+  {
+    "name": "West Brom",
+    "totalHomeGoals": 12,
+    "totalHomeShots": 116,
+    "totalHomeShotsTarget": 31,
+    "totalHomeTeamCorners": 60,
+    "totalAwayGoals": 6,
+    "totalAwayShots": 99,
+    "totalAwayShotsTarget": 32,
+    "totalAwayTeamCorners": 41,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "West Brom",
+        "opponentName": "Tottenham",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "West Brom",
+        "opponentName": "Liverpool",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "West Brom",
+        "opponentName": "Swansea",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "West Brom",
+        "opponentName": "Burnley",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "West Brom",
+        "opponentName": "Leicester",
+        "homeGoals": "1",
+        "homeShots": "6",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "West Brom",
+        "opponentName": "Huddersfield",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "West Brom",
+        "opponentName": "Southampton",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "West Brom",
+        "opponentName": "Brighton",
+        "homeGoals": "2",
+        "homeShots": "15",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "West Brom",
+        "opponentName": "Arsenal",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "West Brom",
+        "opponentName": "Everton",
+        "homeGoals": "0",
+        "homeShots": "17",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "10"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "West Brom",
+        "opponentName": "Crystal Palace",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "West Brom",
+        "opponentName": "Newcastle",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "West Brom",
+        "opponentName": "Man United",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "West Brom",
+        "opponentName": "Bournemouth",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "West Brom",
+        "opponentName": "Watford",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "West Brom",
+        "opponentName": "Chelsea",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "West Brom",
+        "opponentName": "Man City",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "West Brom",
+        "opponentName": "Everton",
+        "awayGoals": "1",
+        "awayShots": "15",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "West Brom",
+        "opponentName": "West Ham",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "West Brom",
+        "opponentName": "Stoke",
+        "awayGoals": "1",
+        "awayShots": "17",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "11"
+      }
+    ],
+    "homeFullTime": "undefinedHDDAAAAHDD",
+    "awayFullTime": "undefinedHAAHHHHDHH",
+    "totalGoals": 18,
+    "totalShots": 215,
+    "totalShotsTarget": 63,
+    "totalTeamCorners": 101
+  },
+  {
+    "name": "Hull",
+    "totalHomeGoals": 19,
+    "totalHomeShots": 122,
+    "totalHomeShotsTarget": 40,
+    "totalHomeTeamCorners": 44,
+    "totalAwayGoals": 4,
+    "totalAwayShots": 95,
+    "totalAwayShotsTarget": 25,
+    "totalAwayTeamCorners": 60,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Hull",
+        "opponentName": "Tottenham",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Hull",
+        "opponentName": "Sunderland",
+        "homeGoals": "0",
+        "homeShots": "16",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Hull",
+        "opponentName": "Watford",
+        "homeGoals": "2",
+        "homeShots": "8",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Hull",
+        "opponentName": "Middlesbrough",
+        "homeGoals": "4",
+        "homeShots": "17",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Hull",
+        "opponentName": "West Ham",
+        "homeGoals": "2",
+        "homeShots": "7",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Hull",
+        "opponentName": "Swansea",
+        "homeGoals": "2",
+        "homeShots": "15",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Hull",
+        "opponentName": "Burnley",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Hull",
+        "opponentName": "Liverpool",
+        "homeGoals": "2",
+        "homeShots": "7",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Hull",
+        "opponentName": "Bournemouth",
+        "homeGoals": "3",
+        "homeShots": "14",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Hull",
+        "opponentName": "Everton",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Hull",
+        "opponentName": "Crystal Palace",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Hull",
+        "opponentName": "Southampton",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Hull",
+        "opponentName": "Stoke",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Hull",
+        "opponentName": "Man City",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Hull",
+        "opponentName": "Everton",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Hull",
+        "opponentName": "Leicester",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Hull",
+        "opponentName": "Arsenal",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Hull",
+        "opponentName": "Man United",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Hull",
+        "opponentName": "Chelsea",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Hull",
+        "opponentName": "West Brom",
+        "awayGoals": "1",
+        "awayShots": "17",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "9"
+      }
+    ],
+    "homeFullTime": "undefinedAAHHHHDHHD",
+    "awayFullTime": "undefinedHDHHHHHDHH",
+    "totalGoals": 23,
+    "totalShots": 217,
+    "totalShotsTarget": 65,
+    "totalTeamCorners": 104
+  },
+  {
+    "name": "Sunderland",
+    "totalHomeGoals": 5,
+    "totalHomeShots": 111,
+    "totalHomeShotsTarget": 35,
+    "totalHomeTeamCorners": 50,
+    "totalAwayGoals": 8,
+    "totalAwayShots": 101,
+    "totalAwayShotsTarget": 34,
+    "totalAwayTeamCorners": 41,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Sunderland",
+        "opponentName": "Swansea",
+        "homeGoals": "0",
+        "homeShots": "13",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Sunderland",
+        "opponentName": "Bournemouth",
+        "homeGoals": "0",
+        "homeShots": "17",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Sunderland",
+        "opponentName": "West Ham",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Sunderland",
+        "opponentName": "Man United",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Sunderland",
+        "opponentName": "Burnley",
+        "homeGoals": "0",
+        "homeShots": "14",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Sunderland",
+        "opponentName": "Man City",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Sunderland",
+        "opponentName": "Southampton",
+        "homeGoals": "0",
+        "homeShots": "6",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Sunderland",
+        "opponentName": "Tottenham",
+        "homeGoals": "0",
+        "homeShots": "3",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Sunderland",
+        "opponentName": "Stoke",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Sunderland",
+        "opponentName": "Liverpool",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "2"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Sunderland",
+        "opponentName": "Chelsea",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Sunderland",
+        "opponentName": "Arsenal",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Sunderland",
+        "opponentName": "Hull",
+        "awayGoals": "2",
+        "awayShots": "12",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Sunderland",
+        "opponentName": "Middlesbrough",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Sunderland",
+        "opponentName": "Leicester",
+        "awayGoals": "0",
+        "awayShots": "15",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Sunderland",
+        "opponentName": "Watford",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Sunderland",
+        "opponentName": "Everton",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Sunderland",
+        "opponentName": "Crystal Palace",
+        "awayGoals": "4",
+        "awayShots": "10",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Sunderland",
+        "opponentName": "West Brom",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Sunderland",
+        "opponentName": "Burnley",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      }
+    ],
+    "homeFullTime": "undefinedAADADAADAD",
+    "awayFullTime": "undefinedHHAHHHHAHH",
+    "totalGoals": 13,
+    "totalShots": 212,
+    "totalShotsTarget": 69,
+    "totalTeamCorners": 91
+  },
+  {
+    "name": "Middlesbrough",
+    "totalHomeGoals": 8,
+    "totalHomeShots": 109,
+    "totalHomeShotsTarget": 33,
+    "totalHomeTeamCorners": 45,
+    "totalAwayGoals": 3,
+    "totalAwayShots": 77,
+    "totalAwayShotsTarget": 20,
+    "totalAwayTeamCorners": 22,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Middlesbrough",
+        "opponentName": "Southampton",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Middlesbrough",
+        "opponentName": "Man City",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Middlesbrough",
+        "opponentName": "Sunderland",
+        "homeGoals": "1",
+        "homeShots": "6",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Middlesbrough",
+        "opponentName": "Arsenal",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Middlesbrough",
+        "opponentName": "Burnley",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Middlesbrough",
+        "opponentName": "Man United",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Middlesbrough",
+        "opponentName": "Everton",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Middlesbrough",
+        "opponentName": "West Brom",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Middlesbrough",
+        "opponentName": "West Ham",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Middlesbrough",
+        "opponentName": "Leicester",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "2"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Middlesbrough",
+        "opponentName": "Liverpool",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Middlesbrough",
+        "opponentName": "Chelsea",
+        "awayGoals": "0",
+        "awayShots": "2",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Middlesbrough",
+        "opponentName": "Bournemouth",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Middlesbrough",
+        "opponentName": "Hull",
+        "awayGoals": "2",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Middlesbrough",
+        "opponentName": "Swansea",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Middlesbrough",
+        "opponentName": "Stoke",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Middlesbrough",
+        "opponentName": "Crystal Palace",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Middlesbrough",
+        "opponentName": "Tottenham",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Middlesbrough",
+        "opponentName": "Watford",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Middlesbrough",
+        "opponentName": "Man United",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      }
+    ],
+    "homeFullTime": "undefinedADHADADDAD",
+    "awayFullTime": "undefinedHHHHDHHHDH",
+    "totalGoals": 11,
+    "totalShots": 186,
+    "totalShotsTarget": 53,
+    "totalTeamCorners": 67
+  },
+  {
+    "name": "Norwich",
+    "totalHomeGoals": 15,
+    "totalHomeShots": 115,
+    "totalHomeShotsTarget": 33,
+    "totalHomeTeamCorners": 49,
+    "totalAwayGoals": 2,
+    "totalAwayShots": 97,
+    "totalAwayShotsTarget": 26,
+    "totalAwayTeamCorners": 46,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Norwich",
+        "opponentName": "Watford",
+        "homeGoals": "4",
+        "homeShots": "18",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Norwich",
+        "opponentName": "Man United",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Norwich",
+        "opponentName": "Sunderland",
+        "homeGoals": "0",
+        "homeShots": "19",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "14"
+      },
+      {
+        "teamName": "Norwich",
+        "opponentName": "Newcastle",
+        "homeGoals": "3",
+        "homeShots": "13",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Norwich",
+        "opponentName": "Man City",
+        "homeGoals": "0",
+        "homeShots": "5",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Norwich",
+        "opponentName": "Chelsea",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Norwich",
+        "opponentName": "West Ham",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Norwich",
+        "opponentName": "Tottenham",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Norwich",
+        "opponentName": "Liverpool",
+        "homeGoals": "4",
+        "homeShots": "6",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Norwich",
+        "opponentName": "Southampton",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "4"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Norwich",
+        "opponentName": "Everton",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "11"
+      },
+      {
+        "teamName": "Norwich",
+        "opponentName": "Arsenal",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Norwich",
+        "opponentName": "Crystal Palace",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Norwich",
+        "opponentName": "West Brom",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Norwich",
+        "opponentName": "Swansea",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Norwich",
+        "opponentName": "Leicester",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Norwich",
+        "opponentName": "Aston Villa",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "11"
+      },
+      {
+        "teamName": "Norwich",
+        "opponentName": "Bournemouth",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Norwich",
+        "opponentName": "Stoke",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Norwich",
+        "opponentName": "Tottenham",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedHAAHDADAAH",
+    "awayFullTime": "undefinedHHHAHHHHHH",
+    "totalGoals": 17,
+    "totalShots": 212,
+    "totalShotsTarget": 59,
+    "totalTeamCorners": 95
+  },
+  {
+    "name": "Aston Villa",
+    "totalHomeGoals": 8,
+    "totalHomeShots": 107,
+    "totalHomeShotsTarget": 31,
+    "totalHomeTeamCorners": 44,
+    "totalAwayGoals": 4,
+    "totalAwayShots": 73,
+    "totalAwayShotsTarget": 21,
+    "totalAwayTeamCorners": 39,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Aston Villa",
+        "opponentName": "Newcastle",
+        "homeGoals": "0",
+        "homeShots": "2",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "0"
+      },
+      {
+        "teamName": "Aston Villa",
+        "opponentName": "Southampton",
+        "homeGoals": "2",
+        "homeShots": "16",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Aston Villa",
+        "opponentName": "Bournemouth",
+        "homeGoals": "1",
+        "homeShots": "6",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Aston Villa",
+        "opponentName": "Chelsea",
+        "homeGoals": "0",
+        "homeShots": "15",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Aston Villa",
+        "opponentName": "Tottenham",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Aston Villa",
+        "opponentName": "Everton",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Aston Villa",
+        "opponentName": "Liverpool",
+        "homeGoals": "0",
+        "homeShots": "6",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "0"
+      },
+      {
+        "teamName": "Aston Villa",
+        "opponentName": "Norwich",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Aston Villa",
+        "opponentName": "Leicester",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Aston Villa",
+        "opponentName": "Crystal Palace",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "9"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Aston Villa",
+        "opponentName": "Arsenal",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Aston Villa",
+        "opponentName": "Watford",
+        "awayGoals": "2",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Aston Villa",
+        "opponentName": "Man United",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Aston Villa",
+        "opponentName": "Swansea",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Aston Villa",
+        "opponentName": "Man City",
+        "awayGoals": "0",
+        "awayShots": "2",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Aston Villa",
+        "opponentName": "Stoke",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Aston Villa",
+        "opponentName": "West Ham",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Aston Villa",
+        "opponentName": "West Brom",
+        "awayGoals": "0",
+        "awayShots": "15",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Aston Villa",
+        "opponentName": "Sunderland",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Aston Villa",
+        "opponentName": "Norwich",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      }
+    ],
+    "homeFullTime": "undefinedDAAAAAAHDH",
+    "awayFullTime": "undefinedHHHHHHHDHH",
+    "totalGoals": 12,
+    "totalShots": 180,
+    "totalShotsTarget": 52,
+    "totalTeamCorners": 83
+  },
+  {
+    "name": "QPR",
+    "totalHomeGoals": 6,
+    "totalHomeShots": 147,
+    "totalHomeShotsTarget": 41,
+    "totalHomeTeamCorners": 38,
+    "totalAwayGoals": 15,
+    "totalAwayShots": 129,
+    "totalAwayShotsTarget": 41,
+    "totalAwayTeamCorners": 48,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "QPR",
+        "opponentName": "Newcastle",
+        "homeGoals": "2",
+        "homeShots": "8",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "QPR",
+        "opponentName": "West Ham",
+        "homeGoals": "0",
+        "homeShots": "18",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "QPR",
+        "opponentName": "Chelsea",
+        "homeGoals": "0",
+        "homeShots": "15",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "QPR",
+        "opponentName": "Everton",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "QPR",
+        "opponentName": "Tottenham",
+        "homeGoals": "1",
+        "homeShots": "17",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "QPR",
+        "opponentName": "Arsenal",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "QPR",
+        "opponentName": "Southampton",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "QPR",
+        "opponentName": "Man United",
+        "homeGoals": "0",
+        "homeShots": "18",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "QPR",
+        "opponentName": "Swansea",
+        "homeGoals": "1",
+        "homeShots": "24",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "QPR",
+        "opponentName": "Crystal Palace",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "9"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "QPR",
+        "opponentName": "Leicester",
+        "awayGoals": "1",
+        "awayShots": "18",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "QPR",
+        "opponentName": "Man City",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "QPR",
+        "opponentName": "Liverpool",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "QPR",
+        "opponentName": "Aston Villa",
+        "awayGoals": "3",
+        "awayShots": "11",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "QPR",
+        "opponentName": "West Brom",
+        "awayGoals": "4",
+        "awayShots": "12",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "QPR",
+        "opponentName": "Crystal Palace",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "QPR",
+        "opponentName": "Hull",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "QPR",
+        "opponentName": "Sunderland",
+        "awayGoals": "2",
+        "awayShots": "19",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "QPR",
+        "opponentName": "Stoke",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "QPR",
+        "opponentName": "Burnley",
+        "awayGoals": "1",
+        "awayShots": "17",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "6"
+      }
+    ],
+    "homeFullTime": "undefinedHDAAAAAADD",
+    "awayFullTime": "undefinedHHHDAHHAHH",
+    "totalGoals": 21,
+    "totalShots": 276,
+    "totalShotsTarget": 82,
+    "totalTeamCorners": 86
+  },
+
+  {
+    "name": "Wigan",
+    "totalHomeGoals": 13,
+    "totalHomeShots": 118,
+    "totalHomeShotsTarget": 70,
+    "totalHomeTeamCorners": 54,
+    "totalAwayGoals": 15,
+    "totalAwayShots": 127,
+    "totalAwayShotsTarget": 75,
+    "totalAwayTeamCorners": 56,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Wigan",
+        "opponentName": "Aston Villa",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Wigan",
+        "opponentName": "Swansea",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "11",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Wigan",
+        "opponentName": "Tottenham",
+        "homeGoals": "2",
+        "homeShots": "6",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Wigan",
+        "opponentName": "Norwich",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Wigan",
+        "opponentName": "Newcastle",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Wigan",
+        "opponentName": "Liverpool",
+        "homeGoals": "0",
+        "homeShots": "15",
+        "homeShotsOnTarget": "11",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Wigan",
+        "opponentName": "Southampton",
+        "homeGoals": "2",
+        "homeShots": "5",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Wigan",
+        "opponentName": "Sunderland",
+        "homeGoals": "2",
+        "homeShots": "20",
+        "homeShotsOnTarget": "11",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Wigan",
+        "opponentName": "Man United",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Wigan",
+        "opponentName": "Arsenal",
+        "homeGoals": "0",
+        "homeShots": "13",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Wigan",
+        "opponentName": "Arsenal",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Wigan",
+        "opponentName": "West Brom",
+        "awayGoals": "3",
+        "awayShots": "13",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Wigan",
+        "opponentName": "West Ham",
+        "awayGoals": "0",
+        "awayShots": "18",
+        "awayShotsOnTarget": "10",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Wigan",
+        "opponentName": "Man City",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Wigan",
+        "opponentName": "QPR",
+        "awayGoals": "1",
+        "awayShots": "16",
+        "awayShotsOnTarget": "10",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "Wigan",
+        "opponentName": "Reading",
+        "awayGoals": "3",
+        "awayShots": "14",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Wigan",
+        "opponentName": "Chelsea",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "10",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Wigan",
+        "opponentName": "Stoke",
+        "awayGoals": "2",
+        "awayShots": "11",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Wigan",
+        "opponentName": "Fulham",
+        "awayGoals": "1",
+        "awayShots": "15",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Wigan",
+        "opponentName": "Aston Villa",
+        "awayGoals": "3",
+        "awayShots": "9",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "3"
+      }
+    ],
+    "homeFullTime": "undefinedDADHHADAAA",
+    "awayFullTime": "undefinedHAHHDAHDDA",
+    "totalGoals": 28,
+    "totalShots": 245,
+    "totalShotsTarget": 145,
+    "totalTeamCorners": 110
+  },
+  {
+    "name": "Reading",
+    "totalHomeGoals": 9,
+    "totalHomeShots": 80,
+    "totalHomeShotsTarget": 43,
+    "totalHomeTeamCorners": 49,
+    "totalAwayGoals": 13,
+    "totalAwayShots": 96,
+    "totalAwayShotsTarget": 46,
+    "totalAwayTeamCorners": 43,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Reading",
+        "opponentName": "Man City",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Reading",
+        "opponentName": "QPR",
+        "homeGoals": "0",
+        "homeShots": "13",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Reading",
+        "opponentName": "Liverpool",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Reading",
+        "opponentName": "Southampton",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Reading",
+        "opponentName": "Aston Villa",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Reading",
+        "opponentName": "Wigan",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Reading",
+        "opponentName": "Sunderland",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Reading",
+        "opponentName": "Chelsea",
+        "homeGoals": "2",
+        "homeShots": "5",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "0"
+      },
+      {
+        "teamName": "Reading",
+        "opponentName": "West Brom",
+        "homeGoals": "3",
+        "homeShots": "7",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Reading",
+        "opponentName": "West Ham",
+        "homeGoals": "1",
+        "homeShots": "3",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Reading",
+        "opponentName": "West Ham",
+        "awayGoals": "2",
+        "awayShots": "17",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Reading",
+        "opponentName": "Fulham",
+        "awayGoals": "4",
+        "awayShots": "20",
+        "awayShotsOnTarget": "13",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Reading",
+        "opponentName": "Norwich",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Reading",
+        "opponentName": "Arsenal",
+        "awayGoals": "1",
+        "awayShots": "4",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Reading",
+        "opponentName": "Man United",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Reading",
+        "opponentName": "Everton",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "Reading",
+        "opponentName": "Stoke",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Reading",
+        "opponentName": "Newcastle",
+        "awayGoals": "2",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Reading",
+        "opponentName": "Tottenham",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Reading",
+        "opponentName": "Man City",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      }
+    ],
+    "homeFullTime": "undefinedADDAAAHDHH",
+    "awayFullTime": "undefinedHAHHHHHAHH",
+    "totalGoals": 22,
+    "totalShots": 176,
+    "totalShotsTarget": 89,
+    "totalTeamCorners": 92
+  },
+  {
+    "name": "Blackburn",
+    "totalHomeGoals": 14,
+    "totalHomeShots": 132,
+    "totalHomeShotsTarget": 76,
+    "totalHomeTeamCorners": 58,
+    "totalAwayGoals": 9,
+    "totalAwayShots": 82,
+    "totalAwayShotsTarget": 47,
+    "totalAwayTeamCorners": 33,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Blackburn",
+        "opponentName": "Wigan",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Blackburn",
+        "opponentName": "Norwich",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Blackburn",
+        "opponentName": "Liverpool",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Blackburn",
+        "opponentName": "Man United",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Blackburn",
+        "opponentName": "Sunderland",
+        "homeGoals": "2",
+        "homeShots": "16",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Blackburn",
+        "opponentName": "Aston Villa",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Blackburn",
+        "opponentName": "QPR",
+        "homeGoals": "3",
+        "homeShots": "7",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Blackburn",
+        "opponentName": "Newcastle",
+        "homeGoals": "0",
+        "homeShots": "23",
+        "homeShotsOnTarget": "12",
+        "homeTeamCorners": "14"
+      },
+      {
+        "teamName": "Blackburn",
+        "opponentName": "Fulham",
+        "homeGoals": "3",
+        "homeShots": "15",
+        "homeShotsOnTarget": "11",
+        "homeTeamCorners": "0"
+      },
+      {
+        "teamName": "Blackburn",
+        "opponentName": "Stoke",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "8"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Blackburn",
+        "opponentName": "Chelsea",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Blackburn",
+        "opponentName": "Tottenham",
+        "awayGoals": "0",
+        "awayShots": "0",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Blackburn",
+        "opponentName": "Swansea",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Blackburn",
+        "opponentName": "West Brom",
+        "awayGoals": "0",
+        "awayShots": "16",
+        "awayShotsOnTarget": "10",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Blackburn",
+        "opponentName": "Bolton",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Blackburn",
+        "opponentName": "Wolves",
+        "awayGoals": "2",
+        "awayShots": "12",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Blackburn",
+        "opponentName": "Man City",
+        "awayGoals": "0",
+        "awayShots": "2",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Blackburn",
+        "opponentName": "Arsenal",
+        "awayGoals": "1",
+        "awayShots": "3",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Blackburn",
+        "opponentName": "Everton",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Blackburn",
+        "opponentName": "Man United",
+        "awayGoals": "3",
+        "awayShots": "10",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      }
+    ],
+    "homeFullTime": "undefinedAHAAHDHAHA",
+    "awayFullTime": "undefinedHHHHHAHHDA",
+    "totalGoals": 23,
+    "totalShots": 214,
+    "totalShotsTarget": 123,
+    "totalTeamCorners": 91
+  },
+  {
+    "name": "Bolton",
+    "totalHomeGoals": 13,
+    "totalHomeShots": 123,
+    "totalHomeShotsTarget": 72,
+    "totalHomeTeamCorners": 63,
+    "totalAwayGoals": 11,
+    "totalAwayShots": 125,
+    "totalAwayShotsTarget": 69,
+    "totalAwayTeamCorners": 60,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Bolton",
+        "opponentName": "West Brom",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Bolton",
+        "opponentName": "Tottenham",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Bolton",
+        "opponentName": "Swansea",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Bolton",
+        "opponentName": "Fulham",
+        "homeGoals": "0",
+        "homeShots": "13",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Bolton",
+        "opponentName": "Blackburn",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "Bolton",
+        "opponentName": "QPR",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Bolton",
+        "opponentName": "Wigan",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Bolton",
+        "opponentName": "Arsenal",
+        "homeGoals": "0",
+        "homeShots": "14",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Bolton",
+        "opponentName": "Liverpool",
+        "homeGoals": "3",
+        "homeShots": "15",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Bolton",
+        "opponentName": "Wolves",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "3"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Bolton",
+        "opponentName": "Stoke",
+        "awayGoals": "2",
+        "awayShots": "20",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Bolton",
+        "opponentName": "Sunderland",
+        "awayGoals": "2",
+        "awayShots": "16",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Bolton",
+        "opponentName": "Aston Villa",
+        "awayGoals": "2",
+        "awayShots": "12",
+        "awayShotsOnTarget": "11",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Bolton",
+        "opponentName": "Newcastle",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Bolton",
+        "opponentName": "Wolves",
+        "awayGoals": "3",
+        "awayShots": "19",
+        "awayShotsOnTarget": "11",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Bolton",
+        "opponentName": "Man City",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Bolton",
+        "opponentName": "Chelsea",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Bolton",
+        "opponentName": "Norwich",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Bolton",
+        "opponentName": "Man United",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Bolton",
+        "opponentName": "Everton",
+        "awayGoals": "2",
+        "awayShots": "12",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "10"
+      }
+    ],
+    "homeFullTime": "undefinedDADAHHADHD",
+    "awayFullTime": "undefinedDDAHAHHHHA",
+    "totalGoals": 24,
+    "totalShots": 248,
+    "totalShotsTarget": 141,
+    "totalTeamCorners": 123
+  },
+  {
+    "name": "Birmingham",
+    "totalHomeGoals": 10,
+    "totalHomeShots": 94,
+    "totalHomeShotsTarget": 38,
+    "totalHomeTeamCorners": 46,
+    "totalAwayGoals": 9,
+    "totalAwayShots": 72,
+    "totalAwayShotsTarget": 37,
+    "totalAwayTeamCorners": 35,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Birmingham",
+        "opponentName": "Fulham",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Birmingham",
+        "opponentName": "Wolves",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "0"
+      },
+      {
+        "teamName": "Birmingham",
+        "opponentName": "Sunderland",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Birmingham",
+        "opponentName": "Bolton",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Birmingham",
+        "opponentName": "West Brom",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Birmingham",
+        "opponentName": "Newcastle",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Birmingham",
+        "opponentName": "Stoke",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Birmingham",
+        "opponentName": "Man City",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Birmingham",
+        "opponentName": "Aston Villa",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Birmingham",
+        "opponentName": "Arsenal",
+        "homeGoals": "0",
+        "homeShots": "2",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "4"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Birmingham",
+        "opponentName": "Tottenham",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Birmingham",
+        "opponentName": "Newcastle",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Birmingham",
+        "opponentName": "Liverpool",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Birmingham",
+        "opponentName": "Chelsea",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Birmingham",
+        "opponentName": "Blackburn",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Birmingham",
+        "opponentName": "Wigan",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Birmingham",
+        "opponentName": "Everton",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Birmingham",
+        "opponentName": "West Ham",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Birmingham",
+        "opponentName": "Man United",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Birmingham",
+        "opponentName": "Blackpool",
+        "awayGoals": "2",
+        "awayShots": "11",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "7"
+      }
+    ],
+    "homeFullTime": "undefinedADHHAAHDDA",
+    "awayFullTime": "undefinedHHHHDHDAHA",
+    "totalGoals": 19,
+    "totalShots": 166,
+    "totalShotsTarget": 75,
+    "totalTeamCorners": 81
+  },
+  {
+    "name": "Blackpool",
+    "totalHomeGoals": 15,
+    "totalHomeShots": 122,
+    "totalHomeShotsTarget": 62,
+    "totalHomeTeamCorners": 48,
+    "totalAwayGoals": 13,
+    "totalAwayShots": 94,
+    "totalAwayShotsTarget": 51,
+    "totalAwayTeamCorners": 47,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Blackpool",
+        "opponentName": "Bolton",
+        "homeGoals": "4",
+        "homeShots": "12",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Blackpool",
+        "opponentName": "Stoke",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Blackpool",
+        "opponentName": "Newcastle",
+        "homeGoals": "1",
+        "homeShots": "18",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Blackpool",
+        "opponentName": "Wigan",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Blackpool",
+        "opponentName": "Arsenal",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Blackpool",
+        "opponentName": "Chelsea",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Blackpool",
+        "opponentName": "Tottenham",
+        "homeGoals": "3",
+        "homeShots": "8",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Blackpool",
+        "opponentName": "Aston Villa",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Blackpool",
+        "opponentName": "West Ham",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Blackpool",
+        "opponentName": "Man United",
+        "homeGoals": "2",
+        "homeShots": "6",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Blackpool",
+        "opponentName": "Man United",
+        "awayGoals": "2",
+        "awayShots": "14",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Blackpool",
+        "opponentName": "Tottenham",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Blackpool",
+        "opponentName": "Fulham",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Blackpool",
+        "opponentName": "Blackburn",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Blackpool",
+        "opponentName": "Wolves",
+        "awayGoals": "0",
+        "awayShots": "2",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Blackpool",
+        "opponentName": "Everton",
+        "awayGoals": "3",
+        "awayShots": "11",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Blackpool",
+        "opponentName": "West Brom",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Blackpool",
+        "opponentName": "Man City",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Blackpool",
+        "opponentName": "Sunderland",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Blackpool",
+        "opponentName": "Stoke",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedHDDAAAHDAA",
+    "awayFullTime": "undefinedHDHDHHHHAA",
+    "totalGoals": 28,
+    "totalShots": 216,
+    "totalShotsTarget": 113,
+    "totalTeamCorners": 95
+  },
+  {
+    "name": "Portsmouth",
+    "totalHomeGoals": 12,
+    "totalHomeShots": 124,
+    "totalHomeShotsTarget": 79,
+    "totalHomeTeamCorners": 55,
+    "totalAwayGoals": 5,
+    "totalAwayShots": 97,
+    "totalAwayShotsTarget": 47,
+    "totalAwayTeamCorners": 35,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Portsmouth",
+        "opponentName": "Wolves",
+        "homeGoals": "3",
+        "homeShots": "12",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Portsmouth",
+        "opponentName": "Aston Villa",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "12",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Portsmouth",
+        "opponentName": "Blackburn",
+        "homeGoals": "0",
+        "homeShots": "6",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Portsmouth",
+        "opponentName": "Chelsea",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Portsmouth",
+        "opponentName": "Hull",
+        "homeGoals": "3",
+        "homeShots": "18",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "Portsmouth",
+        "opponentName": "Birmingham",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Portsmouth",
+        "opponentName": "Stoke",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "12",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Portsmouth",
+        "opponentName": "Sunderland",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Portsmouth",
+        "opponentName": "West Ham",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Portsmouth",
+        "opponentName": "Arsenal",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "2"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Portsmouth",
+        "opponentName": "Everton",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Portsmouth",
+        "opponentName": "Bolton",
+        "awayGoals": "2",
+        "awayShots": "13",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Portsmouth",
+        "opponentName": "Wigan",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Portsmouth",
+        "opponentName": "Tottenham",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Portsmouth",
+        "opponentName": "Liverpool",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Portsmouth",
+        "opponentName": "Burnley",
+        "awayGoals": "2",
+        "awayShots": "13",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Portsmouth",
+        "opponentName": "Man United",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Portsmouth",
+        "opponentName": "Fulham",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Portsmouth",
+        "opponentName": "Man City",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Portsmouth",
+        "opponentName": "West Ham",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedHADAHAADDA",
+    "awayFullTime": "undefinedHDDHHAHHHH",
+    "totalGoals": 17,
+    "totalShots": 221,
+    "totalShotsTarget": 126,
+    "totalTeamCorners": 90
+  }
+]

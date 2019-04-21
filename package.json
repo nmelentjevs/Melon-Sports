@@ -9,6 +9,8 @@
     "axios": "^0.18.0",
     "bootstrap": "^4.3.1",
     "cors-anywhere": "^0.4.1",
+    "csvtojson": "^2.0.8",
+    "data.js": "^0.12.3",
     "moment": "^2.24.0",
     "node-football-data": "^0.1.4",
     "p5": "^0.8.0",

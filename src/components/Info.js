@@ -36,8 +36,9 @@ class Info extends Component {
     };
   }
   render() {
-    let data = require('../jsonData/teamData.json');
-    let matches = require('../jsonData/matchesData.json');
+    console.log('info');
+    let data = require('../jsonData/spTeamDataTest.json');
+    let matches = require('../jsonData/spMatchesDataTest.json');
     let xs, ys;
     let model;
     let labelList = ['H', 'D', 'A'];
@@ -57,7 +58,17 @@ class Info extends Component {
     let dataTenser = [];
     let matchesTenser = [];
     let labels = [];
+    console.log(this.props.info);
     teamDataArr.map(item => {
+      item.homeFullTime = item.homeFullTime.replace('undefined', '');
+      item.awayFullTime = item.awayFullTime.replace('undefined', '');
+
+      item.homeWins = (item.homeFullTime.match(/H/g) || []).length;
+      item.homeDraws = (item.homeFullTime.match(/D/g) || []).length;
+      item.homeLoses = (item.homeFullTime.match(/A/g) || []).length;
+      item.awayWins = (item.awayFullTime.match(/A/g) || []).length;
+      item.awayDraws = (item.awayFullTime.match(/D/g) || []).length;
+      item.awayLoses = (item.awayFullTime.match(/H/g) || []).length;
       let team = [
         item.name,
         parseFloat(item.totalHomeGoals / 40),
@@ -79,33 +90,55 @@ class Info extends Component {
         parseFloat(item.homeLoses / 10),
         parseFloat(item.homeDraws / 10)
       ];
+
       return dataTenser.push(team);
     });
-    const { home, away } = this.props;
+
+    let { home, away } = this.props;
+    const removeSpecial = string => {
+      string = string.replace(/á/g, 'a');
+      string = string.replace(/é/g, 'e');
+      string = string.replace(/í/g, 'i');
+      string = string.replace(/ó/g, 'o');
+      string = string.replace(/ú/g, 'u');
+      return string;
+    };
+
+    home = removeSpecial(home.name);
+    away = removeSpecial(away.name);
+
     let homeTeam = dataTenser.find(team => {
-      if (home.name.includes(team[0])) {
+      console.log(team[0]);
+      console.log(home);
+      if (home.includes(team[0])) {
         return team;
       } else if (
-        home.name.includes(team[0].split(' ')[0]) &&
-        home.name.includes(team[0].split(' ')[1])
+        home.includes(team[0].split(' ')[0]) &&
+        home.includes(team[0].split(' ')[1])
       ) {
         return team;
-      } else if (home.name === 'Wolverhampton Wanderers FC') {
+      } else if (home === 'Wolverhampton Wanderers FC') {
         return team[0] === 'Wolves';
+      } else if (home === 'Athletic Club') {
+        return team[0] === 'Ath Bilbao';
       }
     });
     let awayTeam = dataTenser.find(team => {
-      if (away.name.includes(team[0])) {
+      console.log(team[0]);
+      console.log(away);
+      if (away.includes(team[0])) {
         return team;
       } else if (
-        away.name.includes(team[0].split(' ')[0]) &&
-        away.name.includes(team[0].split(' ')[1])
+        away.includes(team[0].split(' ')[0]) &&
+        away.includes(team[0].split(' ')[1])
       ) {
         return team;
+      } else if (away === 'Wolverhampton Wanderers FC') {
+        return team[0] === 'Wolves';
+      } else if (away === 'Athletic Club') {
+        return team[0] === 'Ath Bilbao';
       }
     });
-
-    console.log(dataTenser);
 
     const homeTeamTenser = homeTeam.filter((item, i) => i !== 0);
     const awayTeamTenser = awayTeam.filter((item, i) => i !== 0);
@@ -125,8 +158,10 @@ class Info extends Component {
     });
     matchesDataArrResults.map(match => {
       matchesDataArrNoRes.push([match.home, match.away]);
-      return labels.push(labelList.indexOf(match.result));
+      labels.push(labelList.indexOf(match.result));
     });
+
+    console.log(matchesDataArrNoRes);
 
     xs = tf.tensor3d(matchesDataArrNoRes);
     let labelsTensor = tf.tensor1d(labels, 'int32');
@@ -227,7 +262,8 @@ class Info extends Component {
           }
         }
       };
-      return await model.fit(xs.reshape([1855, 36]), ys, options);
+
+      return await model.fit(xs.reshape([xs.shape[0], 36]), ys, options);
     };
 
     const StackedAreaChart = () => (

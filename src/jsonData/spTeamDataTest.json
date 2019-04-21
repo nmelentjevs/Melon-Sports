@@ -1,0 +1,6408 @@
+[
+  {
+    "name": "Leganes",
+    "totalHomeGoals": 12,
+    "totalHomeShots": 135,
+    "totalHomeShotsTarget": 39,
+    "totalHomeTeamCorners": 38,
+    "totalAwayGoals": 10,
+    "totalAwayShots": 84,
+    "totalAwayShotsTarget": 29,
+    "totalAwayTeamCorners": 36,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Leganes",
+        "opponentName": "Real Madrid",
+        "homeGoals": "1",
+        "homeShots": "5",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Leganes",
+        "opponentName": "Valladolid",
+        "homeGoals": "1",
+        "homeShots": "18",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Leganes",
+        "opponentName": "Girona",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Leganes",
+        "opponentName": "Levante",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Leganes",
+        "opponentName": "Valencia",
+        "homeGoals": "1",
+        "homeShots": "17",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Leganes",
+        "opponentName": "Betis",
+        "homeGoals": "3",
+        "homeShots": "16",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Leganes",
+        "opponentName": "Eibar",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Leganes",
+        "opponentName": "Huesca",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Leganes",
+        "opponentName": "Sevilla",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Leganes",
+        "opponentName": "Getafe",
+        "homeGoals": "1",
+        "homeShots": "17",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "7"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Leganes",
+        "opponentName": "Alaves",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Leganes",
+        "opponentName": "Getafe",
+        "awayGoals": "2",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Leganes",
+        "opponentName": "Ath Madrid",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Leganes",
+        "opponentName": "Sociedad",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Leganes",
+        "opponentName": "Vallecano",
+        "awayGoals": "2",
+        "awayShots": "13",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Leganes",
+        "opponentName": "Barcelona",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Leganes",
+        "opponentName": "Espanol",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Leganes",
+        "opponentName": "Celta",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Leganes",
+        "opponentName": "Valladolid",
+        "awayGoals": "4",
+        "awayShots": "14",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Leganes",
+        "opponentName": "Girona",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "6"
+      }
+    ],
+    "homeFullTime": "undefinedDHAHDHDHDD",
+    "awayFullTime": "undefinedDAHHAHHDAD",
+    "totalGoals": 22,
+    "totalShots": 219,
+    "totalShotsTarget": 68,
+    "totalTeamCorners": 74
+  },
+  {
+    "name": "Valladolid",
+    "totalHomeGoals": 10,
+    "totalHomeShots": 116,
+    "totalHomeShotsTarget": 40,
+    "totalHomeTeamCorners": 75,
+    "totalAwayGoals": 7,
+    "totalAwayShots": 96,
+    "totalAwayShotsTarget": 28,
+    "totalAwayTeamCorners": 34,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Valladolid",
+        "opponentName": "Getafe",
+        "homeGoals": "2",
+        "homeShots": "8",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Valladolid",
+        "opponentName": "Sevilla",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Valladolid",
+        "opponentName": "Sociedad",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Valladolid",
+        "opponentName": "Real Madrid",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Valladolid",
+        "opponentName": "Betis",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "13"
+      },
+      {
+        "teamName": "Valladolid",
+        "opponentName": "Villarreal",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Valladolid",
+        "opponentName": "Celta",
+        "homeGoals": "2",
+        "homeShots": "19",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Valladolid",
+        "opponentName": "Vallecano",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Valladolid",
+        "opponentName": "Ath Madrid",
+        "homeGoals": "2",
+        "homeShots": "8",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Valladolid",
+        "opponentName": "Leganes",
+        "homeGoals": "2",
+        "homeShots": "20",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Valladolid",
+        "opponentName": "Leganes",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Valladolid",
+        "opponentName": "Eibar",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Valladolid",
+        "opponentName": "Espanol",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Valladolid",
+        "opponentName": "Barcelona",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Valladolid",
+        "opponentName": "Huesca",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Valladolid",
+        "opponentName": "Levante",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Valladolid",
+        "opponentName": "Valencia",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Valladolid",
+        "opponentName": "Ath Bilbao",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Valladolid",
+        "opponentName": "Sociedad",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Valladolid",
+        "opponentName": "Sevilla",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "6"
+      }
+    ],
+    "homeFullTime": "undefinedDADAADHAAA",
+    "awayFullTime": "undefinedHAHHHHDDAH",
+    "totalGoals": 17,
+    "totalShots": 212,
+    "totalShotsTarget": 68,
+    "totalTeamCorners": 109
+  },
+  {
+    "name": "Sociedad",
+    "totalHomeGoals": 13,
+    "totalHomeShots": 138,
+    "totalHomeShotsTarget": 41,
+    "totalHomeTeamCorners": 55,
+    "totalAwayGoals": 11,
+    "totalAwayShots": 100,
+    "totalAwayShotsTarget": 32,
+    "totalAwayTeamCorners": 48,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Sociedad",
+        "opponentName": "Eibar",
+        "homeGoals": "1",
+        "homeShots": "3",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "0"
+      },
+      {
+        "teamName": "Sociedad",
+        "opponentName": "Betis",
+        "homeGoals": "2",
+        "homeShots": "15",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Sociedad",
+        "opponentName": "Levante",
+        "homeGoals": "1",
+        "homeShots": "22",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Sociedad",
+        "opponentName": "Ath Madrid",
+        "homeGoals": "0",
+        "homeShots": "19",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Sociedad",
+        "opponentName": "Leganes",
+        "homeGoals": "3",
+        "homeShots": "15",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Sociedad",
+        "opponentName": "Ath Bilbao",
+        "homeGoals": "2",
+        "homeShots": "6",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Sociedad",
+        "opponentName": "Huesca",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Sociedad",
+        "opponentName": "Espanol",
+        "homeGoals": "3",
+        "homeShots": "9",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Sociedad",
+        "opponentName": "Alaves",
+        "homeGoals": "0",
+        "homeShots": "18",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Sociedad",
+        "opponentName": "Valladolid",
+        "homeGoals": "1",
+        "homeShots": "23",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "11"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Sociedad",
+        "opponentName": "Celta",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Sociedad",
+        "opponentName": "Valladolid",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Sociedad",
+        "opponentName": "Sevilla",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Sociedad",
+        "opponentName": "Girona",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Sociedad",
+        "opponentName": "Valencia",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Sociedad",
+        "opponentName": "Vallecano",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Sociedad",
+        "opponentName": "Real Madrid",
+        "awayGoals": "2",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Sociedad",
+        "opponentName": "Getafe",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Sociedad",
+        "opponentName": "Betis",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Sociedad",
+        "opponentName": "Levante",
+        "awayGoals": "3",
+        "awayShots": "15",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedDHDAHHDHAA",
+    "awayFullTime": "undefinedHDHDDDAHHA",
+    "totalGoals": 24,
+    "totalShots": 238,
+    "totalShotsTarget": 73,
+    "totalTeamCorners": 103
+  },
+  {
+    "name": "Girona",
+    "totalHomeGoals": 7,
+    "totalHomeShots": 122,
+    "totalHomeShotsTarget": 46,
+    "totalHomeTeamCorners": 50,
+    "totalAwayGoals": 13,
+    "totalAwayShots": 96,
+    "totalAwayShotsTarget": 41,
+    "totalAwayTeamCorners": 21,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Girona",
+        "opponentName": "Villarreal",
+        "homeGoals": "0",
+        "homeShots": "14",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Girona",
+        "opponentName": "Espanol",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Girona",
+        "opponentName": "Ath Bilbao",
+        "homeGoals": "1",
+        "homeShots": "6",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Girona",
+        "opponentName": "Valencia",
+        "homeGoals": "2",
+        "homeShots": "18",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Girona",
+        "opponentName": "Sociedad",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Girona",
+        "opponentName": "Huesca",
+        "homeGoals": "0",
+        "homeShots": "13",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "13"
+      },
+      {
+        "teamName": "Girona",
+        "opponentName": "Barcelona",
+        "homeGoals": "0",
+        "homeShots": "13",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Girona",
+        "opponentName": "Alaves",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Girona",
+        "opponentName": "Getafe",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Girona",
+        "opponentName": "Ath Madrid",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Girona",
+        "opponentName": "Ath Madrid",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Girona",
+        "opponentName": "Leganes",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Girona",
+        "opponentName": "Vallecano",
+        "awayGoals": "2",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Girona",
+        "opponentName": "Real Madrid",
+        "awayGoals": "2",
+        "awayShots": "14",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Girona",
+        "opponentName": "Eibar",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Girona",
+        "opponentName": "Betis",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Girona",
+        "opponentName": "Levante",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Girona",
+        "opponentName": "Sevilla",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Girona",
+        "opponentName": "Ath Bilbao",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Girona",
+        "opponentName": "Espanol",
+        "awayGoals": "3",
+        "awayShots": "16",
+        "awayShotsOnTarget": "11",
+        "awayTeamCorners": "3"
+      }
+    ],
+    "homeFullTime": "undefinedAAAADAADDD",
+    "awayFullTime": "undefinedHAAAHHDHHA",
+    "totalGoals": 20,
+    "totalShots": 218,
+    "totalShotsTarget": 87,
+    "totalTeamCorners": 71
+  },
+  {
+    "name": "Ath Bilbao",
+    "totalHomeGoals": 15,
+    "totalHomeShots": 129,
+    "totalHomeShotsTarget": 54,
+    "totalHomeTeamCorners": 56,
+    "totalAwayGoals": 9,
+    "totalAwayShots": 79,
+    "totalAwayShotsTarget": 33,
+    "totalAwayTeamCorners": 31,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Ath Bilbao",
+        "opponentName": "Vallecano",
+        "homeGoals": "3",
+        "homeShots": "15",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Ath Bilbao",
+        "opponentName": "Levante",
+        "homeGoals": "3",
+        "homeShots": "14",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Ath Bilbao",
+        "opponentName": "Ath Madrid",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Ath Bilbao",
+        "opponentName": "Espanol",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Ath Bilbao",
+        "opponentName": "Eibar",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Ath Bilbao",
+        "opponentName": "Barcelona",
+        "homeGoals": "0",
+        "homeShots": "13",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Ath Bilbao",
+        "opponentName": "Betis",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Ath Bilbao",
+        "opponentName": "Sevilla",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Ath Bilbao",
+        "opponentName": "Valladolid",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Ath Bilbao",
+        "opponentName": "Girona",
+        "homeGoals": "1",
+        "homeShots": "25",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "11"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Ath Bilbao",
+        "opponentName": "Getafe",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Ath Bilbao",
+        "opponentName": "Girona",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Ath Bilbao",
+        "opponentName": "Valencia",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Ath Bilbao",
+        "opponentName": "Huesca",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Ath Bilbao",
+        "opponentName": "Sociedad",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Ath Bilbao",
+        "opponentName": "Villarreal",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Ath Bilbao",
+        "opponentName": "Celta",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Ath Bilbao",
+        "opponentName": "Alaves",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Ath Bilbao",
+        "opponentName": "Levante",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Ath Bilbao",
+        "opponentName": "Ath Madrid",
+        "awayGoals": "2",
+        "awayShots": "6",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "2"
+      }
+    ],
+    "homeFullTime": "undefinedHHHDHDHHDH",
+    "awayFullTime": "undefinedHAHAHDADHH",
+    "totalGoals": 24,
+    "totalShots": 208,
+    "totalShotsTarget": 87,
+    "totalTeamCorners": 87
+  },
+  {
+    "name": "Valencia",
+    "totalHomeGoals": 14,
+    "totalHomeShots": 154,
+    "totalHomeShotsTarget": 48,
+    "totalHomeTeamCorners": 72,
+    "totalAwayGoals": 12,
+    "totalAwayShots": 99,
+    "totalAwayShotsTarget": 38,
+    "totalAwayTeamCorners": 34,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Valencia",
+        "opponentName": "Levante",
+        "homeGoals": "3",
+        "homeShots": "23",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Valencia",
+        "opponentName": "Real Madrid",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Valencia",
+        "opponentName": "Getafe",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Valencia",
+        "opponentName": "Ath Bilbao",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Valencia",
+        "opponentName": "Espanol",
+        "homeGoals": "0",
+        "homeShots": "21",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Valencia",
+        "opponentName": "Sociedad",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Valencia",
+        "opponentName": "Villarreal",
+        "homeGoals": "3",
+        "homeShots": "18",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Valencia",
+        "opponentName": "Valladolid",
+        "homeGoals": "1",
+        "homeShots": "17",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Valencia",
+        "opponentName": "Huesca",
+        "homeGoals": "2",
+        "homeShots": "19",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "12"
+      },
+      {
+        "teamName": "Valencia",
+        "opponentName": "Sevilla",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Valencia",
+        "opponentName": "Vallecano",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Valencia",
+        "opponentName": "Sevilla",
+        "awayGoals": "1",
+        "awayShots": "4",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Valencia",
+        "opponentName": "Girona",
+        "awayGoals": "3",
+        "awayShots": "11",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Valencia",
+        "opponentName": "Leganes",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Valencia",
+        "opponentName": "Barcelona",
+        "awayGoals": "2",
+        "awayShots": "14",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Valencia",
+        "opponentName": "Celta",
+        "awayGoals": "2",
+        "awayShots": "13",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Valencia",
+        "opponentName": "Alaves",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Valencia",
+        "opponentName": "Eibar",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Valencia",
+        "opponentName": "Real Madrid",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Valencia",
+        "opponentName": "Getafe",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedHHDHDDHDHD",
+    "awayFullTime": "undefinedHAADDAHDHA",
+    "totalGoals": 26,
+    "totalShots": 253,
+    "totalShotsTarget": 86,
+    "totalTeamCorners": 106
+  },
+  {
+    "name": "Huesca",
+    "totalHomeGoals": 14,
+    "totalHomeShots": 132,
+    "totalHomeShotsTarget": 48,
+    "totalHomeTeamCorners": 60,
+    "totalAwayGoals": 10,
+    "totalAwayShots": 105,
+    "totalAwayShotsTarget": 31,
+    "totalAwayTeamCorners": 33,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Huesca",
+        "opponentName": "Barcelona",
+        "homeGoals": "0",
+        "homeShots": "6",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Huesca",
+        "opponentName": "Celta",
+        "homeGoals": "3",
+        "homeShots": "23",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Huesca",
+        "opponentName": "Alaves",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Huesca",
+        "opponentName": "Sevilla",
+        "homeGoals": "2",
+        "homeShots": "7",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Huesca",
+        "opponentName": "Ath Bilbao",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Huesca",
+        "opponentName": "Valladolid",
+        "homeGoals": "4",
+        "homeShots": "11",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Huesca",
+        "opponentName": "Ath Madrid",
+        "homeGoals": "0",
+        "homeShots": "14",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Huesca",
+        "opponentName": "Betis",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Huesca",
+        "opponentName": "Villarreal",
+        "homeGoals": "2",
+        "homeShots": "30",
+        "homeShotsOnTarget": "13",
+        "homeTeamCorners": "13"
+      },
+      {
+        "teamName": "Huesca",
+        "opponentName": "Real Madrid",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "11"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Huesca",
+        "opponentName": "Levante",
+        "awayGoals": "2",
+        "awayShots": "17",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Huesca",
+        "opponentName": "Real Madrid",
+        "awayGoals": "2",
+        "awayShots": "16",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Huesca",
+        "opponentName": "Getafe",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Huesca",
+        "opponentName": "Espanol",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Huesca",
+        "opponentName": "Girona",
+        "awayGoals": "2",
+        "awayShots": "6",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Huesca",
+        "opponentName": "Sociedad",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Huesca",
+        "opponentName": "Leganes",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Huesca",
+        "opponentName": "Valencia",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Huesca",
+        "opponentName": "Celta",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Huesca",
+        "opponentName": "Alaves",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedDDAHAHAHDA",
+    "awayFullTime": "undefinedDHHDADHHHH",
+    "totalGoals": 24,
+    "totalShots": 237,
+    "totalShotsTarget": 79,
+    "totalTeamCorners": 93
+  },
+  {
+    "name": "Espanol",
+    "totalHomeGoals": 13,
+    "totalHomeShots": 121,
+    "totalHomeShotsTarget": 34,
+    "totalHomeTeamCorners": 48,
+    "totalAwayGoals": 8,
+    "totalAwayShots": 109,
+    "totalAwayShotsTarget": 24,
+    "totalAwayTeamCorners": 31,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Espanol",
+        "opponentName": "Alaves",
+        "homeGoals": "2",
+        "homeShots": "6",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Espanol",
+        "opponentName": "Getafe",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Espanol",
+        "opponentName": "Sevilla",
+        "homeGoals": "0",
+        "homeShots": "13",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Espanol",
+        "opponentName": "Valladolid",
+        "homeGoals": "3",
+        "homeShots": "15",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Espanol",
+        "opponentName": "Huesca",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Espanol",
+        "opponentName": "Vallecano",
+        "homeGoals": "2",
+        "homeShots": "15",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Espanol",
+        "opponentName": "Real Madrid",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Espanol",
+        "opponentName": "Leganes",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Espanol",
+        "opponentName": "Betis",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "0"
+      },
+      {
+        "teamName": "Espanol",
+        "opponentName": "Barcelona",
+        "homeGoals": "0",
+        "homeShots": "15",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "11"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Espanol",
+        "opponentName": "Girona",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Espanol",
+        "opponentName": "Barcelona",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Espanol",
+        "opponentName": "Ath Bilbao",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Espanol",
+        "opponentName": "Valencia",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Espanol",
+        "opponentName": "Villarreal",
+        "awayGoals": "2",
+        "awayShots": "17",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Espanol",
+        "opponentName": "Eibar",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Espanol",
+        "opponentName": "Sociedad",
+        "awayGoals": "2",
+        "awayShots": "21",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Espanol",
+        "opponentName": "Ath Madrid",
+        "awayGoals": "0",
+        "awayShots": "18",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Espanol",
+        "opponentName": "Getafe",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Espanol",
+        "opponentName": "Sevilla",
+        "awayGoals": "1",
+        "awayShots": "15",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "3"
+      }
+    ],
+    "homeFullTime": "undefinedHDAHDHAHAA",
+    "awayFullTime": "undefinedAHDDDHHHHH",
+    "totalGoals": 21,
+    "totalShots": 230,
+    "totalShotsTarget": 58,
+    "totalTeamCorners": 79
+  },
+  {
+    "name": "Sevilla",
+    "totalHomeGoals": 23,
+    "totalHomeShots": 166,
+    "totalHomeShotsTarget": 62,
+    "totalHomeTeamCorners": 62,
+    "totalAwayGoals": 7,
+    "totalAwayShots": 121,
+    "totalAwayShotsTarget": 32,
+    "totalAwayTeamCorners": 62,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Sevilla",
+        "opponentName": "Betis",
+        "homeGoals": "3",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Sevilla",
+        "opponentName": "Alaves",
+        "homeGoals": "2",
+        "homeShots": "18",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "Sevilla",
+        "opponentName": "Valencia",
+        "homeGoals": "0",
+        "homeShots": "17",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Sevilla",
+        "opponentName": "Sociedad",
+        "homeGoals": "5",
+        "homeShots": "22",
+        "homeShotsOnTarget": "11",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Sevilla",
+        "opponentName": "Barcelona",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Sevilla",
+        "opponentName": "Eibar",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Sevilla",
+        "opponentName": "Levante",
+        "homeGoals": "5",
+        "homeShots": "23",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Sevilla",
+        "opponentName": "Ath Madrid",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Sevilla",
+        "opponentName": "Girona",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Sevilla",
+        "opponentName": "Valladolid",
+        "homeGoals": "1",
+        "homeShots": "17",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "8"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Sevilla",
+        "opponentName": "Valladolid",
+        "awayGoals": "2",
+        "awayShots": "16",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Sevilla",
+        "opponentName": "Espanol",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Sevilla",
+        "opponentName": "Huesca",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "12"
+      },
+      {
+        "teamName": "Sevilla",
+        "opponentName": "Villarreal",
+        "awayGoals": "0",
+        "awayShots": "21",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Sevilla",
+        "opponentName": "Celta",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Sevilla",
+        "opponentName": "Real Madrid",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Sevilla",
+        "opponentName": "Ath Bilbao",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Sevilla",
+        "opponentName": "Leganes",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Sevilla",
+        "opponentName": "Valencia",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Sevilla",
+        "opponentName": "Alaves",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      }
+    ],
+    "homeFullTime": "undefinedHHAHADHDHH",
+    "awayFullTime": "undefinedAAHHHHHDDD",
+    "totalGoals": 30,
+    "totalShots": 287,
+    "totalShotsTarget": 94,
+    "totalTeamCorners": 124
+  },
+  {
+    "name": "Ath Madrid",
+    "totalHomeGoals": 16,
+    "totalHomeShots": 119,
+    "totalHomeShotsTarget": 47,
+    "totalHomeTeamCorners": 38,
+    "totalAwayGoals": 15,
+    "totalAwayShots": 112,
+    "totalAwayShotsTarget": 41,
+    "totalAwayTeamCorners": 48,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Ath Madrid",
+        "opponentName": "Celta",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Ath Madrid",
+        "opponentName": "Girona",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Ath Madrid",
+        "opponentName": "Leganes",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Ath Madrid",
+        "opponentName": "Villarreal",
+        "homeGoals": "2",
+        "homeShots": "15",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Ath Madrid",
+        "opponentName": "Real Madrid",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Ath Madrid",
+        "opponentName": "Getafe",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Ath Madrid",
+        "opponentName": "Levante",
+        "homeGoals": "1",
+        "homeShots": "19",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Ath Madrid",
+        "opponentName": "Espanol",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Ath Madrid",
+        "opponentName": "Alaves",
+        "homeGoals": "3",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Ath Madrid",
+        "opponentName": "Barcelona",
+        "homeGoals": "1",
+        "homeShots": "3",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "2"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Ath Madrid",
+        "opponentName": "Barcelona",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Ath Madrid",
+        "opponentName": "Alaves",
+        "awayGoals": "4",
+        "awayShots": "11",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Ath Madrid",
+        "opponentName": "Ath Bilbao",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Ath Madrid",
+        "opponentName": "Sociedad",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Ath Madrid",
+        "opponentName": "Vallecano",
+        "awayGoals": "1",
+        "awayShots": "4",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Ath Madrid",
+        "opponentName": "Betis",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Ath Madrid",
+        "opponentName": "Huesca",
+        "awayGoals": "3",
+        "awayShots": "15",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Ath Madrid",
+        "opponentName": "Sevilla",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Ath Madrid",
+        "opponentName": "Valladolid",
+        "awayGoals": "3",
+        "awayShots": "14",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Ath Madrid",
+        "opponentName": "Girona",
+        "awayGoals": "1",
+        "awayShots": "17",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "9"
+      }
+    ],
+    "homeFullTime": "undefinedHHHHAHHHHD",
+    "awayFullTime": "undefinedHAHAAHADAD",
+    "totalGoals": 31,
+    "totalShots": 231,
+    "totalShotsTarget": 88,
+    "totalTeamCorners": 86
+  },
+  {
+    "name": "Getafe",
+    "totalHomeGoals": 17,
+    "totalHomeShots": 114,
+    "totalHomeShotsTarget": 35,
+    "totalHomeTeamCorners": 46,
+    "totalAwayGoals": 11,
+    "totalAwayShots": 83,
+    "totalAwayShotsTarget": 28,
+    "totalAwayTeamCorners": 34,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Getafe",
+        "opponentName": "Ath Bilbao",
+        "homeGoals": "1",
+        "homeShots": "6",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Getafe",
+        "opponentName": "Leganes",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Getafe",
+        "opponentName": "Huesca",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "13"
+      },
+      {
+        "teamName": "Getafe",
+        "opponentName": "Vallecano",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Getafe",
+        "opponentName": "Celta",
+        "homeGoals": "3",
+        "homeShots": "12",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Getafe",
+        "opponentName": "Alaves",
+        "homeGoals": "4",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Getafe",
+        "opponentName": "Barcelona",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Getafe",
+        "opponentName": "Sociedad",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Getafe",
+        "opponentName": "Espanol",
+        "homeGoals": "3",
+        "homeShots": "14",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Getafe",
+        "opponentName": "Valencia",
+        "homeGoals": "0",
+        "homeShots": "17",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Getafe",
+        "opponentName": "Valladolid",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Getafe",
+        "opponentName": "Espanol",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Getafe",
+        "opponentName": "Valencia",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Getafe",
+        "opponentName": "Betis",
+        "awayGoals": "2",
+        "awayShots": "11",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Getafe",
+        "opponentName": "Eibar",
+        "awayGoals": "2",
+        "awayShots": "7",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Getafe",
+        "opponentName": "Levante",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Getafe",
+        "opponentName": "Ath Madrid",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Getafe",
+        "opponentName": "Villarreal",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Getafe",
+        "opponentName": "Girona",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Getafe",
+        "opponentName": "Leganes",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      }
+    ],
+    "homeFullTime": "undefinedHAHHHHAHHA",
+    "awayFullTime": "undefinedDDDADDHADD",
+    "totalGoals": 28,
+    "totalShots": 197,
+    "totalShotsTarget": 63,
+    "totalTeamCorners": 80
+  },
+  {
+    "name": "Betis",
+    "totalHomeGoals": 14,
+    "totalHomeShots": 101,
+    "totalHomeShotsTarget": 41,
+    "totalHomeTeamCorners": 43,
+    "totalAwayGoals": 12,
+    "totalAwayShots": 93,
+    "totalAwayShotsTarget": 37,
+    "totalAwayTeamCorners": 43,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Betis",
+        "opponentName": "Villarreal",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Betis",
+        "opponentName": "Barcelona",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Betis",
+        "opponentName": "Getafe",
+        "homeGoals": "1",
+        "homeShots": "6",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Betis",
+        "opponentName": "Alaves",
+        "homeGoals": "1",
+        "homeShots": "19",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Betis",
+        "opponentName": "Ath Madrid",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Betis",
+        "opponentName": "Girona",
+        "homeGoals": "3",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Betis",
+        "opponentName": "Real Madrid",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Betis",
+        "opponentName": "Eibar",
+        "homeGoals": "1",
+        "homeShots": "4",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Betis",
+        "opponentName": "Vallecano",
+        "homeGoals": "2",
+        "homeShots": "8",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Betis",
+        "opponentName": "Sociedad",
+        "homeGoals": "1",
+        "homeShots": "6",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Betis",
+        "opponentName": "Sevilla",
+        "awayGoals": "2",
+        "awayShots": "12",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Betis",
+        "opponentName": "Sociedad",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Betis",
+        "opponentName": "Vallecano",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Betis",
+        "opponentName": "Celta",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Betis",
+        "opponentName": "Valladolid",
+        "awayGoals": "2",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Betis",
+        "opponentName": "Leganes",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Betis",
+        "opponentName": "Ath Bilbao",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Betis",
+        "opponentName": "Huesca",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Betis",
+        "opponentName": "Espanol",
+        "awayGoals": "3",
+        "awayShots": "12",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Betis",
+        "opponentName": "Villarreal",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedHAADHHADHH",
+    "awayFullTime": "undefinedHHDAAHHHAH",
+    "totalGoals": 26,
+    "totalShots": 194,
+    "totalShotsTarget": 78,
+    "totalTeamCorners": 86
+  },
+  {
+    "name": "Alaves",
+    "totalHomeGoals": 9,
+    "totalHomeShots": 134,
+    "totalHomeShotsTarget": 32,
+    "totalHomeTeamCorners": 42,
+    "totalAwayGoals": 9,
+    "totalAwayShots": 98,
+    "totalAwayShotsTarget": 26,
+    "totalAwayTeamCorners": 29,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Alaves",
+        "opponentName": "Leganes",
+        "homeGoals": "1",
+        "homeShots": "6",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Alaves",
+        "opponentName": "Ath Madrid",
+        "homeGoals": "0",
+        "homeShots": "14",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Alaves",
+        "opponentName": "Eibar",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Alaves",
+        "opponentName": "Celta",
+        "homeGoals": "0",
+        "homeShots": "17",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Alaves",
+        "opponentName": "Levante",
+        "homeGoals": "2",
+        "homeShots": "16",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Alaves",
+        "opponentName": "Vallecano",
+        "homeGoals": "0",
+        "homeShots": "16",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Alaves",
+        "opponentName": "Valencia",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Alaves",
+        "opponentName": "Ath Bilbao",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Alaves",
+        "opponentName": "Sevilla",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Alaves",
+        "opponentName": "Huesca",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Alaves",
+        "opponentName": "Espanol",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Alaves",
+        "opponentName": "Sevilla",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Alaves",
+        "opponentName": "Huesca",
+        "awayGoals": "3",
+        "awayShots": "12",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Alaves",
+        "opponentName": "Villarreal",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Alaves",
+        "opponentName": "Betis",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Alaves",
+        "opponentName": "Real Madrid",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Alaves",
+        "opponentName": "Getafe",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Alaves",
+        "opponentName": "Girona",
+        "awayGoals": "1",
+        "awayShots": "15",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Alaves",
+        "opponentName": "Sociedad",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Alaves",
+        "opponentName": "Ath Madrid",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      }
+    ],
+    "homeFullTime": "undefinedDADDHAHDDH",
+    "awayFullTime": "undefinedHHAADHHDAH",
+    "totalGoals": 18,
+    "totalShots": 232,
+    "totalShotsTarget": 58,
+    "totalTeamCorners": 71
+  },
+  {
+    "name": "Levante",
+    "totalHomeGoals": 13,
+    "totalHomeShots": 137,
+    "totalHomeShotsTarget": 46,
+    "totalHomeTeamCorners": 66,
+    "totalAwayGoals": 13,
+    "totalAwayShots": 102,
+    "totalAwayShotsTarget": 38,
+    "totalAwayTeamCorners": 52,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Levante",
+        "opponentName": "Huesca",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Levante",
+        "opponentName": "Eibar",
+        "homeGoals": "2",
+        "homeShots": "7",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Levante",
+        "opponentName": "Villarreal",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Levante",
+        "opponentName": "Real Madrid",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Levante",
+        "opponentName": "Getafe",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Levante",
+        "opponentName": "Valladolid",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Levante",
+        "opponentName": "Girona",
+        "homeGoals": "2",
+        "homeShots": "19",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Levante",
+        "opponentName": "Barcelona",
+        "homeGoals": "0",
+        "homeShots": "20",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "15"
+      },
+      {
+        "teamName": "Levante",
+        "opponentName": "Ath Bilbao",
+        "homeGoals": "3",
+        "homeShots": "17",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Levante",
+        "opponentName": "Sociedad",
+        "homeGoals": "1",
+        "homeShots": "17",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Levante",
+        "opponentName": "Valencia",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Levante",
+        "opponentName": "Ath Bilbao",
+        "awayGoals": "2",
+        "awayShots": "11",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Levante",
+        "opponentName": "Sociedad",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Levante",
+        "opponentName": "Leganes",
+        "awayGoals": "0",
+        "awayShots": "15",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Levante",
+        "opponentName": "Celta",
+        "awayGoals": "4",
+        "awayShots": "14",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Levante",
+        "opponentName": "Alaves",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "Levante",
+        "opponentName": "Sevilla",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Levante",
+        "opponentName": "Ath Madrid",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Levante",
+        "opponentName": "Vallecano",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Levante",
+        "opponentName": "Eibar",
+        "awayGoals": "4",
+        "awayShots": "14",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      }
+    ],
+    "homeFullTime": "undefinedDDAADHDAHA",
+    "awayFullTime": "undefinedHHDHAHHHHD",
+    "totalGoals": 26,
+    "totalShots": 239,
+    "totalShotsTarget": 84,
+    "totalTeamCorners": 118
+  },
+  {
+    "name": "Celta",
+    "totalHomeGoals": 14,
+    "totalHomeShots": 128,
+    "totalHomeShotsTarget": 40,
+    "totalHomeTeamCorners": 51,
+    "totalAwayGoals": 10,
+    "totalAwayShots": 97,
+    "totalAwayShotsTarget": 30,
+    "totalAwayTeamCorners": 28,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Celta",
+        "opponentName": "Sociedad",
+        "homeGoals": "3",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Celta",
+        "opponentName": "Villarreal",
+        "homeGoals": "3",
+        "homeShots": "15",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Celta",
+        "opponentName": "Betis",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Celta",
+        "opponentName": "Levante",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Celta",
+        "opponentName": "Sevilla",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Celta",
+        "opponentName": "Valencia",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Celta",
+        "opponentName": "Ath Bilbao",
+        "homeGoals": "1",
+        "homeShots": "17",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Celta",
+        "opponentName": "Leganes",
+        "homeGoals": "0",
+        "homeShots": "15",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Celta",
+        "opponentName": "Huesca",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Celta",
+        "opponentName": "Real Madrid",
+        "homeGoals": "2",
+        "homeShots": "15",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Celta",
+        "opponentName": "Ath Madrid",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Celta",
+        "opponentName": "Huesca",
+        "awayGoals": "3",
+        "awayShots": "11",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Celta",
+        "opponentName": "Real Madrid",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Celta",
+        "opponentName": "Eibar",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Celta",
+        "opponentName": "Alaves",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Celta",
+        "opponentName": "Getafe",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Celta",
+        "opponentName": "Valladolid",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Celta",
+        "opponentName": "Vallecano",
+        "awayGoals": "2",
+        "awayShots": "13",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Celta",
+        "opponentName": "Barcelona",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Celta",
+        "opponentName": "Villarreal",
+        "awayGoals": "3",
+        "awayShots": "14",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "1"
+      }
+    ],
+    "homeFullTime": "undefinedHHAAHAADHA",
+    "awayFullTime": "undefinedHDHHDHHHHA",
+    "totalGoals": 24,
+    "totalShots": 225,
+    "totalShotsTarget": 70,
+    "totalTeamCorners": 79
+  },
+  {
+    "name": "Vallecano",
+    "totalHomeGoals": 15,
+    "totalHomeShots": 131,
+    "totalHomeShotsTarget": 54,
+    "totalHomeTeamCorners": 47,
+    "totalAwayGoals": 9,
+    "totalAwayShots": 98,
+    "totalAwayShotsTarget": 29,
+    "totalAwayTeamCorners": 47,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Vallecano",
+        "opponentName": "Valencia",
+        "homeGoals": "2",
+        "homeShots": "15",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Vallecano",
+        "opponentName": "Betis",
+        "homeGoals": "1",
+        "homeShots": "20",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Vallecano",
+        "opponentName": "Girona",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Vallecano",
+        "opponentName": "Ath Madrid",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Vallecano",
+        "opponentName": "Leganes",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Vallecano",
+        "opponentName": "Sociedad",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Vallecano",
+        "opponentName": "Celta",
+        "homeGoals": "4",
+        "homeShots": "11",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Vallecano",
+        "opponentName": "Levante",
+        "homeGoals": "2",
+        "homeShots": "18",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Vallecano",
+        "opponentName": "Eibar",
+        "homeGoals": "1",
+        "homeShots": "5",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Vallecano",
+        "opponentName": "Villarreal",
+        "homeGoals": "2",
+        "homeShots": "15",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "8"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Vallecano",
+        "opponentName": "Ath Bilbao",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Vallecano",
+        "opponentName": "Eibar",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Vallecano",
+        "opponentName": "Villarreal",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Vallecano",
+        "opponentName": "Barcelona",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Vallecano",
+        "opponentName": "Getafe",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Vallecano",
+        "opponentName": "Espanol",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Vallecano",
+        "opponentName": "Alaves",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Vallecano",
+        "opponentName": "Valladolid",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Vallecano",
+        "opponentName": "Real Madrid",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Vallecano",
+        "opponentName": "Betis",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "9"
+      }
+    ],
+    "homeFullTime": "undefinedHDAAADHHHD",
+    "awayFullTime": "undefinedHHHHHHAAHH",
+    "totalGoals": 24,
+    "totalShots": 229,
+    "totalShotsTarget": 83,
+    "totalTeamCorners": 94
+  },
+  {
+    "name": "Real Madrid",
+    "totalHomeGoals": 16,
+    "totalHomeShots": 182,
+    "totalHomeShotsTarget": 61,
+    "totalHomeTeamCorners": 63,
+    "totalAwayGoals": 20,
+    "totalAwayShots": 131,
+    "totalAwayShotsTarget": 54,
+    "totalAwayTeamCorners": 58,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Real Madrid",
+        "opponentName": "Eibar",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Real Madrid",
+        "opponentName": "Huesca",
+        "homeGoals": "3",
+        "homeShots": "16",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Real Madrid",
+        "opponentName": "Celta",
+        "homeGoals": "2",
+        "homeShots": "22",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Real Madrid",
+        "opponentName": "Barcelona",
+        "homeGoals": "0",
+        "homeShots": "17",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Real Madrid",
+        "opponentName": "Girona",
+        "homeGoals": "1",
+        "homeShots": "19",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Real Madrid",
+        "opponentName": "Alaves",
+        "homeGoals": "3",
+        "homeShots": "22",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Real Madrid",
+        "opponentName": "Sevilla",
+        "homeGoals": "2",
+        "homeShots": "23",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Real Madrid",
+        "opponentName": "Sociedad",
+        "homeGoals": "0",
+        "homeShots": "28",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Real Madrid",
+        "opponentName": "Vallecano",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Real Madrid",
+        "opponentName": "Valencia",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Real Madrid",
+        "opponentName": "Leganes",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Real Madrid",
+        "opponentName": "Valencia",
+        "awayGoals": "1",
+        "awayShots": "15",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Real Madrid",
+        "opponentName": "Valladolid",
+        "awayGoals": "4",
+        "awayShots": "15",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "12"
+      },
+      {
+        "teamName": "Real Madrid",
+        "opponentName": "Levante",
+        "awayGoals": "2",
+        "awayShots": "19",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Real Madrid",
+        "opponentName": "Ath Madrid",
+        "awayGoals": "3",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Real Madrid",
+        "opponentName": "Espanol",
+        "awayGoals": "4",
+        "awayShots": "16",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Real Madrid",
+        "opponentName": "Betis",
+        "awayGoals": "2",
+        "awayShots": "14",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Real Madrid",
+        "opponentName": "Villarreal",
+        "awayGoals": "2",
+        "awayShots": "14",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Real Madrid",
+        "opponentName": "Huesca",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Real Madrid",
+        "opponentName": "Eibar",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedHHHAAHHAHH",
+    "awayFullTime": "undefinedDHAAAAADAH",
+    "totalGoals": 36,
+    "totalShots": 313,
+    "totalShotsTarget": 115,
+    "totalTeamCorners": 121
+  },
+  {
+    "name": "Barcelona",
+    "totalHomeGoals": 23,
+    "totalHomeShots": 153,
+    "totalHomeShotsTarget": 65,
+    "totalHomeTeamCorners": 64,
+    "totalAwayGoals": 26,
+    "totalAwayShots": 138,
+    "totalAwayShotsTarget": 67,
+    "totalAwayTeamCorners": 52,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Barcelona",
+        "opponentName": "Ath Madrid",
+        "homeGoals": "2",
+        "homeShots": "21",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Barcelona",
+        "opponentName": "Espanol",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Barcelona",
+        "opponentName": "Vallecano",
+        "homeGoals": "3",
+        "homeShots": "12",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Barcelona",
+        "opponentName": "Valladolid",
+        "homeGoals": "1",
+        "homeShots": "20",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Barcelona",
+        "opponentName": "Valencia",
+        "homeGoals": "2",
+        "homeShots": "20",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Barcelona",
+        "opponentName": "Leganes",
+        "homeGoals": "3",
+        "homeShots": "15",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Barcelona",
+        "opponentName": "Eibar",
+        "homeGoals": "3",
+        "homeShots": "7",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Barcelona",
+        "opponentName": "Celta",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Barcelona",
+        "opponentName": "Villarreal",
+        "homeGoals": "2",
+        "homeShots": "16",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "Barcelona",
+        "opponentName": "Betis",
+        "homeGoals": "3",
+        "homeShots": "20",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "10"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Barcelona",
+        "opponentName": "Huesca",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Barcelona",
+        "opponentName": "Villarreal",
+        "awayGoals": "4",
+        "awayShots": "15",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Barcelona",
+        "opponentName": "Betis",
+        "awayGoals": "4",
+        "awayShots": "16",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Barcelona",
+        "opponentName": "Real Madrid",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Barcelona",
+        "opponentName": "Sevilla",
+        "awayGoals": "4",
+        "awayShots": "17",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Barcelona",
+        "opponentName": "Ath Bilbao",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Barcelona",
+        "opponentName": "Girona",
+        "awayGoals": "2",
+        "awayShots": "15",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Barcelona",
+        "opponentName": "Getafe",
+        "awayGoals": "2",
+        "awayShots": "12",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Barcelona",
+        "opponentName": "Levante",
+        "awayGoals": "5",
+        "awayShots": "16",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Barcelona",
+        "opponentName": "Espanol",
+        "awayGoals": "4",
+        "awayShots": "17",
+        "awayShotsOnTarget": "9",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedHHHHDHHHHA",
+    "awayFullTime": "undefinedDDAAADAAAA",
+    "totalGoals": 49,
+    "totalShots": 291,
+    "totalShotsTarget": 132,
+    "totalTeamCorners": 116
+  },
+  {
+    "name": "Eibar",
+    "totalHomeGoals": 20,
+    "totalHomeShots": 174,
+    "totalHomeShotsTarget": 60,
+    "totalHomeTeamCorners": 65,
+    "totalAwayGoals": 10,
+    "totalAwayShots": 120,
+    "totalAwayShotsTarget": 28,
+    "totalAwayTeamCorners": 51,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Eibar",
+        "opponentName": "Vallecano",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Eibar",
+        "opponentName": "Valladolid",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Eibar",
+        "opponentName": "Celta",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Eibar",
+        "opponentName": "Getafe",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Eibar",
+        "opponentName": "Girona",
+        "homeGoals": "3",
+        "homeShots": "17",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Eibar",
+        "opponentName": "Espanol",
+        "homeGoals": "3",
+        "homeShots": "16",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Eibar",
+        "opponentName": "Villarreal",
+        "homeGoals": "0",
+        "homeShots": "24",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "13"
+      },
+      {
+        "teamName": "Eibar",
+        "opponentName": "Valencia",
+        "homeGoals": "1",
+        "homeShots": "18",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Eibar",
+        "opponentName": "Levante",
+        "homeGoals": "4",
+        "homeShots": "32",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "12"
+      },
+      {
+        "teamName": "Eibar",
+        "opponentName": "Real Madrid",
+        "homeGoals": "3",
+        "homeShots": "14",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "5"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Eibar",
+        "opponentName": "Sociedad",
+        "awayGoals": "1",
+        "awayShots": "17",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Eibar",
+        "opponentName": "Real Madrid",
+        "awayGoals": "1",
+        "awayShots": "3",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Eibar",
+        "opponentName": "Levante",
+        "awayGoals": "2",
+        "awayShots": "17",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Eibar",
+        "opponentName": "Alaves",
+        "awayGoals": "1",
+        "awayShots": "20",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Eibar",
+        "opponentName": "Ath Bilbao",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Eibar",
+        "opponentName": "Sevilla",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Eibar",
+        "opponentName": "Leganes",
+        "awayGoals": "2",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Eibar",
+        "opponentName": "Barcelona",
+        "awayGoals": "0",
+        "awayShots": "15",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Eibar",
+        "opponentName": "Betis",
+        "awayGoals": "1",
+        "awayShots": "15",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "11"
+      },
+      {
+        "teamName": "Eibar",
+        "opponentName": "Vallecano",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedHAHDHHDDDH",
+    "awayFullTime": "undefinedDHDDHDDHDH",
+    "totalGoals": 30,
+    "totalShots": 294,
+    "totalShotsTarget": 88,
+    "totalTeamCorners": 116
+  },
+  {
+    "name": "Villarreal",
+    "totalHomeGoals": 21,
+    "totalHomeShots": 121,
+    "totalHomeShotsTarget": 48,
+    "totalHomeTeamCorners": 51,
+    "totalAwayGoals": 8,
+    "totalAwayShots": 118,
+    "totalAwayShotsTarget": 42,
+    "totalAwayTeamCorners": 35,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Villarreal",
+        "opponentName": "Barcelona",
+        "homeGoals": "4",
+        "homeShots": "16",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Villarreal",
+        "opponentName": "Vallecano",
+        "homeGoals": "3",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Villarreal",
+        "opponentName": "Alaves",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Villarreal",
+        "opponentName": "Sevilla",
+        "homeGoals": "3",
+        "homeShots": "12",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Villarreal",
+        "opponentName": "Espanol",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Villarreal",
+        "opponentName": "Ath Bilbao",
+        "homeGoals": "1",
+        "homeShots": "3",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Villarreal",
+        "opponentName": "Getafe",
+        "homeGoals": "1",
+        "homeShots": "17",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Villarreal",
+        "opponentName": "Real Madrid",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Villarreal",
+        "opponentName": "Celta",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Villarreal",
+        "opponentName": "Betis",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "5"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Villarreal",
+        "opponentName": "Girona",
+        "awayGoals": "1",
+        "awayShots": "17",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Villarreal",
+        "opponentName": "Betis",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Villarreal",
+        "opponentName": "Celta",
+        "awayGoals": "2",
+        "awayShots": "14",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Villarreal",
+        "opponentName": "Levante",
+        "awayGoals": "2",
+        "awayShots": "13",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Villarreal",
+        "opponentName": "Ath Madrid",
+        "awayGoals": "0",
+        "awayShots": "14",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Villarreal",
+        "opponentName": "Valladolid",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Villarreal",
+        "opponentName": "Valencia",
+        "awayGoals": "0",
+        "awayShots": "14",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Villarreal",
+        "opponentName": "Eibar",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Villarreal",
+        "opponentName": "Huesca",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Villarreal",
+        "opponentName": "Barcelona",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      }
+    ],
+    "homeFullTime": "undefinedDHAHDDADAH",
+    "awayFullTime": "undefinedAHHAHDHDDH",
+    "totalGoals": 29,
+    "totalShots": 239,
+    "totalShotsTarget": 90,
+    "totalTeamCorners": 86
+  },
+  {
+    "name": "Malaga",
+    "totalHomeGoals": 5,
+    "totalHomeShots": 95,
+    "totalHomeShotsTarget": 24,
+    "totalHomeTeamCorners": 46,
+    "totalAwayGoals": 6,
+    "totalAwayShots": 84,
+    "totalAwayShotsTarget": 26,
+    "totalAwayTeamCorners": 33,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Malaga",
+        "opponentName": "Getafe",
+        "homeGoals": "0",
+        "homeShots": "6",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Malaga",
+        "opponentName": "Alaves",
+        "homeGoals": "0",
+        "homeShots": "16",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Malaga",
+        "opponentName": "Sociedad",
+        "homeGoals": "2",
+        "homeShots": "4",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Malaga",
+        "opponentName": "Real Madrid",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Malaga",
+        "opponentName": "Villarreal",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Malaga",
+        "opponentName": "Barcelona",
+        "homeGoals": "0",
+        "homeShots": "6",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Malaga",
+        "opponentName": "Sevilla",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Malaga",
+        "opponentName": "Valencia",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Malaga",
+        "opponentName": "Ath Madrid",
+        "homeGoals": "0",
+        "homeShots": "13",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Malaga",
+        "opponentName": "Girona",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "5"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Malaga",
+        "opponentName": "Espanol",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Malaga",
+        "opponentName": "Betis",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Malaga",
+        "opponentName": "Levante",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Malaga",
+        "opponentName": "La Coruna",
+        "awayGoals": "2",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Malaga",
+        "opponentName": "Celta",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Malaga",
+        "opponentName": "Leganes",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Malaga",
+        "opponentName": "Ath Bilbao",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Malaga",
+        "opponentName": "Las Palmas",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Malaga",
+        "opponentName": "Eibar",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Malaga",
+        "opponentName": "Getafe",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      }
+    ],
+    "homeFullTime": "undefinedAAHAHAAAAD",
+    "awayFullTime": "undefinedHHHHDHHHDH",
+    "totalGoals": 11,
+    "totalShots": 179,
+    "totalShotsTarget": 50,
+    "totalTeamCorners": 79
+  },
+  {
+    "name": "Las Palmas",
+    "totalHomeGoals": 6,
+    "totalHomeShots": 133,
+    "totalHomeShotsTarget": 32,
+    "totalHomeTeamCorners": 50,
+    "totalAwayGoals": 4,
+    "totalAwayShots": 81,
+    "totalAwayShotsTarget": 18,
+    "totalAwayTeamCorners": 45,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Las Palmas",
+        "opponentName": "Girona",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Las Palmas",
+        "opponentName": "Getafe",
+        "homeGoals": "0",
+        "homeShots": "21",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Las Palmas",
+        "opponentName": "Alaves",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Las Palmas",
+        "opponentName": "Sociedad",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Las Palmas",
+        "opponentName": "Real Madrid",
+        "homeGoals": "0",
+        "homeShots": "17",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Las Palmas",
+        "opponentName": "Villarreal",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Las Palmas",
+        "opponentName": "Barcelona",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Las Palmas",
+        "opponentName": "Sevilla",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Las Palmas",
+        "opponentName": "Malaga",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Las Palmas",
+        "opponentName": "Valencia",
+        "homeGoals": "2",
+        "homeShots": "20",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "3"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Las Palmas",
+        "opponentName": "Eibar",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "11"
+      },
+      {
+        "teamName": "Las Palmas",
+        "opponentName": "Espanol",
+        "awayGoals": "1",
+        "awayShots": "13",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Las Palmas",
+        "opponentName": "Betis",
+        "awayGoals": "0",
+        "awayShots": "1",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Las Palmas",
+        "opponentName": "Levante",
+        "awayGoals": "1",
+        "awayShots": "17",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Las Palmas",
+        "opponentName": "La Coruna",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Las Palmas",
+        "opponentName": "Celta",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Las Palmas",
+        "opponentName": "Leganes",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Las Palmas",
+        "opponentName": "Ath Bilbao",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Las Palmas",
+        "opponentName": "Ath Madrid",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Las Palmas",
+        "opponentName": "Girona",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      }
+    ],
+    "homeFullTime": "undefinedAAAAAADAHH",
+    "awayFullTime": "undefinedHDHHDHDDHH",
+    "totalGoals": 10,
+    "totalShots": 214,
+    "totalShotsTarget": 50,
+    "totalTeamCorners": 95
+  },
+  {
+    "name": "La Coruna",
+    "totalHomeGoals": 12,
+    "totalHomeShots": 142,
+    "totalHomeShotsTarget": 39,
+    "totalHomeTeamCorners": 66,
+    "totalAwayGoals": 6,
+    "totalAwayShots": 81,
+    "totalAwayShotsTarget": 25,
+    "totalAwayTeamCorners": 48,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "La Coruna",
+        "opponentName": "Villarreal",
+        "homeGoals": "2",
+        "homeShots": "16",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "La Coruna",
+        "opponentName": "Barcelona",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "La Coruna",
+        "opponentName": "Sevilla",
+        "homeGoals": "0",
+        "homeShots": "22",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "La Coruna",
+        "opponentName": "Malaga",
+        "homeGoals": "3",
+        "homeShots": "14",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "La Coruna",
+        "opponentName": "Las Palmas",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "La Coruna",
+        "opponentName": "Eibar",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "La Coruna",
+        "opponentName": "Espanol",
+        "homeGoals": "0",
+        "homeShots": "17",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "La Coruna",
+        "opponentName": "Betis",
+        "homeGoals": "0",
+        "homeShots": "16",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "La Coruna",
+        "opponentName": "Levante",
+        "homeGoals": "2",
+        "homeShots": "8",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "La Coruna",
+        "opponentName": "Valencia",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "8"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "La Coruna",
+        "opponentName": "Valencia",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "La Coruna",
+        "opponentName": "Celta",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "La Coruna",
+        "opponentName": "Leganes",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "La Coruna",
+        "opponentName": "Ath Bilbao",
+        "awayGoals": "3",
+        "awayShots": "5",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "La Coruna",
+        "opponentName": "Ath Madrid",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "La Coruna",
+        "opponentName": "Girona",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "La Coruna",
+        "opponentName": "Getafe",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "La Coruna",
+        "opponentName": "Alaves",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "La Coruna",
+        "opponentName": "Sociedad",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "La Coruna",
+        "opponentName": "Real Madrid",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      }
+    ],
+    "homeFullTime": "undefinedAADHDDDADA",
+    "awayFullTime": "undefinedHDDAHHHHHH",
+    "totalGoals": 18,
+    "totalShots": 223,
+    "totalShotsTarget": 64,
+    "totalTeamCorners": 114
+  },
+  {
+    "name": "Sp Gijon",
+    "totalHomeGoals": 13,
+    "totalHomeShots": 132,
+    "totalHomeShotsTarget": 46,
+    "totalHomeTeamCorners": 64,
+    "totalAwayGoals": 10,
+    "totalAwayShots": 86,
+    "totalAwayShotsTarget": 32,
+    "totalAwayTeamCorners": 47,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Sp Gijon",
+        "opponentName": "Betis",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Sp Gijon",
+        "opponentName": "Las Palmas",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Sp Gijon",
+        "opponentName": "Espanol",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Sp Gijon",
+        "opponentName": "Real Madrid",
+        "homeGoals": "2",
+        "homeShots": "4",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Sp Gijon",
+        "opponentName": "Malaga",
+        "homeGoals": "0",
+        "homeShots": "14",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Sp Gijon",
+        "opponentName": "Granada",
+        "homeGoals": "3",
+        "homeShots": "15",
+        "homeShotsOnTarget": "11",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Sp Gijon",
+        "opponentName": "La Coruna",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Sp Gijon",
+        "opponentName": "Celta",
+        "homeGoals": "1",
+        "homeShots": "20",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Sp Gijon",
+        "opponentName": "Ath Madrid",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "12"
+      },
+      {
+        "teamName": "Sp Gijon",
+        "opponentName": "Alaves",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "8"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Sp Gijon",
+        "opponentName": "Eibar",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Sp Gijon",
+        "opponentName": "Villarreal",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Sp Gijon",
+        "opponentName": "Osasuna",
+        "awayGoals": "2",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Sp Gijon",
+        "opponentName": "Sociedad",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Sp Gijon",
+        "opponentName": "Sevilla",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Sp Gijon",
+        "opponentName": "Valencia",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Sp Gijon",
+        "opponentName": "Barcelona",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Sp Gijon",
+        "opponentName": "Leganes",
+        "awayGoals": "2",
+        "awayShots": "4",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Sp Gijon",
+        "opponentName": "Ath Bilbao",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Sp Gijon",
+        "opponentName": "Betis",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "5"
+      }
+    ],
+    "homeFullTime": "undefinedDHDAAHADAA",
+    "awayFullTime": "undefinedAHDHDDHAHD",
+    "totalGoals": 23,
+    "totalShots": 218,
+    "totalShotsTarget": 78,
+    "totalTeamCorners": 111
+  },
+  {
+    "name": "Granada",
+    "totalHomeGoals": 10,
+    "totalHomeShots": 124,
+    "totalHomeShotsTarget": 45,
+    "totalHomeTeamCorners": 43,
+    "totalAwayGoals": 5,
+    "totalAwayShots": 80,
+    "totalAwayShotsTarget": 25,
+    "totalAwayTeamCorners": 36,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Granada",
+        "opponentName": "Espanol",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Granada",
+        "opponentName": "Real Madrid",
+        "homeGoals": "0",
+        "homeShots": "13",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Granada",
+        "opponentName": "Malaga",
+        "homeGoals": "0",
+        "homeShots": "3",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Granada",
+        "opponentName": "Celta",
+        "homeGoals": "0",
+        "homeShots": "17",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Granada",
+        "opponentName": "Valencia",
+        "homeGoals": "1",
+        "homeShots": "21",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Granada",
+        "opponentName": "Barcelona",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Granada",
+        "opponentName": "Ath Madrid",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Granada",
+        "opponentName": "Alaves",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Granada",
+        "opponentName": "Betis",
+        "homeGoals": "4",
+        "homeShots": "10",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Granada",
+        "opponentName": "Las Palmas",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Granada",
+        "opponentName": "Osasuna",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Granada",
+        "opponentName": "Sociedad",
+        "awayGoals": "1",
+        "awayShots": "5",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Granada",
+        "opponentName": "Sevilla",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Granada",
+        "opponentName": "La Coruna",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Granada",
+        "opponentName": "Sp Gijon",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Granada",
+        "opponentName": "Leganes",
+        "awayGoals": "0",
+        "awayShots": "1",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Granada",
+        "opponentName": "Ath Bilbao",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Granada",
+        "opponentName": "Eibar",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Granada",
+        "opponentName": "Villarreal",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Granada",
+        "opponentName": "Espanol",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      }
+    ],
+    "homeFullTime": "undefinedAAAAAAAHHH",
+    "awayFullTime": "undefinedHHHDHHHHHH",
+    "totalGoals": 15,
+    "totalShots": 204,
+    "totalShotsTarget": 70,
+    "totalTeamCorners": 79
+  },
+  {
+    "name": "Osasuna",
+    "totalHomeGoals": 16,
+    "totalHomeShots": 127,
+    "totalHomeShotsTarget": 51,
+    "totalHomeTeamCorners": 50,
+    "totalAwayGoals": 7,
+    "totalAwayShots": 73,
+    "totalAwayShotsTarget": 32,
+    "totalAwayTeamCorners": 17,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Osasuna",
+        "opponentName": "Granada",
+        "homeGoals": "2",
+        "homeShots": "19",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Osasuna",
+        "opponentName": "La Coruna",
+        "homeGoals": "2",
+        "homeShots": "16",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Osasuna",
+        "opponentName": "Sp Gijon",
+        "homeGoals": "2",
+        "homeShots": "7",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Osasuna",
+        "opponentName": "Leganes",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Osasuna",
+        "opponentName": "Ath Bilbao",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Osasuna",
+        "opponentName": "Eibar",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Osasuna",
+        "opponentName": "Villarreal",
+        "homeGoals": "1",
+        "homeShots": "17",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Osasuna",
+        "opponentName": "Real Madrid",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Osasuna",
+        "opponentName": "Malaga",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Osasuna",
+        "opponentName": "Sevilla",
+        "homeGoals": "3",
+        "homeShots": "14",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "3"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Osasuna",
+        "opponentName": "Sevilla",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Osasuna",
+        "opponentName": "Valencia",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Osasuna",
+        "opponentName": "Barcelona",
+        "awayGoals": "1",
+        "awayShots": "3",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Osasuna",
+        "opponentName": "Ath Madrid",
+        "awayGoals": "0",
+        "awayShots": "3",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Osasuna",
+        "opponentName": "Alaves",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Osasuna",
+        "opponentName": "Betis",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Osasuna",
+        "opponentName": "Las Palmas",
+        "awayGoals": "2",
+        "awayShots": "10",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Osasuna",
+        "opponentName": "Espanol",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Osasuna",
+        "opponentName": "Celta",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Osasuna",
+        "opponentName": "Sociedad",
+        "awayGoals": "2",
+        "awayShots": "11",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "2"
+      }
+    ],
+    "homeFullTime": "undefinedHDDHADAADA",
+    "awayFullTime": "undefinedHHHHAHHHHH",
+    "totalGoals": 23,
+    "totalShots": 200,
+    "totalShotsTarget": 83,
+    "totalTeamCorners": 67
+  },
+  {
+    "name": "Almeria",
+    "totalHomeGoals": 14,
+    "totalHomeShots": 108,
+    "totalHomeShotsTarget": 41,
+    "totalHomeTeamCorners": 53,
+    "totalAwayGoals": 6,
+    "totalAwayShots": 85,
+    "totalAwayShotsTarget": 18,
+    "totalAwayTeamCorners": 52,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Almeria",
+        "opponentName": "Valencia",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Almeria",
+        "opponentName": "Malaga",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Almeria",
+        "opponentName": "Celta",
+        "homeGoals": "2",
+        "homeShots": "12",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Almeria",
+        "opponentName": "Eibar",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Almeria",
+        "opponentName": "Granada",
+        "homeGoals": "3",
+        "homeShots": "17",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Almeria",
+        "opponentName": "Levante",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Almeria",
+        "opponentName": "Villarreal",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Almeria",
+        "opponentName": "La Coruna",
+        "homeGoals": "0",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Almeria",
+        "opponentName": "Sociedad",
+        "homeGoals": "2",
+        "homeShots": "9",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Almeria",
+        "opponentName": "Getafe",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Almeria",
+        "opponentName": "Sevilla",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Almeria",
+        "opponentName": "Real Madrid",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Almeria",
+        "opponentName": "Vallecano",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Almeria",
+        "opponentName": "Barcelona",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Almeria",
+        "opponentName": "Ath Bilbao",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Almeria",
+        "opponentName": "Elche",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Almeria",
+        "opponentName": "Ath Madrid",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Almeria",
+        "opponentName": "Cordoba",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Almeria",
+        "opponentName": "Espanol",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Almeria",
+        "opponentName": "Valencia",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedAADHHADDDH",
+    "awayFullTime": "undefinedHHHHHHHAHH",
+    "totalGoals": 20,
+    "totalShots": 193,
+    "totalShotsTarget": 59,
+    "totalTeamCorners": 105
+  },
+  {
+    "name": "Elche",
+    "totalHomeGoals": 11,
+    "totalHomeShots": 112,
+    "totalHomeShotsTarget": 34,
+    "totalHomeTeamCorners": 42,
+    "totalAwayGoals": 7,
+    "totalAwayShots": 96,
+    "totalAwayShotsTarget": 26,
+    "totalAwayTeamCorners": 45,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Elche",
+        "opponentName": "Ath Bilbao",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Elche",
+        "opponentName": "La Coruna",
+        "homeGoals": "4",
+        "homeShots": "12",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Elche",
+        "opponentName": "Sociedad",
+        "homeGoals": "1",
+        "homeShots": "9",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Elche",
+        "opponentName": "Getafe",
+        "homeGoals": "0",
+        "homeShots": "16",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Elche",
+        "opponentName": "Valencia",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Elche",
+        "opponentName": "Almeria",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Elche",
+        "opponentName": "Real Madrid",
+        "homeGoals": "0",
+        "homeShots": "4",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Elche",
+        "opponentName": "Vallecano",
+        "homeGoals": "2",
+        "homeShots": "18",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Elche",
+        "opponentName": "Barcelona",
+        "homeGoals": "0",
+        "homeShots": "6",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Elche",
+        "opponentName": "Levante",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "3"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Elche",
+        "opponentName": "Levante",
+        "awayGoals": "0",
+        "awayShots": "15",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Elche",
+        "opponentName": "Villarreal",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Elche",
+        "opponentName": "Malaga",
+        "awayGoals": "2",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Elche",
+        "opponentName": "Ath Madrid",
+        "awayGoals": "0",
+        "awayShots": "14",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Elche",
+        "opponentName": "Cordoba",
+        "awayGoals": "2",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Elche",
+        "opponentName": "Espanol",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Elche",
+        "opponentName": "Sevilla",
+        "awayGoals": "0",
+        "awayShots": "14",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Elche",
+        "opponentName": "Celta",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Elche",
+        "opponentName": "Eibar",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Elche",
+        "opponentName": "Granada",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedAHHAAHAHAH",
+    "awayFullTime": "undefinedDHAHADHDAH",
+    "totalGoals": 18,
+    "totalShots": 208,
+    "totalShotsTarget": 60,
+    "totalTeamCorners": 87
+  },
+  {
+    "name": "Cordoba",
+    "totalHomeGoals": 6,
+    "totalHomeShots": 139,
+    "totalHomeShotsTarget": 33,
+    "totalHomeTeamCorners": 52,
+    "totalAwayGoals": 2,
+    "totalAwayShots": 101,
+    "totalAwayShotsTarget": 36,
+    "totalAwayTeamCorners": 36,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Cordoba",
+        "opponentName": "Vallecano",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Cordoba",
+        "opponentName": "Barcelona",
+        "homeGoals": "0",
+        "homeShots": "5",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Cordoba",
+        "opponentName": "Ath Bilbao",
+        "homeGoals": "0",
+        "homeShots": "22",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Cordoba",
+        "opponentName": "Elche",
+        "homeGoals": "0",
+        "homeShots": "14",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Cordoba",
+        "opponentName": "Ath Madrid",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Cordoba",
+        "opponentName": "Getafe",
+        "homeGoals": "1",
+        "homeShots": "18",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Cordoba",
+        "opponentName": "Valencia",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Cordoba",
+        "opponentName": "Almeria",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Cordoba",
+        "opponentName": "Real Madrid",
+        "homeGoals": "1",
+        "homeShots": "16",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Cordoba",
+        "opponentName": "Eibar",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "2"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Cordoba",
+        "opponentName": "Eibar",
+        "awayGoals": "0",
+        "awayShots": "15",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Cordoba",
+        "opponentName": "Granada",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Cordoba",
+        "opponentName": "Levante",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Cordoba",
+        "opponentName": "Villarreal",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Cordoba",
+        "opponentName": "La Coruna",
+        "awayGoals": "1",
+        "awayShots": "16",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Cordoba",
+        "opponentName": "Sociedad",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Cordoba",
+        "opponentName": "Malaga",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Cordoba",
+        "opponentName": "Espanol",
+        "awayGoals": "0",
+        "awayShots": "16",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Cordoba",
+        "opponentName": "Sevilla",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Cordoba",
+        "opponentName": "Celta",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      }
+    ],
+    "homeFullTime": "undefinedAAAAAAAAAD",
+    "awayFullTime": "undefinedHHHDDHHHHH",
+    "totalGoals": 8,
+    "totalShots": 240,
+    "totalShotsTarget": 69,
+    "totalTeamCorners": 88
+  },
+
+  {
+    "name": "Zaragoza",
+    "totalHomeGoals": 12,
+    "totalHomeShots": 128,
+    "totalHomeShotsTarget": 44,
+    "totalHomeTeamCorners": 45,
+    "totalAwayGoals": 4,
+    "totalAwayShots": 111,
+    "totalAwayShotsTarget": 27,
+    "totalAwayTeamCorners": 51,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Zaragoza",
+        "opponentName": "Ath Madrid",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Zaragoza",
+        "opponentName": "Ath Bilbao",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Zaragoza",
+        "opponentName": "Vallecano",
+        "homeGoals": "3",
+        "homeShots": "16",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Zaragoza",
+        "opponentName": "Mallorca",
+        "homeGoals": "3",
+        "homeShots": "13",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Zaragoza",
+        "opponentName": "Barcelona",
+        "homeGoals": "0",
+        "homeShots": "12",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Zaragoza",
+        "opponentName": "Real Madrid",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Zaragoza",
+        "opponentName": "Granada",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Zaragoza",
+        "opponentName": "Valencia",
+        "homeGoals": "2",
+        "homeShots": "14",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Zaragoza",
+        "opponentName": "Sociedad",
+        "homeGoals": "1",
+        "homeShots": "10",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Zaragoza",
+        "opponentName": "Espanol",
+        "homeGoals": "0",
+        "homeShots": "14",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Zaragoza",
+        "opponentName": "Betis",
+        "awayGoals": "0",
+        "awayShots": "16",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Zaragoza",
+        "opponentName": "Levante",
+        "awayGoals": "0",
+        "awayShots": "16",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Zaragoza",
+        "opponentName": "Celta",
+        "awayGoals": "1",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Zaragoza",
+        "opponentName": "La Coruna",
+        "awayGoals": "2",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Zaragoza",
+        "opponentName": "Sevilla",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Zaragoza",
+        "opponentName": "Getafe",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Zaragoza",
+        "opponentName": "Osasuna",
+        "awayGoals": "0",
+        "awayShots": "10",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Zaragoza",
+        "opponentName": "Malaga",
+        "awayGoals": "1",
+        "awayShots": "15",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Zaragoza",
+        "opponentName": "Valladolid",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Zaragoza",
+        "opponentName": "Ath Madrid",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedAAHHADDDAD",
+    "awayFullTime": "undefinedHDHHHHHDHH",
+    "totalGoals": 16,
+    "totalShots": 239,
+    "totalShotsTarget": 71,
+    "totalTeamCorners": 96
+  },
+  {
+    "name": "Mallorca",
+    "totalHomeGoals": 16,
+    "totalHomeShots": 161,
+    "totalHomeShotsTarget": 53,
+    "totalHomeTeamCorners": 93,
+    "totalAwayGoals": 10,
+    "totalAwayShots": 122,
+    "totalAwayShotsTarget": 45,
+    "totalAwayTeamCorners": 38,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Mallorca",
+        "opponentName": "Valladolid",
+        "homeGoals": "4",
+        "homeShots": "20",
+        "homeShotsOnTarget": "10",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Mallorca",
+        "opponentName": "Betis",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Mallorca",
+        "opponentName": "Levante",
+        "homeGoals": "1",
+        "homeShots": "21",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Mallorca",
+        "opponentName": "Vallecano",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Mallorca",
+        "opponentName": "Celta",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Mallorca",
+        "opponentName": "La Coruna",
+        "homeGoals": "2",
+        "homeShots": "20",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Mallorca",
+        "opponentName": "Sevilla",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Mallorca",
+        "opponentName": "Getafe",
+        "homeGoals": "1",
+        "homeShots": "15",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "13"
+      },
+      {
+        "teamName": "Mallorca",
+        "opponentName": "Osasuna",
+        "homeGoals": "1",
+        "homeShots": "12",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "12"
+      },
+      {
+        "teamName": "Mallorca",
+        "opponentName": "Malaga",
+        "homeGoals": "2",
+        "homeShots": "23",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "13"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Mallorca",
+        "opponentName": "Ath Madrid",
+        "awayGoals": "0",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Mallorca",
+        "opponentName": "Ath Bilbao",
+        "awayGoals": "1",
+        "awayShots": "18",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Mallorca",
+        "opponentName": "Zaragoza",
+        "awayGoals": "2",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Mallorca",
+        "opponentName": "Barcelona",
+        "awayGoals": "0",
+        "awayShots": "13",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Mallorca",
+        "opponentName": "Real Madrid",
+        "awayGoals": "2",
+        "awayShots": "15",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Mallorca",
+        "opponentName": "Granada",
+        "awayGoals": "2",
+        "awayShots": "8",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Mallorca",
+        "opponentName": "Valencia",
+        "awayGoals": "0",
+        "awayShots": "16",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Mallorca",
+        "opponentName": "Sociedad",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Mallorca",
+        "opponentName": "Espanol",
+        "awayGoals": "2",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Mallorca",
+        "opponentName": "Valladolid",
+        "awayGoals": "1",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "5"
+      }
+    ],
+    "homeFullTime": "undefinedHHDDHAHADA",
+    "awayFullTime": "undefinedDHHHHAHHHH",
+    "totalGoals": 26,
+    "totalShots": 283,
+    "totalShotsTarget": 98,
+    "totalTeamCorners": 131
+  },
+  {
+    "name": "Santander",
+    "totalHomeGoals": 6,
+    "totalHomeShots": 106,
+    "totalHomeShotsTarget": 35,
+    "totalHomeTeamCorners": 49,
+    "totalAwayGoals": 8,
+    "totalAwayShots": 86,
+    "totalAwayShotsTarget": 29,
+    "totalAwayTeamCorners": 42,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Santander",
+        "opponentName": "Osasuna",
+        "homeGoals": "2",
+        "homeShots": "7",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "0"
+      },
+      {
+        "teamName": "Santander",
+        "opponentName": "Ath Bilbao",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Santander",
+        "opponentName": "Mallorca",
+        "homeGoals": "0",
+        "homeShots": "17",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Santander",
+        "opponentName": "Granada",
+        "homeGoals": "0",
+        "homeShots": "7",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Santander",
+        "opponentName": "Sevilla",
+        "homeGoals": "0",
+        "homeShots": "9",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Santander",
+        "opponentName": "Barcelona",
+        "homeGoals": "0",
+        "homeShots": "1",
+        "homeShotsOnTarget": "0",
+        "homeTeamCorners": "3"
+      },
+      {
+        "teamName": "Santander",
+        "opponentName": "Sp Gijon",
+        "homeGoals": "1",
+        "homeShots": "19",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "11"
+      },
+      {
+        "teamName": "Santander",
+        "opponentName": "Ath Madrid",
+        "homeGoals": "0",
+        "homeShots": "6",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Santander",
+        "opponentName": "Valencia",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Santander",
+        "opponentName": "Getafe",
+        "homeGoals": "1",
+        "homeShots": "18",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "6"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Santander",
+        "opponentName": "Zaragoza",
+        "awayGoals": "1",
+        "awayShots": "2",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Santander",
+        "opponentName": "Getafe",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Santander",
+        "opponentName": "Sociedad",
+        "awayGoals": "0",
+        "awayShots": "14",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Santander",
+        "opponentName": "Villarreal",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Santander",
+        "opponentName": "Malaga",
+        "awayGoals": "0",
+        "awayShots": "1",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Santander",
+        "opponentName": "Betis",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Santander",
+        "opponentName": "Espanol",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Santander",
+        "opponentName": "Vallecano",
+        "awayGoals": "2",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Santander",
+        "opponentName": "Real Madrid",
+        "awayGoals": "0",
+        "awayShots": "8",
+        "awayShotsOnTarget": "0",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Santander",
+        "opponentName": "Levante",
+        "awayGoals": "1",
+        "awayShots": "15",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "7"
+      }
+    ],
+    "homeFullTime": "undefinedAAAAAADDDA",
+    "awayFullTime": "undefinedHDHDHDHHHD",
+    "totalGoals": 14,
+    "totalShots": 192,
+    "totalShotsTarget": 64,
+    "totalTeamCorners": 91
+  },
+  {
+    "name": "Hercules",
+    "totalHomeGoals": 8,
+    "totalHomeShots": 128,
+    "totalHomeShotsTarget": 42,
+    "totalHomeTeamCorners": 61,
+    "totalAwayGoals": 6,
+    "totalAwayShots": 82,
+    "totalAwayShotsTarget": 35,
+    "totalAwayTeamCorners": 51,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Hercules",
+        "opponentName": "Sp Gijon",
+        "homeGoals": "0",
+        "homeShots": "17",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "10"
+      },
+      {
+        "teamName": "Hercules",
+        "opponentName": "Mallorca",
+        "homeGoals": "2",
+        "homeShots": "15",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Hercules",
+        "opponentName": "Santander",
+        "homeGoals": "2",
+        "homeShots": "21",
+        "homeShotsOnTarget": "9",
+        "homeTeamCorners": "13"
+      },
+      {
+        "teamName": "Hercules",
+        "opponentName": "La Coruna",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "8"
+      },
+      {
+        "teamName": "Hercules",
+        "opponentName": "Espanol",
+        "homeGoals": "0",
+        "homeShots": "8",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Hercules",
+        "opponentName": "Osasuna",
+        "homeGoals": "0",
+        "homeShots": "18",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Hercules",
+        "opponentName": "Almeria",
+        "homeGoals": "1",
+        "homeShots": "13",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Hercules",
+        "opponentName": "Getafe",
+        "homeGoals": "0",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Hercules",
+        "opponentName": "Zaragoza",
+        "homeGoals": "2",
+        "homeShots": "7",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Hercules",
+        "opponentName": "Barcelona",
+        "homeGoals": "0",
+        "homeShots": "4",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Hercules",
+        "opponentName": "Ath Madrid",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "10"
+      },
+      {
+        "teamName": "Hercules",
+        "opponentName": "Malaga",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Hercules",
+        "opponentName": "Levante",
+        "awayGoals": "1",
+        "awayShots": "9",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Hercules",
+        "opponentName": "Sociedad",
+        "awayGoals": "3",
+        "awayShots": "13",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Hercules",
+        "opponentName": "Real Madrid",
+        "awayGoals": "0",
+        "awayShots": "9",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Hercules",
+        "opponentName": "Villarreal",
+        "awayGoals": "0",
+        "awayShots": "6",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Hercules",
+        "opponentName": "Sevilla",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "8"
+      },
+      {
+        "teamName": "Hercules",
+        "opponentName": "Valencia",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Hercules",
+        "opponentName": "Ath Bilbao",
+        "awayGoals": "0",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "1"
+      },
+      {
+        "teamName": "Hercules",
+        "opponentName": "Sp Gijon",
+        "awayGoals": "0",
+        "awayShots": "5",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedDDAHDAADHA",
+    "awayFullTime": "undefinedHHHAHHHHHH",
+    "totalGoals": 14,
+    "totalShots": 210,
+    "totalShotsTarget": 77,
+    "totalTeamCorners": 112
+  },
+  {
+    "name": "Tenerife",
+    "totalHomeGoals": 16,
+    "totalHomeShots": 159,
+    "totalHomeShotsTarget": 59,
+    "totalHomeTeamCorners": 78,
+    "totalAwayGoals": 8,
+    "totalAwayShots": 123,
+    "totalAwayShotsTarget": 35,
+    "totalAwayTeamCorners": 56,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Tenerife",
+        "opponentName": "Almeria",
+        "homeGoals": "2",
+        "homeShots": "17",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Tenerife",
+        "opponentName": "Santander",
+        "homeGoals": "2",
+        "homeShots": "20",
+        "homeShotsOnTarget": "11",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Tenerife",
+        "opponentName": "Getafe",
+        "homeGoals": "3",
+        "homeShots": "19",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Tenerife",
+        "opponentName": "Valladolid",
+        "homeGoals": "0",
+        "homeShots": "18",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Tenerife",
+        "opponentName": "Villarreal",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Tenerife",
+        "opponentName": "Espanol",
+        "homeGoals": "4",
+        "homeShots": "21",
+        "homeShotsOnTarget": "8",
+        "homeTeamCorners": "9"
+      },
+      {
+        "teamName": "Tenerife",
+        "opponentName": "Real Madrid",
+        "homeGoals": "1",
+        "homeShots": "14",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "6"
+      },
+      {
+        "teamName": "Tenerife",
+        "opponentName": "Mallorca",
+        "homeGoals": "1",
+        "homeShots": "8",
+        "homeShotsOnTarget": "3",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Tenerife",
+        "opponentName": "Zaragoza",
+        "homeGoals": "1",
+        "homeShots": "17",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "7"
+      },
+      {
+        "teamName": "Tenerife",
+        "opponentName": "Valencia",
+        "homeGoals": "0",
+        "homeShots": "15",
+        "homeShotsOnTarget": "7",
+        "homeTeamCorners": "12"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Tenerife",
+        "opponentName": "Valencia",
+        "awayGoals": "0",
+        "awayShots": "11",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Tenerife",
+        "opponentName": "Barcelona",
+        "awayGoals": "1",
+        "awayShots": "4",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Tenerife",
+        "opponentName": "Ath Madrid",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Tenerife",
+        "opponentName": "Sp Gijon",
+        "awayGoals": "2",
+        "awayShots": "7",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Tenerife",
+        "opponentName": "Sevilla",
+        "awayGoals": "0",
+        "awayShots": "15",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Tenerife",
+        "opponentName": "Malaga",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "2"
+      },
+      {
+        "teamName": "Tenerife",
+        "opponentName": "Xerez",
+        "awayGoals": "1",
+        "awayShots": "17",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "9"
+      },
+      {
+        "teamName": "Tenerife",
+        "opponentName": "La Coruna",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Tenerife",
+        "opponentName": "Ath Bilbao",
+        "awayGoals": "1",
+        "awayShots": "14",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Tenerife",
+        "opponentName": "Osasuna",
+        "awayGoals": "0",
+        "awayShots": "16",
+        "awayShotsOnTarget": "7",
+        "awayTeamCorners": "8"
+      }
+    ],
+    "homeFullTime": "undefinedDHHDDHAHAD",
+    "awayFullTime": "undefinedHHHAHDHHHH",
+    "totalGoals": 24,
+    "totalShots": 282,
+    "totalShotsTarget": 94,
+    "totalTeamCorners": 134
+  },
+  {
+    "name": "Xerez",
+    "totalHomeGoals": 16,
+    "totalHomeShots": 103,
+    "totalHomeShotsTarget": 37,
+    "totalHomeTeamCorners": 41,
+    "totalAwayGoals": 15,
+    "totalAwayShots": 102,
+    "totalAwayShotsTarget": 38,
+    "totalAwayTeamCorners": 39,
+    "prevHomeGames": 10,
+    "prevAwayGames": 10,
+    "homeMatches": [
+      {
+        "teamName": "Xerez",
+        "opponentName": "Zaragoza",
+        "homeGoals": "3",
+        "homeShots": "9",
+        "homeShotsOnTarget": "6",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Xerez",
+        "opponentName": "Almeria",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Xerez",
+        "opponentName": "Santander",
+        "homeGoals": "2",
+        "homeShots": "11",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Xerez",
+        "opponentName": "Getafe",
+        "homeGoals": "0",
+        "homeShots": "14",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "12"
+      },
+      {
+        "teamName": "Xerez",
+        "opponentName": "Valladolid",
+        "homeGoals": "3",
+        "homeShots": "12",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Xerez",
+        "opponentName": "Tenerife",
+        "homeGoals": "2",
+        "homeShots": "13",
+        "homeShotsOnTarget": "4",
+        "homeTeamCorners": "2"
+      },
+      {
+        "teamName": "Xerez",
+        "opponentName": "Espanol",
+        "homeGoals": "1",
+        "homeShots": "11",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "4"
+      },
+      {
+        "teamName": "Xerez",
+        "opponentName": "Real Madrid",
+        "homeGoals": "0",
+        "homeShots": "5",
+        "homeShotsOnTarget": "1",
+        "homeTeamCorners": "1"
+      },
+      {
+        "teamName": "Xerez",
+        "opponentName": "Mallorca",
+        "homeGoals": "2",
+        "homeShots": "10",
+        "homeShotsOnTarget": "5",
+        "homeTeamCorners": "5"
+      },
+      {
+        "teamName": "Xerez",
+        "opponentName": "Osasuna",
+        "homeGoals": "1",
+        "homeShots": "7",
+        "homeShotsOnTarget": "2",
+        "homeTeamCorners": "2"
+      }
+    ],
+    "awayMatches": [
+      {
+        "teamName": "Xerez",
+        "opponentName": "Osasuna",
+        "awayGoals": "1",
+        "awayShots": "17",
+        "awayShotsOnTarget": "6",
+        "awayTeamCorners": "7"
+      },
+      {
+        "teamName": "Xerez",
+        "opponentName": "Valencia",
+        "awayGoals": "1",
+        "awayShots": "7",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "0"
+      },
+      {
+        "teamName": "Xerez",
+        "opponentName": "Barcelona",
+        "awayGoals": "1",
+        "awayShots": "8",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "6"
+      },
+      {
+        "teamName": "Xerez",
+        "opponentName": "Ath Madrid",
+        "awayGoals": "2",
+        "awayShots": "11",
+        "awayShotsOnTarget": "3",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Xerez",
+        "opponentName": "Sp Gijon",
+        "awayGoals": "2",
+        "awayShots": "12",
+        "awayShotsOnTarget": "4",
+        "awayTeamCorners": "4"
+      },
+      {
+        "teamName": "Xerez",
+        "opponentName": "Sevilla",
+        "awayGoals": "1",
+        "awayShots": "6",
+        "awayShotsOnTarget": "1",
+        "awayTeamCorners": "5"
+      },
+      {
+        "teamName": "Xerez",
+        "opponentName": "Villarreal",
+        "awayGoals": "0",
+        "awayShots": "4",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Xerez",
+        "opponentName": "Malaga",
+        "awayGoals": "4",
+        "awayShots": "11",
+        "awayShotsOnTarget": "8",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Xerez",
+        "opponentName": "La Coruna",
+        "awayGoals": "1",
+        "awayShots": "11",
+        "awayShotsOnTarget": "2",
+        "awayTeamCorners": "3"
+      },
+      {
+        "teamName": "Xerez",
+        "opponentName": "Ath Bilbao",
+        "awayGoals": "2",
+        "awayShots": "15",
+        "awayShotsOnTarget": "5",
+        "awayTeamCorners": "4"
+      }
+    ],
+    "homeFullTime": "undefinedHHDAHHDAHA",
+    "awayFullTime": "undefinedDHHADDHAHH",
+    "totalGoals": 31,
+    "totalShots": 205,
+    "totalShotsTarget": 75,
+    "totalTeamCorners": 80
+  }
+]
