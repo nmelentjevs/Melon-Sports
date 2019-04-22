@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 // Redux
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
-import { addFav } from '../actions/dataActions';
+import { addFav, getOdds } from '../actions/dataActions';
 
 import moment from 'moment';
 import ListGroup from 'react-bootstrap/ListGroup';
@@ -46,13 +46,18 @@ class MatchesList extends Component {
 
   componentDidMount() {
     this.setState({ eloMatches: this.props.matches });
+    this.props.getOdds();
   }
 
   shouldComponentUpdate(nextProps, nextState) {
-    return (
-      nextProps.eloLoading === false ||
-      nextProps.favourites !== this.props.favourites
-    );
+    if (nextProps.matches === this.props.matches) {
+      return false;
+    } else {
+      return (
+        nextProps.eloLoading === false ||
+        nextProps.favourites !== this.props.favourites
+      );
+    }
   }
 
   addFav = id => {
@@ -94,7 +99,7 @@ class MatchesList extends Component {
       return 0;
     });
     favArray.map(item => matchesArray.unshift(item));
-    console.log(matchesArray);
+    // console.log(matchesArray);
     return (
       <Fragment>
         <div
@@ -251,7 +256,7 @@ class MatchesList extends Component {
                       className="matches"
                       style={{
                         display: 'grid',
-                        gridTemplateColumns: '550px auto',
+                        gridTemplateColumns: '565px auto',
                         gridGap: '5px'
                       }}
                     >
@@ -415,15 +420,17 @@ class MatchesList extends Component {
 
 MatchesList.propTypes = {
   leagues: PropTypes.array.isRequired,
-  addFav: PropTypes.func.isRequired
+  addFav: PropTypes.func.isRequired,
+  getOdds: PropTypes.func.isRequired
 };
 
 const mapStateToProps = state => ({
   favourites: state.data.favourites,
+  matches: state.data.matches,
   errors: state.errors
 });
 
 export default connect(
   mapStateToProps,
-  { addFav }
+  { addFav, getOdds }
 )(MatchesList);

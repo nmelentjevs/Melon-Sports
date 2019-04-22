@@ -64,11 +64,6 @@ class GameItem extends Component {
                 .add(1, 'days')
                 .format('DD/MM/YYYY') ? (
               <div style={{ fontSize: '.65rem' }}> Tomorrow </div>
-            ) : moment(info.utcDate).format('DD/MM/YYYY') ===
-              moment(new Date())
-                .add(-1, 'days')
-                .format('DD/MM/YYYY') ? (
-              <div> Yesterday </div>
             ) : (
               <div> {moment(info.utcDate).format('DD/MM')}</div>
             )}

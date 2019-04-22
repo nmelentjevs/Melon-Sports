@@ -8,7 +8,8 @@ import {
   GET_FAV,
   ADD_OR_DELETE_FAV,
   SET_FAV,
-  FILTER_LEAGUES
+  FILTER_LEAGUES,
+  SET_ODDS
 } from '../actions/types';
 
 const initialState = {
@@ -60,6 +61,7 @@ export default function(state = initialState, action) {
         ...state,
         favourites: action.payload
       };
+
     case GET_FAV:
       return {
         ...state
@@ -77,6 +79,11 @@ export default function(state = initialState, action) {
         filteredLeagues: state.leagues.competitions.filter(
           league => league.id === action.payload
         )
+      };
+    case SET_ODDS:
+      return {
+        ...state,
+        odds: action.payload
       };
     default:
       return state;

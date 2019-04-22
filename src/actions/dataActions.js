@@ -12,7 +12,8 @@ import {
   MATCHES_LOADING,
   LEAGUES_LOADING,
   SET_ELO,
-  FILTER_LEAGUES
+  FILTER_LEAGUES,
+  SET_ODDS
 } from './types';
 
 // Get Leagues & Matches
@@ -41,9 +42,9 @@ export const getData = () => dispatch => {
       dispatch(setMatchesLoading());
       axios
         .get(
-          `https://cors-anywhere.herokuapp.com/https://api.football-data.org/v2/matches/?competitions=${ids}&dateFrom=${moment().format(
-            'YYYY-MM-DD'
-          )}&dateTo=${moment()
+          `https://cors-anywhere.herokuapp.com/https://api.football-data.org/v2/matches/?competitions=${ids}&dateFrom=${moment()
+            .subtract(3, 'days')
+            .format('YYYY-MM-DD')}&dateTo=${moment()
             .add(3, 'days')
             .format('YYYY-MM-DD')}`,
           {
@@ -252,6 +253,76 @@ export const timeLeagues = (id, status) => dispatch => {
         type: GET_ERRORS,
         payload: err
       });
+    });
+};
+
+export const getOdds = () => dispatch => {
+  // An api key is emailed to you when you sign up to a plan
+  const titles = [
+    'EPL',
+    'Ligue 1 - France',
+    'Bundesliga - Germany',
+    'Serie A - Italy',
+    'La Liga - Spain'
+  ];
+  let leagueKeys = [];
+  // Get a list of in season sports
+  axios
+    .get('https://api.the-odds-api.com/v3/sports', {
+      params: {
+        api_key: keys.oddsKey
+      }
+    })
+    .then(res => {
+      res.data.data.map(item => {
+        if (titles.includes(item.title)) {
+          leagueKeys.push(item.key);
+        }
+      });
+      console.log(res.data);
+    })
+    .catch(error => {
+      console.log('Error status', error.response.status);
+      console.log(error.response.data);
+    });
+
+  // To get odds for a sepcific sport, use the sport key from the last request
+  //   or set sport to "upcoming" to see live and upcoming across all sports
+  let sport_key = 'upcoming';
+
+  axios
+    .get('https://api.the-odds-api.com/v3/odds', {
+      params: {
+        api_key: keys.oddsKey,
+        sport: sport_key,
+        region: 'uk', // uk | us | au
+        mkt: 'h2h' // h2h | spreads | totals
+      }
+    })
+    .then(res => {
+      // odds_json['data'] contains a list of live and
+      //   upcoming events and odds for different bookmakers.
+      // Events are ordered by start time (live events are first)
+      // if()
+      let leagueOdds = [];
+      res.data.data.map(league => {
+        if (leagueKeys.includes(league.sport_key)) {
+          leagueOdds.push(league);
+        }
+      });
+      dispatch({
+        type: SET_ODDS,
+        payload: leagueOdds
+      });
+
+      // Check your usage
+      console.log();
+      console.log('Remaining requests', res.headers['x-requests-remaining']);
+      console.log('Used requests', res.headers['x-requests-used']);
+    })
+    .catch(error => {
+      console.log('Error status', error.res.status);
+      console.log(error.response.data);
     });
 };
 

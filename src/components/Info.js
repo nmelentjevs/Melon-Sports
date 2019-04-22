@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 
+import PropTypes from 'prop-types';
+import { connect } from 'react-redux';
+
 import * as tf from '@tensorflow/tfjs';
 
 import Card from 'react-bootstrap/Card';
@@ -19,6 +22,7 @@ import Spinner from 'react-bootstrap/Spinner';
 const epochs = 5;
 
 class Info extends Component {
+  _isMounted = false;
   constructor() {
     super();
     this.state = {
@@ -26,6 +30,7 @@ class Info extends Component {
       dataVisualize: [],
       showGraph: false,
       training: false,
+      trainingFinished: false,
       average: {
         homeAvg: 0,
         drawAvg: 0,
@@ -33,7 +38,8 @@ class Info extends Component {
       }
     };
   }
-  render() {
+
+  train() {
     let data, matches;
     const { info } = this.props;
     // console.log(info);
@@ -53,7 +59,6 @@ class Info extends Component {
       data = require('../jsonData/spTeamDataTest.json');
       matches = require('../jsonData/spMatchesDataTest.json');
     }
-
     let xs, ys;
     let model;
     let labelList = ['H', 'D', 'A'];
@@ -227,70 +232,88 @@ class Info extends Component {
 
     const xst = tf.tensor2d([homeTeamTenser, awayTeamTenser]);
 
-    const train = async () => {
-      this.setState({ showGraph: true, training: true });
-      let amount = 0;
-      let home = 0;
-      let draw = 0;
-      let away = 0;
-      const options = {
-        epochs,
-        validationSplit: 0.1,
-        shuffle: true,
-        callbacks: {
-          onTrainBegin: () => {
-            console.log('training start');
-          },
-          onTrainEnd: () =>
-            this.setState({ showGraph: false, training: false }),
-          onBatchEnd: (num, logs) => {},
-          onEpochEnd: (num, logs) => {
-            // console.log('Epoch: ' + num);
-            // console.log('Loss: ' + logs.loss);
-            tf.tidy(() => {
-              let results = model.predict(xst.reshape([1, 36]));
-
-              let index = results.dataSync();
-              // xs.print();
-              amount++;
-              home += parseFloat(results.dataSync()[0]);
-              draw += parseFloat(results.dataSync()[1]);
-              away += parseFloat(results.dataSync()[2]);
-              const homeAvg = home / amount;
-              const drawAvg = draw / amount;
-              const awayAvg = away / amount;
+    const trainModel = async () => {
+      if (this._isMounted) {
+        this.setState({ showGraph: true, training: true });
+        let amount = 0;
+        let home = 0;
+        let draw = 0;
+        let away = 0;
+        const options = {
+          epochs,
+          validationSplit: 0.1,
+          shuffle: true,
+          callbacks: {
+            onTrainBegin: () => {
+              console.log('training start');
+            },
+            onTrainEnd: () =>
               this.setState({
-                dataVisualize: [
-                  ...this.state.dataVisualize,
-                  {
-                    name: `${this.props.home.name.charAt(
-                      0
-                    )} vs ${this.props.away.name.charAt(0)}`,
-                    home: results.dataSync()[0],
-                    draw: results.dataSync()[1],
-                    away: results.dataSync()[2]
+                showGraph: false,
+                training: false,
+                trainingFinished: true
+              }),
+            onBatchEnd: (num, logs) => {},
+            onEpochEnd: (num, logs) => {
+              // console.log('Epoch: ' + num);
+              // console.log('Loss: ' + logs.loss);
+              tf.tidy(() => {
+                let results = model.predict(xst.reshape([1, 36]));
+
+                let index = results.dataSync();
+                // xs.print();
+                amount++;
+                home += parseFloat(results.dataSync()[0]);
+                draw += parseFloat(results.dataSync()[1]);
+                away += parseFloat(results.dataSync()[2]);
+                const homeAvg = home / amount;
+                const drawAvg = draw / amount;
+                const awayAvg = away / amount;
+                this.setState({
+                  dataVisualize: [
+                    ...this.state.dataVisualize,
+                    {
+                      name: `${this.props.home.name.charAt(
+                        0
+                      )} vs ${this.props.away.name.charAt(0)}`,
+                      home: results.dataSync()[0],
+                      draw: results.dataSync()[1],
+                      away: results.dataSync()[2]
+                    }
+                  ],
+                  average: {
+                    homeAvg,
+                    drawAvg,
+                    awayAvg
                   }
-                ],
-                average: {
-                  homeAvg,
-                  drawAvg,
-                  awayAvg
-                }
+                });
+                console.log([
+                  homeAvg.toFixed(3),
+                  drawAvg.toFixed(3),
+                  awayAvg.toFixed(3)
+                ]);
+                // console.log(index);
               });
-              console.log([
-                homeAvg.toFixed(3),
-                drawAvg.toFixed(3),
-                awayAvg.toFixed(3)
-              ]);
-              // console.log(index);
-            });
+            }
           }
-        }
-      };
+        };
 
-      return await model.fit(xs.reshape([xs.shape[0], 36]), ys, options);
+        return await model.fit(xs.reshape([xs.shape[0], 36]), ys, options);
+      }
     };
+    trainModel();
+  }
 
+  componentWillUnmount() {
+    this._isMounted = false;
+  }
+  componentDidMount() {
+    this._isMounted = true;
+  }
+
+  render() {
+    const { average } = this.state;
+    let { home, away } = this.props;
     const StackedAreaChart = () => (
       <AreaChart
         width={500}
@@ -330,11 +353,12 @@ class Info extends Component {
       <Card style={{ height: 'auto', width: '100%' }}>
         <Card.Body>
           {this.state.training ? (
-            <div style={{ fontSize: '1.3rem' }}>Training in progress..</div>
-          ) : (
+            <div style={{ fontSize: '1.1rem' }}>Training in progress..</div>
+          ) : null}
+          {this.state.trainingFinished || this.state.training ? null : (
             <div className="card-main">
-              <Button variant="primary" onClick={() => train()}>
-                AI Predict
+              <Button variant="primary" onClick={() => this.train()}>
+                Predict Result
               </Button>
             </div>
           )}
@@ -355,23 +379,40 @@ class Info extends Component {
               ))
             }
           </Transition>
-
-          <div>
-            <div> Home: {(this.state.average.homeAvg * 100).toFixed(2)}%</div>
-            <div> Draw: {(this.state.average.drawAvg * 100).toFixed(2)}%</div>
-            <div> Away: {(this.state.average.awayAvg * 100).toFixed(2)}%</div>
-          </div>
+          {this.state.trainingFinished ? (
+            <div>
+              {' '}
+              Suggested Bet:{' '}
+              {average.homeAvg - average.awayAvg > 0.125
+                ? home.name.toUpperCase() + ' TO WIN'
+                : average.awayAvg - average.homeAvg > 0.125
+                ? away.name.toUpperCase() + ' TO WIN'
+                : 'DRAW'}{' '}
+            </div>
+          ) : (
+            <div>
+              <div> Home: {(average.homeAvg * 100).toFixed(2)}%</div>
+              <div> Draw: {(average.drawAvg * 100).toFixed(2)}%</div>
+              <div> Away: {(average.awayAvg * 100).toFixed(2)}%</div>
+            </div>
+          )}
         </Card.Body>
       </Card>
     );
   }
 }
 
-function isEmpty(Yourvalue) {
-  return (
-    Boolean(Yourvalue && typeof Yourvalue == 'object') &&
-    !Object.keys(Yourvalue).length
-  );
-}
+Info.propTypes = {
+  home: PropTypes.object.isRequired,
+  away: PropTypes.object.isRequired,
+  info: PropTypes.object.isRequired
+};
 
-export default Info;
+const mapStateToProps = state => ({
+  errors: state.errors
+});
+
+export default connect(
+  mapStateToProps,
+  {}
+)(Info);

@@ -23,7 +23,7 @@ class App extends Component {
           <div
             className="App"
             id="app"
-            style={{ background: 'rgba(12,12,12,0.6)', height: '250vh' }}
+            style={{ background: 'rgba(12,12,12,0.6)', height: 'auto' }}
           >
             <NavbarMain />
             <Switch>
