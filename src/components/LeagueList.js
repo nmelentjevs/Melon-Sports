@@ -18,8 +18,7 @@ class LeagueList extends Component {
               border: 'none',
               backgroundColor: '#f2a359',
               height: '40px',
-              width: '100%',
-              color: 'white'
+              width: '100%'
             }}
           >
             <h5

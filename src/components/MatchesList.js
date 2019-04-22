@@ -97,7 +97,7 @@ class MatchesList extends Component {
     console.log(matchesArray);
     return (
       <Fragment>
-        <ListGroup
+        <div
           lg="6"
           style={{
             background: 'transparent'
@@ -132,7 +132,7 @@ class MatchesList extends Component {
                   padding: '0 10px'
                 }}
               >
-                <span>Browse Games</span>
+                <span>All Games</span>
               </div>
               <div style={{ flex: 1, marginRight: '5px' }}>
                 <span
@@ -268,7 +268,7 @@ class MatchesList extends Component {
                               leagues.league.name.code
                             )
                               ? '#d6d6d6'
-                              : '#eadaa2'
+                              : '#f2a359'
                           }}
                         >
                           <div style={{ fontSize: '1rem', fontWeight: '700' }}>
@@ -284,15 +284,7 @@ class MatchesList extends Component {
                             >
                               <Button
                                 variant="primary"
-                                style={{
-                                  fontSize: '.8rem',
-                                  padding: '0 2.5px',
-                                  background: 'none',
-                                  color: 'black',
-                                  border: 'none',
-                                  marginBottom: '1px'
-                                  // textDecoration: 'underline'
-                                }}
+                                className="standings-button"
                               >
                                 Standings
                               </Button>
@@ -309,7 +301,7 @@ class MatchesList extends Component {
                                   leagues.league.name.code
                                 )
                                   ? 'black'
-                                  : 'orange',
+                                  : '#fdfd96',
                                 border: 'none'
                               }}
                               onClick={() => {
@@ -361,18 +353,14 @@ class MatchesList extends Component {
                         }}
                         className="aside-menu"
                       >
-                        <div
-                          className="aside-item"
-                          style={{ background: '#f8d5c6' }}
-                        >
+                        <div className="aside-item" style={{}}>
                           {leagues.league.name.name}
                         </div>
                         <div
                           className="aside-item"
                           style={{
                             display: 'flex',
-                            flexDirection: 'column',
-                            background: '#f8eie7'
+                            flexDirection: 'column'
                           }}
                         >
                           <div
@@ -398,8 +386,7 @@ class MatchesList extends Component {
                           style={{
                             display: 'flex',
                             flexDirection: 'column',
-                            justifyContent: 'space-around',
-                            background: '#f8eie7'
+                            justifyContent: 'space-around'
                           }}
                         >
                           <p style={{ marginTop: '15px' }}>
@@ -409,10 +396,7 @@ class MatchesList extends Component {
                           <p>{leagues.league.name.currentSeason.endDate}</p>{' '}
                         </div>
 
-                        <div
-                          className="aside-item"
-                          style={{ background: '#f8d5c6' }}
-                        >
+                        <div className="aside-item" style={{}}>
                           {' '}
                           Something{' '}
                         </div>
@@ -423,7 +407,7 @@ class MatchesList extends Component {
               );
             })}
           </div>
-        </ListGroup>
+        </div>
       </Fragment>
     );
   }

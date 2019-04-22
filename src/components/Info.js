@@ -5,7 +5,6 @@ import * as tf from '@tensorflow/tfjs';
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
 import { Transition, animated } from 'react-spring/renderprops';
-import { Link } from 'react-router-dom';
 
 import {
   AreaChart,
@@ -26,7 +25,6 @@ class Info extends Component {
       teamsData: [],
       dataVisualize: [],
       showGraph: false,
-      average: [],
       training: false,
       average: {
         homeAvg: 0,
@@ -36,14 +34,31 @@ class Info extends Component {
     };
   }
   render() {
-    console.log('info');
-    let data = require('../jsonData/spTeamDataTest.json');
-    let matches = require('../jsonData/spMatchesDataTest.json');
+    let data, matches;
+    const { info } = this.props;
+    // console.log(info);
+    if (info.competition.name === 'Premier League') {
+      data = require('../jsonData/plTeamDataTest.json');
+      matches = require('../jsonData/plMatchesDataTest.json');
+    } else if (info.competition.name === 'Ligue 1') {
+      data = require('../jsonData/frTeamDataTest.json');
+      matches = require('../jsonData/frMatchesDataTest.json');
+    } else if (info.competition.name === 'Bundesliga') {
+      data = require('../jsonData/bunTeamDataTest.json');
+      matches = require('../jsonData/bunMatchesDataTest.json');
+    } else if (info.competition.name === 'Serie A') {
+      data = require('../jsonData/itTeamDataTest.json');
+      matches = require('../jsonData/itMatchesDataTest.json');
+    } else if (info.competition.name === 'Primera Division') {
+      data = require('../jsonData/spTeamDataTest.json');
+      matches = require('../jsonData/spMatchesDataTest.json');
+    }
+
     let xs, ys;
     let model;
     let labelList = ['H', 'D', 'A'];
-    console.log(this.props.home);
-    console.log(this.props.away);
+    // console.log(this.props.home);
+    // console.log(this.props.away);
     const teamDataArr = [];
     const matchesDataArrResults = [];
 
@@ -58,7 +73,7 @@ class Info extends Component {
     let dataTenser = [];
     let matchesTenser = [];
     let labels = [];
-    console.log(this.props.info);
+    // console.log(this.props.info);
     teamDataArr.map(item => {
       item.homeFullTime = item.homeFullTime.replace('undefined', '');
       item.awayFullTime = item.awayFullTime.replace('undefined', '');
@@ -108,35 +123,47 @@ class Info extends Component {
     away = removeSpecial(away.name);
 
     let homeTeam = dataTenser.find(team => {
-      console.log(team[0]);
-      console.log(home);
-      if (home.includes(team[0])) {
+      // console.log(team[0]);
+      // console.log(home);
+      if (home === 'Wolverhampton Wanderers FC') {
+        return team[0] === 'Wolves';
+      } else if (home === 'Athletic Club') {
+        return team[0] === 'Ath Bilbao';
+      } else if (home === 'Club Atlético de Madrid') {
+        return team[0] === 'Ath Madrid';
+      } else if (home === 'Stade Rennais FC 1901') {
+        return team[0] === 'Rennes';
+      } else if (home === 'FC Bayern München') {
+        return team[0] === 'Bayern Munich';
+      } else if (home.includes(team[0])) {
         return team;
       } else if (
         home.includes(team[0].split(' ')[0]) &&
         home.includes(team[0].split(' ')[1])
       ) {
         return team;
-      } else if (home === 'Wolverhampton Wanderers FC') {
-        return team[0] === 'Wolves';
-      } else if (home === 'Athletic Club') {
-        return team[0] === 'Ath Bilbao';
       }
     });
     let awayTeam = dataTenser.find(team => {
-      console.log(team[0]);
-      console.log(away);
-      if (away.includes(team[0])) {
+      // console.log(team[0]);
+      // console.log(away);
+      if (away === 'Wolverhampton Wanderers FC') {
+        return team[0] === 'Wolves';
+      } else if (away === 'Athletic Club') {
+        return team[0] === 'Ath Bilbao';
+      } else if (away === 'FC Bayern München') {
+        return team[0] === 'Bayern Munich';
+      } else if (away === 'Club Atlético de Madrid') {
+        return team[0] === 'Ath Madrid';
+      } else if (away === 'Stade Rennais FC 1901') {
+        return team[0] === 'Rennes';
+      } else if (away.includes(team[0])) {
         return team;
       } else if (
         away.includes(team[0].split(' ')[0]) &&
         away.includes(team[0].split(' ')[1])
       ) {
         return team;
-      } else if (away === 'Wolverhampton Wanderers FC') {
-        return team[0] === 'Wolves';
-      } else if (away === 'Athletic Club') {
-        return team[0] === 'Ath Bilbao';
       }
     });
 
@@ -161,7 +188,7 @@ class Info extends Component {
       labels.push(labelList.indexOf(match.result));
     });
 
-    console.log(matchesDataArrNoRes);
+    // console.log(matchesDataArrNoRes);
 
     xs = tf.tensor3d(matchesDataArrNoRes);
     let labelsTensor = tf.tensor1d(labels, 'int32');
@@ -218,14 +245,12 @@ class Info extends Component {
             this.setState({ showGraph: false, training: false }),
           onBatchEnd: (num, logs) => {},
           onEpochEnd: (num, logs) => {
-            console.log('Epoch: ' + num);
-            console.log('Loss: ' + logs.loss);
+            // console.log('Epoch: ' + num);
+            // console.log('Loss: ' + logs.loss);
             tf.tidy(() => {
               let results = model.predict(xst.reshape([1, 36]));
 
               let index = results.dataSync();
-
-              let label = labelList[index];
               // xs.print();
               amount++;
               home += parseFloat(results.dataSync()[0]);
@@ -304,11 +329,15 @@ class Info extends Component {
     return (
       <Card style={{ height: 'auto', width: '100%' }}>
         <Card.Body>
-          <div className="card-main">
-            <Button variant="primary" onClick={() => train()}>
-              AI Predict
-            </Button>
-          </div>
+          {this.state.training ? (
+            <div style={{ fontSize: '1.3rem' }}>Training in progress..</div>
+          ) : (
+            <div className="card-main">
+              <Button variant="primary" onClick={() => train()}>
+                AI Predict
+              </Button>
+            </div>
+          )}
           {/* <P5Wrapper sketch={sketch} /> */}
           <Transition
             native
@@ -326,17 +355,12 @@ class Info extends Component {
               ))
             }
           </Transition>
-          {this.state.training ? (
-            <div>
-              <Spinner /> <Spinner /> <Spinner />
-            </div>
-          ) : (
-            <div>
-              <div> Home: {(this.state.average.homeAvg * 100).toFixed(2)}%</div>
-              <div> Draw: {(this.state.average.drawAvg * 100).toFixed(2)}%</div>
-              <div> Away: {(this.state.average.awayAvg * 100).toFixed(2)}%</div>
-            </div>
-          )}
+
+          <div>
+            <div> Home: {(this.state.average.homeAvg * 100).toFixed(2)}%</div>
+            <div> Draw: {(this.state.average.drawAvg * 100).toFixed(2)}%</div>
+            <div> Away: {(this.state.average.awayAvg * 100).toFixed(2)}%</div>
+          </div>
         </Card.Body>
       </Card>
     );

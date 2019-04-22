@@ -93,3 +93,19 @@
 
 .aside-item:nth-child(3) {
 }
+
+.standings-button {
+  font-size: 0.8rem;
+  padding: 0 2.5px;
+  background: none;
+  color: black;
+  border: none;
+  margin-bottom: 1px;
+  border: 1px solid black;
+}
+.standings-button:hover {
+  text-decoration: none;
+  background: #fdfd96;
+  color: black;
+  border: none;
+}

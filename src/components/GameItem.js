@@ -80,7 +80,9 @@ class GameItem extends Component {
             >
               <Link
                 to={`/team/${info.competition.id}/${home.name}`}
-                style={{ color: 'black' }}
+                style={{
+                  color: 'black'
+                }}
               >
                 {home.name} (
                 {home.elo === undefined ? (
