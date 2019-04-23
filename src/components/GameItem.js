@@ -30,6 +30,7 @@ class GameItem extends Component {
   // }
 
   render() {
+
     const { home, away, info } = this.props;
 
     const eloChange = (el1, el2, result) => {

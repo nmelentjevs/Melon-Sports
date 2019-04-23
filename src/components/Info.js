@@ -148,6 +148,7 @@ class Info extends Component {
       ) {
         return team;
       }
+      return null;
     });
     let awayTeam = dataTenser.find(team => {
       // console.log(team[0]);
@@ -170,6 +171,7 @@ class Info extends Component {
       ) {
         return team;
       }
+      return null;
     });
 
     const homeTeamTenser = homeTeam.filter((item, i) => i !== 0);
@@ -184,13 +186,16 @@ class Info extends Component {
         }
         if (team[0] === match.away) {
           let noName = team.filter((item, i) => i !== 0);
-          return (match.away = noName);
+          match.away = noName;
         }
+        return null;
       });
+      return null;
     });
     matchesDataArrResults.map(match => {
       matchesDataArrNoRes.push([match.home, match.away]);
       labels.push(labelList.indexOf(match.result));
+      return null;
     });
 
     // console.log(matchesDataArrNoRes);

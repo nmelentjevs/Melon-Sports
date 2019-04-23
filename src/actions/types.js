@@ -11,4 +11,5 @@ export const ADD_OR_DELETE_FAV = 'ADD_FAV';
 export const SET_FAV = 'SET_FAV';
 export const FILTER_LEAGUES = 'FILTER_LEAGUES';
 export const SET_ODDS = 'SET_ODDS';
-// export const GET_ERRORS = 'GET_ERRORS';
+export const STANDINGS_LOADING = 'STANDINGS_LOADING';
+export const SET_STANDINGS = 'SET_STANDINGS';

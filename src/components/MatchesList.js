@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 // Redux
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
-import { addFav, getOdds } from '../actions/dataActions';
+import { addFav, getOdds, getStandings } from '../actions/dataActions';
 
 import moment from 'moment';
 import ListGroup from 'react-bootstrap/ListGroup';
@@ -16,6 +16,7 @@ import { formatDate, parseDate } from 'react-day-picker/moment';
 
 import GameItem from './GameItem';
 import Button from 'react-bootstrap/Button';
+import Carousel from 'react-bootstrap/Carousel';
 
 class MatchesList extends Component {
   constructor(props) {
@@ -45,19 +46,18 @@ class MatchesList extends Component {
   };
 
   componentDidMount() {
-    this.setState({ eloMatches: this.props.matches });
-    this.props.getOdds();
+    const { matches, leagues, getOdds, getStandings } = this.props;
+    this.setState({ eloMatches: matches });
+    getOdds();
+    getStandings();
   }
 
   shouldComponentUpdate(nextProps, nextState) {
-    if (nextProps.matches === this.props.matches) {
-      return false;
-    } else {
-      return (
-        nextProps.eloLoading === false ||
-        nextProps.favourites !== this.props.favourites
-      );
-    }
+    return (
+      nextProps.eloLoading === false ||
+      (nextProps.favourites !== this.props.favourites &&
+        nextProps.matches !== this.props.matches)
+    );
   }
 
   addFav = id => {
@@ -256,7 +256,7 @@ class MatchesList extends Component {
                       className="matches"
                       style={{
                         display: 'grid',
-                        gridTemplateColumns: '565px auto',
+                        gridTemplateColumns: '600px auto',
                         gridGap: '5px'
                       }}
                     >
@@ -358,53 +358,97 @@ class MatchesList extends Component {
                         }}
                         className="aside-menu"
                       >
-                        <div className="aside-item" style={{}}>
-                          {leagues.league.name.name}
-                        </div>
-                        <div
-                          className="aside-item"
-                          style={{
-                            display: 'flex',
-                            flexDirection: 'column'
-                          }}
-                        >
-                          <div
-                            className="aside-item-name"
-                            style={{ marginTop: '10px' }}
-                          >
-                            {' '}
-                            <h5 style={{ fontSize: '13px' }}>
-                              {' '}
-                              Current Matchday{' '}
-                            </h5>
-                            <p style={{ fontSize: '50px' }}>
-                              {' '}
-                              {
-                                leagues.league.name.currentSeason
-                                  .currentMatchday
-                              }{' '}
-                            </p>
-                          </div>
-                        </div>
-                        <div
-                          className="aside-item"
-                          style={{
-                            display: 'flex',
-                            flexDirection: 'column',
-                            justifyContent: 'space-around'
-                          }}
-                        >
-                          <p style={{ marginTop: '15px' }}>
-                            {' '}
-                            {leagues.league.name.currentSeason.startDate}{' '}
-                          </p>
-                          <p>{leagues.league.name.currentSeason.endDate}</p>{' '}
-                        </div>
+                        <Carousel key={leagues.league.name.code}>
+                          <Carousel.Item>
+                            <div
+                              style={{
+                                display: 'flex',
+                                flexDirection: 'column'
+                              }}
+                            >
+                              <div style={{ marginTop: '10px' }}>
+                                <h5 style={{ marginTop: '10px' }}>
+                                  {leagues.league.name.name}
+                                </h5>{' '}
+                                <h5 style={{ fontSize: '13px' }}>
+                                  {' '}
+                                  Current Matchday{' '}
+                                </h5>
+                                <p style={{ fontSize: '50px' }}>
+                                  {' '}
+                                  {
+                                    leagues.league.name.currentSeason
+                                      .currentMatchday
+                                  }{' '}
+                                </p>
+                              </div>
+                            </div>
+                          </Carousel.Item>
+                          <Carousel.Item>
+                            <div
+                              style={{
+                                display: 'flex',
+                                flexDirection: 'column',
+                                justifyContent: 'space-between'
+                              }}
+                            >
+                              <div style={{ marginTop: '10px' }}>
+                                <h5 style={{ fontSize: '1.1rem' }}>
+                                  {' '}
+                                  Current Leader{' '}
+                                </h5>
+                                <div>
+                                  {this.props.table.map(item => {
+                                    if (item.id === leagues.league.name.id) {
+                                      return (
+                                        <div key={item.id + 1000}>
+                                          <div>
+                                            <span
+                                              style={{ fontSize: '1.3rem' }}
+                                            >
+                                              {item.table[0].team.name}{' '}
+                                            </span>
+                                          </div>
+                                          <div>
+                                            <img
+                                              src={item.table[0].team.crestUrl}
+                                              width="50px"
+                                              height="50px"
+                                              alt="Team Logo"
+                                            />
+                                          </div>
+                                          <div style={{ marginTop: '5px' }}>
+                                            <p>
+                                              With {item.table[0].points} out of{' '}
+                                              {item.table[0].playedGames * 3}
+                                            </p>
+                                            <p>
+                                              Record: {item.table[0].won}/
+                                              {item.table[0].draw}/
+                                              {item.table[0].lost}
+                                            </p>
+                                          </div>
+                                        </div>
+                                      );
+                                    }
+                                    return null;
+                                  })}
+                                </div>
+                              </div>
+                            </div>
+                          </Carousel.Item>
 
-                        <div className="aside-item" style={{}}>
-                          {' '}
-                          Something{' '}
-                        </div>
+                          <Carousel.Item>
+                            <div style={{ marginTop: '40px' }}>
+                              <h5 style={{ marginTop: '25px' }}>
+                                Read league news
+                              </h5>
+                              <Link to={`/news/:${leagues.league.name.name}`}>
+                                <Button>News</Button>
+                              </Link>
+                            </div>
+                          </Carousel.Item>
+                        </Carousel>
                       </div>
                     </div>
                   ) : null}
@@ -421,16 +465,18 @@ class MatchesList extends Component {
 MatchesList.propTypes = {
   leagues: PropTypes.array.isRequired,
   addFav: PropTypes.func.isRequired,
-  getOdds: PropTypes.func.isRequired
+  getOdds: PropTypes.func.isRequired,
+  getStandings: PropTypes.func.isRequired
 };
 
 const mapStateToProps = state => ({
   favourites: state.data.favourites,
   matches: state.data.matches,
+  table: state.data.table,
   errors: state.errors
 });
 
 export default connect(
   mapStateToProps,
-  { addFav, getOdds }
+  { addFav, getOdds, getStandings }
 )(MatchesList);

@@ -9,16 +9,20 @@ import {
   ADD_OR_DELETE_FAV,
   SET_FAV,
   FILTER_LEAGUES,
-  SET_ODDS
+  SET_ODDS,
+  SET_STANDINGS,
+  STANDINGS_LOADING
 } from '../actions/types';
 
 const initialState = {
   leagues: [],
   matches: [],
+  table: [],
   favourites: ['PL', 'FL1', 'BL1', 'SA', 'PD', 'CL'],
   leagueLoading: false,
   matchesLoading: true,
-  eloLoading: false
+  eloLoading: false,
+  standingLoading: false
 };
 
 export default function(state = initialState, action) {
@@ -34,6 +38,12 @@ export default function(state = initialState, action) {
         ...state,
         matches: action.payload,
         matchesLoading: false
+      };
+    case SET_STANDINGS:
+      return {
+        ...state,
+        table: [...state.table, action.payload],
+        standingLoading: false
       };
     case SET_ELO:
       return {
@@ -55,6 +65,11 @@ export default function(state = initialState, action) {
       return {
         ...state,
         eloLoading: true
+      };
+    case STANDINGS_LOADING:
+      return {
+        ...state,
+        standingLoading: true
       };
     case SET_FAV:
       return {

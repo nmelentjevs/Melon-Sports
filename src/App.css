@@ -87,11 +87,26 @@
 .aside-menu {
   display: grid;
   grid-gap: 5px;
-  grid-template-columns: 1fr 1fr;
-  max-height: 353px;
+  grid-template-rows: 1fr;
+  max-height: 175px;
 }
 
-.aside-item:nth-child(3) {
+.carousel-indicators {
+  display: none !important;
+}
+
+.carousel-inner {
+  height: 100%;
+}
+.carousel-item {
+  height: 100%;
+}
+
+.carousel-control-next {
+  display: none;
+}
+.carousel-control-prev {
+  display: none;
 }
 
 .standings-button {
