@@ -329,31 +329,31 @@ export const getOdds = () => dispatch => {
 };
 
 export const getStandings = () => dispatch => {
-  const leagueIDs = [2021, 2015, 2002, 2019, 2014];
-  const headers = {
-    'X-Auth-Token': keys.footballAPI
-  };
-  dispatch({
-    type: STANDINGS_LOADING
-  });
-  leagueIDs.forEach(id => {
-    axios
-      .get(
-        `https://cors-anywhere.herokuapp.com/http://api.football-data.org/v2/competitions/${id}/standings`,
-        {
-          headers
-        }
-      )
-      .then(res => {
-        dispatch({
-          type: SET_STANDINGS,
-          payload: { table: res.data.standings[0].table, id }
-        });
-      })
-      .catch(err => {
-        console.log(err);
-      });
-  });
+  // const leagueIDs = [2021, 2015, 2002, 2019, 2014];
+  // const headers = {
+  //   'X-Auth-Token': keys.footballAPI
+  // };
+  // dispatch({
+  //   type: STANDINGS_LOADING
+  // });
+  // leagueIDs.forEach(id => {
+  //   axios
+  //     .get(
+  //       `https://cors-anywhere.herokuapp.com/http://api.football-data.org/v2/competitions/${id}/standings`,
+  //       {
+  //         headers
+  //       }
+  //     )
+  //     .then(res => {
+  //       dispatch({
+  //         type: SET_STANDINGS,
+  //         payload: { table: res.data.standings[0].table, id }
+  //       });
+  //     })
+  //     .catch(err => {
+  //       console.log(err);
+  //     });
+  // });
 };
 
 export const setLeaguesLoading = () => {

@@ -84,10 +84,8 @@
   flex-direction: column;
   justify-content: space-evenly;
 }
+
 .aside-menu {
-  display: grid;
-  grid-gap: 5px;
-  grid-template-rows: 1fr;
   max-height: 175px;
 }
 
