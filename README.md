@@ -1,68 +1,70 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## PrintFul Quiz
 
-In the project directory, you can run:
+Football statistics for matches and teams and machine learning prediction for upcomming games. 
 
-### `npm start`
+## Code style
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+## Tech/framework used
 
-### `npm test`
+<b>Built with</b>
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [React](https://reactjs.org/)
+- [react-bootstrap](https://react-bootstrap.github.io/)
+- [TensorFlowJS](https://www.tensorflow.org/js)
+- [Recharts](http://recharts.org/en-US)
 
-### `npm run build`
+## Install
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    $ git clone https://github.com/nmelentjevs/melonsports.git
+    $ cd printfultest
+    $ npm install
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+## Start & watch
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    $ npm start
 
-### `npm run eject`
+## Simple build for production
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+    $ npm run build
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Provide step by step series of examples and explanations about how to get a development env running.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Examples
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+We have several examples [on the website](https://reactjs.org/). Here is the first one to get you started:
 
-## Learn More
+```jsx
+import React from 'react';
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+import Card from 'react-bootstrap/Card';
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+function Answer(props) {
+  return (
+    <Card onClick={() => props.submit()}>
+      <Card.Body style={{ alignContent: 'cemter', cursor: 'pointer' }}>
+        {props.answer}
+      </Card.Body>
+    </Card>
+  );
+}
 
-### Code Splitting
+export default Answer;
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+This example will render Answer Component into a container on the page.
 
-### Analyzing the Bundle Size
+## API Reference
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+Football Data API
+Read Docs at https://www.football-data.org/documentation/quickstart
 
-### Making a Progressive Web App
+Football elo API
+Link: http://clubelo.com/API
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+## License
 
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+MIT © [nmelentjevs]()
