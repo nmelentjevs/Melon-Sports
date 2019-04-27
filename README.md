@@ -21,7 +21,7 @@ Live on https://www.melonsports.herokuapp.com
 
 ## Install
 
-    $ git clone https://github.com/nmelentjevs/melonsports.git
+    $ git clone https://github.com/nmelentjevs/Melon-Sports.git
     $ cd printfultest
     $ npm install
 
