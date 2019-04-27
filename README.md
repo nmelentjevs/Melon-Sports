@@ -1,8 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## PrintFul Quiz
+## Melon Sports
 
-Football statistics for matches and teams and machine learning prediction for upcomming games. 
+Football statistics for matches and teams and machine learning prediction for upcomming games. Deployed on Heroku
+
+Live on https://www.melonsports.herokuapp.com
 
 ## Code style
 
