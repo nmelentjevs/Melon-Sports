@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Football statistics for matches and teams and machine learning prediction for upcomming games. Deployed on Heroku
 
-Live on https://www.melonsports.herokuapp.com
+Live on https://melonsports.herokuapp.com/
 
 ## Code style
 
